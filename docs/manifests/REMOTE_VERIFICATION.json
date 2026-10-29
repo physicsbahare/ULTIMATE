@@ -1,0 +1,26 @@
+{
+  "verified_date": "2026-10-29",
+  "repository": "https://github.com/physicsbahare/ULTIMATE",
+  "origin": "https://github.com/physicsbahare/ULTIMATE.git",
+  "local_branch": "main",
+  "archive_commit": "160f0bad5cae1ddfea8d7690904be6afbe8c0a7b",
+  "archive_tree": "580e51ac898712a635b478f38e0206be0d605965",
+  "archive_files": 3389,
+  "archive_bytes": 571329552,
+  "largest_blob_bytes": 24063245,
+  "remote_refs": [],
+  "remote_main_exists": false,
+  "push_status": "BLOCKED_AUTHENTICATION",
+  "uploaded_by_this_session": 0,
+  "https_error": "fatal: could not read Username for 'https://github.com': terminal prompts disabled",
+  "ssh_probe_error": "No ECDSA host key is known for github.com and you have requested strict checking. Host key verification failed.",
+  "ssh_identity_state": "No SSH authentication agent connection; inspected .ssh contains config and known_hosts only, no key files. No private key or credential content read.",
+  "github_app_permissions": {
+    "pull": true,
+    "push": true,
+    "admin": true
+  },
+  "explanation": "Connected GitHub app permissions do not configure native Git authentication. Connector provides individual Git object/file calls, not a native bulk Git-pack transport/credential bridge for this 571 MB archive. No partial replacement upload or unrelated remote commit created.",
+  "force_push": false,
+  "scientific_execution_performed": false
+}

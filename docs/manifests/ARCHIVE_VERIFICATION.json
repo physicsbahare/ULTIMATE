@@ -6,10 +6,10 @@
   "original_hashes_checked": 3382,
   "missing_excluded_expected_in_clone": 0,
   "eligible_originals": 3341,
-  "allowlisted_files": 3389,
-  "text_files_security_screened": 2573,
+  "allowlisted_files": 3390,
+  "text_files_security_screened": 2574,
   "secret_pattern_findings": [],
-  "links_checked": 4013,
+  "links_checked": 4016,
   "historical_missing_links": [
     {
       "document": "analysis_results/screen_test_20261026/sources/README_JWST_artificial_redshifting.md",
@@ -45,7 +45,16 @@
   "canonical_freeze_sha256": "587aab56d39e6b29ad47f381c4b1440c8dd28eb52811ebc4ae3842b6fc220ce4",
   "saved_headline_table_checks": "pass",
   "git": {
-    "status": "No commit yet; precommit inspection only"
+    "head": "160f0bad5cae1ddfea8d7690904be6afbe8c0a7b",
+    "branch": "main",
+    "remote": "https://github.com/physicsbahare/ULTIMATE.git",
+    "tracked_files": 3390,
+    "changed_tracked_files": [
+      "docs/GITHUB_SYNC_REPORT.md",
+      "docs/manifests/ARCHIVE_VERIFICATION.json",
+      "docs/manifests/PUBLISHED_FILES.csv",
+      "docs/manifests/REMOTE_VERIFICATION.json"
+    ]
   },
   "errors": [],
   "status": "pass"
