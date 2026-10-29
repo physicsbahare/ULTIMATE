@@ -1,0 +1,6 @@
+{
+  "physical_null_gate_passed": false,
+  "criteria": "optimizer success and local posterior predictive p>=.01 on both prespecified native seeing nulls; effective-dof chi-square tails descriptive only",
+  "larger_evaluation_permitted": false,
+  "elapsed_seconds": 57.33021545410156
+}

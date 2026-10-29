@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "identical_feature_target_operators": [
+    "geometry",
+    "aperture_policy",
+    "labels_for",
+    "FeaturePlan",
+    "process"
+  ],
+  "difference": "Canonical driver/assembly gained final-only isolation and freeze checks; feature/target operators unchanged",
+  "second_final_evaluation_performed": false
+}

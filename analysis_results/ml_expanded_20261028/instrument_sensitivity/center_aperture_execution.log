@@ -1,0 +1,119 @@
+Center/aperture stress 13 development
+Center/aperture stress 63883 development
+Center/aperture stress 117272 development
+Center/aperture stress 167418 development
+Center/aperture stress 184937 development
+Center/aperture stress 294866 development
+Center/aperture stress 584286 validation
+Center/aperture stress 117253 validation
+Center/aperture stress 585080 validation
+Center/aperture stress 35 validation
+Center/aperture stress 584511 validation
+Center/aperture stress 96783 validation
+Center/aperture stress 536147 validation
+Center/aperture stress 583256 validation
+Center/aperture stress 459557 validation
+Center/aperture stress 441709 validation
+Center/aperture stress 220603 validation
+Center/aperture stress 499704 validation
+Center/aperture stress 379804 validation
+Center/aperture stress 564268 validation
+{
+  "passed": true,
+  "n_galaxies": 20,
+  "n_cases": 7,
+  "n_targets": 8,
+  "n_rows": 1120,
+  "n_final_test_rows": 0,
+  "nonfinite_target_values": 0,
+  "saved_baseline_identity": [
+    {
+      "subhalo_id": 13,
+      "max_absolute_difference": 8.326672684688674e-17
+    },
+    {
+      "subhalo_id": 63883,
+      "max_absolute_difference": 8.326672684688674e-17
+    },
+    {
+      "subhalo_id": 117272,
+      "max_absolute_difference": 8.326672684688674e-17
+    },
+    {
+      "subhalo_id": 167418,
+      "max_absolute_difference": 9.020562075079397e-17
+    },
+    {
+      "subhalo_id": 184937,
+      "max_absolute_difference": 9.540979117872439e-17
+    },
+    {
+      "subhalo_id": 294866,
+      "max_absolute_difference": 5.551115123125783e-17
+    },
+    {
+      "subhalo_id": 584286,
+      "max_absolute_difference": 6.938893903907228e-17
+    },
+    {
+      "subhalo_id": 117253,
+      "max_absolute_difference": 9.367506770274758e-17
+    },
+    {
+      "subhalo_id": 585080,
+      "max_absolute_difference": 8.326672684688674e-17
+    },
+    {
+      "subhalo_id": 35,
+      "max_absolute_difference": 9.367506770274758e-17
+    },
+    {
+      "subhalo_id": 584511,
+      "max_absolute_difference": 1.1102230246251565e-16
+    },
+    {
+      "subhalo_id": 96783,
+      "max_absolute_difference": 5.551115123125783e-17
+    },
+    {
+      "subhalo_id": 536147,
+      "max_absolute_difference": 6.938893903907228e-17
+    },
+    {
+      "subhalo_id": 583256,
+      "max_absolute_difference": 1.1102230246251565e-16
+    },
+    {
+      "subhalo_id": 459557,
+      "max_absolute_difference": 8.326672684688674e-17
+    },
+    {
+      "subhalo_id": 441709,
+      "max_absolute_difference": 2.220446049250313e-16
+    },
+    {
+      "subhalo_id": 220603,
+      "max_absolute_difference": 8.326672684688674e-17
+    },
+    {
+      "subhalo_id": 499704,
+      "max_absolute_difference": 8.326672684688674e-17
+    },
+    {
+      "subhalo_id": 379804,
+      "max_absolute_difference": 5.551115123125783e-17
+    },
+    {
+      "subhalo_id": 564268,
+      "max_absolute_difference": 2.220446049250313e-16
+    }
+  ],
+  "max_direct_geometry_target_difference": 1.7763568394002505e-15,
+  "max_pair_aperture_flux_relative_error": 0.0,
+  "minimum_edge_margin_after_smoothing_kpc": 7.239394704306031,
+  "radius_cap_galaxies": 0,
+  "units": "A and C in magnitudes; R50 in kpc; attenuation IQR in magnitudes",
+  "labels": "Frozen labels_for eight targets; clear/dusty paired with identical shift and aperture; no model updates",
+  "center_convention": "Positive center x/y means aperture moves toward positive original coordinate; images translated oppositely by exactly five native pixels",
+  "limitations": "Native noise-free source labels only, O1 only, selected20 not population; center fixed perturbation not fitted centering uncertainty; radius changes alter enclosed light and attenuation-pixel population; no joint center/radius perturbations, no PSF/noise/feature/model rerun"
+}

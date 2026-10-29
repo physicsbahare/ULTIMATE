@@ -1,0 +1,45 @@
+EEEEE
+======================================================================
+ERROR: test_evidence_identity (__main__.PhysicsTests.test_evidence_identity)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/bahareh/ULTIMATE/analysis_results/screen_test_20261026/test_physics.py", line 33, in test_evidence_identity
+    from screen_inference import hierarchical_screen_evidence
+ModuleNotFoundError: No module named 'screen_inference'
+
+======================================================================
+ERROR: test_flat_spectrum_electrons (__main__.PhysicsTests.test_flat_spectrum_electrons)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/bahareh/ULTIMATE/analysis_results/screen_test_20261026/test_physics.py", line 16, in test_flat_spectrum_electrons
+    from forward_physics import photon_rate_jy
+ModuleNotFoundError: No module named 'forward_physics'
+
+======================================================================
+ERROR: test_no_spectral_extrapolation (__main__.PhysicsTests.test_no_spectral_extrapolation)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/bahareh/ULTIMATE/analysis_results/screen_test_20261026/test_physics.py", line 22, in test_no_spectral_extrapolation
+    from forward_physics import interpolate_sed
+ModuleNotFoundError: No module named 'forward_physics'
+
+======================================================================
+ERROR: test_split_noise (__main__.PhysicsTests.test_split_noise)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/bahareh/ULTIMATE/analysis_results/screen_test_20261026/test_physics.py", line 25, in test_split_noise
+    from forward_physics import draw_exposures
+ModuleNotFoundError: No module named 'forward_physics'
+
+======================================================================
+ERROR: test_transfer_and_flux (__main__.PhysicsTests.test_transfer_and_flux)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/bahareh/ULTIMATE/analysis_results/screen_test_20261026/test_physics.py", line 5, in test_transfer_and_flux
+    from forward_physics import overlap_flux,cosmology,specific_intensity_transfer
+ModuleNotFoundError: No module named 'forward_physics'
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.001s
+
+FAILED (errors=5)

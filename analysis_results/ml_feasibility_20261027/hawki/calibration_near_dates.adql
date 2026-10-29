@@ -1,0 +1,1 @@
+SELECT TOP 1000 * FROM dbo.raw WHERE instrument='HAWKI' AND dp_cat='CALIB' AND date_obs BETWEEN '2018-01-01' AND '2018-01-08'

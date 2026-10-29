@@ -1,0 +1,524 @@
+{
+  "selection_data": "development only; five fixed galaxy folds",
+  "criterion": "Mean galaxy MAE over seeing_NIR and GLAO_NIR developmentCV",
+  "calibration_partition": "validation; not used for feature/hyperparameter selection",
+  "final_science_opened": false,
+  "targets": [
+    "A_g",
+    "A_Ks",
+    "A_g_p50_1kpc",
+    "A_g_IQR_1kpc",
+    "dR50_Ks",
+    "dC_Ks",
+    "dR50_g",
+    "dC_g"
+  ],
+  "selected": [
+    {
+      "target": "A_Ks",
+      "family": "summary_ridge",
+      "config": "summary_ridge_10",
+      "value": 10,
+      "MAE": 0.01226523342650328
+    },
+    {
+      "target": "A_Ks",
+      "family": "spatial_ridge",
+      "config": "spatial_ridge_10",
+      "value": 10,
+      "MAE": 0.01331615339798694
+    },
+    {
+      "target": "A_Ks",
+      "family": "phot_ridge",
+      "config": "phot_ridge_100",
+      "value": 100,
+      "MAE": 0.014050880185344058
+    },
+    {
+      "target": "A_Ks",
+      "family": "spatial_boost",
+      "config": "spatial_boost_3",
+      "value": 3,
+      "MAE": 0.014880380939525316
+    },
+    {
+      "target": "A_Ks",
+      "family": "summary_forest",
+      "config": "summary_forest_8",
+      "value": 8,
+      "MAE": 0.017493954859448463
+    },
+    {
+      "target": "A_Ks",
+      "family": "spatial_forest",
+      "config": "spatial_forest_8",
+      "value": 8,
+      "MAE": 0.01804111454901819
+    },
+    {
+      "target": "A_g_p50_1kpc",
+      "family": "spatial_forest",
+      "config": "spatial_forest_8",
+      "value": 8,
+      "MAE": 0.028710020460432077
+    },
+    {
+      "target": "A_g_p50_1kpc",
+      "family": "summary_forest",
+      "config": "summary_forest_8",
+      "value": 8,
+      "MAE": 0.02937833848725603
+    },
+    {
+      "target": "A_g_p50_1kpc",
+      "family": "spatial_ridge",
+      "config": "spatial_ridge_100",
+      "value": 100,
+      "MAE": 0.029679190717621318
+    },
+    {
+      "target": "A_g_p50_1kpc",
+      "family": "spatial_boost",
+      "config": "spatial_boost_3",
+      "value": 3,
+      "MAE": 0.03022510357888672
+    },
+    {
+      "target": "A_g_p50_1kpc",
+      "family": "phot_ridge",
+      "config": "phot_ridge_100",
+      "value": 100,
+      "MAE": 0.03345855276099655
+    },
+    {
+      "target": "A_g_p50_1kpc",
+      "family": "median",
+      "config": "median_0",
+      "value": 0,
+      "MAE": 0.0334662464975346
+    },
+    {
+      "target": "A_g_p50_1kpc",
+      "family": "screen",
+      "config": "screen_0",
+      "value": 0,
+      "MAE": 0.0334662464975346
+    },
+    {
+      "target": "A_g_p50_1kpc",
+      "family": "summary_ridge",
+      "config": "summary_ridge_100",
+      "value": 100,
+      "MAE": 0.03547815851992647
+    },
+    {
+      "target": "A_Ks",
+      "family": "median",
+      "config": "median_0",
+      "value": 0,
+      "MAE": 0.049949929452391184
+    },
+    {
+      "target": "dR50_Ks",
+      "family": "summary_ridge",
+      "config": "summary_ridge_1",
+      "value": 1,
+      "MAE": 0.059569598152001385
+    },
+    {
+      "target": "A_g",
+      "family": "summary_ridge",
+      "config": "summary_ridge_1",
+      "value": 1,
+      "MAE": 0.06443687303456153
+    },
+    {
+      "target": "dR50_Ks",
+      "family": "spatial_ridge",
+      "config": "spatial_ridge_1",
+      "value": 1,
+      "MAE": 0.06686999615277109
+    },
+    {
+      "target": "A_g",
+      "family": "spatial_ridge",
+      "config": "spatial_ridge_1",
+      "value": 1,
+      "MAE": 0.0671092163708274
+    },
+    {
+      "target": "A_g_IQR_1kpc",
+      "family": "spatial_boost",
+      "config": "spatial_boost_3",
+      "value": 3,
+      "MAE": 0.06822620473904872
+    },
+    {
+      "target": "dR50_Ks",
+      "family": "spatial_boost",
+      "config": "spatial_boost_3",
+      "value": 3,
+      "MAE": 0.0702386518379757
+    },
+    {
+      "target": "A_g_IQR_1kpc",
+      "family": "spatial_forest",
+      "config": "spatial_forest_8",
+      "value": 8,
+      "MAE": 0.07258751843207539
+    },
+    {
+      "target": "dC_Ks",
+      "family": "spatial_ridge",
+      "config": "spatial_ridge_1",
+      "value": 1,
+      "MAE": 0.07304148599442985
+    },
+    {
+      "target": "dR50_Ks",
+      "family": "summary_forest",
+      "config": "summary_forest_8",
+      "value": 8,
+      "MAE": 0.07376754311949371
+    },
+    {
+      "target": "A_g_IQR_1kpc",
+      "family": "summary_forest",
+      "config": "summary_forest_8",
+      "value": 8,
+      "MAE": 0.07384480652070127
+    },
+    {
+      "target": "A_g",
+      "family": "spatial_boost",
+      "config": "spatial_boost_3",
+      "value": 3,
+      "MAE": 0.07407220315036488
+    },
+    {
+      "target": "A_g",
+      "family": "phot_ridge",
+      "config": "phot_ridge_1",
+      "value": 1,
+      "MAE": 0.07464451555809742
+    },
+    {
+      "target": "A_g_IQR_1kpc",
+      "family": "summary_ridge",
+      "config": "summary_ridge_100",
+      "value": 100,
+      "MAE": 0.07599553340297935
+    },
+    {
+      "target": "dC_Ks",
+      "family": "summary_ridge",
+      "config": "summary_ridge_10",
+      "value": 10,
+      "MAE": 0.07694519825684201
+    },
+    {
+      "target": "dR50_Ks",
+      "family": "spatial_forest",
+      "config": "spatial_forest_8",
+      "value": 8,
+      "MAE": 0.078412466688207
+    },
+    {
+      "target": "A_g_IQR_1kpc",
+      "family": "spatial_ridge",
+      "config": "spatial_ridge_100",
+      "value": 100,
+      "MAE": 0.0788837586919188
+    },
+    {
+      "target": "dC_Ks",
+      "family": "summary_forest",
+      "config": "summary_forest_8",
+      "value": 8,
+      "MAE": 0.08964234415390712
+    },
+    {
+      "target": "dR50_Ks",
+      "family": "phot_ridge",
+      "config": "phot_ridge_100",
+      "value": 100,
+      "MAE": 0.08975592816103087
+    },
+    {
+      "target": "dC_Ks",
+      "family": "spatial_boost",
+      "config": "spatial_boost_3",
+      "value": 3,
+      "MAE": 0.09137280214012916
+    },
+    {
+      "target": "dC_Ks",
+      "family": "spatial_forest",
+      "config": "spatial_forest_8",
+      "value": 8,
+      "MAE": 0.09316274397471308
+    },
+    {
+      "target": "A_Ks",
+      "family": "screen",
+      "config": "screen_0",
+      "value": 0,
+      "MAE": 0.09492238487958944
+    },
+    {
+      "target": "A_g",
+      "family": "summary_forest",
+      "config": "summary_forest_8",
+      "value": 8,
+      "MAE": 0.09741728765159695
+    },
+    {
+      "target": "dC_Ks",
+      "family": "phot_ridge",
+      "config": "phot_ridge_100",
+      "value": 100,
+      "MAE": 0.09791506644701711
+    },
+    {
+      "target": "A_g",
+      "family": "spatial_forest",
+      "config": "spatial_forest_8",
+      "value": 8,
+      "MAE": 0.09930892372004743
+    },
+    {
+      "target": "A_g_IQR_1kpc",
+      "family": "phot_ridge",
+      "config": "phot_ridge_1",
+      "value": 1,
+      "MAE": 0.1029945036503915
+    },
+    {
+      "target": "A_g_IQR_1kpc",
+      "family": "median",
+      "config": "median_0",
+      "value": 0,
+      "MAE": 0.11704464984411787
+    },
+    {
+      "target": "A_g_IQR_1kpc",
+      "family": "screen",
+      "config": "screen_0",
+      "value": 0,
+      "MAE": 0.11704464984411787
+    },
+    {
+      "target": "dC_Ks",
+      "family": "median",
+      "config": "median_0",
+      "value": 0,
+      "MAE": 0.14422789138179984
+    },
+    {
+      "target": "dC_Ks",
+      "family": "screen",
+      "config": "screen_0",
+      "value": 0,
+      "MAE": 0.14422789138179984
+    },
+    {
+      "target": "dR50_Ks",
+      "family": "median",
+      "config": "median_0",
+      "value": 0,
+      "MAE": 0.14556482053651137
+    },
+    {
+      "target": "dR50_Ks",
+      "family": "screen",
+      "config": "screen_0",
+      "value": 0,
+      "MAE": 0.14556482053651137
+    },
+    {
+      "target": "A_g",
+      "family": "median",
+      "config": "median_0",
+      "value": 0,
+      "MAE": 0.24496772690885216
+    },
+    {
+      "target": "dR50_g",
+      "family": "spatial_ridge",
+      "config": "spatial_ridge_1",
+      "value": 1,
+      "MAE": 0.2506129753981169
+    },
+    {
+      "target": "dC_g",
+      "family": "spatial_boost",
+      "config": "spatial_boost_2",
+      "value": 2,
+      "MAE": 0.25319106839412575
+    },
+    {
+      "target": "dR50_g",
+      "family": "spatial_boost",
+      "config": "spatial_boost_3",
+      "value": 3,
+      "MAE": 0.2597969355723561
+    },
+    {
+      "target": "dR50_g",
+      "family": "summary_ridge",
+      "config": "summary_ridge_1",
+      "value": 1,
+      "MAE": 0.26351475737754154
+    },
+    {
+      "target": "dC_g",
+      "family": "summary_ridge",
+      "config": "summary_ridge_100",
+      "value": 100,
+      "MAE": 0.2655106147519416
+    },
+    {
+      "target": "dC_g",
+      "family": "spatial_ridge",
+      "config": "spatial_ridge_100",
+      "value": 100,
+      "MAE": 0.2672198180298439
+    },
+    {
+      "target": "dC_g",
+      "family": "summary_forest",
+      "config": "summary_forest_8",
+      "value": 8,
+      "MAE": 0.27831391617265155
+    },
+    {
+      "target": "dC_g",
+      "family": "spatial_forest",
+      "config": "spatial_forest_8",
+      "value": 8,
+      "MAE": 0.29235488337807936
+    },
+    {
+      "target": "dR50_g",
+      "family": "summary_forest",
+      "config": "summary_forest_8",
+      "value": 8,
+      "MAE": 0.29284187066458656
+    },
+    {
+      "target": "dC_g",
+      "family": "phot_ridge",
+      "config": "phot_ridge_100",
+      "value": 100,
+      "MAE": 0.2994597422124889
+    },
+    {
+      "target": "dR50_g",
+      "family": "spatial_forest",
+      "config": "spatial_forest_8",
+      "value": 8,
+      "MAE": 0.30599599086391976
+    },
+    {
+      "target": "dR50_g",
+      "family": "phot_ridge",
+      "config": "phot_ridge_100",
+      "value": 100,
+      "MAE": 0.3267725819350538
+    },
+    {
+      "target": "A_g",
+      "family": "screen",
+      "config": "screen_0",
+      "value": 0,
+      "MAE": 0.39900948281724524
+    },
+    {
+      "target": "dC_g",
+      "family": "median",
+      "config": "median_0",
+      "value": 0,
+      "MAE": 0.48368218927696116
+    },
+    {
+      "target": "dC_g",
+      "family": "screen",
+      "config": "screen_0",
+      "value": 0,
+      "MAE": 0.48368218927696116
+    },
+    {
+      "target": "dR50_g",
+      "family": "median",
+      "config": "median_0",
+      "value": 0,
+      "MAE": 0.5578637589946429
+    },
+    {
+      "target": "dR50_g",
+      "family": "screen",
+      "config": "screen_0",
+      "value": 0,
+      "MAE": 0.5578637589946429
+    }
+  ],
+  "recommended": [
+    {
+      "target": "A_Ks",
+      "family": "summary_ridge",
+      "config": "summary_ridge_10",
+      "value": 10,
+      "MAE": 0.01226523342650328
+    },
+    {
+      "target": "A_g_p50_1kpc",
+      "family": "spatial_forest",
+      "config": "spatial_forest_8",
+      "value": 8,
+      "MAE": 0.028710020460432077
+    },
+    {
+      "target": "dR50_Ks",
+      "family": "summary_ridge",
+      "config": "summary_ridge_1",
+      "value": 1,
+      "MAE": 0.059569598152001385
+    },
+    {
+      "target": "A_g",
+      "family": "summary_ridge",
+      "config": "summary_ridge_1",
+      "value": 1,
+      "MAE": 0.06443687303456153
+    },
+    {
+      "target": "A_g_IQR_1kpc",
+      "family": "spatial_boost",
+      "config": "spatial_boost_3",
+      "value": 3,
+      "MAE": 0.06822620473904872
+    },
+    {
+      "target": "dC_Ks",
+      "family": "spatial_ridge",
+      "config": "spatial_ridge_1",
+      "value": 1,
+      "MAE": 0.07304148599442985
+    },
+    {
+      "target": "dR50_g",
+      "family": "spatial_ridge",
+      "config": "spatial_ridge_1",
+      "value": 1,
+      "MAE": 0.2506129753981169
+    },
+    {
+      "target": "dC_g",
+      "family": "spatial_boost",
+      "config": "spatial_boost_2",
+      "value": 2,
+      "MAE": 0.25319106839412575
+    }
+  ]
+}

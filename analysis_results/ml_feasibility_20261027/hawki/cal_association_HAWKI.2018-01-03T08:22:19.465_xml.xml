@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<association category="SCIENCE_IMG" certified="true" complete="true"
+    mode="Raw2Master" type="main">
+    <mainFiles>
+        <file category="OBJECT" name="HAWKI.2018-01-03T08:22:19.465"/>
+        <file category="OBJECT" name="HAWKI.2018-01-03T08:23:49.797"/>
+        <file category="OBJECT" name="HAWKI.2018-01-03T08:25:16.602"/>
+        <file category="OBJECT" name="HAWKI.2018-01-03T08:28:01.919"/>
+        <file category="OBJECT" name="HAWKI.2018-01-03T08:29:28.736"/>
+        <file category="OBJECT" name="HAWKI.2018-01-03T08:30:59.055"/>
+        <file category="OBJECT" name="HAWKI.2018-01-03T08:32:29.380"/>
+        <file category="OBJECT" name="HAWKI.2018-01-03T08:33:59.699"/>
+    </mainFiles>
+    <messages/>
+    <associatedFiles>
+        <association category="BASIC_CALIBRATED_STD" certified="true"
+            complete="true" match="calib_plan" type="auxiliary">
+            <mainFiles>
+                <file category="BASIC_CALIBRATED_STD" name="M.HAWKI.2018-01-08T09:31:09.080"/>
+                <file category="BASIC_CALIBRATED_STD" name="M.HAWKI.2018-01-08T09:31:14.246"/>
+                <file category="BASIC_CALIBRATED_STD" name="M.HAWKI.2018-01-08T09:31:19.306"/>
+            </mainFiles>
+            <messages/>
+            <associatedFiles/>
+        </association>
+        <association category="BASIC_CAT_STD" certified="true"
+            complete="true" match="calib_plan" type="auxiliary">
+            <mainFiles>
+                <file category="BASIC_CAT_STD" name="M.HAWKI.2018-01-08T09:31:51.163"/>
+                <file category="BASIC_CAT_STD" name="M.HAWKI.2018-01-08T09:31:54.176"/>
+                <file category="BASIC_CAT_STD" name="M.HAWKI.2018-01-08T09:31:57.346"/>
+            </mainFiles>
+            <messages/>
+            <associatedFiles/>
+        </association>
+        <association category="BASIC_VAR_MAP" certified="true"
+            complete="true" match="calib_plan" type="auxiliary">
+            <mainFiles>
+                <file category="BASIC_VAR_MAP" name="M.HAWKI.2018-01-08T09:32:18.896"/>
+                <file category="BASIC_VAR_MAP" name="M.HAWKI.2018-01-08T09:32:24.653"/>
+                <file category="BASIC_VAR_MAP" name="M.HAWKI.2018-01-08T09:32:30.703"/>
+            </mainFiles>
+            <messages/>
+            <associatedFiles/>
+        </association>
+        <association category="MASTER_2MASS_CATALOGUE_ASTROM"
+            certified="true" complete="true" match="N/A" type="main">
+            <mainFiles>
+                <file category="MASTER_2MASS_CATALOGUE_ASTROM" name="M.HAWKI.2017-01-13T09:32:37.270"/>
+            </mainFiles>
+            <messages/>
+            <associatedFiles/>
+        </association>
+        <association category="MASTER_2MASS_CATALOGUE_PHOTOM"
+            certified="true" complete="true" match="N/A" type="main">
+            <mainFiles>
+                <file category="MASTER_2MASS_CATALOGUE_PHOTOM" name="M.HAWKI.2017-01-13T09:32:04.353"/>
+            </mainFiles>
+            <messages/>
+            <associatedFiles/>
+        </association>
+        <association category="MASTER_CONF" certified="true"
+            complete="true" match="calib_plan" type="main">
+            <mainFiles>
+                <file category="MASTER_CONF" name="M.HAWKI.2017-12-29T09:07:52.936"/>
+            </mainFiles>
+            <messages/>
+            <associatedFiles/>
+        </association>
+        <association category="MASTER_DARK" certified="true"
+            complete="true" match="extended" type="main">
+            <mainFiles>
+                <file category="MASTER_DARK" name="M.HAWKI.2018-01-08T15:04:28.293"/>
+            </mainFiles>
+            <messages/>
+            <associatedFiles/>
+        </association>
+        <association category="MASTER_READGAIN" certified="true"
+            complete="true" match="N/A" type="main">
+            <mainFiles>
+                <file category="MASTER_READGAIN" name="M.HAWKI.2022-05-17T08:31:38.900"/>
+            </mainFiles>
+            <messages/>
+            <associatedFiles/>
+        </association>
+        <association category="MASTER_TWILIGHT_FLAT" certified="true"
+            complete="true" match="calib_plan" type="main">
+            <mainFiles>
+                <file category="MASTER_TWILIGHT_FLAT" name="M.HAWKI.2017-12-29T09:07:37.606"/>
+            </mainFiles>
+            <messages/>
+            <associatedFiles/>
+        </association>
+        <association category="MATCHSTD_PHOTOM" certified="true"
+            complete="true" match="calib_plan" type="auxiliary">
+            <mainFiles>
+                <file category="MATCHSTD_PHOTOM" name="M.HAWKI.2018-01-08T09:31:24.326"/>
+                <file category="MATCHSTD_PHOTOM" name="M.HAWKI.2018-01-08T09:31:27.253"/>
+                <file category="MATCHSTD_PHOTOM" name="M.HAWKI.2018-01-08T09:31:30.140"/>
+            </mainFiles>
+            <messages/>
+            <associatedFiles/>
+        </association>
+        <association category="MEAN_SKY" certified="true"
+            complete="true" match="calib_plan" type="auxiliary">
+            <mainFiles>
+                <file category="MEAN_SKY" name="M.HAWKI.2018-01-08T09:31:33.083"/>
+                <file category="MEAN_SKY" name="M.HAWKI.2018-01-08T09:31:37.640"/>
+                <file category="MEAN_SKY" name="M.HAWKI.2018-01-08T09:31:44.990"/>
+            </mainFiles>
+            <messages/>
+            <associatedFiles/>
+        </association>
+        <association category="MEAN_SKY_VAR" certified="true"
+            complete="true" match="calib_plan" type="auxiliary">
+            <mainFiles>
+                <file category="MEAN_SKY_VAR" name="M.HAWKI.2018-01-08T09:32:00.313"/>
+                <file category="MEAN_SKY_VAR" name="M.HAWKI.2018-01-08T09:32:04.810"/>
+                <file category="MEAN_SKY_VAR" name="M.HAWKI.2018-01-08T09:32:11.610"/>
+            </mainFiles>
+            <messages/>
+            <associatedFiles/>
+        </association>
+        <association category="PHOTCAL_TAB" certified="true"
+            complete="true" match="N/A" type="main">
+            <mainFiles>
+                <file category="PHOTCAL_TAB" name="M.HAWKI.2017-01-13T09:32:55.220"/>
+            </mainFiles>
+            <messages/>
+            <associatedFiles/>
+        </association>
+        <association category="SCHLEGEL_MAP_NORTH" certified="true"
+            complete="true" match="N/A" type="main">
+            <mainFiles>
+                <file category="SCHLEGEL_MAP_NORTH" name="M.HAWKI.2017-01-13T09:33:14.736"/>
+            </mainFiles>
+            <messages/>
+            <associatedFiles/>
+        </association>
+        <association category="SCHLEGEL_MAP_SOUTH" certified="true"
+            complete="true" match="N/A" type="main">
+            <mainFiles>
+                <file category="SCHLEGEL_MAP_SOUTH" name="M.HAWKI.2017-01-13T09:33:41.393"/>
+            </mainFiles>
+            <messages/>
+            <associatedFiles/>
+        </association>
+    </associatedFiles>
+</association>

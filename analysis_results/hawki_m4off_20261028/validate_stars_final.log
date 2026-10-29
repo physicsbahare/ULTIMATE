@@ -1,0 +1,13 @@
+    field  primary  gaia_offset_RAcosDec_arcsec  gaia_offset_Dec_arcsec
+pawprint1      159                     0.279822                0.368097
+pawprint2      121                     0.363328                0.652320
+pawprint3      166                     0.152696                0.333885
+pawprint4      171                    -0.073633                0.211221
+    tile0      356                     0.235231                0.416254
+Matched rows 276 unique stars 244
+field_pawprint
+pawprint1    87
+pawprint2    47
+pawprint3    62
+pawprint4    80
+dtype: int64

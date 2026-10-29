@@ -1,0 +1,33 @@
+{
+  "python": "3.12.15 (main, Oct 13 2026, 16:52:04) [GCC 15.3.0]",
+  "executable": "/home/bahareh/miniforge3/envs/phd/bin/python",
+  "versions": {
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "astropy": "8.0.2",
+    "pandas": "3.0.6",
+    "matplotlib": "3.11.2",
+    "nbformat": "5.11.1",
+    "nbclient": "0.11.0"
+  },
+  "code_sha256": {
+    "presentation.py": "0fdba5a45d6450d29fd7a6e5fcccdd626c801c3ee35b32cb60be2f4d5a0bb5b2",
+    "secondary_analysis.py": "f6e2807b900b2b3f98b8b0be4482b77eab2777104cb421162d9d46c6d60852fc",
+    "boundary_sensitivity.py": "352e14bad6ec47a54c87a4543fe71fd68ff44372f696b4b997a57593f55f3a0e",
+    "validation_checks.py": "6db2cbe6e2537cc1bb1fa7a8b37ab971a1d8292f345d4c514a46a6cbaa6a2386",
+    "provenance.py": "8168192af236845bb13f1e39c9cb6198e688055e348c5a49a9f4cc9bf809a6e2",
+    "depth_threshold_diagnostic.py": "c29ef8b3a718a637a8101efab7b2f0b4b6d81dfece87e3d05ba5f7ce85a412be",
+    "execute_notebook.py": "8df608e4df1fdd68e601a20649c934313e7b303d25b5a4b929977893da2751d1",
+    "pilot.py": "7517ac55700e691ca9db463327dc1f25ac30293a274bf66b9ef64ade891d5428",
+    "build_notebook.py": "72b1d9815c4836b9eebcd51cb64306ca29779080961362f9b84ca286ef13bd0a",
+    "validate_delivery.py": "331d0fa0e5fa2df622b22de89c1138862e7d8f060670be20195e6a95a0b52933"
+  },
+  "previous_artifacts_unchanged": 166,
+  "science_scope": "observable structure/morphology; no dust-geometry inference",
+  "random_seed_calibration": 761902,
+  "random_seed_evaluation_base": 982310,
+  "stellar_control_seed": 73921,
+  "independent_evaluation_noise_draws_per_scene_condition": 40,
+  "no_threshold_training": true,
+  "observational_methods_receive_truth": false
+}

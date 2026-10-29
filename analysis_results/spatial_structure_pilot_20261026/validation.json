@@ -1,0 +1,32 @@
+{
+  "ensemble_conditions": 22,
+  "independent_noise_draws_per_scene_condition": 40,
+  "three_band_observations": 3520,
+  "feature_measurement_rows": 29760,
+  "feature_summary_rows": 744,
+  "morphology_rows": 7216,
+  "previous_artifacts_unchanged": 166,
+  "input_caches_unchanged": 5,
+  "noise_propagation_checks": "PASS; 6 method/noise combinations, 40 draws each",
+  "numerical_invariance_flux_and_split_exposure_checks": "PASS",
+  "max_padded_render_flux_loss": 2.8092102305476985e-06,
+  "executed_notebook_code_cells": 9,
+  "figures_PNG": 9,
+  "figures_PDF": 9,
+  "embedded_figure_hashes_match": true,
+  "HTML_structurally_valid": true,
+  "paired_NIR_area_gain": 0.21739130434782608,
+  "paired_component_McNemar_exact_two_sided_p": 0.0625,
+  "primary_scope": "Conditional structure/morphology, not unique dust attribution",
+  "visual_review": "PNG figures and representative PDF visually reviewed; HTML structurally checked, not browser-rendered",
+  "limitations": [
+    "one galaxy/five correlated views",
+    "matched-rest bands; no exact observer Ks forecast",
+    "provisional PSFs/sky/throughput",
+    "fixed weak-NIR population shift is not a full population ensemble",
+    "local 3sigma is not image-wide false-discovery control",
+    "2kpc edge classifications sensitive to measurement field",
+    "SKIRT source Monte Carlo errors unavailable",
+    "noise intervals exclude instrument and population uncertainty"
+  ]
+}

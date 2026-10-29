@@ -1,0 +1,8 @@
+{
+  "relative_outside_first2_norm": 2.9685128287908015e-16,
+  "dust_cosine_squared": 0.9479579574476887,
+  "matched_seeing_covariance_max_error": 3.3881317890172014e-21,
+  "matched_glao_covariance_max_error": 3.3881317890172014e-21,
+  "native_seeing_covariance_max_error": 1.3552527156068805e-20,
+  "native_glao_covariance_max_error": 1.3552527156068805e-20
+}

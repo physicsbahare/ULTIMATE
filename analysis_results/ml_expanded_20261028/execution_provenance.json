@@ -1,0 +1,32 @@
+{
+  "python": "3.12.15",
+  "environment": "/home/bahareh/miniforge3/envs/phd/",
+  "versions": {
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "pandas": "3.0.6",
+    "astropy": "8.0.2",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2",
+    "joblib": "1.6.0",
+    "nbformat": "5.11.1",
+    "nbclient": "0.11.0",
+    "nbconvert": "7.17.2"
+  },
+  "CV_candidate_configs": 17,
+  "CV_scenarios": 3,
+  "CV_galaxy_folds": 5,
+  "CV_estimator_fits": 255,
+  "saved_models": 108,
+  "saved_model_bytes": 27057367,
+  "preprocessing": "Training-only median imputation, scaling, spatialPCA8, target scaling; explicit observable allowlist",
+  "sampling_unit": "galaxy",
+  "independent_galaxies_prepared": 120,
+  "training": 74,
+  "calibration": 13,
+  "final_positive": 16,
+  "all_source_controls": 17,
+  "final_inference_count": 1,
+  "raw_reduction_duplicated": false,
+  "downloads_restarted": false
+}

@@ -1,0 +1,26 @@
+{
+  "analysis_results/ml_feasibility_20261027/expansion/galaxy_partitions.csv": {
+    "bytes": 25563,
+    "sha256": "32779aeadf1e7ff2ed8c9ce93268fd112a5a2d2d3e25e4b3cbf3e9f4c12b20c1"
+  },
+  "analysis_results/ml_feasibility_20261027/expansion/partitions_frozen.json": {
+    "bytes": 2629,
+    "sha256": "b5bd5d8391221a580bde6742dee6d088e18cd5e7928a2dbc90bd642da4e0fe86"
+  },
+  "analysis_results/ml_expanded_20261028/data_audit/TNG50_SKIRT_DR1_extra_selection_manifest.json": {
+    "bytes": 14050,
+    "sha256": "179abd0feec2988f0caea5cb858b6bfbc78221ff1d904b72e05ecc94598400ea"
+  },
+  "analysis_results/ml_expanded_20261028/data_audit/TNG50_SKIRT_DR1_ml_expansion_selection_manifest.json": {
+    "bytes": 99044,
+    "sha256": "6a5e66b5cd5a5ffd6f2cc2e112e24b64f39a6381240988474b2636a1339c7a73"
+  },
+  "analysis_results/ml_expanded_20261028/data_audit/TNG50_SKIRT_DR1_ml_expansion_download_state.json": {
+    "bytes": 33621,
+    "sha256": "5956ddd2c11f4c8026b0011ce0d3aec861a2236a48704bbbd8e696cefed611b4"
+  },
+  "analysis_results/ml_expanded_20261028/data_audit/TNG50_SKIRT_DR1_extra_download_state.json": {
+    "bytes": 9059,
+    "sha256": "c9d184841f2303ae16b1c18c6911ffc6f9e9f5afdf66a9d9ab485b9d709d88ca"
+  }
+}

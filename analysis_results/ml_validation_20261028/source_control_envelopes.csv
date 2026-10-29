@@ -1,0 +1,13 @@
+aperture,target,galaxies,median,max_abs,interpretation
+adaptive,A_g,4,0.1220703547926054,0.1243331524929695,old4 descriptive envelope; not calibrated sigma or physical detection threshold
+adaptive,dR50_Ks,4,0.0104543235615448,0.037486543810013,old4 descriptive envelope; not calibrated sigma or physical detection threshold
+adaptive,dC_Ks,4,0.014188315718868201,0.2398168403280154,old4 descriptive envelope; not calibrated sigma or physical detection threshold
+adaptive,A_g_p50_1kpc,4,0.1117958377146013,0.1190678018176467,old4 descriptive envelope; not calibrated sigma or physical detection threshold
+adaptive,A_g_IQR_1kpc,4,0.00645030935249035,0.0121083969878577,old4 descriptive envelope; not calibrated sigma or physical detection threshold
+fixed12,A_g,4,0.121382588813929,0.1239173691792003,old4 descriptive envelope; not calibrated sigma or physical detection threshold
+fixed12,dR50_Ks,4,0.0110643216639837,0.0391845961439847,old4 descriptive envelope; not calibrated sigma or physical detection threshold
+fixed12,dC_Ks,4,0.01435275683849465,0.0459639515118999,old4 descriptive envelope; not calibrated sigma or physical detection threshold
+fixed12,A_g_p50_1kpc,4,0.11115178335603984,0.1188668521051604,old4 descriptive envelope; not calibrated sigma or physical detection threshold
+fixed12,A_g_IQR_1kpc,4,0.0068770315642016,0.0144558884446091,old4 descriptive envelope; not calibrated sigma or physical detection threshold
+adaptive,A_Ks,4,0.02083825136054785,0.0225906120747492,old4 descriptive envelope; not physical calibration
+fixed12,A_Ks,4,0.0204811387954227,0.0215910509054506,old4 descriptive envelope; not physical calibration

@@ -1,0 +1,23 @@
+{
+  "parent_N": 1154,
+  "eligible_N": 1153,
+  "selected_random_N": 25,
+  "convenience_original_N": 1,
+  "parent_zero_SFR_fraction": 0.12478336221837089,
+  "eligible_zero_SFR_fraction": 0.12489158716392021,
+  "selected_zero_SFR_fraction": 0.2,
+  "parent_logmass_range": [
+    9.802215034365041,
+    11.914373297485932
+  ],
+  "selected_logmass_range": [
+    9.82602982820628,
+    11.378573309588075
+  ],
+  "parent_median_logmass": 10.285931810178347,
+  "selected_median_logmass": 10.276208667709724,
+  "min_selection_probability": 0.008,
+  "max_selection_probability": 0.1,
+  "population_weighting": "Not applied: primary target balanced feasibility sample; original is convenience benchmark; parent-volume claims not supported",
+  "orientations": "Five fixed correlated views, not an isotropic random orientation sample"
+}

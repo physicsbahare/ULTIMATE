@@ -1,0 +1,10 @@
+target,model,galaxies,nested_group_CV_MAE
+A_g,constant,37,0.24433982651899155
+A_g,photo_ridge,37,0.08097268168306701
+A_g,spatial_ridge,37,0.10274927808869923
+dR50_Ks,constant,37,0.12492176449318633
+dR50_Ks,photo_ridge,37,0.07967569412196211
+dR50_Ks,spatial_ridge,37,0.061190789788656635
+dC_Ks,constant,37,0.1424018837300858
+dC_Ks,photo_ridge,37,0.09543506747654155
+dC_Ks,spatial_ridge,37,0.09761718971482058

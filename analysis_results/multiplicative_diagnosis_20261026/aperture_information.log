@@ -1,0 +1,9 @@
+  mode                             data  n_spatial_pixels  squared_mean_separation  optimal_pair_power_at_FPR05
+seeing pixels_inside_original_apertures               160                 1.064104                     0.269839
+seeing      evaluation_rectangle_pixels               720                33.129397                     0.999980
+seeing               whole_frame_pixels             15876              1713.514935                     1.000000
+  glao pixels_inside_original_apertures               160                 1.061923                     0.269490
+  glao      evaluation_rectangle_pixels               720                33.656280                     0.999984
+  glao               whole_frame_pixels             15876              1725.655376                     1.000000
+seeing            original_15_apertures                15                 0.103464                     0.092885
+  glao            original_15_apertures                15                 0.080998                     0.086875

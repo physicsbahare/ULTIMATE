@@ -1,0 +1,9 @@
+{
+  "configurations": 252,
+  "prediction_rows": 131040,
+  "metric_rows_independently_recomputed": 504,
+  "all_view_draw_keys_unique": true,
+  "calibration_assessment_truth_perturbation_test": true,
+  "predictor_allowlists_pass": true,
+  "final_science_opened": false
+}

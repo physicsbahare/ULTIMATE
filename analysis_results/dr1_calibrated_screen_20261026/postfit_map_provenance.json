@@ -1,0 +1,14 @@
+{
+  "TNG294866_O1_stellarage.fits": {
+    "unit": "Gyr",
+    "sha256_archive_member": "c94edd105dbf2b1e03e0e1640852eff55797ff1b384ff1a93dc65f51ceee4b98"
+  },
+  "TNG294866_O1_stellarmass.fits": {
+    "unit": "Msun/pc2",
+    "sha256_archive_member": "3c70c70360223fc5cc3f5e7939fda0e3d9b6b29cb0296a0d28c90ab0991a36ce"
+  },
+  "TNG294866_O1_stellarmetallicity.fits": {
+    "unit": "(dimensionless)",
+    "sha256_archive_member": "fb1c958889d7513d578d4912850168e18c068ad8cd8480b0866726a39d3d904b"
+  }
+}

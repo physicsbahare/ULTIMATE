@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "utc": "2026-10-28T02:59:23.450192+00:00",
+  "notebook_code_cells": 8,
+  "embedded_notebook_figures": 7,
+  "HTML_export_structure_checked": true,
+  "notebook_full_browser_preview_available": false,
+  "standalone_figure_visual_review": true,
+  "figure_pairs": 8,
+  "science_scope": "Operational DR1 product contrasts; physical source calibration unresolved",
+  "primary_test_galaxies": 16,
+  "source_control_test_galaxies": 4,
+  "final_inference_count": 1,
+  "free_GiB": 284.5970039367676
+}

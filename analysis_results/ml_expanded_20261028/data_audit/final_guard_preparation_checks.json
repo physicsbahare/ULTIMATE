@@ -1,0 +1,27 @@
+{
+  "passed": true,
+  "final_science_opened": false,
+  "checks": [
+    {
+      "check": "missing_explicit_freeze",
+      "passed": true,
+      "reason": "Receipt must explicitly freeze protocol and allow final unsealing"
+    },
+    {
+      "check": "missing_freeze_stage",
+      "passed": true,
+      "reason": "Receipt is missing a required completed freeze stage"
+    },
+    {
+      "check": "artifact_hash_mismatch",
+      "passed": true,
+      "reason": "Frozen artifact SHA256 mismatch: analysis_results/ml_expanded_20261028/data_audit/unseal_final.py"
+    }
+  ],
+  "additional_checks": [
+    "default final science rejected without receipt",
+    "final ID mislabeled development rejected",
+    "both entrypoint files compile",
+    "--help completed without science read"
+  ]
+}

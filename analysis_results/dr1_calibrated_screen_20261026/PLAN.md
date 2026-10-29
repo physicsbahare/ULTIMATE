@@ -1,0 +1,10 @@
+# Calibrated DR1 screen experiment implementation plan
+Use existing phd environment; all new files here. No DR2 work, downloads, installs or changes to earlier results.
+1. Audit old priors; lock spatial training x<-4 kpc and evaluation x>=4 kpc; inventory local archive.
+2. Train bounded empirical fractional-colour covariance from dust-free TRAINING regions only. Test hierarchy constant population / first PC / two PCs plus measured residual covariance. These are phenomenological population proxies, not recovered SFHs.
+3. Generate actual griz/JHKs A/B/C-gradient/C-patch/D scenes; fixed galaxy, E=.15 uniform, positive varying profiles independent of SKIRT maps. Power-law E(B-V) normalized law n=1 primary; n=.7/1.3 and band coefficient perturbations sensitivity.
+4. At z=.1/.3 project I_nu/(1+z)^3, area-conserving pixels, original passbands. Use calculator proxy electron conversion only conditionally; no broadband spectral interpolation. 1h/band in 60s reads.
+5. Fit normalized LINEAR aperture fluxes, Gaussian marginalized finite-rank spatial population fields; null has common morphology plus population covariance; alternative adds dust-law colour covariance. Per-band means unidentifiable and removed. Individual PSFs act on each field in native strategy; common target in matched strategy. Delta-method normalization covariance; require high SNR and validate with exact Poisson projection. Neither inference API accepts evaluation dust-free or maps.
+6. Freeze rank, priors and statistic before controls; 200 calibration + 200 independent evaluation draws per primary condition. Threshold conservative empirical 95th percentile; report binomial intervals and paired bootstrap differences. No automatic positive scientific claim from marginal likelihood or fitted dust amplitudes.
+7. Check posterior predictive model adequacy and population/dust subspace overlap. Repeat band subsets, prior scales, law, PSF, depth, bin width; other orientations are correlated views only. Save exact counts and failures.
+8. Execute notebook and validation; inspect plots; summarize scope and any incomplete physical interpretation. Verify previous-file hashes.

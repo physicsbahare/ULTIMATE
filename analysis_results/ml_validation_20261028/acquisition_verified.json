@@ -1,0 +1,8 @@
+{
+  "archives": 120,
+  "new_archives": 94,
+  "final_sealed": 20,
+  "current_SHA256_match": 120,
+  "gzip_tar_evidence": "inherited downloader; identical current compressed hashes and byte lengths",
+  "duplicate_downloads_started": 0
+}

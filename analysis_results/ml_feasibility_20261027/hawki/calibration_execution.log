@@ -1,0 +1,6 @@
+{'dp_id': 'HAWKI.2018-01-03T08:22:19.465', 'url': 'https://archive.eso.org/calselector/v1/associations?dp_id=HAWKI.2018-01-03T08%3A22%3A19.465&mode=Raw2Master&responseformat=votable', 'bytes': 24067, 'status': 'ok'}
+{'dp_id': 'HAWKI.2018-01-03T08:22:19.465', 'url': 'https://archive.eso.org/calselector/v1/associations?dp_id=HAWKI.2018-01-03T08%3A22%3A19.465&mode=Raw2Master&responseformat=xml', 'bytes': 7034, 'status': 'ok'}
+{'dp_id': 'HAWKI.2018-01-03T08:38:05.077', 'url': 'https://archive.eso.org/calselector/v1/associations?dp_id=HAWKI.2018-01-03T08%3A38%3A05.077&mode=Raw2Master&responseformat=votable', 'bytes': 22769, 'status': 'ok'}
+{'dp_id': 'HAWKI.2018-01-03T08:38:05.077', 'url': 'https://archive.eso.org/calselector/v1/associations?dp_id=HAWKI.2018-01-03T08%3A38%3A05.077&mode=Raw2Master&responseformat=xml', 'bytes': 6892, 'status': 'ok'}
+{'dp_id': 'HAWKI.2018-01-06T08:25:19.803', 'url': 'https://archive.eso.org/calselector/v1/associations?dp_id=HAWKI.2018-01-06T08%3A25%3A19.803&mode=Raw2Master&responseformat=votable', 'bytes': 42784, 'status': 'ok'}
+{'dp_id': 'HAWKI.2018-01-06T08:25:19.803', 'url': 'https://archive.eso.org/calselector/v1/associations?dp_id=HAWKI.2018-01-06T08%3A25%3A19.803&mode=Raw2Master&responseformat=xml', 'bytes': 9691, 'status': 'ok'}

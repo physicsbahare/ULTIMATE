@@ -1,0 +1,454 @@
+/home/bahareh/ULTIMATE/analysis_results/screen_test_20261026/sources/calculator/sensitivity/ultimate.py:398: SyntaxWarning: invalid escape sequence '\ '
+  title = r"$\bf{WFI\ (GLAO)\ Airmass="+str(am_og)+"\ Water\ Vapor="+str(wv_og)+"mm}$"
+/home/bahareh/ULTIMATE/analysis_results/screen_test_20261026/sources/calculator/sensitivity/ultimate.py:401: SyntaxWarning: invalid escape sequence '\ '
+  title = r"$\bf{WFI\ (NOAO)\ Airmass="+str(am_og)+"\ Water\ Vapor="+str(wv_og)+"mm}$"
+/home/bahareh/ULTIMATE/analysis_results/screen_test_20261026/sources/calculator/sensitivity/ultimate.py:412: SyntaxWarning: invalid escape sequence '\s'
+  plt.ylabel(r"$\bf{"+str(snr)+"\sigma\ Limiting\ AB\ Mag\ (exp\ time =" + str(hrs) + "\ hrs)}$")
+/home/bahareh/ULTIMATE/analysis_results/screen_test_20261026/sources/calculator/sensitivity/ultimate.py:412: SyntaxWarning: invalid escape sequence '\ '
+  plt.ylabel(r"$\bf{"+str(snr)+"\sigma\ Limiting\ AB\ Mag\ (exp\ time =" + str(hrs) + "\ hrs)}$")
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family ['Times New Roman'] not found. Falling back to DejaVu Sans.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family ['Times New Roman'] not found. Falling back to DejaVu Sans.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+findfont: Font family 'Times New Roman' not found.
+WFI Sensitivity Calculator
+Input desired values or press return to use default values
+**************************
+[
+  {
+    "band": "Y",
+    "lambda_um": 1.02,
+    "width_um": 0.1,
+    "filter_peak": 0.75,
+    "sky_e_s_arcsec2_published": 8206.226753345436,
+    "telescope_e_s_arcsec2_published": 1.4779287332410993e-07,
+    "moon_e_s_arcsec2_published": 789.3329338666746,
+    "telescope_throughput": 0.9309999999999999,
+    "atmosphere_mean": 0.9970610530105999,
+    "instrument_without_filter": 0.6,
+    "AB15_e_s_published": 106278.8229909285
+  },
+  {
+    "band": "J",
+    "lambda_um": 1.26,
+    "width_um": 0.17,
+    "filter_peak": 0.9,
+    "sky_e_s_arcsec2_published": 24287.81937202791,
+    "telescope_e_s_arcsec2_published": 0.0022408321608850153,
+    "moon_e_s_arcsec2_published": 620.6229658268027,
+    "telescope_throughput": 0.9309999999999999,
+    "atmosphere_mean": 0.9752953932227335,
+    "instrument_without_filter": 0.5,
+    "AB15_e_s_published": 143067.0771604375
+  },
+  {
+    "band": "H",
+    "lambda_um": 1.64,
+    "width_um": 0.28,
+    "filter_peak": 0.95,
+    "sky_e_s_arcsec2_published": 104568.05210447266,
+    "telescope_e_s_arcsec2_published": 18.718698567237574,
+    "moon_e_s_arcsec2_published": 230.91388515968814,
+    "telescope_throughput": 0.9309999999999999,
+    "atmosphere_mean": 0.9876640055003895,
+    "instrument_without_filter": 0.4736842105263158,
+    "AB15_e_s_published": 183336.34350888227
+  },
+  {
+    "band": "Ks",
+    "lambda_um": 2.15,
+    "width_um": 0.31,
+    "filter_peak": 0.95,
+    "sky_e_s_arcsec2_published": 38432.96289226668,
+    "telescope_e_s_arcsec2_published": 9351.45442511006,
+    "moon_e_s_arcsec2_published": 0.4672947445499109,
+    "telescope_throughput": 0.9309999999999999,
+    "atmosphere_mean": 0.9328239716904496,
+    "instrument_without_filter": 0.4736842105263158,
+    "AB15_e_s_published": 146233.90839204047
+  }
+]

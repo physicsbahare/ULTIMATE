@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/2187748a40d4207519a8eff0d2a5b6701db8da0d/sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_16_10_ph_wo_skybb.txt",
+    "bytes": 7908464,
+    "sha256": "ad92623ef6ab3845354bf76724249a0b764d3bc72351c0b6b6d0707cb83ea222",
+    "git_blob_sha1": "b29ccfc0ba84a5057110da27cf8ccaf4df1a2510"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/2187748a40d4207519a8eff0d2a5b6701db8da0d/sensitivity/MaunaKea_Sky/ultimate/mktrans_zm_16_10.txt",
+    "bytes": 5231070,
+    "sha256": "ead1b52ef51682e0d167f30003388a5dbc76d04c806510f944c48a91c1baaa87",
+    "git_blob_sha1": "f4e78287eba3c1d8d53e100382a07613d565025c"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/2187748a40d4207519a8eff0d2a5b6701db8da0d/sensitivity/MaunaKea_Sky/ultimate/moon.txt",
+    "bytes": 1208639,
+    "sha256": "2c497efcf4b061737ef8e44f5356304449575ccdbca1922ed97967a846677eee",
+    "git_blob_sha1": "040a00e6bd462a467f93c970d303ab9fa8987a52"
+  }
+]

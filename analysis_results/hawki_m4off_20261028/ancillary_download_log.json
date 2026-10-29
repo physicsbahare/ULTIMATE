@@ -1,0 +1,128 @@
+[
+  {
+    "path": "tile_catalogue.fits",
+    "url": "https://dataportal.eso.org/dataPortal/file/ADP.2021-12-16T10:45:25.815",
+    "bytes": 15909120,
+    "sha256": "7832b9c17312f432477d1ffcc348002c76102e795f80d7567eeeff3c1396d25c",
+    "status": "ok"
+  },
+  {
+    "path": "tile_variance_region0.fits",
+    "url": "https://dataportal.eso.org/dataPortal/soda/sync?ID=ivo%3A%2F%2Feso.org%2FID%3FADP.2021-12-16T10%3A45%3A26.019&CIRCLE=245.96232+-26.54519+0.010",
+    "bytes": 1918080,
+    "sha256": "7480efbd8e6dc1cfef61a63e78fe0b804a5dbda022ee77bf4b7a2f922b06191a",
+    "status": "ok"
+  },
+  {
+    "path": "tile_confidence_region0.fits",
+    "url": "https://dataportal.eso.org/dataPortal/soda/sync?ID=ivo%3A%2F%2Feso.org%2FID%3FADP.2021-12-16T10%3A45%3A26.020&CIRCLE=245.96232+-26.54519+0.010",
+    "bytes": 1918080,
+    "sha256": "4c83b77a54ea9a8e209b16855d61e67240c66cce2261704625e6110b53e8f43f",
+    "status": "ok"
+  },
+  {
+    "path": "tile_variance_region1.fits",
+    "url": "https://dataportal.eso.org/dataPortal/soda/sync?ID=ivo%3A%2F%2Feso.org%2FID%3FADP.2021-12-16T10%3A45%3A26.019&CIRCLE=245.8896+-26.54408+0.010",
+    "bytes": 1918080,
+    "sha256": "ed4f835d5d15f2cd35192cd6f22c25469762c75cf91517ec2043fb175fd29ea8",
+    "status": "ok"
+  },
+  {
+    "path": "tile_confidence_region1.fits",
+    "url": "https://dataportal.eso.org/dataPortal/soda/sync?ID=ivo%3A%2F%2Feso.org%2FID%3FADP.2021-12-16T10%3A45%3A26.020&CIRCLE=245.8896+-26.54408+0.010",
+    "bytes": 1918080,
+    "sha256": "65bb64ff22825d734763bd97e856bad3ed4990a19045dc32ada5c9198a170c30",
+    "status": "ok"
+  },
+  {
+    "path": "tile_variance_region2.fits",
+    "url": "https://dataportal.eso.org/dataPortal/soda/sync?ID=ivo%3A%2F%2Feso.org%2FID%3FADP.2021-12-16T10%3A45%3A26.019&CIRCLE=245.96301+-26.48043+0.010",
+    "bytes": 1918080,
+    "sha256": "05db5969ba011f062734e269c3dbb314badcdf3de7b5472f1506e38e94de24fc",
+    "status": "ok"
+  },
+  {
+    "path": "tile_confidence_region2.fits",
+    "url": "https://dataportal.eso.org/dataPortal/soda/sync?ID=ivo%3A%2F%2Feso.org%2FID%3FADP.2021-12-16T10%3A45%3A26.020&CIRCLE=245.96301+-26.48043+0.010",
+    "bytes": 1918080,
+    "sha256": "6834154cd5219ba52224d1385ab878f8d6f62cb442129bfe762acb9edf2d1f07",
+    "status": "ok"
+  },
+  {
+    "path": "tile_variance_region3.fits",
+    "url": "https://dataportal.eso.org/dataPortal/soda/sync?ID=ivo%3A%2F%2Feso.org%2FID%3FADP.2021-12-16T10%3A45%3A26.019&CIRCLE=245.89024+-26.47951+0.010",
+    "bytes": 1918080,
+    "sha256": "d10f16d98b790d70ec265cc3196a01d0fbbe2b8b5215caf64f72d1c9c7c60a6d",
+    "status": "ok"
+  },
+  {
+    "path": "tile_confidence_region3.fits",
+    "url": "https://dataportal.eso.org/dataPortal/soda/sync?ID=ivo%3A%2F%2Feso.org%2FID%3FADP.2021-12-16T10%3A45%3A26.020&CIRCLE=245.89024+-26.47951+0.010",
+    "bytes": 1918080,
+    "sha256": "84a89e5fe44ec30a109d83ac9de9c7e7af2226447c36c995952792b59af1bbbc",
+    "status": "ok"
+  },
+  {
+    "path": "gaia_dr3.csv",
+    "url": "https://gea.esac.esa.int/tap-server/tap/sync?REQUEST=doQuery&LANG=ADQL&FORMAT=csv&QUERY=SELECT+TOP+25000+source_id%2Cra%2Cdec%2Cpmra%2Cpmdec%2Cref_epoch%2Cphot_g_mean_mag%2Cruwe%2Cparallax%2Cparallax_error+FROM+gaiadr3.gaia_source+WHERE+1%3DCONTAINS%28POINT%28%27ICRS%27%2Cra%2Cdec%29%2CCIRCLE%28%27ICRS%27%2C245.9263%2C-26.51232%2C0.22%29%29+AND+phot_g_mean_mag%3C20+ORDER+BY+phot_g_mean_mag",
+    "bytes": 3706202,
+    "sha256": "bd19c99e35c507e830a6ed6f9640072668153fcc8b941d480e43f1a5ec378edb",
+    "status": "ok"
+  },
+  {
+    "path": "pawprint_variance_region0.fits",
+    "url": "https://dataportal.eso.org/dataPortal/soda/sync?ID=ivo%3A%2F%2Feso.org%2FID%3FADP.2021-12-16T10%3A45%3A25.740&CIRCLE=245.96232+-26.54519+0.006",
+    "bytes": 2825280,
+    "sha256": "fc79d2d66e0d778d93d4465aab5b69683037360b382eb6f998e18b60f6ca59cc",
+    "status": "ok"
+  },
+  {
+    "path": "pawprint_confidence_region0.fits",
+    "url": "https://dataportal.eso.org/dataPortal/soda/sync?ID=ivo%3A%2F%2Feso.org%2FID%3FADP.2021-12-16T10%3A45%3A25.741&CIRCLE=245.96232+-26.54519+0.006",
+    "bytes": 2825280,
+    "sha256": "f093aa42b013350007677063d1e0d9cebbd3a2b869052980805f7cbffe8f3df5",
+    "status": "ok"
+  },
+  {
+    "path": "pawprint_variance_region1.fits",
+    "url": "https://dataportal.eso.org/dataPortal/soda/sync?ID=ivo%3A%2F%2Feso.org%2FID%3FADP.2021-12-16T10%3A45%3A25.740&CIRCLE=245.8896+-26.54408+0.006",
+    "bytes": 2825280,
+    "sha256": "2b466a37b31eb274e89bf6004da293627d11bf237897d1b87bfd203bff5a057e",
+    "status": "ok"
+  },
+  {
+    "path": "pawprint_confidence_region1.fits",
+    "url": "https://dataportal.eso.org/dataPortal/soda/sync?ID=ivo%3A%2F%2Feso.org%2FID%3FADP.2021-12-16T10%3A45%3A25.741&CIRCLE=245.8896+-26.54408+0.006",
+    "bytes": 2825280,
+    "sha256": "7d852e4f43ef5cb086fe0bf4da7f72df58a2cd4ea94ac88e83934f832327881b",
+    "status": "ok"
+  },
+  {
+    "path": "pawprint_variance_region2.fits",
+    "url": "https://dataportal.eso.org/dataPortal/soda/sync?ID=ivo%3A%2F%2Feso.org%2FID%3FADP.2021-12-16T10%3A45%3A25.740&CIRCLE=245.96301+-26.48043+0.006",
+    "bytes": 2825280,
+    "sha256": "0da4680fbe7f48c073ebaa1028afba2b652296a9514a4696493619931c125cba",
+    "status": "ok"
+  },
+  {
+    "path": "pawprint_confidence_region2.fits",
+    "url": "https://dataportal.eso.org/dataPortal/soda/sync?ID=ivo%3A%2F%2Feso.org%2FID%3FADP.2021-12-16T10%3A45%3A25.741&CIRCLE=245.96301+-26.48043+0.006",
+    "bytes": 2825280,
+    "sha256": "dd850939293813ca32b44809bec86811e1167e41502482954b93b8e3ccafb2f5",
+    "status": "ok"
+  },
+  {
+    "path": "pawprint_variance_region3.fits",
+    "url": "https://dataportal.eso.org/dataPortal/soda/sync?ID=ivo%3A%2F%2Feso.org%2FID%3FADP.2021-12-16T10%3A45%3A25.740&CIRCLE=245.89024+-26.47951+0.006",
+    "bytes": 2825280,
+    "sha256": "d0011ff581a257a53b5e374724af626b6a22da4fa884ebc05a61b87040281bc1",
+    "status": "ok"
+  },
+  {
+    "path": "pawprint_confidence_region3.fits",
+    "url": "https://dataportal.eso.org/dataPortal/soda/sync?ID=ivo%3A%2F%2Feso.org%2FID%3FADP.2021-12-16T10%3A45%3A25.741&CIRCLE=245.89024+-26.47951+0.006",
+    "bytes": 2825280,
+    "sha256": "200010877748e5e308e8adad3db3af8a5e3ff806ea98deada869b90b4e786dd6",
+    "status": "ok"
+  }
+]

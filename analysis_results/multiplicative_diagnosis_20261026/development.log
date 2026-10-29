@@ -1,0 +1,10 @@
+DR1_uniform_noise_free_absolute [(True, 427.86, 61.89, 0.0, 88), (True, 396.66, 55.4, 0.0, 153)] seconds 7.4
+DR1_uniform_noise_free_contrasts [(True, 5.85, 55.59, 0.999, 77), (True, 6.44, 49.28, 0.996, 53)] seconds 11.2
+DR1_uniform_one_noise_absolute [(True, 436.22, 61.74, 0.0, 63), (False, 405.73, 55.31, 0.0, 180)] seconds 18.8
+DR1_uniform_one_noise_contrasts [(True, 65.27, 53.25, 0.339, 127), (True, 60.4, 48.48, 0.359, 44)] seconds 23.5
+problem_anchor_noise_free_absolute [(True, 842.57, 64.14, 0.0, 74), (True, 738.12, 56.0, 0.0, 145)] seconds 30.0
+problem_anchor_noise_free_contrasts [(False, 14.82, 57.86, 0.998, 180), (True, 12.41, 50.89, 0.996, 159)] seconds 40.0
+problem_anchor_one_noise_absolute [(True, 812.15, 63.86, 0.0, 83), (False, 713.03, 55.94, 0.0, 180)] seconds 48.0
+problem_anchor_one_noise_contrasts [(True, 75.6, 57.74, 0.202, 147), (True, 66.52, 50.23, 0.26, 117)] seconds 55.6
+model family noise_free [(True, 0.11660043751432377, 1.0), (True, 0.12824324163547574, 1.0)]
+model family one_noise [(True, 83.81161715842582, 0.453), (True, 74.41812186368409, 0.588)]

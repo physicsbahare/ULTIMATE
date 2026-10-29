@@ -1,0 +1,12 @@
+stream 294866
+complete 294866 300 morphology rows
+stream 167418
+complete 167418 300 morphology rows
+stream 626287
+Traceback (most recent call last):
+  File "/home/bahareh/ULTIMATE/analysis_results/multigalaxy_morphology_20261027/audit_sample.py", line 94, in <module>
+    run([int(s) for s in sys.argv[1:]] or None)
+  File "/home/bahareh/ULTIMATE/analysis_results/multigalaxy_morphology_20261027/audit_sample.py", line 60, in run
+    unit=h.get('BUNIT');assert good and coord and (not isband or unit=='MJy/sr'),name
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: TNG626287_O1_stellarage.fits

@@ -1,0 +1,95 @@
+# dr1_calibrated_screen_20261026: complete artifact index
+
+Archive inventory, 2026-10-29. Scientific interpretation is in [completed analyses](../COMPLETED_ANALYSES.md); this page lists every artifact, including server-only arrays.
+
+| Artifact | Type | Bytes | Archive disposition |
+|---|---|---:|---|
+| [Calibrated_DR1_screen_experiment.html](../../analysis_results/dr1_calibrated_screen_20261026/Calibrated_DR1_screen_experiment.html) | report | 4814868 | Included |
+| [Calibrated_DR1_screen_experiment.ipynb](../../analysis_results/dr1_calibrated_screen_20261026/Calibrated_DR1_screen_experiment.ipynb) | notebook | 4528459 | Included |
+| [DR1_physical_control_summary.csv](../../analysis_results/dr1_calibrated_screen_20261026/DR1_physical_control_summary.csv) | result_table | 2419 | Included |
+| [FINAL_PROTOCOL.md](../../analysis_results/dr1_calibrated_screen_20261026/FINAL_PROTOCOL.md) | report | 2612 | Included |
+| [FINAL_blind_residual_example.csv](../../analysis_results/dr1_calibrated_screen_20261026/FINAL_blind_residual_example.csv) | result_table | 11362 | Included |
+| [FINAL_calibrated_rates.csv](../../analysis_results/dr1_calibrated_screen_20261026/FINAL_calibrated_rates.csv) | result_table | 24418 | Included |
+| [FINAL_calibration_statistics.csv.gz](../../analysis_results/dr1_calibrated_screen_20261026/FINAL_calibration_statistics.csv.gz) | result_table | 760371 | Included |
+| [FINAL_evaluation_statistics.csv.gz](../../analysis_results/dr1_calibrated_screen_20261026/FINAL_evaluation_statistics.csv.gz) | result_table | 1230259 | Included |
+| [FINAL_population_anchor_stress.csv](../../analysis_results/dr1_calibrated_screen_20261026/FINAL_population_anchor_stress.csv) | result_table | 11212 | Included |
+| [FINAL_posterior_predictive.csv](../../analysis_results/dr1_calibrated_screen_20261026/FINAL_posterior_predictive.csv) | result_table | 2671 | Included |
+| [GLAO_power_comparison.csv](../../analysis_results/dr1_calibrated_screen_20261026/GLAO_power_comparison.csv) | result_table | 4726 | Included |
+| [PLAN.md](../../analysis_results/dr1_calibrated_screen_20261026/PLAN.md) | report | 2157 | Included |
+| [README.md](../../analysis_results/dr1_calibrated_screen_20261026/README.md) | report | 5482 | Included |
+| [attenuation_coefficients.csv](../../analysis_results/dr1_calibrated_screen_20261026/attenuation_coefficients.csv) | result_table | 544 | Included |
+| [build_notebook.py](../../analysis_results/dr1_calibrated_screen_20261026/build_notebook.py) | script | 5981 | Included |
+| [calibrated_rates.csv](../../analysis_results/dr1_calibrated_screen_20261026/calibrated_rates.csv) | result_table | 440235 | Included |
+| [delivery_validation.log](../../analysis_results/dr1_calibrated_screen_20261026/delivery_validation.log) | verification_or_execution_log | 1338 | Included |
+| [diagnostics.log](../../analysis_results/dr1_calibrated_screen_20261026/diagnostics.log) | verification_or_execution_log | 1038 | Included |
+| [diagnostics.py](../../analysis_results/dr1_calibrated_screen_20261026/diagnostics.py) | script | 5828 | Included |
+| [evaluation_statistics.csv.gz](../../analysis_results/dr1_calibrated_screen_20261026/evaluation_statistics.csv.gz) | result_table | 7321823 | Included |
+| [exact_poisson_validation.csv](../../analysis_results/dr1_calibrated_screen_20261026/exact_poisson_validation.csv) | result_table | 228 | Included |
+| [execute_notebook.py](../../analysis_results/dr1_calibrated_screen_20261026/execute_notebook.py) | script | 574 | Included |
+| [execution.log](../../analysis_results/dr1_calibrated_screen_20261026/execution.log) | verification_or_execution_log | 1486 | Included |
+| [execution_provenance.json](../../analysis_results/dr1_calibrated_screen_20261026/execution_provenance.json) | configuration_or_result | 2774 | Included |
+| [experiment.py](../../analysis_results/dr1_calibrated_screen_20261026/experiment.py) | script | 18550 | Included |
+| [false_positive_audit.md](../../analysis_results/dr1_calibrated_screen_20261026/false_positive_audit.md) | report | 5223 | Included |
+| [final_ensemble.log](../../analysis_results/dr1_calibrated_screen_20261026/final_ensemble.log) | verification_or_execution_log | 284 | Included |
+| [final_ensemble.py](../../analysis_results/dr1_calibrated_screen_20261026/final_ensemble.py) | script | 5763 | Included |
+| `final_population_ensemble_definition.npz` | array_output | 3797904 | Bulk array/image intermediate over 2 MB; tables, configurations and inspection figures retained |
+| [final_stress.log](../../analysis_results/dr1_calibrated_screen_20261026/final_stress.log) | verification_or_execution_log | 176 | Included |
+| [final_stress.py](../../analysis_results/dr1_calibrated_screen_20261026/final_stress.py) | script | 2162 | Included |
+| [heldout_population_basis.csv](../../analysis_results/dr1_calibrated_screen_20261026/heldout_population_basis.csv) | result_table | 196 | Included |
+| [input_provenance.json](../../analysis_results/dr1_calibrated_screen_20261026/input_provenance.json) | configuration_or_result | 1319 | Included |
+| [instrument_parameters.csv](../../analysis_results/dr1_calibrated_screen_20261026/instrument_parameters.csv) | result_table | 1732 | Included |
+| [instrument_provenance.md](../../analysis_results/dr1_calibrated_screen_20261026/instrument_provenance.md) | report | 3711 | Included |
+| [local_inventory.json](../../analysis_results/dr1_calibrated_screen_20261026/local_inventory.json) | configuration_or_result | 745 | Included |
+| `matched_DR1_scenes_O1.npz` | array_output | 24174259 | Bulk array/image intermediate over 2 MB; tables, configurations and inspection figures retained |
+| [next_experiments.md](../../analysis_results/dr1_calibrated_screen_20261026/next_experiments.md) | report | 2871 | Included |
+| [normalized_noise_validation.csv](../../analysis_results/dr1_calibrated_screen_20261026/normalized_noise_validation.csv) | result_table | 322 | Included |
+| [notebook_execution.log](../../analysis_results/dr1_calibrated_screen_20261026/notebook_execution.log) | verification_or_execution_log | 306 | Included |
+| [numerical_test_results.log](../../analysis_results/dr1_calibrated_screen_20261026/numerical_test_results.log) | verification_or_execution_log | 109 | Included |
+| [old_population_template_audit.json](../../analysis_results/dr1_calibrated_screen_20261026/old_population_template_audit.json) | configuration_or_result | 537 | Included |
+| [parameters.json](../../analysis_results/dr1_calibrated_screen_20261026/parameters.json) | configuration_or_result | 3609 | Included |
+| [population_dust_identifiability.csv](../../analysis_results/dr1_calibrated_screen_20261026/population_dust_identifiability.csv) | result_table | 196 | Included |
+| [population_stress.log](../../analysis_results/dr1_calibrated_screen_20261026/population_stress.log) | verification_or_execution_log | 152 | Included |
+| [population_stress.py](../../analysis_results/dr1_calibrated_screen_20261026/population_stress.py) | script | 3384 | Included |
+| [population_stress_posterior.csv](../../analysis_results/dr1_calibrated_screen_20261026/population_stress_posterior.csv) | result_table | 4219 | Included |
+| [population_stress_rates.csv](../../analysis_results/dr1_calibrated_screen_20261026/population_stress_rates.csv) | result_table | 59119 | Included |
+| [population_stress_statistics.csv.gz](../../analysis_results/dr1_calibrated_screen_20261026/population_stress_statistics.csv.gz) | result_table | 1369942 | Included |
+| [population_training.npz](../../analysis_results/dr1_calibrated_screen_20261026/population_training.npz) | array_output | 11698 | Included |
+| [posterior_predictive.csv](../../analysis_results/dr1_calibrated_screen_20261026/posterior_predictive.csv) | result_table | 123017 | Included |
+| [postfit_map_provenance.json](../../analysis_results/dr1_calibrated_screen_20261026/postfit_map_provenance.json) | configuration_or_result | 496 | Included |
+| [postfit_physical_maps_O1.npz](../../analysis_results/dr1_calibrated_screen_20261026/postfit_physical_maps_O1.npz) | array_output | 1651635 | Included |
+| [postfit_population_truth_diagnostic.csv](../../analysis_results/dr1_calibrated_screen_20261026/postfit_population_truth_diagnostic.csv) | result_table | 327 | Included |
+| [previous_results_sha256.json](../../analysis_results/dr1_calibrated_screen_20261026/previous_results_sha256.json) | configuration_or_result | 20852 | Included |
+| [publish.py](../../analysis_results/dr1_calibrated_screen_20261026/publish.py) | script | 21804 | Included |
+| [record_provenance.py](../../analysis_results/dr1_calibrated_screen_20261026/record_provenance.py) | script | 1875 | Included |
+| [redshift_bandpass_limitations.md](../../analysis_results/dr1_calibrated_screen_20261026/redshift_bandpass_limitations.md) | report | 3687 | Included |
+| [references.md](../../analysis_results/dr1_calibrated_screen_20261026/references.md) | report | 2259 | Included |
+| [refresh_notebook_figures.py](../../analysis_results/dr1_calibrated_screen_20261026/refresh_notebook_figures.py) | script | 2091 | Included |
+| [residual_diagnostics.log](../../analysis_results/dr1_calibrated_screen_20261026/residual_diagnostics.log) | verification_or_execution_log | 406 | Included |
+| [residual_diagnostics.py](../../analysis_results/dr1_calibrated_screen_20261026/residual_diagnostics.py) | script | 3224 | Included |
+| [review_notes.md](../../analysis_results/dr1_calibrated_screen_20261026/review_notes.md) | report | 1896 | Included |
+| [scientific_report.md](../../analysis_results/dr1_calibrated_screen_20261026/scientific_report.md) | report | 9024 | Included |
+| [screen_definitions.npz](../../analysis_results/dr1_calibrated_screen_20261026/screen_definitions.npz) | array_output | 1234239 | Included |
+| [test_validation.py](../../analysis_results/dr1_calibrated_screen_20261026/test_validation.py) | script | 2696 | Included |
+| [transfer_validation.csv](../../analysis_results/dr1_calibrated_screen_20261026/transfer_validation.csv) | result_table | 28935 | Included |
+| [validate_delivery.py](../../analysis_results/dr1_calibrated_screen_20261026/validate_delivery.py) | script | 4992 | Included |
+| [validation.json](../../analysis_results/dr1_calibrated_screen_20261026/validation.json) | configuration_or_result | 1337 | Included |
+| [within_band_SED_sensitivity.csv](../../analysis_results/dr1_calibrated_screen_20261026/within_band_SED_sensitivity.csv) | result_table | 283374 | Included |
+| [workshop_statement.md](../../analysis_results/dr1_calibrated_screen_20261026/workshop_statement.md) | report | 543 | Included |
+| [figures/01_matched_DR1_controls.pdf](../../analysis_results/dr1_calibrated_screen_20261026/figures/01_matched_DR1_controls.pdf) | figure | 690004 | Included |
+| [figures/01_matched_DR1_controls.png](../../analysis_results/dr1_calibrated_screen_20261026/figures/01_matched_DR1_controls.png) | figure | 2208434 | Included |
+| [figures/02_final_calibrated_rates.pdf](../../analysis_results/dr1_calibrated_screen_20261026/figures/02_final_calibrated_rates.pdf) | figure | 19930 | Included |
+| [figures/02_final_calibrated_rates.png](../../analysis_results/dr1_calibrated_screen_20261026/figures/02_final_calibrated_rates.png) | figure | 199650 | Included |
+| [figures/03_population_false_positive_robustness.pdf](../../analysis_results/dr1_calibrated_screen_20261026/figures/03_population_false_positive_robustness.pdf) | figure | 19816 | Included |
+| [figures/03_population_false_positive_robustness.png](../../analysis_results/dr1_calibrated_screen_20261026/figures/03_population_false_positive_robustness.png) | figure | 104277 | Included |
+| [figures/04_GLAO_power_difference.pdf](../../analysis_results/dr1_calibrated_screen_20261026/figures/04_GLAO_power_difference.pdf) | figure | 19619 | Included |
+| [figures/04_GLAO_power_difference.png](../../analysis_results/dr1_calibrated_screen_20261026/figures/04_GLAO_power_difference.png) | figure | 92436 | Included |
+| [figures/05_population_and_band_law_degeneracy.pdf](../../analysis_results/dr1_calibrated_screen_20261026/figures/05_population_and_band_law_degeneracy.pdf) | figure | 21362 | Included |
+| [figures/05_population_and_band_law_degeneracy.png](../../analysis_results/dr1_calibrated_screen_20261026/figures/05_population_and_band_law_degeneracy.png) | figure | 151916 | Included |
+| [figures/06_posterior_predictive_checks.pdf](../../analysis_results/dr1_calibrated_screen_20261026/figures/06_posterior_predictive_checks.pdf) | figure | 25443 | Included |
+| [figures/06_posterior_predictive_checks.png](../../analysis_results/dr1_calibrated_screen_20261026/figures/06_posterior_predictive_checks.png) | figure | 224895 | Included |
+| [figures/07_optical_NIR_joint_information.pdf](../../analysis_results/dr1_calibrated_screen_20261026/figures/07_optical_NIR_joint_information.pdf) | figure | 15098 | Included |
+| [figures/07_optical_NIR_joint_information.png](../../analysis_results/dr1_calibrated_screen_20261026/figures/07_optical_NIR_joint_information.png) | figure | 103207 | Included |
+| [figures/08_blind_fit_residuals.pdf](../../analysis_results/dr1_calibrated_screen_20261026/figures/08_blind_fit_residuals.pdf) | figure | 27647 | Included |
+| [figures/08_blind_fit_residuals.png](../../analysis_results/dr1_calibrated_screen_20261026/figures/08_blind_fit_residuals.png) | figure | 141746 | Included |
+| [figures/09_population_prior_law_sensitivity.pdf](../../analysis_results/dr1_calibrated_screen_20261026/figures/09_population_prior_law_sensitivity.pdf) | figure | 19018 | Included |
+| [figures/09_population_prior_law_sensitivity.png](../../analysis_results/dr1_calibrated_screen_20261026/figures/09_population_prior_law_sensitivity.png) | figure | 126673 | Included |

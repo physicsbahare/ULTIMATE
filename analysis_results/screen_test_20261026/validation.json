@@ -1,0 +1,27 @@
+{
+  "notebook": {
+    "executed_code_cells": 11,
+    "error_outputs": 0,
+    "full_main_recomputation": true,
+    "embedded_png": 6
+  },
+  "HTML": {
+    "embedded_images": 6,
+    "tables": 6
+  },
+  "test_physics.py": ".....\n----------------------------------------------------------------------\nRan 5 tests in 1.107s\n\nOK",
+  "test_inference_controls.py": "..\n----------------------------------------------------------------------\nRan 2 tests in 0.002s\n\nOK",
+  "cases": {
+    "main_fit_rows": 574,
+    "retained_insufficient_apertures": 1,
+    "robustness_rows": 200,
+    "native_PSF_bound_cases": 20,
+    "max_flux_error": 1.0103029524088925e-13
+  },
+  "previous_TNG_inputs_unchanged_SHA256": 25,
+  "original_pilot_notebook_unchanged": true,
+  "paired_figures": 6,
+  "physical_detection_claim": "Not established: population/discrepancy sensitivity, false physical null rejections and approximate broadband/filter synthesis remain.",
+  "DR2_endpoint": "Unverified after successful authenticated metadata/catalogue inspection; no galaxy archive downloaded.",
+  "review": "Independent read-only scientific review completed; no critical physics bug, limitations retained."
+}

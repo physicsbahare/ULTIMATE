@@ -1,0 +1,38 @@
+{
+  "galaxies": 26,
+  "orientations_per_galaxy": 5,
+  "paired_bands": 22,
+  "FITS_members": 6240,
+  "primary_pairs": 2860,
+  "intrinsic_rows": 7800,
+  "observed_rows": 21840,
+  "noisy_morphology_invalid_rows": 13,
+  "invalid_by_band": {
+    "2MASS_Ks": 13
+  },
+  "g_identical_strategy_max_gain": 0.0,
+  "gaussian_max_flux_loss": 1.4654943925052066e-14,
+  "old_FITS_hashes_matched": 135,
+  "all_five_view_pilot_max_error": 1.6930901125533637e-15,
+  "previous_results_files_unchanged": 289,
+  "PNG_figures": 11,
+  "PDF_figures": 11,
+  "development_gate_passed": true,
+  "physical_scope": "Conditional paired DR1 morphology; no final ULTIMATE forecast or unique dust attribution",
+  "q_noise_policy": "Joint finite strategy draws, >=6/8 in every view; eligibility/exclusions retained",
+  "visual_inspection": {
+    "PNG_figures_inspected": 11,
+    "revised_property_ticks_inspected": true,
+    "revised_image_colorbar_inspected": true,
+    "representative_PDF_rendered_and_inspected": "figures/05_GLAO_morphology_accuracy.pdf via pdftoppm",
+    "notebook_HTML": "Embedded figure/report equality checked programmatically; saved PNGs visually inspected; HTML not separately browser-rendered",
+    "readability": "Axes/legends/titles and source/estimator caveats inspected; plot tick overlap corrected"
+  },
+  "source_physical_null": "UNRESOLVED: zero projected-dust objects have nonzero image-pair residuals; no correction applied",
+  "python": "3.12.15",
+  "executed_notebook_code_cells": 12,
+  "embedded_notebook_images": 11,
+  "HTML_preview_exists": true,
+  "notebook_images_match_saved_PNGs": true,
+  "notebook_report_matches_saved_report": true
+}

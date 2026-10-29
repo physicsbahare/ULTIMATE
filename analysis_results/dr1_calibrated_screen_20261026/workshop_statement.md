@@ -1,0 +1,2 @@
+# Workshop statement
+Colour structure survives the simulated degradation, but it is not uniquely dust structure. We calibrated matched DR1 foreground-screen controls with spatial population uncertainty and independent noise. Controlled screen recovery can be high; realistic SKIRT interpretations still fail model and population stress tests. GLAO offers conditional numerical gains in selected cases, not a validated general dust-discrimination improvement. Actual observer passbands and independent galaxies remain necessary for that claim.

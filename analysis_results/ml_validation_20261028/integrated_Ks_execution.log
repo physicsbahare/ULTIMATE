@@ -1,0 +1,6 @@
+fixed12 optical seeing A_Ks
+fixed12 nir seeing A_Ks
+fixed12 nir glao A_Ks
+adaptive optical seeing A_Ks
+adaptive nir seeing A_Ks
+adaptive nir glao A_Ks

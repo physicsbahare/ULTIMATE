@@ -1,0 +1,1 @@
+SELECT * FROM dbo.raw WHERE instrument='HAWKI' AND prog_id='60.A-9475(A)' AND date_obs BETWEEN '2018-01-01' AND '2018-02-01'

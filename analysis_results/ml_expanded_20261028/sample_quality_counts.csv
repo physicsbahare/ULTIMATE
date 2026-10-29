@@ -1,0 +1,7 @@
+partition,zero_projected_dust,n_galaxies
+development,False,74
+development,True,12
+final_test,False,16
+final_test,True,4
+validation,False,13
+validation,True,1

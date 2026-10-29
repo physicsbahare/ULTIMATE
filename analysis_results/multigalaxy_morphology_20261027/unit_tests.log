@@ -1,0 +1,15 @@
+test_broadbands_strict (test_archive_quality.ProductValidation.test_broadbands_strict) ... ok
+test_physical_projection_roundoff (test_archive_quality.ProductValidation.test_physical_projection_roundoff) ... ok
+test_trailer_corruption_rejected (test_gzip_verification.CRCChecks.test_trailer_corruption_rejected) ... ok
+test_new_renderer_stays_local_after_legacy_import (test_import_isolation.ImportIsolation.test_new_renderer_stays_local_after_legacy_import) ... ok
+test_ellipse_uniform_screen (test_morphology.ScientificChecks.test_ellipse_uniform_screen) ... ok
+test_gaussian (test_morphology.ScientificChecks.test_gaussian) ... ok
+test_offset (test_morphology.ScientificChecks.test_offset) ... ok
+test_signed_and_invalid (test_morphology.ScientificChecks.test_signed_and_invalid) ... ok
+test_degenerate_bootstrap (test_statistics.PairedScoreTests.test_degenerate_bootstrap) ... ok
+test_joint_missing_strategy_draw (test_statistics.PairedScoreTests.test_joint_missing_strategy_draw) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 1.221s
+
+OK

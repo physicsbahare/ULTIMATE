@@ -1,0 +1,13 @@
+{
+  "scope": "Exploratory post-protocol sensitivity only, not calibrated ULTIMATE or HAWK-I forecast",
+  "measured_Ks_beta": 4.752960293795975,
+  "Ks_D50": "Retain provisional seeing0.588 and GLAO0.390arcsec; do not substitute measured HAWK-I FWHM",
+  "innovation_variance": 0.9981478398206823,
+  "empirical_rho_x": 0.2752555,
+  "simulated_rho_x": 0.2751679635148723,
+  "empirical_rho_y": 0.29317406,
+  "simulated_rho_y": 0.2933595071500118,
+  "limitation": "Only local pixel covariance and circularized wings; real large-aperture excess noise, anisotropy/field variation not captured",
+  "noise_amplitude": "Provisional simulated electron variance; no transfer of raw ADU amplitudes",
+  "training": "Same frozen grouped folds, no hyperparameter tuning; refit sensitivity models"
+}

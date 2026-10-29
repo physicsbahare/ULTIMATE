@@ -1,0 +1,556 @@
+{
+  "sha": "2187748a40d4207519a8eff0d2a5b6701db8da0d",
+  "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/trees/2187748a40d4207519a8eff0d2a5b6701db8da0d",
+  "tree": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab0c1af4fc05e3c34b8fbb84fc585803436ce1be",
+      "size": 465,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/ab0c1af4fc05e3c34b8fbb84fc585803436ce1be"
+    },
+    {
+      "path": "ULTIMATE.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "102f9aaa8c792286d56a344f4b988a174a5253d8",
+      "size": 6386890,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/102f9aaa8c792286d56a344f4b988a174a5253d8"
+    },
+    {
+      "path": "sensitivity",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c2dab8a76b77e87384a55b54ade0437fff866f0a",
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/trees/c2dab8a76b77e87384a55b54ade0437fff866f0a"
+    },
+    {
+      "path": "sensitivity/D50_am=1.0.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c4792235c16889cefa9b97985d9998e06602806f",
+      "size": 470,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/c4792235c16889cefa9b97985d9998e06602806f"
+    },
+    {
+      "path": "sensitivity/D50_am=1.5.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e7c917e34ecc5f01ec0bfa07e0711afd2df2b8bb",
+      "size": 383,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/e7c917e34ecc5f01ec0bfa07e0711afd2df2b8bb"
+    },
+    {
+      "path": "sensitivity/D50_am=2.0.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf5bce77d05b814c5d0e2f581cf4c49a933c80fe",
+      "size": 465,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/cf5bce77d05b814c5d0e2f581cf4c49a933c80fe"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "74e16166d1a69159506753a9736aba9d5f5ca047",
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/trees/74e16166d1a69159506753a9736aba9d5f5ca047"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "62d49e03705e18d8b70181b7afe96b429ca7a714",
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/trees/62d49e03705e18d8b70181b7afe96b429ca7a714"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_10_10_ph.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "82d03712639fffef20b75e9314ed7a257cf3e1f1",
+      "size": 4200153,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/82d03712639fffef20b75e9314ed7a257cf3e1f1"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_10_10_ph.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "62e4135c744c1a133183538922d3435d3b66a95f",
+      "size": 7755000,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/62e4135c744c1a133183538922d3435d3b66a95f"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_10_10_ph_const_wo_skybb.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0bd4848e2499aad0d988a78e25b8cc26b9ac44ce",
+      "size": 2159189,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/0bd4848e2499aad0d988a78e25b8cc26b9ac44ce"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_10_10_ph_wo_skybb.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6850e4eaf47a5a7899f140a6d64ccc9faa328eec",
+      "size": 7893905,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/6850e4eaf47a5a7899f140a6d64ccc9faa328eec"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_10_15_ph.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ecf59a65a8e0434dcd3516b178204ced2f68036f",
+      "size": 7755000,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/ecf59a65a8e0434dcd3516b178204ced2f68036f"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_10_15_ph_const_wo_skybb.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e439c904f963643b2a63db60988aa36941d967ae",
+      "size": 2159771,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/e439c904f963643b2a63db60988aa36941d967ae"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_10_15_ph_wo_skybb.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a4744df1ff7b5681cc241259858ef21c2a14fcc0",
+      "size": 7923319,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/a4744df1ff7b5681cc241259858ef21c2a14fcc0"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_10_20_ph.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b3ee5d4711711e80b0fcce1e4d5ab1617ab640c9",
+      "size": 7755000,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/b3ee5d4711711e80b0fcce1e4d5ab1617ab640c9"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_10_20_ph_const_wo_skybb.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52336f1f76fface2ad07983fe3a07187497ef96a",
+      "size": 2160143,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/52336f1f76fface2ad07983fe3a07187497ef96a"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_10_20_ph_wo_skybb.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "49959e103ee8e9915043d55695f4facbac15e905",
+      "size": 7943428,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/49959e103ee8e9915043d55695f4facbac15e905"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_16_10_ph.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f74352fc246c2a1a659a4a873468b9527908643d",
+      "size": 7755000,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/f74352fc246c2a1a659a4a873468b9527908643d"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_16_10_ph_const_wo_skybb.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5849c8121451a276082bcaf918734ea2d7f79a8a",
+      "size": 2159741,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/5849c8121451a276082bcaf918734ea2d7f79a8a"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_16_10_ph_wo_skybb.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b29ccfc0ba84a5057110da27cf8ccaf4df1a2510",
+      "size": 7908464,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/b29ccfc0ba84a5057110da27cf8ccaf4df1a2510"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_16_15_ph.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "91d1b454c4c03221fa1f1324139cc729680108fe",
+      "size": 7755000,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/91d1b454c4c03221fa1f1324139cc729680108fe"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_16_15_ph_const_wo_skybb.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "10065c311a0a771bccc79fd8802dbc7ccbf954c2",
+      "size": 2160097,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/10065c311a0a771bccc79fd8802dbc7ccbf954c2"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_16_15_ph_wo_skybb.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e2fbf26346b4a0cf874dfa10d1fba2cd255f016",
+      "size": 7936806,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/6e2fbf26346b4a0cf874dfa10d1fba2cd255f016"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_16_20_ph.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "33bb99f25a5f9f3cfafb46f0a18b2eb3656b2b40",
+      "size": 7755000,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/33bb99f25a5f9f3cfafb46f0a18b2eb3656b2b40"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_16_20_ph_const_wo_skybb.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "42a85ad5b491251bf0ce6d1992c406b29d8e4ceb",
+      "size": 2160609,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/42a85ad5b491251bf0ce6d1992c406b29d8e4ceb"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_16_20_ph_wo_skybb.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c295b43792441840e5f30566d34cd0ad757c7a46",
+      "size": 7957495,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/c295b43792441840e5f30566d34cd0ad757c7a46"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_30_10_ph.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fe6e485f59349c87fcd1bf56e919b7412dac32d6",
+      "size": 7755000,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/fe6e485f59349c87fcd1bf56e919b7412dac32d6"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_30_10_ph_const_wo_skybb.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "02ce8c403835a58ca1b2eab7c5004fd351b430f8",
+      "size": 2159685,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/02ce8c403835a58ca1b2eab7c5004fd351b430f8"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_30_10_ph_wo_skybb.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f1c310c75373426ead11cb18ce12c1e00303c4b2",
+      "size": 7928256,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/f1c310c75373426ead11cb18ce12c1e00303c4b2"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_30_15_ph.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2697b57b015cd66448e60c1212be7dfbc6072c92",
+      "size": 7755000,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/2697b57b015cd66448e60c1212be7dfbc6072c92"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_30_15_ph_const_wo_skybb.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a374e0c5161942c0d8924ad47fe4be2bfddbe7a1",
+      "size": 2160325,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/a374e0c5161942c0d8924ad47fe4be2bfddbe7a1"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_30_15_ph_wo_skybb.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e8a20e0a82c0c2005e2e78c2e82087868bf79cb1",
+      "size": 7957250,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/e8a20e0a82c0c2005e2e78c2e82087868bf79cb1"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_30_20_ph.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb50a13a7c4fa283c178f71261f4d5a9fb0f8b94",
+      "size": 7755000,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/eb50a13a7c4fa283c178f71261f4d5a9fb0f8b94"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_30_20_ph_const_wo_skybb.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "49d3aa570b69becc7af2501db1b3d1ad0149f1ec",
+      "size": 2160594,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/49d3aa570b69becc7af2501db1b3d1ad0149f1ec"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_30_20_ph_wo_skybb.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6f33eb7cdaab18567881e4610680d96b903982c4",
+      "size": 7977233,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/6f33eb7cdaab18567881e4610680d96b903982c4"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_50_10_ph.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "95f8846dda95fbed958a4977021491891f99ebf9",
+      "size": 7755000,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/95f8846dda95fbed958a4977021491891f99ebf9"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_50_10_ph_const_wo_skybb.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e1923a7063f74a7d1988e827accb0738bd70544f",
+      "size": 2160287,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/e1923a7063f74a7d1988e827accb0738bd70544f"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_50_10_ph_wo_skybb.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1ac28d7bc19ddce80bfdda9dc033b42f1af50bc5",
+      "size": 7944211,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/1ac28d7bc19ddce80bfdda9dc033b42f1af50bc5"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_50_15_ph.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af7ebabd320a07fb99fd31da3fb574c5bf558746",
+      "size": 7755000,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/af7ebabd320a07fb99fd31da3fb574c5bf558746"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_50_15_ph_const_wo_skybb.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8dd86c89bf61e136569a3b778be3340347b2c3f0",
+      "size": 2160613,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/8dd86c89bf61e136569a3b778be3340347b2c3f0"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_50_15_ph_wo_skybb.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f3c1bc3438fe9b8fdc9477854c6a6a3420bff869",
+      "size": 7972801,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/f3c1bc3438fe9b8fdc9477854c6a6a3420bff869"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_50_20_ph.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "31946cf302e15563672ae1b0ab2594a87347590a",
+      "size": 7755000,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/31946cf302e15563672ae1b0ab2594a87347590a"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_50_20_ph_const_wo_skybb.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "33e5383c73ef1b79f48d66d518b6cdeebd2fd41c",
+      "size": 2160686,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/33e5383c73ef1b79f48d66d518b6cdeebd2fd41c"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_50_20_ph_wo_skybb.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6070b71790c4031dbf09bf1850ba7924d913fc5d",
+      "size": 7992213,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/6070b71790c4031dbf09bf1850ba7924d913fc5d"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mktrans_zm_10_10.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fee998f39bf8020f340375cf108d2f35d2b976a7",
+      "size": 5240991,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/fee998f39bf8020f340375cf108d2f35d2b976a7"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mktrans_zm_10_15.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "99c42f62e448ead46119206da4d1dd0f8613ec93",
+      "size": 5224651,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/99c42f62e448ead46119206da4d1dd0f8613ec93"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mktrans_zm_10_20.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a6296c8d76cf21b3d788401c7ae921ac8154f23b",
+      "size": 5213029,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/a6296c8d76cf21b3d788401c7ae921ac8154f23b"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mktrans_zm_16_10.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f4e78287eba3c1d8d53e100382a07613d565025c",
+      "size": 5231070,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/f4e78287eba3c1d8d53e100382a07613d565025c"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mktrans_zm_16_15.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e383501784ddfb99cf066abfe59fffd7392c4bc",
+      "size": 5213986,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/7e383501784ddfb99cf066abfe59fffd7392c4bc"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mktrans_zm_16_15_ph.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "97102163a519228b2b053a59269eee7200f4fa00",
+      "size": 3810181,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/97102163a519228b2b053a59269eee7200f4fa00"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mktrans_zm_16_20.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d511a69bdcd1c2f9d717e0b028a85345c27bbb6f",
+      "size": 5200364,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/d511a69bdcd1c2f9d717e0b028a85345c27bbb6f"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mktrans_zm_30_10.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ee51d92c7dca07a1e424ec3731d3264276d38f8f",
+      "size": 5213771,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/ee51d92c7dca07a1e424ec3731d3264276d38f8f"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mktrans_zm_30_15.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6d6482dae2eeaba15125b93085469bd74008508c",
+      "size": 5193171,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/6d6482dae2eeaba15125b93085469bd74008508c"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mktrans_zm_30_20.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3a11b4994d541688f47e27401ace2c570ddc1b35",
+      "size": 5175901,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/3a11b4994d541688f47e27401ace2c570ddc1b35"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mktrans_zm_50_10.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c3ec5ee7411c4b477e93ed4da4d77e9ffad6ac7",
+      "size": 5196485,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/2c3ec5ee7411c4b477e93ed4da4d77e9ffad6ac7"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mktrans_zm_50_15.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e4f95cfb871a21f37abbc54797c28f1c0f916a74",
+      "size": 5174994,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/e4f95cfb871a21f37abbc54797c28f1c0f916a74"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mktrans_zm_50_20.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "91672ae94b68d7fce99850769ee125ebefdb643c",
+      "size": 5157091,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/91672ae94b68d7fce99850769ee125ebefdb643c"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/mktrans_zm_const.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8ef532bb80eb05db325434989c76969c9e1d8a3e",
+      "size": 28154,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/8ef532bb80eb05db325434989c76969c9e1d8a3e"
+    },
+    {
+      "path": "sensitivity/MaunaKea_Sky/ultimate/moon.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "040a00e6bd462a467f93c970d303ab9fa8987a52",
+      "size": 1208639,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/040a00e6bd462a467f93c970d303ab9fa8987a52"
+    },
+    {
+      "path": "sensitivity/custom.asc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cae1339d49781cae101de5f36b7ffa1733b33f27",
+      "size": 121,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/cae1339d49781cae101de5f36b7ffa1733b33f27"
+    },
+    {
+      "path": "sensitivity/moircs_bb.asc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "da61cb3fd647f40d9aee72969aaa70e43848b483",
+      "size": 116,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/da61cb3fd647f40d9aee72969aaa70e43848b483"
+    },
+    {
+      "path": "sensitivity/moircs_mb.asc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f4cb77bb977d81bb28b6120e151030fd7e7fb040",
+      "size": 291,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/f4cb77bb977d81bb28b6120e151030fd7e7fb040"
+    },
+    {
+      "path": "sensitivity/moircs_nb.asc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "71d890fda6ae791467d5ca381617a8c1a543a74f",
+      "size": 484,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/71d890fda6ae791467d5ca381617a8c1a543a74f"
+    },
+    {
+      "path": "sensitivity/readme.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c99d68173fcbd89c6402f951e5e79ed146ce02ff",
+      "size": 2176,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/c99d68173fcbd89c6402f951e5e79ed146ce02ff"
+    },
+    {
+      "path": "sensitivity/swims_bb.asc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d670c16ae94b16cc01c06788aad05d54d2383005",
+      "size": 120,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/d670c16ae94b16cc01c06788aad05d54d2383005"
+    },
+    {
+      "path": "sensitivity/swims_mb.asc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f4cb77bb977d81bb28b6120e151030fd7e7fb040",
+      "size": 291,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/f4cb77bb977d81bb28b6120e151030fd7e7fb040"
+    },
+    {
+      "path": "sensitivity/swims_nb.asc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b86df724f16a97a977456be4469e1a85c5c0266e",
+      "size": 383,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/b86df724f16a97a977456be4469e1a85c5c0266e"
+    },
+    {
+      "path": "sensitivity/ultimate.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bcd271fb68ce0f687b991432640007fc027ca61f",
+      "size": 19225,
+      "url": "https://api.github.com/repos/sali131/ULTIMATE-Subaru-Sensitivity-Calculator/git/blobs/bcd271fb68ce0f687b991432640007fc027ca61f"
+    }
+  ],
+  "truncated": false
+}

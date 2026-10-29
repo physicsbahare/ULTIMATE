@@ -1,0 +1,4 @@
+subhalo_id,view,selection,basis
+117272,O1,Largest C recovery gain,"galaxy-averaged concentration-error gain; images show fixed O1, not optimized orientation"
+507292,O1,Smallest C recovery gain,"galaxy-averaged concentration-error gain; images show fixed O1, not optimized orientation"
+167418,O1,Weak/zero projected dust,"galaxy-averaged concentration-error gain; images show fixed O1, not optimized orientation"

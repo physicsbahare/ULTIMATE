@@ -1,0 +1,142 @@
+[
+  {
+    "path": "TNG50_SKIRT/dust_extraction.log",
+    "bytes": 0
+  },
+  {
+    "path": "TNG50_SKIRT/download_one.py",
+    "bytes": 1379
+  },
+  {
+    "path": "TNG50_SKIRT/logs/294866.pid",
+    "bytes": 5
+  },
+  {
+    "path": "TNG50_SKIRT/logs/294866.log",
+    "bytes": 1670
+  },
+  {
+    "path": "TNG50_SKIRT/downloads/TNG50_DR1_294866.tar.gz",
+    "bytes": 2057187650
+  },
+  {
+    "path": "TNG50_SKIRT/pilot_294866/TNG294866_O1_2MASS_Ks_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "path": "TNG50_SKIRT/pilot_294866/TNG294866_O1_LSST_g_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "path": "TNG50_SKIRT/pilot_294866/TNG294866_O1_2MASS_Ks.fits",
+    "bytes": 10244160
+  },
+  {
+    "path": "TNG50_SKIRT/pilot_294866/TNG294866_O1_LSST_g.fits",
+    "bytes": 10244160
+  },
+  {
+    "path": "TNG50_SKIRT/pilot_294866/TNG294866_O1_dustmass.fits",
+    "bytes": 10244160
+  },
+  {
+    "path": "HAWKI_GRAAL/logs/ngc3256.log",
+    "bytes": 10596
+  },
+  {
+    "path": "HAWKI_GRAAL/logs/ngc3256.pid",
+    "bytes": 5
+  },
+  {
+    "path": "HAWKI_GRAAL/NGC3256/HAWKI.2018-01-03T08:23:49.797.fits",
+    "bytes": 67271040
+  },
+  {
+    "path": "HAWKI_GRAAL/NGC3256/HAWKI.2018-01-03T08:33:59.699.fits",
+    "bytes": 67271040
+  },
+  {
+    "path": "HAWKI_GRAAL/NGC3256/HAWKI.2018-01-06T08:32:42.920.fits",
+    "bytes": 67271040
+  },
+  {
+    "path": "HAWKI_GRAAL/NGC3256/HAWKI.2018-01-03T08:28:01.919.fits",
+    "bytes": 67271040
+  },
+  {
+    "path": "HAWKI_GRAAL/NGC3256/HAWKI.2018-01-06T08:34:09.695.fits",
+    "bytes": 67273920
+  },
+  {
+    "path": "HAWKI_GRAAL/NGC3256/HAWKI.2018-01-03T08:30:59.055.fits",
+    "bytes": 67273920
+  },
+  {
+    "path": "HAWKI_GRAAL/NGC3256/HAWKI.2018-01-03T08:38:05.077.fits",
+    "bytes": 67271040
+  },
+  {
+    "path": "HAWKI_GRAAL/NGC3256/HAWKI.2018-01-03T08:44:05.107.fits",
+    "bytes": 67271040
+  },
+  {
+    "path": "HAWKI_GRAAL/NGC3256/HAWKI.2018-01-03T08:45:18.811.fits",
+    "bytes": 67273920
+  },
+  {
+    "path": "HAWKI_GRAAL/NGC3256/HAWKI.2018-01-06T08:25:19.803.fits",
+    "bytes": 67273920
+  },
+  {
+    "path": "HAWKI_GRAAL/NGC3256/HAWKI.2018-01-03T08:29:28.736.fits",
+    "bytes": 67273920
+  },
+  {
+    "path": "HAWKI_GRAAL/NGC3256/HAWKI.2018-01-06T08:35:37.495.fits",
+    "bytes": 67273920
+  },
+  {
+    "path": "HAWKI_GRAAL/NGC3256/HAWKI.2018-01-03T08:42:34.810.fits",
+    "bytes": 67273920
+  },
+  {
+    "path": "HAWKI_GRAAL/NGC3256/HAWKI.2018-01-03T08:22:19.465.fits",
+    "bytes": 67271040
+  },
+  {
+    "path": "HAWKI_GRAAL/NGC3256/HAWKI.2018-01-03T08:32:29.380.fits",
+    "bytes": 67273920
+  },
+  {
+    "path": "HAWKI_GRAAL/NGC3256/HAWKI.2018-01-03T08:46:49.130.fits",
+    "bytes": 67273920
+  },
+  {
+    "path": "HAWKI_GRAAL/NGC3256/query_results.csv",
+    "bytes": 21867
+  },
+  {
+    "path": "HAWKI_GRAAL/NGC3256/HAWKI.2018-01-03T08:25:16.602.fits",
+    "bytes": 67273920
+  },
+  {
+    "path": "HAWKI_GRAAL/NGC3256/HAWKI.2018-01-03T08:39:36.396.fits",
+    "bytes": 67273920
+  },
+  {
+    "path": "HAWKI_GRAAL/NGC3256/HAWKI.2018-01-06T08:31:12.560.fits",
+    "bytes": 67271040
+  },
+  {
+    "path": "HAWKI_GRAAL/NGC3256/HAWKI.2018-01-06T08:26:50.126.fits",
+    "bytes": 67271040
+  },
+  {
+    "path": "HAWKI_GRAAL/NGC3256/HAWKI.2018-01-06T08:28:16.891.fits",
+    "bytes": 67273920
+  },
+  {
+    "path": "HAWKI_GRAAL/NGC3256/HAWKI.2018-01-06T08:29:44.701.fits",
+    "bytes": 67273920
+  }
+]

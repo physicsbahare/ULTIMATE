@@ -1,0 +1,42 @@
+[
+  {
+    "field": "pawprint1",
+    "rho_x": 0.3580428210790716,
+    "rho_y": 0.3283371639936007,
+    "kernel_L2_norm": 1.0,
+    "pixel_arcsec": 0.10656,
+    "scope": "local covariance sensitivity only; reproduces adjacent lags, not measured long-scale/confusion excess"
+  },
+  {
+    "field": "pawprint2",
+    "rho_x": 0.3635516413410804,
+    "rho_y": 0.3541831149638244,
+    "kernel_L2_norm": 1.0,
+    "pixel_arcsec": 0.10656,
+    "scope": "local covariance sensitivity only; reproduces adjacent lags, not measured long-scale/confusion excess"
+  },
+  {
+    "field": "pawprint3",
+    "rho_x": 0.3316081937882211,
+    "rho_y": 0.2750880205182707,
+    "kernel_L2_norm": 1.0,
+    "pixel_arcsec": 0.10656,
+    "scope": "local covariance sensitivity only; reproduces adjacent lags, not measured long-scale/confusion excess"
+  },
+  {
+    "field": "pawprint4",
+    "rho_x": 0.363930877415552,
+    "rho_y": 0.4007186757679554,
+    "kernel_L2_norm": 0.9999999999999999,
+    "pixel_arcsec": 0.10656,
+    "scope": "local covariance sensitivity only; reproduces adjacent lags, not measured long-scale/confusion excess"
+  },
+  {
+    "field": "tile0",
+    "rho_x": 0.3714517551948199,
+    "rho_y": 0.3541975586283403,
+    "kernel_L2_norm": 1.0,
+    "pixel_arcsec": 0.10656,
+    "scope": "local covariance sensitivity only; reproduces adjacent lags, not measured long-scale/confusion excess"
+  }
+]

@@ -1,0 +1,17 @@
+z,truth,population_prior,logB_median,n_apertures_median
+0.1,mixed_SKIRT,broad,-22.477,69.0
+0.1,mixed_SKIRT,near_clear,-25.441,69.0
+0.1,uniform_control,broad,-33.095,69.0
+0.1,uniform_control,near_clear,-28.878,69.0
+0.3,mixed_SKIRT,broad,-4.49,13.0
+0.3,mixed_SKIRT,near_clear,-4.937,13.0
+0.3,uniform_control,broad,-5.955,13.0
+0.3,uniform_control,near_clear,-13.182,13.0
+0.6,mixed_SKIRT,broad,5.56,5.0
+0.6,mixed_SKIRT,near_clear,9.481,5.0
+0.6,uniform_control,broad,-3.255,5.0
+0.6,uniform_control,near_clear,7.318,5.0
+1.0,mixed_SKIRT,broad,4.338,5.0
+1.0,mixed_SKIRT,near_clear,8.512,5.0
+1.0,uniform_control,broad,0.583,5.0
+1.0,uniform_control,near_clear,20.161,5.0

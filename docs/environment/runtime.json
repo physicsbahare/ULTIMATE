@@ -1,0 +1,7 @@
+{
+  "verified_date": "2026-10-29",
+  "executable": "/home/bahareh/miniforge3/envs/phd/bin/python",
+  "python": "3.12.15 (main, Oct 13 2026, 16:52:04) [GCC 15.3.0]",
+  "platform": "Linux-4.15.0-213-generic-x86_64-with-glibc2.28",
+  "note": "Metadata inspection only; no scientific modules or scripts imported."
+}

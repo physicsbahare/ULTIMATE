@@ -1,0 +1,28 @@
+{
+  "checked": "2026-10-27",
+  "fits_checksums_datasums": "all3 pass",
+  "grid_agreement_pixels": "<1e-9",
+  "reduced_fit_candidates": 109,
+  "reduced_accepted": 103,
+  "raw_subset_frames": 4,
+  "raw_detector_images": 16,
+  "raw_fits": 48,
+  "raw_accepted": 36,
+  "visual_inspection": [
+    "reduced_overview.png",
+    "reduced_fit_inspection.png",
+    "reduced_noise.png",
+    "fit_inspection.png",
+    "psf_field.png",
+    "native_noise.png",
+    "catalogue_validation.png"
+  ],
+  "limitations": [
+    "candidate stars not externally catalog-confirmed",
+    "no independent astrometric/photometric catalogue validation",
+    "elliptical EE analytic extrapolation,2beta<2wing outliers",
+    "correlation combines resampling and residual structure",
+    "HAWKI-only diagnostics,notULTIMATE calibration"
+  ],
+  "catalogue_validation": "149 IRSArows;23mutual matches;9qualitystellar matches;photcalJ/Hdocumentation discrepancy preserved"
+}

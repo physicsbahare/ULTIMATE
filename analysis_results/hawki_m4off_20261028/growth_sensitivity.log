@@ -1,0 +1,6 @@
+    field  halo_FWHM_arcsec  halo_fraction_extrapolated_total  finite_EE_RMS  n_clean_wing_stars
+pawprint1              1.85                          0.065745       0.002478                  18
+pawprint2              3.00                          0.013277       0.010536                   4
+pawprint3              1.95                          0.056782       0.003817                  19
+pawprint4              1.50                          0.089451       0.003395                  12
+    tile0              1.55                          0.092175       0.002313                  45

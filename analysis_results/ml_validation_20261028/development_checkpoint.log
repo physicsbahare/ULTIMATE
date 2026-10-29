@@ -1,0 +1,10 @@
+ target         model  galaxies  nested_group_CV_MAE
+    A_g      constant        37             0.244340
+    A_g   photo_ridge        37             0.080973
+    A_g spatial_ridge        37             0.102749
+dR50_Ks      constant        37             0.124922
+dR50_Ks   photo_ridge        37             0.079676
+dR50_Ks spatial_ridge        37             0.061191
+  dC_Ks      constant        37             0.142402
+  dC_Ks   photo_ridge        37             0.095435
+  dC_Ks spatial_ridge        37             0.097617

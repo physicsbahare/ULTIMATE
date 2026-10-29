@@ -1,0 +1,7 @@
+mode,hours,n_reference_pixels,median_noiseless_observable_structure,noiseless_pixels_above_amplitude,linearized_expected_threshold_crossing_completeness,evaluation_completeness,MC_mean_low,MC_mean_high,explanation
+seeing,0.25,46,0.042892573845839777,0,0.13698926032264358,0.158695652173913,0.0970670778901784,0.2203242264576476,PSF and stellar colour reduce observable contrast; noise can scatter it across fixed amplitude threshold
+seeing,1.0,46,0.042892573845839777,0,0.03748808590236714,0.0391304347826087,0.0114454598577698,0.0668154097074475,PSF and stellar colour reduce observable contrast; noise can scatter it across fixed amplitude threshold
+seeing,4.0,46,0.042892573845839777,0,0.00317724647811293,0.0065217391304347,-0.0018390822637161,0.0148825605245857,PSF and stellar colour reduce observable contrast; noise can scatter it across fixed amplitude threshold
+glao,0.25,46,0.04737650350185564,12,0.33397587096048303,0.3570652173913043,0.2844381139755343,0.4296923208070743,PSF and stellar colour reduce observable contrast; noise can scatter it across fixed amplitude threshold
+glao,1.0,46,0.04737650350185564,12,0.27245910504273796,0.2565217391304347,0.2042277805634713,0.3088156976973981,PSF and stellar colour reduce observable contrast; noise can scatter it across fixed amplitude threshold
+glao,4.0,46,0.04737650350185564,12,0.24968939555325184,0.2521739130434782,0.2146904841141043,0.2896573419728522,PSF and stellar colour reduce observable contrast; noise can scatter it across fixed amplitude threshold

@@ -1,0 +1,12 @@
+test_broken_gzip_and_tar_rejected (<run_path>.Tests.test_broken_gzip_and_tar_rejected) ... ok
+test_budget_and_reserve (<run_path>.Tests.test_budget_and_reserve) ... ok
+test_existing_bad_size_preserved (<run_path>.Tests.test_existing_bad_size_preserved) ... ok
+test_http_retry_and_auth_failure (<run_path>.Tests.test_http_retry_and_auth_failure) ... ok
+test_redirect_safety (<run_path>.Tests.test_redirect_safety) ... ok
+test_resume_and_verified_skip (<run_path>.Tests.test_resume_and_verified_skip) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.014s
+
+OK
+PASS:120 unique frozen IDs,86/14/20 partitions,94 complete preflight size/range checks, six inherited security/integrity/resume tests with expansion configuration.

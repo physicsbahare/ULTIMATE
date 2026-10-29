@@ -1,0 +1,18 @@
+{
+  "subhalo_id": 143899,
+  "partition": "final_test",
+  "path": "data/TNG50_SKIRT_DR1_ml_expansion/TNG50_DR1_143899.tar.gz",
+  "bytes": 180871837,
+  "mtime_ns": 1793098346485641206,
+  "sha256": "a0f76b9a123ac2df7d3c8e761adca71bfe9a91f415c9f26e853a328d8fb84a3f",
+  "recorded_sha256": "a0f76b9a123ac2df7d3c8e761adca71bfe9a91f415c9f26e853a328d8fb84a3f",
+  "sha_matches": true,
+  "size_matches": true,
+  "mtime_matches": true,
+  "recorded_status": "verified",
+  "recorded_gzip_CRC": "passed",
+  "recorded_tar_read": "passed",
+  "sealed_final": true,
+  "science_opened": false,
+  "CRC_evidence": "Inherited downloader CRC/tar verification; current compressed SHA256 and byte length identical"
+}

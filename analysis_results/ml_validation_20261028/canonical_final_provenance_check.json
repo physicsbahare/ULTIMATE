@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "canonical_directory": "/home/bahareh/ULTIMATE/analysis_results/ml_expanded_20261028",
+  "freeze_sha256": "587aab56d39e6b29ad47f381c4b1440c8dd28eb52811ebc4ae3842b6fc220ce4",
+  "canonical_final_evaluations": 1,
+  "canonical_primary_galaxies": 16,
+  "canonical_control_galaxies": 4,
+  "additional_final_evaluations_by_this_continuation": 0,
+  "supplementary_models_validation_only": true
+}

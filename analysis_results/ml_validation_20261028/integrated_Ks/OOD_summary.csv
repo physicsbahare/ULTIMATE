@@ -1,0 +1,5 @@
+tag,n_train,n_test,MAE,constant_MAE,setting
+fixed12_nir_seeing_A_Ks_ridge_photo_,55,19,0.014646217813485138,0.06208074333275628,100.0
+fixed12_nir_seeing_A_Ks_ridge_spatial_,55,19,0.017166036659877933,0.06208074333275628,10.0
+fixed12_nir_glao_A_Ks_ridge_photo_,55,19,0.01464754100492277,0.06208074333275628,100.0
+fixed12_nir_glao_A_Ks_ridge_spatial_,55,19,0.02077459546238712,0.06208074333275628,10.0

@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "galaxies": [
+    294866,
+    571633,
+    578834,
+    319734
+  ],
+  "benchmark": "original_R12_benchmark.csv",
+  "final_science_opened": false
+}

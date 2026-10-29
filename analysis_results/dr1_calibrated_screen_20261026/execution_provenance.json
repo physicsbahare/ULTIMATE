@@ -1,0 +1,59 @@
+{
+  "python": "3.12.15 (main, Oct 13 2026, 16:52:04) [GCC 15.3.0]",
+  "executable": "/home/bahareh/miniforge3/envs/phd/bin/python",
+  "versions": {
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "astropy": "8.0.2",
+    "matplotlib": "3.11.2",
+    "pandas": "3.0.6",
+    "nbformat": "5.11.1",
+    "nbclient": "0.11.0"
+  },
+  "code_sha256": {
+    "refresh_notebook_figures.py": "5b7fdf297a637cc349ac48765759431b4dde508569a8931c8effe99ce81ad900",
+    "residual_diagnostics.py": "b04a325cd10812c5a798b4269c8563cdc5c29ea24e69e8c2e204d4cd50c77fca",
+    "population_stress.py": "bcb8c0c263b0e767d3c3f003a30d17dc59759f7f873d679847849735fe976a14",
+    "test_validation.py": "b40e8e0c1a7da65d387bed3fe94c4b6b0c2c6f277ca364870ebc16da86fddfb1",
+    "execute_notebook.py": "f75c80e61f3b1f5a805076fdf43b3079b117d3edd025b75bf3d63dc1f979f256",
+    "final_ensemble.py": "57981c63c1f71707d9f31a4a4e811952207dcf4492298880eaf1136e035959ab",
+    "final_stress.py": "04da821ef75ffc716ca17754d9025b8b06d79013053fd4365d1ecf0b75144596",
+    "experiment.py": "4e213b04a29bb70fd115d6cc18b396cc3067015f9be54e2b49c6f41453b44fe2",
+    "build_notebook.py": "04a1f4a5de67c853277c2544cf292a43e2557de39d54d36754947ff51d7d6cc8",
+    "record_provenance.py": "b024f8374a4047d9989fe034e10180e6ca17f4a588c657d0dc77e0733d50e4f4",
+    "validate_delivery.py": "38cb5a539e10d2b0e892e61a5790147a69f429c458528bf26fef8857793b604f",
+    "diagnostics.py": "70755a03293e187177f2af1a7b671aed089feba0979762288023ebb95d51fb34",
+    "publish.py": "fc146d396a308080e33671ab96ccbf0a71061f144e2328cce3eb520433f2b2b0",
+    "FINAL_PROTOCOL.md": "5dfdd57c51887ba13467e8bed3baa6d3142b428d32d6c8a319cd1766d5345238",
+    "PLAN.md": "28493bc2bc882b8fcb20ead106a0df58e0f047a1fe7da02d499f249c2300ad23"
+  },
+  "source_previous_directory": "../screen_test_20261026",
+  "no_new_data_downloads": true,
+  "no_package_installation": true,
+  "no_intrinsic_evolution": true,
+  "original_galaxies": 1,
+  "orientations_not_independent_galaxies": true,
+  "source_image_units": "MJy/sr",
+  "source_native_pixel_pc": 100,
+  "source_bands": [
+    "LSST_g",
+    "LSST_r",
+    "LSST_i",
+    "LSST_z",
+    "2MASS_J",
+    "2MASS_H",
+    "2MASS_Ks"
+  ],
+  "primary_noise_budget": "7 bands x 1h on source; 60s DIT, 60 reads/band",
+  "final_random_seed_noise": "510031 + stage*900019 + int(z*100), common across seeing/GLAO/PSF strategy",
+  "final_random_seed_population": "904672 + stage*70001, common across observing conditions; stage0 calibration stage1 evaluation",
+  "population_field_seed": 860142,
+  "original_screen_patch_seed": 41523,
+  "final_anchor_seed": "experiment.seed_for(int(z*100),23)",
+  "GLAO_bootstrap_seed": 833108,
+  "final_ensemble_draws_per_null_or_scene": 500,
+  "development_draws_calibration_evaluation": [
+    200,
+    200
+  ]
+}

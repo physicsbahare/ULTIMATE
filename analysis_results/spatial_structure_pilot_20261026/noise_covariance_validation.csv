@@ -1,0 +1,7 @@
+method,noise,n_independent_draws,mean_standardized_residual,empirical_to_propagated_variance
+g_Ks_matched,Gaussian_moments,40,0.0028427080716982136,1.0085737211176948
+g_Ks_matched,exact_aggregate_Poisson_read,40,-0.012030804417994175,1.0395818218193387
+J_Ks_NIR,Gaussian_moments,40,-0.0059731481598552984,0.9757213509848032
+J_Ks_NIR,exact_aggregate_Poisson_read,40,-0.0020154979686096853,0.9907124789192097
+Ks_native,Gaussian_moments,40,-0.0037556223262770333,0.9963770871918154
+Ks_native,exact_aggregate_Poisson_read,40,0.003804074928136601,1.0138018383875143

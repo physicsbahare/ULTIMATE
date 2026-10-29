@@ -1,0 +1,5 @@
+subhalo_id,view,z,hours,kind,mode,scene,padded_flux_loss
+594731,O3,0.1,1.0,gaussian,seeing,clear,1.3766765505351941e-14
+594731,O3,0.1,1.0,gaussian,seeing,dusty,1.4210854715202004e-14
+594731,O3,0.1,1.0,gaussian,glao,clear,1.3766765505351941e-14
+594731,O3,0.1,1.0,gaussian,glao,dusty,1.4210854715202004e-14

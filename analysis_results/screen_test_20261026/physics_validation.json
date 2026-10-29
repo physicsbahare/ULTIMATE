@@ -1,0 +1,31 @@
+{
+  "pinned_git_blobs_validated": 37,
+  "distance_flux_duality": [
+    {
+      "z": 0.1,
+      "relative_error": 2.220446049250313e-16
+    },
+    {
+      "z": 0.3,
+      "relative_error": 6.661338147750939e-16
+    },
+    {
+      "z": 0.6,
+      "relative_error": 0.0
+    },
+    {
+      "z": 1.0,
+      "relative_error": 2.220446049250313e-16
+    },
+    {
+      "z": 3.0,
+      "relative_error": 0.0
+    }
+  ],
+  "aperture_variance_empirical_ratio": 1.031487380838423,
+  "electron_conversion_max_fractional_vs_central_wavelength": 0.0014925419298723597,
+  "original_pilot_sha256": "ba9ed6be682f65d5a8687ebf46c86170abe22279a3a615357fa8d6b05a46dcbd",
+  "original_pilot_matches_previous_run": true,
+  "source_only_shape_files_prohibited_in_fitter": true,
+  "scientific_review": "Independent reviewer found no critical physics bug; false screen rejection from population/template mismatch and unconditioned marginal SNR selection prohibit a physical geometry-detection claim."
+}

@@ -1,0 +1,85 @@
+HAWKI.2018-01-03T08:22:19.465.fits CHIP1.INT1 background
+WARNING: VerifyWarning: Verification reported errors: [astropy.io.fits.verify]
+WARNING: VerifyWarning: Card 'ESO DET CHIP PXSPACE' is not FITS standard (invalid value string: '1.800e-05 / Pixel-Pixel Spacing').  Fixed 'ESO DET CHIP PXSPACE' card to meet the FITS standard. [astropy.io.fits.verify]
+WARNING: VerifyWarning: Note: astropy.io.fits uses zero-based indexing.
+ [astropy.io.fits.verify]
+HAWKI.2018-01-03T08:22:19.465.fits CHIP1.INT1 noise complete
+HAWKI.2018-01-03T08:22:19.465.fits CHIP1.INT1 fitting 4
+HAWKI.2018-01-03T08:22:19.465.fits CHIP1.INT1 fit complete
+HAWKI.2018-01-03T08:22:19.465.fits CHIP2.INT1 background
+HAWKI.2018-01-03T08:22:19.465.fits CHIP2.INT1 noise complete
+HAWKI.2018-01-03T08:22:19.465.fits CHIP2.INT1 fitting 2
+HAWKI.2018-01-03T08:22:19.465.fits CHIP2.INT1 fit complete
+HAWKI.2018-01-03T08:22:19.465.fits CHIP4.INT1 background
+HAWKI.2018-01-03T08:22:19.465.fits CHIP4.INT1 noise complete
+HAWKI.2018-01-03T08:22:19.465.fits CHIP4.INT1 fitting 3
+HAWKI.2018-01-03T08:22:19.465.fits CHIP4.INT1 fit complete
+HAWKI.2018-01-03T08:22:19.465.fits CHIP3.INT1 background
+HAWKI.2018-01-03T08:22:19.465.fits CHIP3.INT1 noise complete
+HAWKI.2018-01-03T08:22:19.465.fits CHIP3.INT1 fitting 2
+HAWKI.2018-01-03T08:22:19.465.fits CHIP3.INT1 fit complete
+HAWKI.2018-01-03T08:22:19.465.fits total fits 11
+HAWKI.2018-01-03T08:46:49.130.fits CHIP1.INT1 background
+WARNING: VerifyWarning: Verification reported errors: [astropy.io.fits.verify]
+WARNING: VerifyWarning: Card 'ESO DET CHIP PXSPACE' is not FITS standard (invalid value string: '1.800e-05 / Pixel-Pixel Spacing').  Fixed 'ESO DET CHIP PXSPACE' card to meet the FITS standard. [astropy.io.fits.verify]
+WARNING: VerifyWarning: Note: astropy.io.fits uses zero-based indexing.
+ [astropy.io.fits.verify]
+HAWKI.2018-01-03T08:46:49.130.fits CHIP1.INT1 noise complete
+HAWKI.2018-01-03T08:46:49.130.fits CHIP1.INT1 fitting 3
+HAWKI.2018-01-03T08:46:49.130.fits CHIP1.INT1 fit complete
+HAWKI.2018-01-03T08:46:49.130.fits CHIP2.INT1 background
+HAWKI.2018-01-03T08:46:49.130.fits CHIP2.INT1 noise complete
+HAWKI.2018-01-03T08:46:49.130.fits CHIP2.INT1 fitting 4
+HAWKI.2018-01-03T08:46:49.130.fits CHIP2.INT1 fit complete
+HAWKI.2018-01-03T08:46:49.130.fits CHIP4.INT1 background
+HAWKI.2018-01-03T08:46:49.130.fits CHIP4.INT1 noise complete
+HAWKI.2018-01-03T08:46:49.130.fits CHIP4.INT1 fitting 2
+HAWKI.2018-01-03T08:46:49.130.fits CHIP4.INT1 fit complete
+HAWKI.2018-01-03T08:46:49.130.fits CHIP3.INT1 background
+HAWKI.2018-01-03T08:46:49.130.fits CHIP3.INT1 noise complete
+HAWKI.2018-01-03T08:46:49.130.fits CHIP3.INT1 fitting 3
+HAWKI.2018-01-03T08:46:49.130.fits CHIP3.INT1 fit complete
+HAWKI.2018-01-03T08:46:49.130.fits total fits 23
+HAWKI.2018-01-06T08:25:19.803.fits CHIP1.INT1 background
+WARNING: VerifyWarning: Verification reported errors: [astropy.io.fits.verify]
+WARNING: VerifyWarning: Card 'ESO DET CHIP PXSPACE' is not FITS standard (invalid value string: '1.800e-05 / Pixel-Pixel Spacing').  Fixed 'ESO DET CHIP PXSPACE' card to meet the FITS standard. [astropy.io.fits.verify]
+WARNING: VerifyWarning: Note: astropy.io.fits uses zero-based indexing.
+ [astropy.io.fits.verify]
+HAWKI.2018-01-06T08:25:19.803.fits CHIP1.INT1 noise complete
+HAWKI.2018-01-06T08:25:19.803.fits CHIP1.INT1 fitting 4
+HAWKI.2018-01-06T08:25:19.803.fits CHIP1.INT1 fit complete
+HAWKI.2018-01-06T08:25:19.803.fits CHIP2.INT1 background
+HAWKI.2018-01-06T08:25:19.803.fits CHIP2.INT1 noise complete
+HAWKI.2018-01-06T08:25:19.803.fits CHIP2.INT1 fitting 2
+HAWKI.2018-01-06T08:25:19.803.fits CHIP2.INT1 fit complete
+HAWKI.2018-01-06T08:25:19.803.fits CHIP4.INT1 background
+HAWKI.2018-01-06T08:25:19.803.fits CHIP4.INT1 noise complete
+HAWKI.2018-01-06T08:25:19.803.fits CHIP4.INT1 fitting 4
+HAWKI.2018-01-06T08:25:19.803.fits CHIP4.INT1 fit complete
+HAWKI.2018-01-06T08:25:19.803.fits CHIP3.INT1 background
+HAWKI.2018-01-06T08:25:19.803.fits CHIP3.INT1 noise complete
+HAWKI.2018-01-06T08:25:19.803.fits CHIP3.INT1 fitting 3
+HAWKI.2018-01-06T08:25:19.803.fits CHIP3.INT1 fit complete
+HAWKI.2018-01-06T08:25:19.803.fits total fits 36
+HAWKI.2018-01-06T08:35:37.495.fits CHIP1.INT1 background
+WARNING: VerifyWarning: Verification reported errors: [astropy.io.fits.verify]
+WARNING: VerifyWarning: Card 'ESO DET CHIP PXSPACE' is not FITS standard (invalid value string: '1.800e-05 / Pixel-Pixel Spacing').  Fixed 'ESO DET CHIP PXSPACE' card to meet the FITS standard. [astropy.io.fits.verify]
+WARNING: VerifyWarning: Note: astropy.io.fits uses zero-based indexing.
+ [astropy.io.fits.verify]
+HAWKI.2018-01-06T08:35:37.495.fits CHIP1.INT1 noise complete
+HAWKI.2018-01-06T08:35:37.495.fits CHIP1.INT1 fitting 2
+HAWKI.2018-01-06T08:35:37.495.fits CHIP1.INT1 fit complete
+HAWKI.2018-01-06T08:35:37.495.fits CHIP2.INT1 background
+HAWKI.2018-01-06T08:35:37.495.fits CHIP2.INT1 noise complete
+HAWKI.2018-01-06T08:35:37.495.fits CHIP2.INT1 fitting 4
+HAWKI.2018-01-06T08:35:37.495.fits CHIP2.INT1 fit complete
+HAWKI.2018-01-06T08:35:37.495.fits CHIP4.INT1 background
+HAWKI.2018-01-06T08:35:37.495.fits CHIP4.INT1 noise complete
+HAWKI.2018-01-06T08:35:37.495.fits CHIP4.INT1 fitting 3
+HAWKI.2018-01-06T08:35:37.495.fits CHIP4.INT1 fit complete
+HAWKI.2018-01-06T08:35:37.495.fits CHIP3.INT1 background
+HAWKI.2018-01-06T08:35:37.495.fits CHIP3.INT1 noise complete
+HAWKI.2018-01-06T08:35:37.495.fits CHIP3.INT1 fitting 3
+HAWKI.2018-01-06T08:35:37.495.fits CHIP3.INT1 fit complete
+HAWKI.2018-01-06T08:35:37.495.fits total fits 48
+{'python': '/home/bahareh/miniforge3/envs/phd/bin/python', 'accepted': 36, 'fitted': 48, 'median_fwhm_arcsec': 0.2723926071293687, 'fwhm_IQR_arcsec': [0.24999255910497303, 0.32633563607567007], 'median_q': 0.8632190590656813, 'median_beta': 2.6821843261947427, 'median_ee50_arcsec': 0.16475990172302218, 'median_ee80_arcsec': 0.28421766347265354, 'esorex': None}

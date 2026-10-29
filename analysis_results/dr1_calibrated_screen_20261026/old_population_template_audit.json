@@ -1,0 +1,35 @@
+[
+  {
+    "prior": "near_clear",
+    "n_templates": 51,
+    "source_ids": [
+      1,
+      2,
+      3,
+      4,
+      7
+    ],
+    "median_best_fractional_rms": 0.062298978056487764,
+    "p95_best_fractional_rms": 0.08232228852643367
+  },
+  {
+    "prior": "broad",
+    "n_templates": 180,
+    "source_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "median_best_fractional_rms": 0.03528788298056303,
+    "p95_best_fractional_rms": 0.04570795885816707
+  }
+]

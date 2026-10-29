@@ -1,0 +1,133 @@
+filename,bytes,error,date_obs,object,programme,filter,dit_s,ndit,header_exptime_s,pixel_scale_arcsec,category,type,technique,dimm_start_arcsec,dimm_end_arcsec,requested_fwhm_arcsec,guide_fwhm_arcsec,ao_ho_loop,ao_jitter_loop,ao_tt_loop,header_satlevel,dit_ndit_s,pipeline_pro_keys,expected_file_bytes,size_matches,hdu_count,checksum_hdus,astropy_inmemory_checksum_failures,raw_checksum_failures,datasum_failures,image_hdus,warnings,structurally_valid,psf_candidate_count,psf_candidate_median_arcsec,psf_candidate_min_arcsec,psf_candidate_max_arcsec
+HAWKI.2018-01-03T08:22:19.465.fits,67271040,,2018-01-03T08:22:19.4648,NGC3256,60.A-9475(A),Ks,1.7,18,1.7,0.10643,SCIENCE,OBJECT,IMAGE,1.1,1.31,0.3,1.28,True,True,False,25000,30.6,0,67271040,True,6,6,4,0,0,4,"Verification reported errors: | Card 'ESO DET CHIP PXSPACE' is not FITS standard (invalid value string: '1.800e-05 / Pixel-Pixel Spacing').  Fixed 'ESO DET CHIP PXSPACE' card to meet the FITS standard. | Note: astropy.io.fits uses zero-based indexing.
+ | Checksum verification failed for HDU ('CHIP1.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP2.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP4.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP3.INT1', 1).
+",True,27,0.3830995263253493,0.3508329836645492,0.4319785083061505
+HAWKI.2018-01-03T08:23:49.797.fits,67271040,,2018-01-03T08:23:49.7970,NGC3256,60.A-9475(A),Ks,1.7,18,1.7,0.10643,SCIENCE,OBJECT,IMAGE,1.31,1.16,0.3,1.28,True,True,False,25000,30.6,0,67271040,True,6,6,4,0,0,4,"Verification reported errors: | Card 'ESO DET CHIP PXSPACE' is not FITS standard (invalid value string: '1.800e-05 / Pixel-Pixel Spacing').  Fixed 'ESO DET CHIP PXSPACE' card to meet the FITS standard. | Note: astropy.io.fits uses zero-based indexing.
+ | Checksum verification failed for HDU ('CHIP1.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP2.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP4.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP3.INT1', 1).
+",True,25,0.3988000681377772,0.3800915475655706,0.4537584865511849
+HAWKI.2018-01-03T08:25:16.602.fits,67273920,,2018-01-03T08:25:16.6018,NGC3256,60.A-9475(A),Ks,1.7,18,1.7,0.10643,SCIENCE,OBJECT,IMAGE,1.16,1.13,0.3,1.05,True,True,False,25000,30.6,0,67273920,True,6,6,4,0,0,4,"Verification reported errors: | Card 'ESO DET CHIP PXSPACE' is not FITS standard (invalid value string: '1.800e-05 / Pixel-Pixel Spacing').  Fixed 'ESO DET CHIP PXSPACE' card to meet the FITS standard. | Note: astropy.io.fits uses zero-based indexing.
+ | Checksum verification failed for HDU ('CHIP1.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP2.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP4.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP3.INT1', 1).
+",True,23,0.417220014511914,0.3898173634374592,0.461896130161187
+HAWKI.2018-01-03T08:28:01.919.fits,67271040,,2018-01-03T08:28:01.9194,NGC3256,60.A-9475(A),Ks,1.7,18,1.7,0.10643,SCIENCE,OBJECT,IMAGE,1.54,1.21,0.3,1.07,True,True,False,25000,30.6,0,67271040,True,6,6,4,0,0,4,"Verification reported errors: | Card 'ESO DET CHIP PXSPACE' is not FITS standard (invalid value string: '1.800e-05 / Pixel-Pixel Spacing').  Fixed 'ESO DET CHIP PXSPACE' card to meet the FITS standard. | Note: astropy.io.fits uses zero-based indexing.
+ | Checksum verification failed for HDU ('CHIP1.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP2.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP4.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP3.INT1', 1).
+",True,31,0.3841719939096275,0.3530310721752652,0.4192229038401043
+HAWKI.2018-01-03T08:29:28.736.fits,67273920,,2018-01-03T08:29:28.7363,NGC3256,60.A-9475(A),Ks,1.7,18,1.7,0.10643,SCIENCE,OBJECT,IMAGE,1.21,1.27,0.3,1.07,True,True,False,25000,30.6,0,67273920,True,6,6,4,0,0,4,"Verification reported errors: | Card 'ESO DET CHIP PXSPACE' is not FITS standard (invalid value string: '1.800e-05 / Pixel-Pixel Spacing').  Fixed 'ESO DET CHIP PXSPACE' card to meet the FITS standard. | Note: astropy.io.fits uses zero-based indexing.
+ | Checksum verification failed for HDU ('CHIP1.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP2.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP4.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP3.INT1', 1).
+",True,25,0.3930154548912259,0.365752359402835,0.4472560782940736
+HAWKI.2018-01-03T08:30:59.055.fits,67273920,,2018-01-03T08:30:59.0545,NGC3256,60.A-9475(A),Ks,1.7,18,1.7,0.10643,SCIENCE,OBJECT,IMAGE,1.27,1.39,0.3,1.07,True,True,False,25000,30.6,0,67273920,True,6,6,4,0,0,4,"Verification reported errors: | Card 'ESO DET CHIP PXSPACE' is not FITS standard (invalid value string: '1.800e-05 / Pixel-Pixel Spacing').  Fixed 'ESO DET CHIP PXSPACE' card to meet the FITS standard. | Note: astropy.io.fits uses zero-based indexing.
+ | Checksum verification failed for HDU ('CHIP1.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP2.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP4.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP3.INT1', 1).
+",True,29,0.3549530499525421,0.2997532348789107,0.3788191702570395
+HAWKI.2018-01-03T08:32:29.380.fits,67273920,,2018-01-03T08:32:29.3799,NGC3256,60.A-9475(A),Ks,1.7,18,1.7,0.10643,SCIENCE,OBJECT,IMAGE,1.39,1.1,0.3,1.25,True,True,False,25000,30.6,0,67273920,True,6,6,4,0,0,4,"Verification reported errors: | Card 'ESO DET CHIP PXSPACE' is not FITS standard (invalid value string: '1.800e-05 / Pixel-Pixel Spacing').  Fixed 'ESO DET CHIP PXSPACE' card to meet the FITS standard. | Note: astropy.io.fits uses zero-based indexing.
+ | Checksum verification failed for HDU ('CHIP1.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP2.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP4.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP3.INT1', 1).
+",True,27,0.404872774166979,0.3590614847258756,0.4694394877817212
+HAWKI.2018-01-03T08:33:59.699.fits,67271040,,2018-01-03T08:33:59.6992,NGC3256,60.A-9475(A),Ks,1.7,18,1.7,0.10643,SCIENCE,OBJECT,IMAGE,1.1,1.33,0.3,1.21,True,True,False,25000,30.6,0,67271040,True,6,6,4,0,0,4,"Verification reported errors: | Card 'ESO DET CHIP PXSPACE' is not FITS standard (invalid value string: '1.800e-05 / Pixel-Pixel Spacing').  Fixed 'ESO DET CHIP PXSPACE' card to meet the FITS standard. | Note: astropy.io.fits uses zero-based indexing.
+ | Checksum verification failed for HDU ('CHIP1.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP2.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP4.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP3.INT1', 1).
+",True,36,0.35011809629042134,0.3220387702615351,0.3949556287520959
+HAWKI.2018-01-03T08:38:05.077.fits,67271040,,2018-01-03T08:38:05.0763,NGC3256,60.A-9475(A),Ks,1.7,18,1.7,0.10643,SCIENCE,OBJECT,IMAGE,1.06,1.22,0.3,1.2,True,True,False,25000,30.6,0,67271040,True,6,6,4,0,0,4,"Verification reported errors: | Card 'ESO DET CHIP PXSPACE' is not FITS standard (invalid value string: '1.800e-05 / Pixel-Pixel Spacing').  Fixed 'ESO DET CHIP PXSPACE' card to meet the FITS standard. | Note: astropy.io.fits uses zero-based indexing.
+ | Checksum verification failed for HDU ('CHIP1.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP2.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP4.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP3.INT1', 1).
+",True,23,0.3934724288248413,0.3641679167667724,0.4453362892774894
+HAWKI.2018-01-03T08:39:36.396.fits,67273920,,2018-01-03T08:39:36.3967,NGC3256,60.A-9475(A),Ks,1.7,18,1.7,0.10643,SCIENCE,OBJECT,IMAGE,1.22,1.22,0.3,1.2,True,True,False,25000,30.6,0,67273920,True,6,6,4,0,0,4,"Verification reported errors: | Card 'ESO DET CHIP PXSPACE' is not FITS standard (invalid value string: '1.800e-05 / Pixel-Pixel Spacing').  Fixed 'ESO DET CHIP PXSPACE' card to meet the FITS standard. | Note: astropy.io.fits uses zero-based indexing.
+ | Checksum verification failed for HDU ('CHIP1.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP2.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP4.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP3.INT1', 1).
+",True,24,0.37680690757894875,0.3301019382264621,0.3978446303655142
+HAWKI.2018-01-03T08:42:34.810.fits,67273920,,2018-01-03T08:42:34.8096,NGC3256,60.A-9475(A),Ks,1.7,18,1.7,0.10643,SCIENCE,OBJECT,IMAGE,1.3,1.3,0.3,0.93,True,True,False,25000,30.6,0,67273920,True,6,6,4,0,0,4,"Verification reported errors: | Card 'ESO DET CHIP PXSPACE' is not FITS standard (invalid value string: '1.800e-05 / Pixel-Pixel Spacing').  Fixed 'ESO DET CHIP PXSPACE' card to meet the FITS standard. | Note: astropy.io.fits uses zero-based indexing.
+ | Checksum verification failed for HDU ('CHIP1.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP2.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP4.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP3.INT1', 1).
+",True,29,0.3400665745844546,0.312880214497559,0.3780826328909265
+HAWKI.2018-01-03T08:44:05.107.fits,67271040,,2018-01-03T08:44:05.1070,NGC3256,60.A-9475(A),Ks,1.7,18,1.7,0.10643,SCIENCE,OBJECT,IMAGE,1.3,1.18,0.3,0.96,True,True,False,25000,30.6,0,67271040,True,6,6,4,0,0,4,"Verification reported errors: | Card 'ESO DET CHIP PXSPACE' is not FITS standard (invalid value string: '1.800e-05 / Pixel-Pixel Spacing').  Fixed 'ESO DET CHIP PXSPACE' card to meet the FITS standard. | Note: astropy.io.fits uses zero-based indexing.
+ | Checksum verification failed for HDU ('CHIP1.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP2.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP4.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP3.INT1', 1).
+",True,24,0.35960853412122085,0.3262305370476224,0.4023200513418651
+HAWKI.2018-01-03T08:45:18.811.fits,67273920,,2018-01-03T08:45:18.8103,NGC3256,60.A-9475(A),Ks,1.7,18,1.7,0.10643,SCIENCE,OBJECT,IMAGE,1.18,1.19,0.3,0.96,True,True,False,25000,30.6,0,67273920,True,6,6,4,0,0,4,"Verification reported errors: | Card 'ESO DET CHIP PXSPACE' is not FITS standard (invalid value string: '1.800e-05 / Pixel-Pixel Spacing').  Fixed 'ESO DET CHIP PXSPACE' card to meet the FITS standard. | Note: astropy.io.fits uses zero-based indexing.
+ | Checksum verification failed for HDU ('CHIP1.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP2.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP4.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP3.INT1', 1).
+",True,23,0.3318724642001274,0.2931782421830206,0.3584255371115859
+HAWKI.2018-01-03T08:46:49.130.fits,67273920,,2018-01-03T08:46:49.1296,NGC3256,60.A-9475(A),Ks,1.7,18,1.7,0.10643,SCIENCE,OBJECT,IMAGE,1.19,1.19,0.3,0.97,True,True,False,25000,30.6,0,67273920,True,6,6,4,0,0,4,"Verification reported errors: | Card 'ESO DET CHIP PXSPACE' is not FITS standard (invalid value string: '1.800e-05 / Pixel-Pixel Spacing').  Fixed 'ESO DET CHIP PXSPACE' card to meet the FITS standard. | Note: astropy.io.fits uses zero-based indexing.
+ | Checksum verification failed for HDU ('CHIP1.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP2.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP4.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP3.INT1', 1).
+",True,26,0.3306306999733697,0.2846156550323016,0.3676195465440146
+HAWKI.2018-01-06T08:25:19.803.fits,67273920,,2018-01-06T08:25:19.8031,NGC3256,60.A-9475(A),Ks,1.7,18,1.7,0.10643,SCIENCE,OBJECT,IMAGE,0.3,0.3,0.3,0.57,True,True,False,25000,30.6,0,67273920,True,6,6,4,0,0,4,"Verification reported errors: | Card 'ESO DET CHIP PXSPACE' is not FITS standard (invalid value string: '1.800e-05 / Pixel-Pixel Spacing').  Fixed 'ESO DET CHIP PXSPACE' card to meet the FITS standard. | Note: astropy.io.fits uses zero-based indexing.
+ | Checksum verification failed for HDU ('CHIP1.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP2.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP4.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP3.INT1', 1).
+",True,38,0.2641126548368793,0.2186661702491975,0.2823697909360151
+HAWKI.2018-01-06T08:26:50.126.fits,67271040,,2018-01-06T08:26:50.1256,NGC3256,60.A-9475(A),Ks,1.7,18,1.7,0.10643,SCIENCE,OBJECT,IMAGE,0.3,0.3,0.3,0.65,True,True,False,25000,30.6,0,67271040,True,6,6,4,0,0,4,"Verification reported errors: | Card 'ESO DET CHIP PXSPACE' is not FITS standard (invalid value string: '1.800e-05 / Pixel-Pixel Spacing').  Fixed 'ESO DET CHIP PXSPACE' card to meet the FITS standard. | Note: astropy.io.fits uses zero-based indexing.
+ | Checksum verification failed for HDU ('CHIP1.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP2.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP4.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP3.INT1', 1).
+",True,39,0.2739796658381166,0.2500324674809083,0.2977899998651032
+HAWKI.2018-01-06T08:28:16.891.fits,67273920,,2018-01-06T08:28:16.8905,NGC3256,60.A-9475(A),Ks,1.7,18,1.7,0.10643,SCIENCE,OBJECT,IMAGE,0.3,0.3,0.3,0.7,True,True,False,25000,30.6,0,67273920,True,6,6,4,0,0,4,"Verification reported errors: | Card 'ESO DET CHIP PXSPACE' is not FITS standard (invalid value string: '1.800e-05 / Pixel-Pixel Spacing').  Fixed 'ESO DET CHIP PXSPACE' card to meet the FITS standard. | Note: astropy.io.fits uses zero-based indexing.
+ | Checksum verification failed for HDU ('CHIP1.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP2.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP4.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP3.INT1', 1).
+",True,48,0.2843187285550523,0.2422993793098791,0.310719399680597
+HAWKI.2018-01-06T08:29:44.701.fits,67273920,,2018-01-06T08:29:44.7012,NGC3256,60.A-9475(A),Ks,1.7,18,1.7,0.10643,SCIENCE,OBJECT,IMAGE,0.3,0.37,0.3,0.71,True,True,False,25000,30.6,0,67273920,True,6,6,4,0,0,4,"Verification reported errors: | Card 'ESO DET CHIP PXSPACE' is not FITS standard (invalid value string: '1.800e-05 / Pixel-Pixel Spacing').  Fixed 'ESO DET CHIP PXSPACE' card to meet the FITS standard. | Note: astropy.io.fits uses zero-based indexing.
+ | Checksum verification failed for HDU ('CHIP1.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP2.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP4.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP3.INT1', 1).
+",True,32,0.278832502804899,0.2481119598912899,0.3004372067385663
+HAWKI.2018-01-06T08:31:12.560.fits,67271040,,2018-01-06T08:31:12.5599,NGC3256,60.A-9475(A),Ks,1.7,18,1.7,0.10643,SCIENCE,OBJECT,IMAGE,0.37,0.35,0.3,0.63,True,True,False,25000,30.6,0,67271040,True,6,6,4,0,0,4,"Verification reported errors: | Card 'ESO DET CHIP PXSPACE' is not FITS standard (invalid value string: '1.800e-05 / Pixel-Pixel Spacing').  Fixed 'ESO DET CHIP PXSPACE' card to meet the FITS standard. | Note: astropy.io.fits uses zero-based indexing.
+ | Checksum verification failed for HDU ('CHIP1.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP2.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP4.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP3.INT1', 1).
+",True,42,0.25848432344332867,0.2222637077743842,0.2942791007729102
+HAWKI.2018-01-06T08:32:42.920.fits,67271040,,2018-01-06T08:32:42.9194,NGC3256,60.A-9475(A),Ks,1.7,18,1.7,0.10643,SCIENCE,OBJECT,IMAGE,0.35,0.29,0.3,0.67,True,True,False,25000,30.6,0,67271040,True,6,6,4,0,0,4,"Verification reported errors: | Card 'ESO DET CHIP PXSPACE' is not FITS standard (invalid value string: '1.800e-05 / Pixel-Pixel Spacing').  Fixed 'ESO DET CHIP PXSPACE' card to meet the FITS standard. | Note: astropy.io.fits uses zero-based indexing.
+ | Checksum verification failed for HDU ('CHIP1.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP2.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP4.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP3.INT1', 1).
+",True,38,0.2584332479887782,0.2265996639101916,0.3090756325319636
+HAWKI.2018-01-06T08:34:09.695.fits,67273920,,2018-01-06T08:34:09.6943,NGC3256,60.A-9475(A),Ks,1.7,18,1.7,0.10643,SCIENCE,OBJECT,IMAGE,0.29,0.27,0.3,0.62,True,True,False,25000,30.6,0,67273920,True,6,6,4,0,0,4,"Verification reported errors: | Card 'ESO DET CHIP PXSPACE' is not FITS standard (invalid value string: '1.800e-05 / Pixel-Pixel Spacing').  Fixed 'ESO DET CHIP PXSPACE' card to meet the FITS standard. | Note: astropy.io.fits uses zero-based indexing.
+ | Checksum verification failed for HDU ('CHIP1.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP2.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP4.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP3.INT1', 1).
+",True,33,0.2697223507535602,0.2337152169821237,0.2935281575955045
+HAWKI.2018-01-06T08:35:37.495.fits,67273920,,2018-01-06T08:35:37.4948,NGC3256,60.A-9475(A),Ks,1.7,18,1.7,0.10643,SCIENCE,OBJECT,IMAGE,0.27,0.27,0.3,0.67,True,True,False,25000,30.6,0,67273920,True,6,6,4,0,0,4,"Verification reported errors: | Card 'ESO DET CHIP PXSPACE' is not FITS standard (invalid value string: '1.800e-05 / Pixel-Pixel Spacing').  Fixed 'ESO DET CHIP PXSPACE' card to meet the FITS standard. | Note: astropy.io.fits uses zero-based indexing.
+ | Checksum verification failed for HDU ('CHIP1.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP2.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP4.INT1', 1).
+ | Checksum verification failed for HDU ('CHIP3.INT1', 1).
+",True,35,0.2619186833836469,0.2337575406262544,0.2967426257589846

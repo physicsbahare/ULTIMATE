@@ -1,0 +1,3 @@
+bands,n_training_regions,dust_first_log_population_PC_squared_overlap,metric
+griz+JHKs,200,0.975936120389918,unweighted log-colour direction; no observational noise or exposure claim
+u+griz+JHKs,200,0.9361570378319659,unweighted log-colour direction; no observational noise or exposure claim

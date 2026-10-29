@@ -1,0 +1,8 @@
+target,n_control_galaxies,median_control_value,median_control_absolute_value,maximum_control_absolute_value,interpretation
+A_g,4,0.121382588813929,0.121382588813929,0.1239173691792003,"Unresolved empirical source-product residual scale, not a transferable error distribution"
+A_Ks,4,0.02048113879542275,0.02048113879542275,0.0215910509054506,"Unresolved empirical source-product residual scale, not a transferable error distribution"
+A_g_p50_1kpc,4,0.1111501565365691,0.1111501565365691,0.1188666787175503,"Unresolved empirical source-product residual scale, not a transferable error distribution"
+dR50_g,4,0.0078318944255706,0.0078318944255706,0.0310886739267073,"Unresolved empirical source-product residual scale, not a transferable error distribution"
+dR50_Ks,4,0.0110643216639837,0.0110643216639837,0.0391845961439849,"Unresolved empirical source-product residual scale, not a transferable error distribution"
+dC_g,4,0.0110013869889562,0.01321331750474455,0.0692862448266371,"Unresolved empirical source-product residual scale, not a transferable error distribution"
+dC_Ks,4,0.01435275683849465,0.0162546179160898,0.0459639515118999,"Unresolved empirical source-product residual scale, not a transferable error distribution"

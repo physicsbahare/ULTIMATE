@@ -1,0 +1,261 @@
+[
+  {
+    "path": "sources/calculator/sensitivity/custom.asc",
+    "upstream_commit": "2187748a40d4207519a8eff0d2a5b6701db8da0d",
+    "git_blob_sha1": "cae1339d49781cae101de5f36b7ffa1733b33f27",
+    "sha256": "f3390fb9305fd755bc20da4bade181e7664616291cd29e60ad2d98b42adb3412",
+    "bytes": 121
+  },
+  {
+    "path": "sources/calculator/sensitivity/ultimate.py",
+    "upstream_commit": "2187748a40d4207519a8eff0d2a5b6701db8da0d",
+    "git_blob_sha1": "bcd271fb68ce0f687b991432640007fc027ca61f",
+    "sha256": "baefb3e565a0afd75472ccf0cd2ddec3e02d1e6631c7f0f8080b283440d685cc",
+    "bytes": 19225
+  },
+  {
+    "path": "sources/calculator/sensitivity/readme.txt",
+    "upstream_commit": "2187748a40d4207519a8eff0d2a5b6701db8da0d",
+    "git_blob_sha1": "c99d68173fcbd89c6402f951e5e79ed146ce02ff",
+    "sha256": "a5f283acbdd56187498893fe205a2d35c60389e7c4f7884435aa2321b0704a22",
+    "bytes": 2176
+  },
+  {
+    "path": "sources/calculator/sensitivity/moircs_bb.asc",
+    "upstream_commit": "2187748a40d4207519a8eff0d2a5b6701db8da0d",
+    "git_blob_sha1": "da61cb3fd647f40d9aee72969aaa70e43848b483",
+    "sha256": "43c9e9d98e704ea0c2700b8486871ff6827205fd3883fe4517732bb624cbc90f",
+    "bytes": 116
+  },
+  {
+    "path": "sources/calculator/sensitivity/swims_bb.asc",
+    "upstream_commit": "2187748a40d4207519a8eff0d2a5b6701db8da0d",
+    "git_blob_sha1": "d670c16ae94b16cc01c06788aad05d54d2383005",
+    "sha256": "2c06215ba1037433a157b2579b7f615af6b31411204dad2bc2cd2b4031bc005d",
+    "bytes": 120
+  },
+  {
+    "path": "sources/calculator/sensitivity/D50_am=1.0.csv",
+    "upstream_commit": "2187748a40d4207519a8eff0d2a5b6701db8da0d",
+    "git_blob_sha1": "c4792235c16889cefa9b97985d9998e06602806f",
+    "sha256": "e748c922e17ae34d07dbdd5ac4de8cd77f3e10c007b2753a16bb3fa1ceb072c0",
+    "bytes": 470
+  },
+  {
+    "path": "sources/calculator/sensitivity/swims_nb.asc",
+    "upstream_commit": "2187748a40d4207519a8eff0d2a5b6701db8da0d",
+    "git_blob_sha1": "b86df724f16a97a977456be4469e1a85c5c0266e",
+    "sha256": "9bf3e9b5b350de0a2f1c3bc9ee4ece0b23e7221c2b851905dd242d0f9cee576d",
+    "bytes": 383
+  },
+  {
+    "path": "sources/calculator/sensitivity/swims_mb.asc",
+    "upstream_commit": "2187748a40d4207519a8eff0d2a5b6701db8da0d",
+    "git_blob_sha1": "f4cb77bb977d81bb28b6120e151030fd7e7fb040",
+    "sha256": "a132102c9a06453732cde423133b31d1e9b771c4ee95bd8a85c7bef3c326a551",
+    "bytes": 291
+  },
+  {
+    "path": "sources/calculator/sensitivity/moircs_mb.asc",
+    "upstream_commit": "2187748a40d4207519a8eff0d2a5b6701db8da0d",
+    "git_blob_sha1": "f4cb77bb977d81bb28b6120e151030fd7e7fb040",
+    "sha256": "a132102c9a06453732cde423133b31d1e9b771c4ee95bd8a85c7bef3c326a551",
+    "bytes": 291
+  },
+  {
+    "path": "sources/calculator/sensitivity/moircs_nb.asc",
+    "upstream_commit": "2187748a40d4207519a8eff0d2a5b6701db8da0d",
+    "git_blob_sha1": "71d890fda6ae791467d5ca381617a8c1a543a74f",
+    "sha256": "f47ebd717d7c9337073950c035b3b7b5b14149f7a83d6e069fb96f205f872eb2",
+    "bytes": 484
+  },
+  {
+    "path": "sources/calculator/sensitivity/MaunaKea_Sky/ultimate/mk_skybg_zm_16_10_ph_wo_skybb.txt",
+    "upstream_commit": "2187748a40d4207519a8eff0d2a5b6701db8da0d",
+    "git_blob_sha1": "b29ccfc0ba84a5057110da27cf8ccaf4df1a2510",
+    "sha256": "ad92623ef6ab3845354bf76724249a0b764d3bc72351c0b6b6d0707cb83ea222",
+    "bytes": 7908464
+  },
+  {
+    "path": "sources/calculator/sensitivity/MaunaKea_Sky/ultimate/moon.txt",
+    "upstream_commit": "2187748a40d4207519a8eff0d2a5b6701db8da0d",
+    "git_blob_sha1": "040a00e6bd462a467f93c970d303ab9fa8987a52",
+    "sha256": "2c497efcf4b061737ef8e44f5356304449575ccdbca1922ed97967a846677eee",
+    "bytes": 1208639
+  },
+  {
+    "path": "sources/calculator/sensitivity/MaunaKea_Sky/ultimate/mktrans_zm_const.txt",
+    "upstream_commit": "2187748a40d4207519a8eff0d2a5b6701db8da0d",
+    "git_blob_sha1": "8ef532bb80eb05db325434989c76969c9e1d8a3e",
+    "sha256": "b35249d62613d708bcabd77f5c76c52d30f7e58ca829d4b512a98254879fdae3",
+    "bytes": 28154
+  },
+  {
+    "path": "sources/calculator/sensitivity/MaunaKea_Sky/ultimate/mktrans_zm_16_10.txt",
+    "upstream_commit": "2187748a40d4207519a8eff0d2a5b6701db8da0d",
+    "git_blob_sha1": "f4e78287eba3c1d8d53e100382a07613d565025c",
+    "sha256": "ead1b52ef51682e0d167f30003388a5dbc76d04c806510f944c48a91c1baaa87",
+    "bytes": 5231070
+  },
+  {
+    "path": "sources/eazy/templates/README",
+    "upstream_commit": "f651e94d91042a84906090a66d2a3fec75504e21",
+    "git_blob_sha1": "3e7b60f2e1eb81cea738cac3ecb5d07c932daef9",
+    "sha256": "d492cfdbd3f3a912f25977e16075ffcfc7d93ecf8f6f21c81822d2482d144285",
+    "bytes": 1801
+  },
+  {
+    "path": "sources/eazy/templates/fsps_full/fsps_QSF_12_v3_noIRdust_011.dat",
+    "upstream_commit": "f651e94d91042a84906090a66d2a3fec75504e21",
+    "git_blob_sha1": "aea7476869c0cf5120b5bec8c805ebc8f2b6129b",
+    "sha256": "e580ce1a0ef4ae73e056c5b5d7474de6aaffb8f35ec95282375e8a0f3fd24d3a",
+    "bytes": 155895
+  },
+  {
+    "path": "sources/eazy/templates/fsps_full/fsps_QSF_12_v3_noIRdust_002.dat",
+    "upstream_commit": "f651e94d91042a84906090a66d2a3fec75504e21",
+    "git_blob_sha1": "b1d2c6cc4192700306aeefaf1238584dad83c834",
+    "sha256": "2044f5cdf960cf9df21654eaaf3d4975edafb5d775c07584fc635dfc030d2e8a",
+    "bytes": 155895
+  },
+  {
+    "path": "sources/eazy/templates/fsps_full/fsps_QSF_12_v3_noIRdust_008.dat",
+    "upstream_commit": "f651e94d91042a84906090a66d2a3fec75504e21",
+    "git_blob_sha1": "67226e8e1a0512f8e9a2c45c33a398ed02c3ceaf",
+    "sha256": "c3ea553aef745f9d4ac02ef0de1201c4d83cf5ef857f05e797f7408d156600a9",
+    "bytes": 155895
+  },
+  {
+    "path": "sources/eazy/templates/fsps_full/fsps_QSF_12_v3_noIRdust_003.dat",
+    "upstream_commit": "f651e94d91042a84906090a66d2a3fec75504e21",
+    "git_blob_sha1": "e015dff0d60213a7da2fccfee0c31ab4ab3422c1",
+    "sha256": "511978f85934182fc0ee2ac237a827293b1b6a486c2bd4ceefe2118ceaad85dd",
+    "bytes": 155895
+  },
+  {
+    "path": "sources/eazy/templates/fsps_full/fsps_QSF_12_v3_noIRdust_004.dat",
+    "upstream_commit": "f651e94d91042a84906090a66d2a3fec75504e21",
+    "git_blob_sha1": "d702a71a64a7621a4694a17528b0ae225d7a5305",
+    "sha256": "267b51880225541d1e6e0b5d551f6a66cb4c579254b993419ca41d7efc495f84",
+    "bytes": 155895
+  },
+  {
+    "path": "sources/eazy/templates/fsps_full/fsps_QSF_12_v3_noIRdust_005.dat",
+    "upstream_commit": "f651e94d91042a84906090a66d2a3fec75504e21",
+    "git_blob_sha1": "cdd53e30049a5c9f26524d867466681f3185c507",
+    "sha256": "a556ec641abee9c992094e24deb2bb87e4c69be96bc49f4998ea6b455fd0bb0a",
+    "bytes": 155895
+  },
+  {
+    "path": "sources/eazy/templates/fsps_full/fsps_QSF_12_v3_noIRdust_010.dat",
+    "upstream_commit": "f651e94d91042a84906090a66d2a3fec75504e21",
+    "git_blob_sha1": "1bbc27c250e75716e15bf3506495f7e659124711",
+    "sha256": "5ad0e389953fdaba2d4c3c5b77e95167a511bc8eba42e93646b1f0367a38ceb1",
+    "bytes": 155895
+  },
+  {
+    "path": "sources/eazy/templates/fsps_full/fsps_QSF_12_v3_noIRdust_006.dat",
+    "upstream_commit": "f651e94d91042a84906090a66d2a3fec75504e21",
+    "git_blob_sha1": "3f272670305a4711dd401442284a6214a66d7e2a",
+    "sha256": "f4f2863c6f510fac63d378bb2974cf4779b80a34bb846b8ffb7af4db0642faef",
+    "bytes": 155895
+  },
+  {
+    "path": "sources/eazy/templates/fsps_full/fsps_QSF_12_v3_noIRdust_001.dat",
+    "upstream_commit": "f651e94d91042a84906090a66d2a3fec75504e21",
+    "git_blob_sha1": "631fe007eca3a42f4f96413f6c3292b027c7a869",
+    "sha256": "749e934a821c86ae8792bef73a9fb8ea56c991d1d997917c5e4d1c89edc66ece",
+    "bytes": 155895
+  },
+  {
+    "path": "sources/eazy/templates/fsps_full/fsps_QSF_12_v3.param",
+    "upstream_commit": "f651e94d91042a84906090a66d2a3fec75504e21",
+    "git_blob_sha1": "759a12a1c095066e4792e826aaa02ee47b51f2e6",
+    "sha256": "34b245fd1b67dda73b864574d8ec3c3b58b5313495bef5114b0c69416a3cc5ad",
+    "bytes": 591
+  },
+  {
+    "path": "sources/eazy/templates/fsps_full/fsps_QSF_12_v3.sfh.fits",
+    "upstream_commit": "f651e94d91042a84906090a66d2a3fec75504e21",
+    "git_blob_sha1": "c86ff4ba7586c16642ef2bc2a259ebd60e19caa7",
+    "sha256": "029de8d735116cc7076c34ea9e173192dcd46cb1f09a3c885b11ee1fcf62b828",
+    "bytes": 1514880
+  },
+  {
+    "path": "sources/eazy/templates/fsps_full/fsps_QSF_12_v3_noIRdust_007.dat",
+    "upstream_commit": "f651e94d91042a84906090a66d2a3fec75504e21",
+    "git_blob_sha1": "d8b9b233a59b2be484d5f63272300385ee7d0f4f",
+    "sha256": "560b3bb185f5b06a2501032f91d01982306863e353c634ebd1236506d0428f21",
+    "bytes": 155895
+  },
+  {
+    "path": "sources/eazy/templates/fsps_full/fsps_QSF_12_v3_noIRdust_012.dat",
+    "upstream_commit": "f651e94d91042a84906090a66d2a3fec75504e21",
+    "git_blob_sha1": "713ac9627e60e7725b3c7d33b985f329988e472b",
+    "sha256": "66cf5636f1622a525cbffeaaabeba792c9dd3e608a9c5bfae7f3e89173e7db93",
+    "bytes": 155895
+  },
+  {
+    "path": "sources/eazy/templates/fsps_full/fsps_QSF_12_v3.param.fits",
+    "upstream_commit": "f651e94d91042a84906090a66d2a3fec75504e21",
+    "git_blob_sha1": "c15b153506e55cbb8f2da097cda1e5441fc27dc0",
+    "sha256": "0c6e4cd55f46722dad990743f166d97c95f858b551ddd012c871b734cfacb722",
+    "bytes": 11520
+  },
+  {
+    "path": "sources/eazy/templates/fsps_full/fsps_QSF_12_v3_noIRdust_009.dat",
+    "upstream_commit": "f651e94d91042a84906090a66d2a3fec75504e21",
+    "git_blob_sha1": "617cd5ef4a3c3430df7190af8466f2c12728f8a4",
+    "sha256": "801382e15696b9bce6d1aa908e68fa175bf9a8168b611eb1aec0ad459ca0d742",
+    "bytes": 155895
+  },
+  {
+    "path": "sources/forward_repo/verification/target_noise.py",
+    "upstream_commit": "78dce5ad96038fe7a702d3e2f2b434a2c7d7e8af",
+    "git_blob_sha1": "662c9e6ab8b97f3dffaf1da2fd7ef0ecdc7cdaa6",
+    "sha256": "d6914debc4e6a18d513707ec0a283097a0140abdc1813bc41542ef756ee4d974",
+    "bytes": 3659
+  },
+  {
+    "path": "sources/forward_repo/verification/spectral_support.py",
+    "upstream_commit": "78dce5ad96038fe7a702d3e2f2b434a2c7d7e8af",
+    "git_blob_sha1": "655aa3d78937d9d2a3c85bc342f0a1fc4d684ae0",
+    "sha256": "5137d5bf9a67a2ffc18d9933427a607dc1fe7797583b059b9c88255d22e45427",
+    "bytes": 3602
+  },
+  {
+    "path": "sources/forward_repo/verification/radiometry.py",
+    "upstream_commit": "78dce5ad96038fe7a702d3e2f2b434a2c7d7e8af",
+    "git_blob_sha1": "ba255c1f59df9458a22ca5acd7ef624d22d80a31",
+    "sha256": "2509b504d4e31dd5c14d2fd7ec3ba0c110cda810212f0bdea3aa2d60ffa351b9",
+    "bytes": 3388
+  },
+  {
+    "path": "sources/forward_repo/verification/resampling.py",
+    "upstream_commit": "78dce5ad96038fe7a702d3e2f2b434a2c7d7e8af",
+    "git_blob_sha1": "551bc98e9f99ab8625167da9ef8829e160ba6a58",
+    "sha256": "0a698f159e8d1e97d0e374acfb9c796f349adb45c5b14ac0f42e1d7fd0c9521b",
+    "bytes": 6606
+  },
+  {
+    "path": "sources/PASSIVE_DISK_Z3_METHOD.md",
+    "upstream_commit": "78dce5ad96038fe7a702d3e2f2b434a2c7d7e8af",
+    "git_blob_sha1": "6b23c2ab29077e6e7c2dfb56fc938d03448dc607",
+    "sha256": "283ba0879d5feb2fa9eb65163ae190b369febea7e1b209d13b637d98a41e12cf",
+    "bytes": 17770
+  },
+  {
+    "path": "sources/JWST_ARTIFICIAL_REDSHIFTING_METHOD_AND_LIMITATIONS.md",
+    "upstream_commit": "78dce5ad96038fe7a702d3e2f2b434a2c7d7e8af",
+    "git_blob_sha1": "85de7912350abb8b7cc8a976e0f259a27d6dc986",
+    "sha256": "cadf29ef1b181c86200f687346eb945827a5404be67edb147318889283e1b46a",
+    "bytes": 2899
+  },
+  {
+    "path": "sources/README_JWST_artificial_redshifting.md",
+    "upstream_commit": "78dce5ad96038fe7a702d3e2f2b434a2c7d7e8af",
+    "git_blob_sha1": "7275799676cec06097c3e373342353a83c98090f",
+    "sha256": "cce9a6c6c5bf067ced2eeaf7fbf37ecfa6d5a92a1f97602c92ed2034aab85f23",
+    "bytes": 3311
+  }
+]

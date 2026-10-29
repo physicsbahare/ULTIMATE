@@ -1,0 +1,6 @@
+subhalo_id,partition,view,product,field_mass_Msun,crop_mass_Msun,zero_projected_dust,minimum,negative_fraction
+613006,development,O1,dustmass,38057052.0166764,37602617.79357257,False,0.0,0.0
+613006,development,O2,dustmass,38151376.87823718,37809815.5107108,False,0.0,0.0
+613006,development,O3,dustmass,38175539.18282841,37830003.08544028,False,0.0,0.0
+613006,development,O4,dustmass,38079258.67540647,37653383.304878235,False,0.0,0.0
+613006,development,O5,dustmass,38079258.67689778,37653383.30652771,False,0.0,0.0

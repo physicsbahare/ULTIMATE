@@ -1,0 +1,9 @@
+mode,data,n_spatial_pixels,squared_mean_separation,optimal_pair_power_at_FPR05
+seeing,pixels_inside_original_apertures,160,1.0641040160443984,0.26983917786364386
+seeing,evaluation_rectangle_pixels,720,33.1293966709623,0.9999802991725524
+seeing,whole_frame_pixels,15876,1713.514934515444,1.0
+glao,pixels_inside_original_apertures,160,1.0619230752482465,0.26948968626976444
+glao,evaluation_rectangle_pixels,720,33.656280488877016,0.9999838455039628
+glao,whole_frame_pixels,15876,1725.6553755347097,1.0
+seeing,original_15_apertures,15,0.1034642888867985,0.0928852734626039
+glao,original_15_apertures,15,0.0809984763981894,0.0868752045985262

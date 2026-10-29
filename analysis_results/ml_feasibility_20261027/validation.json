@@ -1,0 +1,26 @@
+{
+  "status": "PASS numerical/information-boundary/delivery checks; physical labels remain operational",
+  "galaxies_available": 26,
+  "galaxies_fitting_eligible": 22,
+  "source_null_controls_excluded": [
+    13,
+    167418,
+    184937,
+    613192
+  ],
+  "feature_rows": 6240,
+  "label_rows": 130,
+  "heldout_prediction_rows": 369600,
+  "max_independently_recomputed_MAE_difference": 2.220446049250313e-16,
+  "previous_files_hashes_unchanged": 1103,
+  "executed_notebook_code_cells": 10,
+  "embedded_notebook_figures": 8,
+  "primary_PNG_PDF_pairs": 6,
+  "g_only_strategy_gain_zero": true,
+  "HAWKI_reduced_HDU_checksum_checks": 3,
+  "final_test_images_used": 0,
+  "original_source_residuals": "UNRESOLVED; no correction/subtraction applied",
+  "unit_tests_passed": 4,
+  "empirical_sensitivity": "HAWKI-informed only; local covariance, not complete sky model",
+  "html_visual_scope": "Exported and embedded-image/report equality checked; PNGs inspected, not separately browser-rendered"
+}

@@ -1,0 +1,17 @@
+aperture,target,n_control_galaxies,median,maximum_absolute,use
+adaptive,A_g,4,0.1220703547926054,0.1243331524929695,Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction
+adaptive,A_Ks,4,0.02083825136054785,0.0225906120747492,Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction
+adaptive,A_g_p50_1kpc,4,0.1117958377146013,0.1190678018176467,Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction
+adaptive,A_g_IQR_1kpc,4,0.00645030935249035,0.0121083969878577,Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction
+adaptive,dR50_Ks,4,0.0104543235615448,0.037486543810013,Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction
+adaptive,dC_Ks,4,0.014188315718868201,0.2398168403280154,Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction
+adaptive,dR50_g,4,0.0116543981235495,0.0261218760791523,Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction
+adaptive,dC_g,4,0.0102670855366078,0.1227427603631072,Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction
+fixed12,A_g,4,0.121382588813929,0.1239173691792003,Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction
+fixed12,A_Ks,4,0.0204811387954227,0.0215910509054506,Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction
+fixed12,A_g_p50_1kpc,4,0.11115178335603984,0.1188668521051604,Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction
+fixed12,A_g_IQR_1kpc,4,0.0068770315642016,0.0144558884446091,Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction
+fixed12,dR50_Ks,4,0.0110643216639837,0.0391845961439847,Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction
+fixed12,dC_Ks,4,0.01435275683849465,0.0459639515118999,Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction
+fixed12,dR50_g,4,0.0078318944255706,0.0310886739267073,Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction
+fixed12,dC_g,4,0.0110013869889562,0.0692862448266371,Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction

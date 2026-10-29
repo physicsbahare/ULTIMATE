@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://www.tng-project.org/api/TNG50-1/files/skirt_atlas/",
+    "status": "success",
+    "content_type": "application/json",
+    "bytes": 109373
+  },
+  {
+    "url": "https://www.tng-project.org/api/TNG50-1/files/",
+    "status": "success",
+    "content_type": "application/json",
+    "bytes": 15261
+  },
+  {
+    "url": "https://www.tng-project.org/data/docs/specifications/",
+    "status": "success",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 361592
+  }
+]

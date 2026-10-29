@@ -1,0 +1,62 @@
+Non-destructive verification; no existing study outputs will be rewritten.
+Archive hash verified: 294866
+Archive hash verified: 167418
+Archive hash verified: 626287
+Archive hash verified: 535051
+Archive hash verified: 638950
+Archive hash verified: 616014
+Archive hash verified: 486919
+Archive hash verified: 63883
+Archive hash verified: 594731
+Archive hash verified: 613006
+Archive hash verified: 117272
+Archive hash verified: 13
+Archive hash verified: 424289
+Archive hash verified: 630975
+Archive hash verified: 604516
+Archive hash verified: 558410
+Archive hash verified: 613192
+Archive hash verified: 546870
+Archive hash verified: 553837
+Archive hash verified: 596866
+Archive hash verified: 507292
+Archive hash verified: 184937
+Archive hash verified: 324124
+Archive hash verified: 394621
+Archive hash verified: 502995
+Archive hash verified: 355724
+Fresh end-to-end observing replay: 294866
+Fresh end-to-end observing replay: 167418
+Fresh end-to-end observing replay: 626287
+Fresh end-to-end observing replay: 535051
+Fresh end-to-end observing replay: 638950
+                    scope     band  n_galaxies  median_delta_R50_kpc   CI_low  CI_high  n_positive  n_negative   minimum  maximum
+                   all_26   LSST_g          26              0.400304 0.170393 0.545911          24           1 -1.066361 1.685644
+                   all_26 2MASS_Ks          26              0.123863 0.082745 0.170211          25           1 -0.058454 0.496062
+nonzero_projected_dust_22   LSST_g          22              0.500741 0.358967 0.589012          21           1 -1.066361 1.685644
+nonzero_projected_dust_22 2MASS_Ks          22              0.138764 0.109380 0.181987          21           1 -0.058454 0.496062
+ scope     band metric                 target  n_galaxies  seeing_mean_error  glao_mean_error  mean_gain    CI_low   CI_high  n_improved
+all_26 2MASS_Ks      A   dust_delta_abs_error          26           0.006517         0.005483   0.001034  0.000583  0.001526          22
+all_26 2MASS_Ks      A preservation_abs_error          26           0.143063         0.127312   0.015751  0.013262  0.018644          26
+all_26 2MASS_Ks      C   dust_delta_abs_error          26           0.092009         0.082426   0.009583 -0.002548  0.020848          19
+all_26 2MASS_Ks      C preservation_abs_error          26           0.367018         0.190159   0.176860  0.139279  0.213497          26
+all_26 2MASS_Ks    R50   dust_delta_abs_error          26           0.021864         0.018479   0.003386  0.000634  0.006752          17
+all_26 2MASS_Ks    R50 preservation_abs_error          26           0.080552         0.039422   0.041129  0.024931  0.058795          26
+all_26 2MASS_Ks      q   dust_delta_abs_error          26           0.012704         0.014719  -0.002015 -0.005624 -0.000061           9
+all_26 2MASS_Ks      q preservation_abs_error          26           0.014607         0.014241   0.000366 -0.004287  0.003018          25
+{
+  "executed_UTC": "2026-10-27T01:17:55.461339+00:00",
+  "executable": "/home/bahareh/miniforge3/envs/phd/bin/python",
+  "primary_results": "Existing frozen protocol retained",
+  "new_sensitivity": "Exclude zero-projected-dust objects, descriptively only; not a physical-null correction",
+  "study_files_hash_checked": 795,
+  "previous_result_files_unchanged": 289,
+  "fresh_archive_hashes": 26,
+  "independent_galaxy_gain_max_difference": 9.974659986866641e-17,
+  "observing_replay_galaxies": 5,
+  "independent_native_R50_checks": 20,
+  "raw_FITS_spotchecks": 2,
+  "original_executed_notebook_cells": 12,
+  "original_embedded_figures": 11,
+  "status": "Numerical reproduction PASS; source-product physical-null calibration UNRESOLVED"
+}

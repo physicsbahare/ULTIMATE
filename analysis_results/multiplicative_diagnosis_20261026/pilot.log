@@ -1,0 +1,36 @@
+pilot calibration 0 seconds 2.4
+pilot calibration 1 seconds 4.7
+pilot calibration 2 seconds 6.7
+pilot calibration 3 seconds 8.7
+pilot calibration 4 seconds 10.4
+pilot calibration 5 seconds 13.4
+pilot calibration 6 seconds 15.3
+pilot calibration 7 seconds 17.7
+pilot calibration 8 seconds 19.6
+pilot calibration 9 seconds 22.0
+pilot calibration 10 seconds 24.9
+pilot calibration 11 seconds 27.5
+pilot calibration 12 seconds 29.2
+pilot calibration 13 seconds 31.0
+pilot calibration 14 seconds 33.7
+pilot calibration 15 seconds 36.3
+pilot calibration 16 seconds 38.2
+pilot calibration 17 seconds 41.9
+pilot calibration 18 seconds 44.4
+pilot evaluation DR1 clear seconds 74.5
+pilot evaluation DR1 uniform seconds 116.0
+pilot evaluation DR1 smooth seconds 172.2
+pilot evaluation DR1 patchy seconds 212.4
+pilot evaluation known_anchor clear seconds 259.5
+pilot evaluation known_anchor uniform seconds 298.4
+pilot evaluation known_anchor smooth seconds 335.2
+pilot evaluation known_anchor patchy seconds 383.5
+pilot evaluation rotated_PC1_PC3 clear seconds 440.6
+pilot evaluation rotated_PC1_PC3 uniform seconds 483.7
+pilot evaluation rotated_PC1_PC3 smooth seconds 531.8
+pilot evaluation rotated_PC1_PC3 patchy seconds 584.3
+pilot evaluation training_SED_patch clear seconds 632.0
+pilot evaluation training_SED_patch uniform seconds 679.0
+pilot evaluation training_SED_patch smooth seconds 726.9
+pilot evaluation training_SED_patch patchy seconds 770.9
+pilot evaluation SKIRT original seconds 819.8

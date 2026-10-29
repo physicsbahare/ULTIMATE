@@ -1,0 +1,43 @@
+{
+  "observed_utc": "2026-10-27T04:07:58.903776+00:00",
+  "new_selected": 94,
+  "new_verified": 12,
+  "new_verified_ids": [
+    571633,
+    578834,
+    319734,
+    208821,
+    184946,
+    599865,
+    565537,
+    586836,
+    539667,
+    289386,
+    460726,
+    96763
+  ],
+  "existing_previously_verified": 26,
+  "combined_verified_total": 38,
+  "expected_total_bytes": 60164124583,
+  "expected_total_GiB": 56.03220740612596,
+  "batch_pid": 27948,
+  "pid_alive": true,
+  "batch_status": "running",
+  "current": {
+    "subhalo_id": 474008,
+    "phase": "downloading",
+    "bytes": 939524096,
+    "expected_bytes": 1737570225
+  },
+  "partials": [
+    {
+      "name": "TNG50_DR1_474008.tar.gz.part",
+      "bytes": 1069547520
+    }
+  ],
+  "compressed_bytes_present": 7273245405,
+  "free_GiB": 339.6336326599121,
+  "final_test_scientific_images_opened": 0,
+  "blocker": null,
+  "note": "Detached resumable batch. CRC/tar-byte integrity validation does not inspect FITS image values. This is a timestamped snapshot; inspect live state for updates."
+}

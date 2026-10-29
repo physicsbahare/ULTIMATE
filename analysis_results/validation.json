@@ -1,0 +1,45 @@
+{
+  "independent_recomputation_pass": [
+    "O1",
+    "O2",
+    "O3",
+    "O4",
+    "O5"
+  ],
+  "notebooks": {
+    "pilot_reproduced": {
+      "executed_code_cells": 5,
+      "error_outputs": 0,
+      "embedded_png_outputs": 3
+    },
+    "TNG294866_five_orientations": {
+      "executed_code_cells": 6,
+      "error_outputs": 0,
+      "embedded_png_outputs": 3
+    }
+  },
+  "pilot_science_code_preserved": true,
+  "input_inventory_sizes_unchanged": true,
+  "hawki": {
+    "exposures": 22,
+    "image_extensions": 88,
+    "raw_hdu_checksums_pass": 132,
+    "datasum_failures": 0,
+    "compact_source_fits": 677,
+    "psf_provisional": true
+  },
+  "figures": {
+    "paired_png_pdf": 6,
+    "main_png_visually_inspected": true,
+    "representative_pdf_renders_visually_inspected": true
+  },
+  "scientific_limitations": [
+    "One galaxy, five dependent views",
+    "Projected surface density is not 3D geometry",
+    "No independent-pixel inference or uncertainties",
+    "Raw HAWK-I needs calibration and catalog-confirmed final-stack PSF",
+    "No realistic-noise mocks or ML training executed; instrument budget, filter curves and target distance unset",
+    "Native simulation sampling and physical smoothing limit nearby high-resolution forecasts"
+  ],
+  "original_notebook_sha256": "ba9ed6be682f65d5a8687ebf46c86170abe22279a3a615357fa8d6b05a46dcbd"
+}

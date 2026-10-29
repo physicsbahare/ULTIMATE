@@ -1,0 +1,9 @@
+test_final_sample_is_unseen_and_old_objects_are_development (test_ml_integrity.LeakageChecks.test_final_sample_is_unseen_and_old_objects_are_development) ... ok
+test_galaxy_roles_and_source_null_exclusion (test_ml_integrity.LeakageChecks.test_galaxy_roles_and_source_null_exclusion) ... ok
+test_observable_feature_allowlist (test_ml_integrity.LeakageChecks.test_observable_feature_allowlist) ... ok
+test_test_truth_cannot_change_predictions_or_intervals (test_ml_integrity.LeakageChecks.test_test_truth_cannot_change_predictions_or_intervals) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.297s
+
+OK

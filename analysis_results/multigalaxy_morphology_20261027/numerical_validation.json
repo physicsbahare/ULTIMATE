@@ -1,0 +1,8 @@
+{
+  "analytic_tests_passed": 4,
+  "pilot_cache_bitwise_equal": true,
+  "published_morphology_max_error": 1.7763568394002505e-15,
+  "gaussian_padded_flux_loss": 1.4432899320127035e-14,
+  "overlap_flux_relative_error": 1.887379141862766e-15,
+  "aggregate_Poisson_split_read_moments_passed": true
+}

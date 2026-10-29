@@ -1,0 +1,19 @@
+                 field   rho_x1   rho_y1  excess_R2  excess_R4  excess_R8  excess_R16
+               M4 tile 0.371452 0.354198   1.732362   2.638901   4.596347    6.533031
+NGC3256 same estimator 0.265428 0.292106   1.410397   1.655310   1.877585    1.978447
+Bright/faint cell sensitivity
+            delta_fwhm_arcsec   delta_q  delta_beta
+field                                             
+pawprint1           0.001444  0.001502    0.084279
+pawprint2          -0.000025  0.000000    0.057066
+pawprint3           0.001176 -0.004180    0.008435
+pawprint4           0.000926  0.003143    0.030954
+tile0               0.001674 -0.005366    0.052421
+Window13 minus20
+            delta_fwhm_arcsec   delta_q  delta_beta
+field                                             
+pawprint1           0.000663 -0.000001    0.054924
+pawprint2           0.000831 -0.000063    0.126903
+pawprint3           0.000570  0.000008    0.087751
+pawprint4           0.000387 -0.000024    0.051847
+tile0               0.000875 -0.000051    0.116674

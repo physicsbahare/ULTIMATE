@@ -1,0 +1,67 @@
+WARNING: FITSFixedWarning: RADECSYS= 'ICRS ' / Coordinate reference frame 
+the RADECSYS keyword is deprecated, use RADESYSa. [astropy.wcs.wcs]
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set DATE-END to '2018-01-06T08:36:08.095' from MJD-END'. [astropy.wcs.wcs]
+{
+  "reference": "NASA/IPAC IRSA2MASS All-Sky PSC, cone0.055deg; same reference family as pipeline calibration,not held-out independent reference",
+  "irsa_rows": 149,
+  "reduced_candidates": 103,
+  "mutual_matches_within1arcsec": 23,
+  "quality_position_matches": 9,
+  "photometric_matches": 9,
+  "astrometric_dra_cosdec_arcsec": {
+    "n": 9,
+    "median": 0.06773717302852106,
+    "robust_sigma": 0.10708947337395716,
+    "rms": 0.12118183462448563
+  },
+  "astrometric_ddec_arcsec": {
+    "n": 9,
+    "median": -0.0350309965724495,
+    "robust_sigma": 0.0692920469945705,
+    "rms": 0.11756561918346481
+  },
+  "radial_offset_arcsec": {
+    "n": 9,
+    "median": 0.12099264432849256,
+    "robust_sigma": 0.05269814522272525,
+    "rms": 0.1688393077913578
+  },
+  "photometric_hawki_minus_transformed_2mass_mag": {
+    "n": 9,
+    "median": -0.05575711401997019,
+    "robust_sigma": 0.139018573773212,
+    "rms": 0.2429170217262331
+  },
+  "photometric_convention": "m_Vega=PHOTZP-2.5log10(Aper_flux_3)-APCOR3,releaseDescription87p6; sourcecatalogueflux already carries product normalization,so no extra EXPTIME/CASUEXPT division; Ks_HAWKI=.03J_2MASS+.97Ks_2MASS from actual associated PHOTCAL_TAB (releaseDescription87 instead prints H, recorded discrepancy)",
+  "selection": "mutual match<1arcsec; accepted isolated unsaturated reducedcompactcandidate; Ks qualityA/B,cc0,rd1/2/4,2MASSprox>5arcsec; photometry additionally ESOcatmatch<.3arcsec,ESOstellarclass-1,fluxSNR>10,H-K<1mag absolute",
+  "limitation": "Recomputed consistency with2MASS,not independent held-out calibration. No proper-motion epoch propagation;2MASS errors/epoch shifts affect residuals. Full103candidatePSFsample not upgraded to catalogconfirmed stars.",
+  "quality_matched_psf": {
+    "fwhm_circularized_arcsec": {
+      "median": 0.2935189679599311,
+      "p25": 0.2869787981614292,
+      "p75": 0.3229590893628797
+    },
+    "beta": {
+      "median": 3.741483701714853,
+      "p25": 3.4335146888552432,
+      "p75": 3.950069722282099
+    },
+    "q": {
+      "median": 0.858287165595736,
+      "p25": 0.7977853975160302,
+      "p75": 0.8673930455819573
+    },
+    "ee50_circularized_arcsec": {
+      "median": 0.1814140005797338,
+      "p25": 0.1716504184434554,
+      "p75": 0.1931122885457298
+    },
+    "ee80_circularized_arcsec": {
+      "median": 0.2928927385654495,
+      "p25": 0.2873514302511238,
+      "p75": 0.3217765292695517
+    }
+  },
+  "release_H_formula_delta_mag_median": -0.04090711401997105,
+  "release_H_formula_delta_mag_robust_sigma": 0.13848483777321377
+}

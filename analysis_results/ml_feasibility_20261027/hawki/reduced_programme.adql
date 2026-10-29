@@ -1,0 +1,1 @@
+SELECT * FROM ivoa.ObsCore WHERE instrument_name='HAWKI' AND proposal_id='60.A-9475(A)' AND CONTAINS(POINT('ICRS',s_ra,s_dec),CIRCLE('ICRS',157.0,-43.9,0.2))=1

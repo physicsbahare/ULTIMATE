@@ -1,0 +1,6 @@
+{
+  "peak_above_sky_ADU_max": 5000,
+  "raw_product_pixel_ADU_max": 22000,
+  "peak_SNR_min": 60,
+  "purpose": "conservative fainter product sample; raw-frame saturation history remains unverified"
+}

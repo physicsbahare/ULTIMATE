@@ -1,0 +1,27 @@
+{
+  "passed": true,
+  "total_archives": 120,
+  "nonfinal_galaxies": 100,
+  "sealed_final_integrity_only": 20,
+  "nonfinal_views": 500,
+  "FITS_headers": 24000,
+  "selected_full_arrays_validated": 3500,
+  "cache_arrays": 3500,
+  "original26_raw_hash_matches": 6240,
+  "exact_zero_projected_dust_galaxies": [
+    13,
+    35,
+    63884,
+    96767,
+    117296,
+    167418,
+    184937,
+    184945,
+    184946,
+    208821,
+    319734,
+    338448,
+    613192
+  ],
+  "final_science_opened": false
+}

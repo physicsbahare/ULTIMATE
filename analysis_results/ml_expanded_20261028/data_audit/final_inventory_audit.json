@@ -1,0 +1,856 @@
+{
+  "passed": true,
+  "audit_utc": "2026-10-28T02:48:20.585215+00:00",
+  "audit_scope": "Read-only postfinal metadata/byte-hash audit; no FITS science arrays opened, no downloads, extraction, prediction or evaluation rerun",
+  "freeze_sha256": "587aab56d39e6b29ad47f381c4b1440c8dd28eb52811ebc4ae3842b6fc220ce4",
+  "frozen_artifacts_verified": 136,
+  "stage_snapshot_hashes": [
+    {
+      "path": "analysis_results/ml_expanded_20261028/data_audit/archive_inventory.csv",
+      "sha256": "bd532a34405aac72b3d60661c6b25ee0400b936a8d9e540b37107bd44284372b",
+      "unchanged": true
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/data_audit/fits_inventory.csv",
+      "sha256": "c3184981f8d12a0bedf6f286365996d6b6efbc1421ef52faf4d85b43951ddba6",
+      "unchanged": true
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/data_audit/available_galaxies.csv",
+      "sha256": "12ca9f0d3d1163f316ca4725d5fbbb76d87db6ba2e4df2c583d359be1326399d",
+      "unchanged": true
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/data_audit/physical_maps.csv",
+      "sha256": "b53f121c477753b63b4286542ca7ee4571674a026f42fdd3816ecaaa432714d4",
+      "unchanged": true
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/data_audit/validation.json",
+      "sha256": "2189200a4ae178bedff33e64f24662501c69d6c748a9decdffdfce18cd01e7ff",
+      "unchanged": true
+    }
+  ],
+  "input_snapshot_hashes": [
+    {
+      "path": "analysis_results/ml_feasibility_20261027/expansion/galaxy_partitions.csv",
+      "sha256": "32779aeadf1e7ff2ed8c9ce93268fd112a5a2d2d3e25e4b3cbf3e9f4c12b20c1",
+      "unchanged": true
+    },
+    {
+      "path": "analysis_results/ml_feasibility_20261027/expansion/partitions_frozen.json",
+      "sha256": "b5bd5d8391221a580bde6742dee6d088e18cd5e7928a2dbc90bd642da4e0fe86",
+      "unchanged": true
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/data_audit/TNG50_SKIRT_DR1_extra_selection_manifest.json",
+      "sha256": "179abd0feec2988f0caea5cb858b6bfbc78221ff1d904b72e05ecc94598400ea",
+      "unchanged": true
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/data_audit/TNG50_SKIRT_DR1_ml_expansion_selection_manifest.json",
+      "sha256": "6a5e66b5cd5a5ffd6f2cc2e112e24b64f39a6381240988474b2636a1339c7a73",
+      "unchanged": true
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/data_audit/TNG50_SKIRT_DR1_ml_expansion_download_state.json",
+      "sha256": "5956ddd2c11f4c8026b0011ce0d3aec861a2236a48704bbbd8e696cefed611b4",
+      "unchanged": true
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/data_audit/TNG50_SKIRT_DR1_extra_download_state.json",
+      "sha256": "c9d184841f2303ae16b1c18c6911ffc6f9e9f5afdf66a9d9ab485b9d709d88ca",
+      "unchanged": true
+    },
+    {
+      "path": "data/TNG50_SKIRT_DR1_extra/download_state.json",
+      "sha256": "c9d184841f2303ae16b1c18c6911ffc6f9e9f5afdf66a9d9ab485b9d709d88ca",
+      "matches_preanalysis_snapshot": true
+    },
+    {
+      "path": "data/TNG50_SKIRT_DR1_extra/selection_manifest.json",
+      "sha256": "179abd0feec2988f0caea5cb858b6bfbc78221ff1d904b72e05ecc94598400ea",
+      "matches_preanalysis_snapshot": true
+    },
+    {
+      "path": "data/TNG50_SKIRT_DR1_ml_expansion/download_state.json",
+      "sha256": "5956ddd2c11f4c8026b0011ce0d3aec861a2236a48704bbbd8e696cefed611b4",
+      "matches_preanalysis_snapshot": true
+    },
+    {
+      "path": "data/TNG50_SKIRT_DR1_ml_expansion/selection_manifest.json",
+      "sha256": "6a5e66b5cd5a5ffd6f2cc2e112e24b64f39a6381240988474b2636a1339c7a73",
+      "matches_preanalysis_snapshot": true
+    }
+  ],
+  "partition_counts": {
+    "development": 86,
+    "final_test": 20,
+    "validation": 14
+  },
+  "combined_archives": 120,
+  "current_archive_hashes_rechecked": [
+    {
+      "subhalo_id": 13,
+      "bytes": 213626882,
+      "sha256": "03b6b0ff22b51c23b2074a2391e31e7e21e7dfadb527c28f001c62a4637e772e",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 63883,
+      "bytes": 750678293,
+      "sha256": "6bf4be7859f971f5e8c2ebbba70ca636cb4dda7c1858e75fc7505601cbdce4b6",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 117272,
+      "bytes": 554113476,
+      "sha256": "8de41d48f541b0a84b0df774634170bda4fe0fe2d637e5c3afdd3b5a86d9a251",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 167418,
+      "bytes": 9691831,
+      "sha256": "3116fe04797a38691b1cefe0fe5c4cb49c9f20a3a5a40b2aac129dcf3d390084",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 184937,
+      "bytes": 332881618,
+      "sha256": "ae3b4b00ab26469e4327b9620cc3faff86120bc17cf06fa52b9726e7929043a5",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 294866,
+      "bytes": 2057187650,
+      "sha256": "f4e399153d4e7ccb0d5b2f2a6ff3a51ab277f62f17357abcc7938df0f788b8e1",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 324124,
+      "bytes": 1923472804,
+      "sha256": "624c47efbbe2fb815c8f6bbd0b85980d8b638fb01804b3bc33143c92fb8c43c9",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 355724,
+      "bytes": 1739322191,
+      "sha256": "885ce9ee69a0f5d6d082ed4a2b3751c6599073900ef0a3579fd190e4807a8e2d",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 394621,
+      "bytes": 1378960648,
+      "sha256": "f33e34e727371a7244c77bd48f34816f8463b1c592506447da6923737ad3d3b4",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 424289,
+      "bytes": 929442774,
+      "sha256": "8a93fdfe0d4f47ce397aa988c9b4b7e7eafd8657fc75cb742a0d6be35f7ebd41",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 486919,
+      "bytes": 21188949,
+      "sha256": "2ef2493580bf4e5b3129a75d7e2575adb5c3b5f564b0aea8b7221a266719eace",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 502995,
+      "bytes": 968651984,
+      "sha256": "94ddf1cd2daccf1e16c5294cbd1bfdfddf5571878faec43d70e5b88fd1455cee",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 507292,
+      "bytes": 907749132,
+      "sha256": "ee0ebc21a651a6569510ff0a8ec8690c48667c80a45333d284ef386c0a2e8623",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 535051,
+      "bytes": 148141954,
+      "sha256": "fc6467e6bc1a4feaae2eebac83d0e732859f124c96a4fed4b42bb3af7a8bde5c",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 546870,
+      "bytes": 712218507,
+      "sha256": "c95708abd81ef1e639a96ec1b78cb4422b6410895114b23bb70ba47186763a42",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 553837,
+      "bytes": 955720146,
+      "sha256": "4a5137e383b1d40978392ba49b64f92cc0a486becd2329f4dca467e7d02115cd",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 558410,
+      "bytes": 840882856,
+      "sha256": "9de97b217994340ab22cc1df1fd0c5dd6106b4f267613b8912cad90d62c15f5a",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 594731,
+      "bytes": 500461248,
+      "sha256": "2ee3559ea3e763458ab642c8dc19319714979fde8c6d56eb4c04caae7c8fd822",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 596866,
+      "bytes": 454000868,
+      "sha256": "cdcf911bc9976e2ab3982d1634620f3f906b0766966b25c3703a28146b31ec84",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 604516,
+      "bytes": 419575092,
+      "sha256": "0557d654983d33a4af4ff747fe1eb8dbed7f98d20437f99ebaa5104266919e0b",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 613006,
+      "bytes": 454000618,
+      "sha256": "740128320959a61594dd056ca4362a389e3af823987be82de643a87ecad81258",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 613192,
+      "bytes": 708506986,
+      "sha256": "251e0ac2215707b6f328bbebd4c89ad3e08d2235222de76a2bbafb8284fbde47",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 616014,
+      "bytes": 319068960,
+      "sha256": "ef31417082bff40b3e22c721f406a1c56fe7ba95f8ab4b0b1dcc33986978b041",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 626287,
+      "bytes": 418856104,
+      "sha256": "baf81b26d44f195d643590cd8b5f7015be79f2000372b93b6f1f5d4ac53923d8",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 630975,
+      "bytes": 382644658,
+      "sha256": "fb1fe44184785732211dcdc0eebabaf6491ee4f59338f761c457619de64d1c40",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 638950,
+      "bytes": 399520966,
+      "sha256": "2d1a5df91307994b09b257cf399fb05c8415a3d6f3904451a6a2a4457085ab5d",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 571633,
+      "bytes": 961676683,
+      "sha256": "8b9c0348a5d50b80e3237de998bbaa80872a8ebbd7a7ae12ba71f2c575dae97b",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 578834,
+      "bytes": 650910753,
+      "sha256": "9ae39bec3a64fb66cbe32e24806707a70f1fde7ddecad5e76317b2e99b3d8da5",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 319734,
+      "bytes": 147643068,
+      "sha256": "35c38f35ac39aab545e1d170bc450b2382d87811449dbc3a4f8c5231a2d03286",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 208821,
+      "bytes": 19429424,
+      "sha256": "45a7167c797957f2fbca70f5beac2327fac540176899b3e4c0115d159e955f00",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 184946,
+      "bytes": 33463829,
+      "sha256": "14a333eff19bd3f0d4b73dee8003d258716627d74b864b5f021c86ff7db1314c",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 599865,
+      "bytes": 303320053,
+      "sha256": "ad821dc7efa5bd4208695a58be40ad2012851041701d10401ac0e983e7aa2362",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 565537,
+      "bytes": 492111269,
+      "sha256": "40fd82684d5fada8c3bd9a14cc07e8b786b09a09cf60196e377da919d7a603ae",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 586836,
+      "bytes": 266238405,
+      "sha256": "203f6c9deb09961b3cd9f41065ea0beb6d567a63f07a155ed9067b1a162cad54",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 539667,
+      "bytes": 1082924758,
+      "sha256": "21311be97831004da00cc9368e072456cd8372a3ce3059bd4bacec5b2072c4d1",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 289386,
+      "bytes": 604028067,
+      "sha256": "b6858469ee77d941962b37e02a60ebe3c83dc4f27e15e234863e4a2fa8fed8de",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 460726,
+      "bytes": 280641448,
+      "sha256": "3513bee3ee4cb7f32166c4b0c94982a9217d87a0e0f624fe48853734d274edec",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 96763,
+      "bytes": 1361310128,
+      "sha256": "76a7e60cd289ad431eb9b49b5f2550e485d7740d35fd4b2a87faba23a4a1e647",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 474008,
+      "bytes": 1737570225,
+      "sha256": "fbde652f6dbc2b32ba18985113868d5ebf64be161b9e1dbef8d848df770e8cf9",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 461785,
+      "bytes": 1889707924,
+      "sha256": "20ded86655efed68acae4a95a7d2576c327d58c25f129be16d7544f9b3bb107b",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 324129,
+      "bytes": 65632413,
+      "sha256": "532c8837a00568314a563bb988e185c8c0f5cf72f604396d149a9b04fedaa661",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 527309,
+      "bytes": 731750800,
+      "sha256": "39f43dd4c13a1909be0ac7bfc4337b6b7df360773e9e727f084fb7796992ec0d",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 319732,
+      "bytes": 757229075,
+      "sha256": "7aff45ea05c6523b966a05f7ce570bd6bf8bd318f8aa56cf1d8bed1dd12f3b0c",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 516760,
+      "bytes": 1045488158,
+      "sha256": "2b2260098f12a7bd58f125a7ee2d9be9c61151d5d9609c06521e3dd5ea9dba5a",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 612825,
+      "bytes": 260120260,
+      "sha256": "d9be5fc2e08669513b4406c424661371712563cd36c46d56572b67b8d92b3dd4",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 556699,
+      "bytes": 640243885,
+      "sha256": "f3f3516f6ae21a1e6d914e1cdb69acb697312478e92ebe1e72357d69717fe828",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 348901,
+      "bytes": 2011025025,
+      "sha256": "372d8bbac560888eb023bf862568d8983f37d6d68375c037d21a83c0bb7f98b2",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 220597,
+      "bytes": 1317496172,
+      "sha256": "941b1bd3399339f320d31a55f9e45052a13ee8fbb6993053df291f35f7b06f3e",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 610988,
+      "bytes": 552889992,
+      "sha256": "4070c08ed9c304dd46a17e842e1d11ec5175cc2b87688939a872ba89f19597aa",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 455291,
+      "bytes": 1410916226,
+      "sha256": "dcf5498fae0846b176f1d503cc206d047ed3740e45b70baad1f02a58180dd862",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 602820,
+      "bytes": 677723921,
+      "sha256": "45bd67554d850c8209c20072b8fb6527f37da0e28aead2fcc40ddf6d8bab512d",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 117296,
+      "bytes": 41383115,
+      "sha256": "8c0e956afa7baaf93072d9c668acdb11e2762b19dbed16c7285fa7f30865967f",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 521429,
+      "bytes": 1234989487,
+      "sha256": "b156c9767be38ae36aa5b59186e3a89480f671d2be4cd14a4d80fc5350451702",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 628555,
+      "bytes": 250225626,
+      "sha256": "3de3a69c62bd4179597ec0e8d858e691c0c9dc2601170e528c95013a28fa5263",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 448830,
+      "bytes": 1921461180,
+      "sha256": "18bbd873bd051333905adeffe3759452ebbf406f9e1ae816c6ddfdf01bc34d92",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 576516,
+      "bytes": 322199975,
+      "sha256": "785b051f3f8f18a1347e7005b25bf79ab28f6dbf001e85b962195252c108567a",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 545437,
+      "bytes": 757481458,
+      "sha256": "1a4c65a02ac20353725cc3a7558db95c61b62bfe68bb6dee0e10dd4afaf40793",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 96767,
+      "bytes": 209468025,
+      "sha256": "b594368c5b3cf069e1fac2b1ea48bfff1559c2c599e018c16294375bd285b1a7",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 626408,
+      "bytes": 396622801,
+      "sha256": "eb4a7be2c1b650a36b932569d11632bfe3abb3e5d423a7b1c37190a6c0689caa",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 610668,
+      "bytes": 314165578,
+      "sha256": "eb8941969caafb70025493e439c5295e1e8bf87974098d412cf9232fda6fda22",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 342447,
+      "bytes": 1173600527,
+      "sha256": "bae8c8b72f785d8b24a0eecfa34aaf8dfef2f22e1900963d715815ad6dff63e9",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 595100,
+      "bytes": 246955993,
+      "sha256": "b662d726b010420550ce5503732190e0ec6ad1dbd8c0e3fbe2dc42a62e3ff683",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 429473,
+      "bytes": 402998507,
+      "sha256": "d1df9c054341171f4c038f2f9b0b915bdd38619faec8be4682e58434d1bcdc3f",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 220598,
+      "bytes": 1251077325,
+      "sha256": "5c676225c7491a09a2e625aa5d535630eb18ec4af899ea6f7fd1748a7d2c98ef",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 533999,
+      "bytes": 650289996,
+      "sha256": "cc81b04f57b85302ef95deff94a868aaa1bfc1e39b4a37b07dad095ea93ad6a2",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 289389,
+      "bytes": 115957644,
+      "sha256": "7c9ab9b31af2b9704d29d6a6078f9af9f24b59ab8a2ff7cdc7f98569259a09ba",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 96775,
+      "bytes": 357740243,
+      "sha256": "22490f7a20ff2c7f20ad0f56ff392580a2244d8bf63d50c9f9a4b7223c87d3ce",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 220607,
+      "bytes": 144208624,
+      "sha256": "ea62f1d605ab20e7c8254658ee5f98aa03d59c2f3c3a089be3bcd957db22207d",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 242794,
+      "bytes": 526362106,
+      "sha256": "6fe36386aaa512e92c26d8b00f7a8808e09a133a603bda0281f0e24c757f81b7",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 63884,
+      "bytes": 141368410,
+      "sha256": "a67dc59168118dd461a82af8080620f3d413340a990449018e48c5b91aa59acd",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 522983,
+      "bytes": 1237635443,
+      "sha256": "9c054f3922544d6dfc60a267beac2972f03c470da9462dc9d0715f82ed411d24",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 184945,
+      "bytes": 13277133,
+      "sha256": "27525223e9967708925a20f8d276d3a42ce2aa0e33358db1436bf29f404afa85",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 184931,
+      "bytes": 2088549079,
+      "sha256": "a88bdf5f587d7a8da64b971245b0c66599f0aa598a8769c0fc0577db8aa2cd4f",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 253865,
+      "bytes": 135658588,
+      "sha256": "ef05a98aa3015bfe07d6e295e40b7f03eaf6f5b41443384605aebdc08271ac58",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 475619,
+      "bytes": 1350283421,
+      "sha256": "bc3d071f7cdc05a54163e3ae3381499d75b5e3bbbc4748617c1c3bbd013d7179",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 630760,
+      "bytes": 252246518,
+      "sha256": "dc13d96c17cc0cb5bcd3042459fcfbcf9b5622e0996c53149df4455e04b259dd",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 366407,
+      "bytes": 1782156042,
+      "sha256": "39d7a910b596aeb83ff45e514d5f763644163fea320b4f676741f7b021710d44",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 383975,
+      "bytes": 1528956151,
+      "sha256": "874d87cb8a81a838da599e75e3e9e64d0437cc6120386855a5f7849b2f35b778",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 618318,
+      "bytes": 422853762,
+      "sha256": "c80ca43d2264aae6d24b5f8c8c0d7ce55f34013d1b4f7c20faac9efc0137ad21",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 167415,
+      "bytes": 117918043,
+      "sha256": "175dea1f22618456d778fba8efaeee147f289794b3228e21ddbafee26cb60922",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 184949,
+      "bytes": 154626161,
+      "sha256": "cf46265736a18a3237e3801b9f33548a821b2e0cc78499ab254bda019a1bd345",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 571072,
+      "bytes": 404265592,
+      "sha256": "744523b958e271e70a01115430fd13d5630217f38a69ae8c9613853f0d406f80",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 275546,
+      "bytes": 596280430,
+      "sha256": "a8da5a54d9ab47cc761aa27a38a082128c17cf4ac1afb0cbe3c3ee9bca445960",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 589873,
+      "bytes": 846857288,
+      "sha256": "ca974e77cac2e4420be565650b2d3bb13d434935f448da0f8fbb8eeb144c7aea",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 513106,
+      "bytes": 380523983,
+      "sha256": "811037e85d7406ef032fe42ffeddf7b554c9faeeaf7df5537264ee634e5bf1d0",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 338448,
+      "bytes": 9468250,
+      "sha256": "e0a3664e7d72fc4e66ea781ef39f3654d14d43c7085a0c31817de00e85703900",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 584286,
+      "bytes": 585425125,
+      "sha256": "6b1fab4370cae5c9a1ec45af7757d4270cbc85a58a84548bfb70b57aa877f59e",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 117253,
+      "bytes": 1494206726,
+      "sha256": "608194293753c023e146346ab79b0092ab45213673e00537fd4535c923bb991e",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 585080,
+      "bytes": 696483250,
+      "sha256": "be3056c600100855db6a0e10e1dcd50bd2d6d654701a0cc88dfb817b6c4aa755",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 35,
+      "bytes": 122002459,
+      "sha256": "01b0a1b16eb7fd98dd2d2a37f200293209db0ea3965d0d67174ef08c6c548da8",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 584511,
+      "bytes": 764283586,
+      "sha256": "cd72c8e28ffa29dc0f26de430aa7cb8cae9d323ddc1b6ca719973bcb0ec1e1ee",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 96783,
+      "bytes": 76024805,
+      "sha256": "5b3fce0be4b6b53e3096dba15eddc2f1947a94ee55e4421725fa5a103a8c63f1",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 536147,
+      "bytes": 624558665,
+      "sha256": "b4fd1878bcb71cbb39bc63a77d1bd690211106adf8078817efac8e274df48c44",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 583256,
+      "bytes": 427877038,
+      "sha256": "16d4d56458de31ebec68a51f33d4e6a72035e22136fe3fa499a4526725cbb281",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 459557,
+      "bytes": 521305480,
+      "sha256": "a7990022c0a71108fd868be9134b4dd10c68d3bc876e46e40961e4432e2a0baa",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 441709,
+      "bytes": 1775496052,
+      "sha256": "729b3ea2aa2122fe33dbd8ae0e7db3358d19cea900dec79ee056be533893185c",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 220603,
+      "bytes": 231971271,
+      "sha256": "b9dc2519a5051d18e0312d54e5c18da492aeb3bfa9b44c2368b857911f477010",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 499704,
+      "bytes": 1202394367,
+      "sha256": "880f589b0ac9146377217778569c584f7518d5633bf6c1b5eac5f409fbf610e7",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 379804,
+      "bytes": 855972602,
+      "sha256": "043da38f4ae303be047eec9c1a49fef3f4c2a07f39e5e6744a4875206da5ba0b",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 564268,
+      "bytes": 285007591,
+      "sha256": "94ac4c96d10ba2bd15b2a46da87fa0d91694afa399a420726011db032744d2e0",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 14,
+      "bytes": 298834771,
+      "sha256": "57fd4fd2cf9ecfdd02740975009cac12456dc6df3ec186af9a3da642d5bd5695",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 39,
+      "bytes": 200082656,
+      "sha256": "7c60644a56d5c6bbd6d56befd5e9a53d7278e6411dec3cff57cd0eee05d7c60c",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 63868,
+      "bytes": 1468437140,
+      "sha256": "fc154a08a2de4f761d078d3c911b2fa22e467e3f79ec636d959053e0447e1fdb",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 63875,
+      "bytes": 97623611,
+      "sha256": "3af6f7ce691c900ca6ce6877bb846629c09c9733ebdd1b6a17cf7997bf5f0372",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 96780,
+      "bytes": 115039371,
+      "sha256": "0b0b775e9fc65b7de644ec852e13219581537f27c38a4e7075fca8f1cc44e9a0",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 143899,
+      "bytes": 180871837,
+      "sha256": "a0f76b9a123ac2df7d3c8e761adca71bfe9a91f415c9f26e853a328d8fb84a3f",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 167407,
+      "bytes": 150737513,
+      "sha256": "8854e4b4b9d3fbab45c8934e558f0beba5771f858a8913480f4c66de04405db2",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 184951,
+      "bytes": 130189368,
+      "sha256": "d39c92d24f502281b7fd0168a294c7fe6b97d4b67f7d01006d74605a85dfe698",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 294867,
+      "bytes": 791063046,
+      "sha256": "a710b9776b8c80f2fe130951222bbc87b2eae1ef5e71c0bb80eff8fc252d47a6",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 333424,
+      "bytes": 1924061030,
+      "sha256": "91091ee4679a33cb593e67c474eddb03234bba3c602db08c800ece03389ca08b",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 388545,
+      "bytes": 205533092,
+      "sha256": "b0c207ece708a33b886ffc814f4551ac0307a02356280b39e7bc4ddfaff8a9cf",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 414918,
+      "bytes": 437348514,
+      "sha256": "eb7b5868c51fb683e94590620e6aec419e96870575fe316b87b684f938a2ec1b",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 440408,
+      "bytes": 931872678,
+      "sha256": "a57349bf4b1a527d04973a0f6cd6cff6d96ca07e8d87de1f16c0ef577e0d6fc5",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 578294,
+      "bytes": 697009219,
+      "sha256": "f8dfe55d5846dbb5ce0cb165ad9c852cd60801f775582e8b345da1f06c74a5f3",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 588986,
+      "bytes": 413855138,
+      "sha256": "ad9e5b9f1a1cbd33868a013cb7ddfb96ce737500249166f6fb440ac7d546497d",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 590926,
+      "bytes": 199879940,
+      "sha256": "bfcfc6cd3ea8bcb1f9055cc14dc2936ff52fa82d1ec65670c6cd00be9bc98e75",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 612699,
+      "bytes": 276677562,
+      "sha256": "f2caef18d806b84f6bd1811e3c1242839b715a4836cfd216bb5971bdf5010a19",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 625281,
+      "bytes": 357793061,
+      "sha256": "38f17afe23890034e3f4006a57ddd5a4f9cac109723b03e6ac635a4fa5575ade",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 625800,
+      "bytes": 153651300,
+      "sha256": "cac3a33a25427e0dfb71d899ce0c753a421e8a8969e4ff8f61dadffcd487b864",
+      "matches_streamed_archive": true
+    },
+    {
+      "subhalo_id": 648822,
+      "bytes": 388950254,
+      "sha256": "ee044fea949fb39505824a72d556605bbc64d20d38bb361088b34293949ce08b",
+      "matches_streamed_archive": true
+    }
+  ],
+  "combined_views": 600,
+  "combined_FITS_headers": 28800,
+  "selected_full_arrays_validated_by_stream_receipts": 4200,
+  "cache_files_current_hashes_rechecked": 600,
+  "cache_arrays": 4200,
+  "final_science_unsealed_once_under_frozen_receipt": true,
+  "final_evaluation_count": 1,
+  "models_retuned": false,
+  "original100_stage_preserves_sealed_final_flags": true,
+  "final20_stage_marks_unsealed": true,
+  "final_primary_galaxies": 16,
+  "final_source_control_galaxies": 4,
+  "final_zero_dust_ids": [
+    14,
+    39,
+    63875,
+    96780
+  ],
+  "source_control_total": 17,
+  "no_downloader_processes_found": true,
+  "downloader_pid_checks": [
+    {
+      "pidfile": "data/TNG50_SKIRT_DR1_ml_expansion/download.pid",
+      "pid": 27948,
+      "present_in_proc": false
+    },
+    {
+      "pidfile": "tng50_dr1_download.pid",
+      "pid": 30625,
+      "present_in_proc": false
+    }
+  ],
+  "process_check_scope": "Current /proc process visibility plus saved downloader PID checks",
+  "disk_free_bytes": 305586483200,
+  "disk_free_GiB": 284.5995903015137,
+  "required_floor_GiB": 100,
+  "safety_headroom_GiB": 0.25,
+  "above_floor": true,
+  "POSTFINAL_VALIDATION_passed": true,
+  "physical_rows_match_per_galaxy_stream_tables": true,
+  "physical_view_identities_unique": true,
+  "audit_completed_utc": "2026-10-28T02:51:35.312794+00:00"
+}

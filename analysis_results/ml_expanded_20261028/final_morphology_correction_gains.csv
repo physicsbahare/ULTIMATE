@@ -1,0 +1,11 @@
+metric,comparison,gain,low,high,n_galaxies,scenario
+C,seeing_minus_GLAO_native_dusty_error,0.22394710668837958,0.1525620457115089,0.2984593068328139,16,
+R50,seeing_minus_GLAO_native_dusty_error,0.06423615513598571,0.039831639843012065,0.08903579118115088,16,
+dC_Ks,uncorrected_minus_corrected_native_clear_error,0.15164280872391345,0.08360023301656416,0.23048048840977872,16,GLAO_NIR
+dC_Ks,uncorrected_minus_corrected_native_clear_error,0.1270215485615757,0.07402790497671134,0.1736193684017433,16,optical
+dC_Ks,uncorrected_minus_corrected_native_clear_error,0.1509181456382429,0.08675518442607262,0.22671163103982162,16,seeing_NIR
+dR50_Ks,uncorrected_minus_corrected_native_clear_error,0.1464072074275326,0.08168257736327922,0.22222561032187596,16,GLAO_NIR
+dR50_Ks,uncorrected_minus_corrected_native_clear_error,0.1112921320632771,0.08192429018084085,0.13557315552252577,16,optical
+dR50_Ks,uncorrected_minus_corrected_native_clear_error,0.17731294778431295,0.1062426253418213,0.2591461889081886,16,seeing_NIR
+dC_Ks,seeing_minus_GLAO_corrected_native_clear_error,0.22467590612255955,0.14300208088372995,0.31235887812496416,16,
+dR50_Ks,seeing_minus_GLAO_corrected_native_clear_error,0.03489673274797528,0.009113999605614423,0.06327110958793739,16,

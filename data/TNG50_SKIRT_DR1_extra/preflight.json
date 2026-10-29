@@ -1,0 +1,226 @@
+{
+  "catalogue": "official DR1 Baes24 atlas",
+  "authentication": "passed; valid gzip archive byte ranges",
+  "probes": [
+    {
+      "probe": "archive_range",
+      "subhalo_id": 167418,
+      "status": 206,
+      "range_start": 0,
+      "bytes_read": 1024,
+      "content_range": "bytes 0-1023/9691831",
+      "content_type": "application/octet-stream"
+    },
+    {
+      "probe": "archive_range",
+      "subhalo_id": 167418,
+      "status": 206,
+      "range_start": 1024,
+      "bytes_read": 1024,
+      "content_range": "bytes 1024-2047/9691831",
+      "content_type": "application/octet-stream"
+    },
+    {
+      "probe": "archive_range_size",
+      "subhalo_id": 167418,
+      "status": 206,
+      "expected_bytes": 9691831,
+      "content_type": "application/octet-stream",
+      "bytes_read": 1024
+    },
+    {
+      "probe": "archive_range_size",
+      "subhalo_id": 626287,
+      "status": 206,
+      "expected_bytes": 418856104,
+      "content_type": "application/octet-stream",
+      "bytes_read": 1024
+    },
+    {
+      "probe": "archive_range_size",
+      "subhalo_id": 638950,
+      "status": 206,
+      "expected_bytes": 399520966,
+      "content_type": "application/octet-stream",
+      "bytes_read": 1024
+    },
+    {
+      "probe": "archive_range_size",
+      "subhalo_id": 535051,
+      "status": 206,
+      "expected_bytes": 148141954,
+      "content_type": "application/octet-stream",
+      "bytes_read": 1024
+    },
+    {
+      "probe": "archive_range_size",
+      "subhalo_id": 616014,
+      "status": 206,
+      "expected_bytes": 319068960,
+      "content_type": "application/octet-stream",
+      "bytes_read": 1024
+    },
+    {
+      "probe": "archive_range_size",
+      "subhalo_id": 63883,
+      "status": 206,
+      "expected_bytes": 750678293,
+      "content_type": "application/octet-stream",
+      "bytes_read": 1024
+    },
+    {
+      "probe": "archive_range_size",
+      "subhalo_id": 486919,
+      "status": 206,
+      "expected_bytes": 21188949,
+      "content_type": "application/octet-stream",
+      "bytes_read": 1024
+    },
+    {
+      "probe": "archive_range_size",
+      "subhalo_id": 594731,
+      "status": 206,
+      "expected_bytes": 500461248,
+      "content_type": "application/octet-stream",
+      "bytes_read": 1024
+    },
+    {
+      "probe": "archive_range_size",
+      "subhalo_id": 13,
+      "status": 206,
+      "expected_bytes": 213626882,
+      "content_type": "application/octet-stream",
+      "bytes_read": 1024
+    },
+    {
+      "probe": "archive_range_size",
+      "subhalo_id": 117272,
+      "status": 206,
+      "expected_bytes": 554113476,
+      "content_type": "application/octet-stream",
+      "bytes_read": 1024
+    },
+    {
+      "probe": "archive_range_size",
+      "subhalo_id": 424289,
+      "status": 206,
+      "expected_bytes": 929442774,
+      "content_type": "application/octet-stream",
+      "bytes_read": 1024
+    },
+    {
+      "probe": "archive_range_size",
+      "subhalo_id": 613006,
+      "status": 206,
+      "expected_bytes": 454000618,
+      "content_type": "application/octet-stream",
+      "bytes_read": 1024
+    },
+    {
+      "probe": "archive_range_size",
+      "subhalo_id": 630975,
+      "status": 206,
+      "expected_bytes": 382644658,
+      "content_type": "application/octet-stream",
+      "bytes_read": 1024
+    },
+    {
+      "probe": "archive_range_size",
+      "subhalo_id": 558410,
+      "status": 206,
+      "expected_bytes": 840882856,
+      "content_type": "application/octet-stream",
+      "bytes_read": 1024
+    },
+    {
+      "probe": "archive_range_size",
+      "subhalo_id": 613192,
+      "status": 206,
+      "expected_bytes": 708506986,
+      "content_type": "application/octet-stream",
+      "bytes_read": 1024
+    },
+    {
+      "probe": "archive_range_size",
+      "subhalo_id": 604516,
+      "status": 206,
+      "expected_bytes": 419575092,
+      "content_type": "application/octet-stream",
+      "bytes_read": 1024
+    },
+    {
+      "probe": "archive_range_size",
+      "subhalo_id": 596866,
+      "status": 206,
+      "expected_bytes": 454000868,
+      "content_type": "application/octet-stream",
+      "bytes_read": 1024
+    },
+    {
+      "probe": "archive_range_size",
+      "subhalo_id": 507292,
+      "status": 206,
+      "expected_bytes": 907749132,
+      "content_type": "application/octet-stream",
+      "bytes_read": 1024
+    },
+    {
+      "probe": "archive_range_size",
+      "subhalo_id": 553837,
+      "status": 206,
+      "expected_bytes": 955720146,
+      "content_type": "application/octet-stream",
+      "bytes_read": 1024
+    },
+    {
+      "probe": "archive_range_size",
+      "subhalo_id": 546870,
+      "status": 206,
+      "expected_bytes": 712218507,
+      "content_type": "application/octet-stream",
+      "bytes_read": 1024
+    },
+    {
+      "probe": "archive_range_size",
+      "subhalo_id": 502995,
+      "status": 206,
+      "expected_bytes": 968651984,
+      "content_type": "application/octet-stream",
+      "bytes_read": 1024
+    },
+    {
+      "probe": "archive_range_size",
+      "subhalo_id": 184937,
+      "status": 206,
+      "expected_bytes": 332881618,
+      "content_type": "application/octet-stream",
+      "bytes_read": 1024
+    },
+    {
+      "probe": "archive_range_size",
+      "subhalo_id": 324124,
+      "status": 206,
+      "expected_bytes": 1923472804,
+      "content_type": "application/octet-stream",
+      "bytes_read": 1024
+    },
+    {
+      "probe": "archive_range_size",
+      "subhalo_id": 394621,
+      "status": 206,
+      "expected_bytes": 1378960648,
+      "content_type": "application/octet-stream",
+      "bytes_read": 1024
+    },
+    {
+      "probe": "archive_range_size",
+      "subhalo_id": 355724,
+      "status": 206,
+      "expected_bytes": 1739322191,
+      "content_type": "application/octet-stream",
+      "bytes_read": 1024
+    }
+  ],
+  "expected_total_GiB": 15.314090573228896,
+  "free_GiB": 361.09986877441406
+}

@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/home/bahareh/ULTIMATE/analysis_results/ml_validation_20261028/final_stage.py", line 39, in <module>
+    if a.execute_frozen:run()
+                        ^^^^^
+  File "/home/bahareh/ULTIMATE/analysis_results/ml_validation_20261028/final_stage.py", line 12, in run
+    assert bundle.exists(),'Final remains sealed until complete method freeze'
+           ^^^^^^^^^^^^^^^
+AssertionError: Final remains sealed until complete method freeze

@@ -1,0 +1,724 @@
+{
+  "passed": true,
+  "audit_stage": "final_unseal",
+  "completed_utc": "2026-10-28T02:42:13.589295+00:00",
+  "frozen_receipt_sha256": "587aab56d39e6b29ad47f381c4b1440c8dd28eb52811ebc4ae3842b6fc220ce4",
+  "final_ids": [
+    14,
+    39,
+    63868,
+    63875,
+    96780,
+    143899,
+    167407,
+    184951,
+    294867,
+    333424,
+    388545,
+    414918,
+    440408,
+    578294,
+    588986,
+    590926,
+    612699,
+    625281,
+    625800,
+    648822
+  ],
+  "final_science_opened": true,
+  "sealed_final": false,
+  "sealed_final_at_preunseal_audit": true,
+  "galaxies": 20,
+  "views": 100,
+  "FITS_headers": 4800,
+  "cache_arrays": 700,
+  "preunseal_snapshots_unchanged": {
+    "archive_inventory.csv": "bd532a34405aac72b3d60661c6b25ee0400b936a8d9e540b37107bd44284372b",
+    "fits_inventory.csv": "c3184981f8d12a0bedf6f286365996d6b6efbc1421ef52faf4d85b43951ddba6",
+    "available_galaxies.csv": "12ca9f0d3d1163f316ca4725d5fbbb76d87db6ba2e4df2c583d359be1326399d",
+    "physical_maps.csv": "b53f121c477753b63b4286542ca7ee4571674a026f42fdd3816ecaaa432714d4",
+    "validation.json": "2189200a4ae178bedff33e64f24662501c69d6c748a9decdffdfce18cd01e7ff"
+  },
+  "verified_frozen_artifacts": [
+    {
+      "path": "analysis_results/ml_expanded_20261028/CONTROL_OPERATOR_FROZEN.json",
+      "sha256": "e066f74ac49f55ceefd048a83ddd777781dadd06a16009e725edd0ca66d85f81",
+      "bytes": 4927
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/DEVELOPMENT_PROTOCOL.md",
+      "sha256": "6b4516f0ebe6b127a9930ad04b6de811b3189927eebb8d6ec5155c7e334da8da",
+      "bytes": 6259
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/MODEL_SELECTION_FROZEN.json",
+      "sha256": "13f1d0a3be1f8537b57309cd59cbff49310f8a76aa15462e8e49ba0197aaa972",
+      "bytes": 11675
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/PREFINAL_VALIDATION.json",
+      "sha256": "b5154b626de8c5a6ade37552d6e6916a5109752eaafa0126a15d5f7f9464abc7",
+      "bytes": 558
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/calibration_thresholds.csv",
+      "sha256": "8af78482477fbfba4faf5c7392025db7596cf1c88e8857ce72d0db01f24f694a",
+      "bytes": 31352
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/chosen_family_settings.csv",
+      "sha256": "cd5cbeae8d4912734e5a8009b86257a63a387597054fda0e5920185cb1ecad86",
+      "bytes": 3652
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/data_audit/archive_inventory.csv",
+      "sha256": "bd532a34405aac72b3d60661c6b25ee0400b936a8d9e540b37107bd44284372b",
+      "bytes": 78523
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/data_audit/cache_file_integrity.csv",
+      "sha256": "90763d3f04e8ab6e895057175d7962a512591794e130518d7c1fd7bad5b434b9",
+      "bytes": 44233
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/data_audit/frozen_galaxy_partitions.csv",
+      "sha256": "32779aeadf1e7ff2ed8c9ce93268fd112a5a2d2d3e25e4b3cbf3e9f4c12b20c1",
+      "bytes": 25563
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/data_audit/prepare_data.py",
+      "sha256": "2548dbe0362a1d556fe7b9b67ee3f2f8dc0f4b8c07908e34c80b2ef43b33a4f4",
+      "bytes": 11187
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/data_audit/unseal_final.py",
+      "sha256": "bbd23d40320424231096d55f49bd5338ab10a24737e43b5bb7c75e16c6adf1f5",
+      "bytes": 8636
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/data_audit/validation.json",
+      "sha256": "2189200a4ae178bedff33e64f24662501c69d6c748a9decdffdfce18cd01e7ff",
+      "bytes": 490
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/diagnostics.py",
+      "sha256": "38927bafb1903db2426c57980d75e42e7cf79b1d9608f099e8fd764db4a51ad2",
+      "bytes": 6160
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/expanded_features.py",
+      "sha256": "376835d9294452219a6345d5ce396785598df4667c197d5fae0a19ab0f07fd3c",
+      "bytes": 10373
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/expanded_models.py",
+      "sha256": "84a192dc362fa7fb4f35ddfb4621a5adcc65cc8f97c2846b04b8c7125284773f",
+      "bytes": 14010
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/freeze_guard.py",
+      "sha256": "5e0a309b32171c48c7a414b74eb3186d5fab2ad93801e691e593a206c236e8f9",
+      "bytes": 688
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/instrument_sensitivity/center_aperture_stress.py",
+      "sha256": "b0e535be6a6abf555079f319d963627ad9d275073b317ef49cfb8bfec2b2b443",
+      "bytes": 7528
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/instrument_sensitivity/center_aperture_verification.json",
+      "sha256": "e905ec2e6c54c7cab1dd9fba047e36ac29f6febd1b3f75d4cfb845b553b89352",
+      "bytes": 2960
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/instrument_sensitivity/run_stress.py",
+      "sha256": "27cbac286614f26a9ce213b1cd96998d83c63fa0b38128410a78d7168a38ab60",
+      "bytes": 10384
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/instrument_sensitivity/verification.json",
+      "sha256": "f8757f88617b910cbf966be50a538a285ee6e8b8800b181e46ca46688285a1a2",
+      "bytes": 841
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/instrument_sensitivity/verify_outputs.py",
+      "sha256": "d5dbf4754768eaf7b4e66198332a42382c315e0531627f78eab535be0f0e8049",
+      "bytes": 3235
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/label_audit/quality_policy.json",
+      "sha256": "d9a0224137134e9db875039fd410da4fc0cc7c9a3235416c710861a7a18b3861",
+      "bytes": 1875
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_GLAO_NIR_median_0.joblib",
+      "sha256": "c7bb0232760785ac3c76bea96b17772e9b5fc2665ebc7fe1f25ee1ca6777a9fc",
+      "bytes": 3204
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_GLAO_NIR_phot_ridge_1.joblib",
+      "sha256": "9faa350207b002753148ea503f059b8c3d41e301c6911548e936cbc0e8bd566e",
+      "bytes": 3546
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_GLAO_NIR_phot_ridge_100.joblib",
+      "sha256": "2c469978aa9ac0926d3927eb070d9ef1b6752e78ab17f5f375f3babc5ba94077",
+      "bytes": 3534
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_GLAO_NIR_screen_0.joblib",
+      "sha256": "dfa5e6f64a6d6fbb5a7b590492d4e4f36109465a0ab9b62f06b2b79cb04e2799",
+      "bytes": 2484
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_GLAO_NIR_spatial_boost_2.joblib",
+      "sha256": "61ec8a0febcc9cd2a04704a7927d2a9e148c13ccbaf31e4c21051584f3d54c80",
+      "bytes": 930253
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_GLAO_NIR_spatial_boost_3.joblib",
+      "sha256": "cf7f0b4b472202b6e35b40bf11c1b5ad6035e5a9061de2bfc7d2528cc67c19a4",
+      "bytes": 1028728
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_GLAO_NIR_spatial_forest_8.joblib",
+      "sha256": "5bd3f4a65a84a08caa2e93ec0aaee503e73472f6c029c2995e0926ce71c6fe10",
+      "bytes": 539347
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_GLAO_NIR_spatial_ridge_1.joblib",
+      "sha256": "2403867f57b5f85624e8710068d9bd2de4946c50ab6054183dfc9d5a261521a2",
+      "bytes": 21241
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_GLAO_NIR_spatial_ridge_10.joblib",
+      "sha256": "737a58b1d584e759571feb99588de38f6ffd1766ceb3057cf45e9478de3e3838",
+      "bytes": 21241
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_GLAO_NIR_spatial_ridge_100.joblib",
+      "sha256": "f8f68ccbe19cd071cc29e1c0f3edae33a056157386a780583fc63ce580508199",
+      "bytes": 21241
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_GLAO_NIR_summary_forest_8.joblib",
+      "sha256": "b57e1106f996684389855822833d08c3c67d795727505f62baa6587f10bced14",
+      "bytes": 542700
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_GLAO_NIR_summary_ridge_1.joblib",
+      "sha256": "2e5f4f3eec59ab18d2982d1cb4731f27a2af04fdb3174a351aa42aed5354a311",
+      "bytes": 5005
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_GLAO_NIR_summary_ridge_10.joblib",
+      "sha256": "09d524b25961afb3841a79d2123103274b758ccd1bfa4b65efe676683aa52f42",
+      "bytes": 5001
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_GLAO_NIR_summary_ridge_100.joblib",
+      "sha256": "c3a53b2c656c3b8645716cef47ee8927ddf0fc93d350d049b819e1074f4ce1d4",
+      "bytes": 5000
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_optical_median_0.joblib",
+      "sha256": "994c93d20a185d8081c72bb409f3405fdc25854c551868168111a5369dca58c5",
+      "bytes": 3113
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_optical_phot_ridge_1.joblib",
+      "sha256": "f99d3666060d9c99940e2df87e71fc9f91c34ccfc5e0f8d83070d35cffb61417",
+      "bytes": 3303
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_optical_phot_ridge_100.joblib",
+      "sha256": "9e510d67bdd35305ef943ca30eb0ad626c66dddfcd140908027d0f905a166273",
+      "bytes": 3300
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_optical_screen_0.joblib",
+      "sha256": "4cc646b661a982cc70af3dea409e18b6715c38d17307704d16fa2691ddf30fa9",
+      "bytes": 2418
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_optical_spatial_boost_2.joblib",
+      "sha256": "f287f23b2df0ee603aa36fb44c3e5dbb3154d4771587029a6610c7f049ca2bcb",
+      "bytes": 468497
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_optical_spatial_boost_3.joblib",
+      "sha256": "2ce171a5b9ec4fea2c134686e37d3bcef536815e6e5d9740ac439d42a11dda46",
+      "bytes": 561548
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_optical_spatial_forest_8.joblib",
+      "sha256": "49fd5336bf4df8572772aa440da9b66387e353670e21639bcc9a879fa19b9f30",
+      "bytes": 571701
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_optical_spatial_ridge_1.joblib",
+      "sha256": "e005762419a6ef735f4974af95837ab6db58afed3151e1fc50feece938c0886f",
+      "bytes": 12328
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_optical_spatial_ridge_10.joblib",
+      "sha256": "b508aeb24b2d8c2499f4c90529d4fabc29d4e584b42a291b3d92f2a42ae0f0f0",
+      "bytes": 12326
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_optical_spatial_ridge_100.joblib",
+      "sha256": "15af57d178b95cd0cf575421b4288f45ce86936286b465b51ea7e376ba6d0108",
+      "bytes": 12327
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_optical_summary_forest_8.joblib",
+      "sha256": "fba89a3009343dbf092168f73852b0b7628f547a567b23a68f0cd1d320fd1ffc",
+      "bytes": 573453
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_optical_summary_ridge_1.joblib",
+      "sha256": "6b01ad69c995143c4fbdcab7b745cc7f72bddf4d465be18aca69e5e3dac93beb",
+      "bytes": 3748
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_optical_summary_ridge_10.joblib",
+      "sha256": "f2183677bc79f136ba3de8792272687a778d75b64de77b5355ba17ef9c9468cf",
+      "bytes": 3751
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_optical_summary_ridge_100.joblib",
+      "sha256": "2a04dcb0062971bae0531a660ead64bdf05ae402e5cc589cc917ef1f136c04ea",
+      "bytes": 3749
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_seeing_NIR_median_0.joblib",
+      "sha256": "a12a1638e7f4c85c3887f3c3f81275ba512d6bae43cafa95d5732081b9540a49",
+      "bytes": 3206
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_seeing_NIR_phot_ridge_1.joblib",
+      "sha256": "4a5956d65f461d3a4100d01311f99a919d2d39001cbe4be077651d4a5929a81f",
+      "bytes": 3539
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_seeing_NIR_phot_ridge_100.joblib",
+      "sha256": "8e91d0ea48c68481e7012a37e7ac8e1986bae0a0744480e069665020462a16dd",
+      "bytes": 3539
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_seeing_NIR_screen_0.joblib",
+      "sha256": "0467cecb48b40837d54a86932cda78f7a33e0d138a32c691eb58054773805f8a",
+      "bytes": 2481
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_seeing_NIR_spatial_boost_2.joblib",
+      "sha256": "91d0b71752e6c0b3ef5df4aab8f3684c03c0e94a82f880b0c87fcd8a42d4efa2",
+      "bytes": 930248
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_seeing_NIR_spatial_boost_3.joblib",
+      "sha256": "568cc578e05ad1caa7d9ecfc6340f59fecf57ab2bc124022047c5bbf79729b73",
+      "bytes": 1030102
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_seeing_NIR_spatial_forest_8.joblib",
+      "sha256": "bbf0c7e573caf2c7cd01aa5f84ea9430b50a036946c3460202ecdeebe2bffc28",
+      "bytes": 537410
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_seeing_NIR_spatial_ridge_1.joblib",
+      "sha256": "6c15a93a0d86a11f085a927b5c91d9bdcbfe4a34cca03832bf79c821cfdc23e7",
+      "bytes": 21298
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_seeing_NIR_spatial_ridge_10.joblib",
+      "sha256": "3b36347a9697d8f3b5043071c27db9b2d3b8b1fb8f8d04ddf483230f5c5d7200",
+      "bytes": 21295
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_seeing_NIR_spatial_ridge_100.joblib",
+      "sha256": "44b7d30a0e6f0ea1778fb7a62c05811a3ce667aeec38436a2ddc01c34ce147f6",
+      "bytes": 21293
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_seeing_NIR_summary_forest_8.joblib",
+      "sha256": "b9702b25ed6b81105c14ed848c106039ab79758b36353de6557ffbc9d5ce8c3c",
+      "bytes": 543879
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_seeing_NIR_summary_ridge_1.joblib",
+      "sha256": "f2f36a82a838ce41cabb7ff129e2b31ee89d5deed67565ba797df829a416bc54",
+      "bytes": 4997
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_seeing_NIR_summary_ridge_10.joblib",
+      "sha256": "a80fc030bad76e7688108b668667d1f5fabf701b3351e1a362b5096e494eabf5",
+      "bytes": 5005
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/adaptive_seeing_NIR_summary_ridge_100.joblib",
+      "sha256": "f76335427d8442177e35d4828442217d3270bd7d632dd9bc4854f40abdefafeb",
+      "bytes": 5003
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_GLAO_NIR_median_0.joblib",
+      "sha256": "a6bad40b79cc3238652b31d1cfab473e74a8011715dc11c23cdb24117cd798bb",
+      "bytes": 3210
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_GLAO_NIR_phot_ridge_1.joblib",
+      "sha256": "077df6b86563f675530915c0e3312f89df4113da68c20cb3ac3ed38c639e79d4",
+      "bytes": 3542
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_GLAO_NIR_phot_ridge_100.joblib",
+      "sha256": "c0dd63b6005ff4e4f40c593ae38fa9c596affe711118abe57a494a2987197217",
+      "bytes": 3544
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_GLAO_NIR_screen_0.joblib",
+      "sha256": "36595ef54ec55e67085f61542fc4cfe91e4365cc3762695c9367c54731edb114",
+      "bytes": 2481
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_GLAO_NIR_spatial_boost_2.joblib",
+      "sha256": "dab26787470808476fba394a70a92676300ab87eee1288574c6fc9c868a3d04b",
+      "bytes": 928291
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_GLAO_NIR_spatial_boost_3.joblib",
+      "sha256": "9fd7f8fc5de93ff974ee1452249e0adfddb09dc1f6440fe00f061b8e125c8970",
+      "bytes": 1033222
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_GLAO_NIR_spatial_forest_8.joblib",
+      "sha256": "286b8199737de333b307bb3cadc42cd7bb862c5a0d6532b6e846fa5b41505940",
+      "bytes": 534520
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_GLAO_NIR_spatial_ridge_1.joblib",
+      "sha256": "9de1fac2ddb2d271b8bceb554cdaa02ecf9c01f56b7ae8e8a4bd2872f1cd48c0",
+      "bytes": 21219
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_GLAO_NIR_spatial_ridge_10.joblib",
+      "sha256": "54990d84e16afd04d8dc7d984858621ed2acd5ae47cae997b4f95550de69b1c1",
+      "bytes": 21210
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_GLAO_NIR_spatial_ridge_100.joblib",
+      "sha256": "af5b5c902961e5d96d19013609bb41bd525992f3819c6fecdd58e646b02cf602",
+      "bytes": 21211
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_GLAO_NIR_summary_forest_8.joblib",
+      "sha256": "1213361a948941e6761970950070e44d423c559c47a537154449dbcdd0e3e4f3",
+      "bytes": 519135
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_GLAO_NIR_summary_ridge_1.joblib",
+      "sha256": "a635b7650fe7ad90af771fcfec3712542ac559e7613a43a73f8d7a87241ed671",
+      "bytes": 5000
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_GLAO_NIR_summary_ridge_10.joblib",
+      "sha256": "1f761862f766321e4852b80efed912b768b6a1fdaeed1ca3f18e254487dda3cc",
+      "bytes": 4996
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_GLAO_NIR_summary_ridge_100.joblib",
+      "sha256": "d3f2c1b22b668191978ecd5e6c4b7be5f53943c8a5e93d3d75f01979b094ee29",
+      "bytes": 4995
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_optical_median_0.joblib",
+      "sha256": "eb5b1589df55c9bcedf41b6f9b8f684c11b2773ec352c82b4303c97753181e19",
+      "bytes": 3117
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_optical_phot_ridge_1.joblib",
+      "sha256": "8744980a191961b38bc2106e5f6ed109158ba954bfb9fe9408a4adca570f03d3",
+      "bytes": 3309
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_optical_phot_ridge_100.joblib",
+      "sha256": "fce23ea9857de61e8b0f01b2799a588bec439b37dfd517ac8ca65e17c55e2c7b",
+      "bytes": 3308
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_optical_screen_0.joblib",
+      "sha256": "18959d5c9f0066665ee0fb648473d9c26f0c7ed419835cab0f72d98b42f2d30b",
+      "bytes": 2415
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_optical_spatial_boost_2.joblib",
+      "sha256": "f2cf50db9c93e8806c72156a24315ece0bb6922c652af30e48abd9c0b631fe48",
+      "bytes": 470844
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_optical_spatial_boost_3.joblib",
+      "sha256": "127e439bc780bacb6bb5e63f16595b17fe880d8d38033bf178514000039a8e5f",
+      "bytes": 574637
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_optical_spatial_forest_8.joblib",
+      "sha256": "cf6462e7f3cc2f17f2ceb626226468b8f036e166bd85de7041a7de002de86d71",
+      "bytes": 556822
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_optical_spatial_ridge_1.joblib",
+      "sha256": "43023f5853bfe42862d9246f4a8f1990affece3a112ef9972080ff618f8b0ff5",
+      "bytes": 12294
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_optical_spatial_ridge_10.joblib",
+      "sha256": "980afc4951a8171647f0d693476ba237b4a5c1c716c087548a6b75242a0ac302",
+      "bytes": 12286
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_optical_spatial_ridge_100.joblib",
+      "sha256": "472b9d5c5431d512e9b319cbd07b7633f3f64a71d97519180f9870a95aef5303",
+      "bytes": 12274
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_optical_summary_forest_8.joblib",
+      "sha256": "54a1f4484250c65ab72470024a93822a5759398f00733c4c2df4e8e32611bb3b",
+      "bytes": 577417
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_optical_summary_ridge_1.joblib",
+      "sha256": "0c95b3454805e2be41ded0976f132f44d174badd1dd6b20bc65aab1f28a2b570",
+      "bytes": 3755
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_optical_summary_ridge_10.joblib",
+      "sha256": "d48022065171cbe0a456ce0977fec98a6de4d42b928e3e67c09aca4b6350365d",
+      "bytes": 3747
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_optical_summary_ridge_100.joblib",
+      "sha256": "3d7ed351eb9532586563d5ae0502b4681cb1f99e6b5e482b4296393469bf0384",
+      "bytes": 3744
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_seeing_NIR_median_0.joblib",
+      "sha256": "ee3500daef78df8c101feb9f24d17fa0aeaef0a8a5b1fcef3858f8bde1ebbc81",
+      "bytes": 3209
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_seeing_NIR_phot_ridge_1.joblib",
+      "sha256": "f4e73e960f9fface14c9057ccb233f4020ceb3b28220dc85b822e608e0869610",
+      "bytes": 3545
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_seeing_NIR_phot_ridge_100.joblib",
+      "sha256": "1ca23651b797befef8221d1421636d224ab53b18c66ca1215316d9d535aa5a67",
+      "bytes": 3544
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_seeing_NIR_screen_0.joblib",
+      "sha256": "8a8ccee11464a7b552105822c5ad212db6d11ccb0a97139b5252fa00e49e990c",
+      "bytes": 2479
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_seeing_NIR_spatial_boost_2.joblib",
+      "sha256": "3f75ec675f6c0fa972cb985c3f4926efabd14c0e408a7e63ad28ab5fed11395e",
+      "bytes": 927624
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_seeing_NIR_spatial_boost_3.joblib",
+      "sha256": "8fb23d87df1b56fd2cbb1b6cfacc320012087a4da6359e3a82977426beac73b1",
+      "bytes": 1030439
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_seeing_NIR_spatial_forest_8.joblib",
+      "sha256": "85e1197d2709556579ad86db2efc738391d9432762a2bef4e47e11655b98d36a",
+      "bytes": 537298
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_seeing_NIR_spatial_ridge_1.joblib",
+      "sha256": "89d6b3002c806ec02d910c37a4e024a2d803cd8bfc49616a5f0cad1e29b99abb",
+      "bytes": 21236
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_seeing_NIR_spatial_ridge_10.joblib",
+      "sha256": "a22cc9823dcb3fba2cbb5b7c2ecda375d7bebdac407a3fb99376ed9e3807f2e4",
+      "bytes": 21234
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_seeing_NIR_spatial_ridge_100.joblib",
+      "sha256": "19b206c9c1b1b19a45fe0068a4811cc9275ae85a42eb6b1f6841530b3ffd91de",
+      "bytes": 21231
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_seeing_NIR_summary_forest_8.joblib",
+      "sha256": "d73a92ef7d2c14cf43cc178cb50175502675d7194152fcf10af9f8b9fb6b11fb",
+      "bytes": 527343
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_seeing_NIR_summary_ridge_1.joblib",
+      "sha256": "b2f54893327ca9142a0ca91bfd15472bd856f08af1b7cdce038adca4fefd5b1a",
+      "bytes": 5003
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_seeing_NIR_summary_ridge_10.joblib",
+      "sha256": "0bd2a71389aa609da6699c0674c5c9345674aa2139a0314b6fb0e1b5b3a20743",
+      "bytes": 4993
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/fixed12_seeing_NIR_summary_ridge_100.joblib",
+      "sha256": "9c5e38097954555fa41a285ff57715d12f7cc5e9307154653c67546607e0c4c8",
+      "bytes": 5006
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/sensitivity_equal_noise_GLAO_NIR_spatial_boost_2.joblib",
+      "sha256": "2f451a7f22ac1b0cb9afdcff1ec6ff96d2d00d4850bef501668a58faeb4462e9",
+      "bytes": 930407
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/sensitivity_equal_noise_GLAO_NIR_spatial_boost_3.joblib",
+      "sha256": "09a62736548f55423470e16aa6e74f4289a391895551b532394bbcb84f0dffc9",
+      "bytes": 1029072
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/sensitivity_equal_noise_GLAO_NIR_spatial_forest_8.joblib",
+      "sha256": "f1b874f95808db004d7c9e125eaea17108381f545a86e0aec85204fe20956715",
+      "bytes": 539361
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/sensitivity_equal_noise_GLAO_NIR_spatial_ridge_1.joblib",
+      "sha256": "1eff36b161bcc67b87c586fbccdbbbf39457113ceb95ab1df4c2ccd6e094c8d4",
+      "bytes": 21269
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/sensitivity_equal_noise_GLAO_NIR_summary_ridge_1.joblib",
+      "sha256": "eccb6b756ab32b07d6ca1a1434b6c8f53914a45811cf094adfe4faad79320742",
+      "bytes": 4997
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/sensitivity_equal_noise_GLAO_NIR_summary_ridge_10.joblib",
+      "sha256": "06174e62b7e400684689dbc0227e0770453d64243bc28384598a8f90a7fb5585",
+      "bytes": 5001
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/sensitivity_equal_noise_seeing_NIR_spatial_boost_2.joblib",
+      "sha256": "95a2e5379c8118391501a091eff4365eeeddfee96101e195ac757f89521e39b6",
+      "bytes": 930014
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/sensitivity_equal_noise_seeing_NIR_spatial_boost_3.joblib",
+      "sha256": "f5df8e37a48301afe9225cd6bd219c90a2a1e065cc01eb176e5fe4823c11fc74",
+      "bytes": 1030470
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/sensitivity_equal_noise_seeing_NIR_spatial_forest_8.joblib",
+      "sha256": "21075a94442dadd58da4cd0d0128f4c26e40b06d15630a24e002a5362c1657fa",
+      "bytes": 537367
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/sensitivity_equal_noise_seeing_NIR_spatial_ridge_1.joblib",
+      "sha256": "079abb121a117666877e2d33d57a2189388256855a2e1902d94a9c8fb722e5a1",
+      "bytes": 21256
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/sensitivity_equal_noise_seeing_NIR_summary_ridge_1.joblib",
+      "sha256": "aa68fa07291d520a17a4bf2ff8e4fcb10136acde43792c7aaebe1180ee48f454",
+      "bytes": 5002
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/sensitivity_equal_noise_seeing_NIR_summary_ridge_10.joblib",
+      "sha256": "2893e782731fb7a922ccfed7bd2bfad1627fa1d0cfb75aeda5512b7436ebb344",
+      "bytes": 5002
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/sensitivity_noiseless_GLAO_NIR_spatial_boost_2.joblib",
+      "sha256": "4c74ecc0d34165e7f8c0250764892c8b3ee85170aa0e434467e3d33ed6d7b957",
+      "bytes": 933035
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/sensitivity_noiseless_GLAO_NIR_spatial_boost_3.joblib",
+      "sha256": "b21ca0f503402787bd137825eab0081b4efd1952f9c9cadf9e33abb8dc6fb18c",
+      "bytes": 1028535
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/sensitivity_noiseless_GLAO_NIR_spatial_forest_8.joblib",
+      "sha256": "9ea91112e713f9dcd3972c1666f631c1c71765c5830cb62c23afb52bbd0cae74",
+      "bytes": 523788
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/sensitivity_noiseless_GLAO_NIR_spatial_ridge_1.joblib",
+      "sha256": "9e48a89b6056f5a1524c3be56ae9637607cebc202ef83d7631af4a07f7ba9709",
+      "bytes": 21283
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/sensitivity_noiseless_GLAO_NIR_summary_ridge_1.joblib",
+      "sha256": "a75ca9a9f13c201afb14b2465c26ae4fb529e498d1d3f49d07a3bd3fc1c760b8",
+      "bytes": 5006
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/sensitivity_noiseless_GLAO_NIR_summary_ridge_10.joblib",
+      "sha256": "259a3c2d63ac79bbc2a58a709cb54095eb7776d8dbffa5f3ed5ae3990174d6aa",
+      "bytes": 5005
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/sensitivity_noiseless_seeing_NIR_spatial_boost_2.joblib",
+      "sha256": "72ff4c0aaf7f61d2283dcbb9ee7ff670152c0fb18e995486cf733be085962299",
+      "bytes": 933049
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/sensitivity_noiseless_seeing_NIR_spatial_boost_3.joblib",
+      "sha256": "944a7f17b64f56daf99405a7b8ebda3e975acc8516e2f55836aa3326dd165593",
+      "bytes": 1029845
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/sensitivity_noiseless_seeing_NIR_spatial_forest_8.joblib",
+      "sha256": "7dd9be95c4f020c3bd912555364fd8fa564d9cce9984540a029f632f2f1618a9",
+      "bytes": 525205
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/sensitivity_noiseless_seeing_NIR_spatial_ridge_1.joblib",
+      "sha256": "db948df1f227cc15063de1f4ca4e9fb317d7fe51a3a0da499b85ea0053d644de",
+      "bytes": 21282
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/sensitivity_noiseless_seeing_NIR_summary_ridge_1.joblib",
+      "sha256": "895de42f48a34481f9167432183eaca615eb45f1091bb9431b5d0371b0f35fd5",
+      "bytes": 5006
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/models/sensitivity_noiseless_seeing_NIR_summary_ridge_10.joblib",
+      "sha256": "d4eccd71916e055077651cda94c404009f66b19d866d4283112a9afbb984ed13",
+      "bytes": 4999
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/old_control_operator_envelopes.csv",
+      "sha256": "c874df7d6e147f6be37ccc8740a236c1778dda7f70343d3bdd881e8e2e681980",
+      "bytes": 2389
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/recommended_settings.csv",
+      "sha256": "1f0b2d8bb10cb0d5c1c04cc2542dc5c1ff080480e330453091e7c5b6dc985c05",
+      "bytes": 513
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/summarize.py",
+      "sha256": "4a68345a1f88505cc63d8acbabb58f7537a9f9aa8139460c7b214ce47d3d54e0",
+      "bytes": 7756
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/test_expanded.py",
+      "sha256": "e422cfd9d583438446f784f45c51402c7be025ee9eea9e09f510985752297d1e",
+      "bytes": 3207
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/tests.log",
+      "sha256": "402dc9de0d420e7f0b923332d6aa7dc16a79c0589991357e2eb76f7b02063257",
+      "bytes": 102
+    },
+    {
+      "path": "analysis_results/ml_expanded_20261028/verify_results.py",
+      "sha256": "03111f1ed6fef9073d46dbc31c48edaf6346e960ec2a18d23469cad89dfb62fc",
+      "bytes": 4407
+    }
+  ]
+}

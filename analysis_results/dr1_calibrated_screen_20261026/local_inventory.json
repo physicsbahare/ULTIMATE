@@ -1,0 +1,45 @@
+{
+  "local_archives": [
+    "TNG50_SKIRT/downloads/TNG50_DR1_294866.tar.gz"
+  ],
+  "galaxies": [
+    "TNG294866"
+  ],
+  "archive_members": 240,
+  "O1_available_bands": [
+    "2MASS_H",
+    "2MASS_J",
+    "2MASS_Ks",
+    "Euclid_H",
+    "Euclid_J",
+    "Euclid_VIS",
+    "Euclid_Y",
+    "GALEX_FUV",
+    "GALEX_NUV",
+    "Johnson_B",
+    "Johnson_I",
+    "Johnson_R",
+    "Johnson_U",
+    "Johnson_V",
+    "LSST_g",
+    "LSST_i",
+    "LSST_r",
+    "LSST_u",
+    "LSST_y",
+    "LSST_z",
+    "WISE_W1",
+    "WISE_W2"
+  ],
+  "original_published_filter_count": 18,
+  "local_bands": 22,
+  "analysis_bands": [
+    "LSST_g",
+    "LSST_r",
+    "LSST_i",
+    "LSST_z",
+    "2MASS_J",
+    "2MASS_H",
+    "2MASS_Ks"
+  ],
+  "other_galaxy_validation": false
+}

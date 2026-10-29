@@ -1,0 +1,30 @@
+{
+  "executable": "/home/bahareh/miniforge3/envs/phd/bin/python",
+  "python": "3.12.15",
+  "versions": {
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "astropy": "8.0.2",
+    "pandas": "3.0.6",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2",
+    "nbformat": "5.11.1",
+    "nbclient": "0.11.0"
+  },
+  "code_sha256": {
+    "label_quality_audit.py": "378b77aefe1dee0ccbfe7fc49b2452444d57004d4ca2eb8150485c8322d78925",
+    "execute_ml_notebook.py": "5b1615046d0833d9aa71fe6849b82b2f316eddafbc14f7008f0569ce9e12c26f",
+    "validate_ml_delivery.py": "968022abc96a6a8c18b29a3a9281d81ecf2d519f563df0b4acfc1878fea269dc",
+    "test_ml_integrity.py": "bc2d5e9b6ab4733feb301c7a0d7b33eee4e6367bed58b2a38fe9be723e971e6d",
+    "empirical_stress.py": "2c7668f0faea9bf6f8a440fd1ad29b4062ddc323e36240357f01b61065f60831",
+    "ml_postprocess.py": "5300dce64b963533c53b75628c0edce07001f328f278955aa770d68b2931da8c",
+    "ml_data.py": "0e00e17fd5093eaeb4cd0697205778179b0917c58b354616d3986650b591f1d5",
+    "write_ml_report.py": "5cf9bbf769fe01e27556f8fffe3a4ffafaa33516d4263deb4582f4466bab6320",
+    "ml_benchmark.py": "13ad7d2cafab8d92e9b1b61448bb0c5ad9087a75980408f626c339b5e5ff5d00"
+  },
+  "protocol_sha256": "f90112afc31a64b5c36616a26f70c6640b02bda43da6b3c8efaa28d5d53522c0",
+  "source_feature_hash": "c23e64d47baabaff80424d9a58178af3e8e1b7fff7f4b81c465ad6da62664a42",
+  "labels_sha256": "06c6de7c9e871ac265a9aea9a80250d9917e49a423fb7eb08c19b1df381e5471",
+  "frozen_120_partition_sha256": "32779aeadf1e7ff2ed8c9ce93268fd112a5a2d2d3e25e4b3cbf3e9f4c12b20c1",
+  "empirical_inputs_sha256": "62a2e950dd08b90a4cf52e05ea94f91e53e4cfc2a419cd371341ce3af20cd6ee"
+}

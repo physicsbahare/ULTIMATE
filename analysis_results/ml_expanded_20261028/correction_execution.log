@@ -1,0 +1,16 @@
+  scenario metric      MAE      bias  n_galaxies     RMSE
+  GLAO_NIR      C 0.319971 -0.319903          16 0.410180
+  GLAO_NIR    R50 0.059521  0.056206          16 0.076196
+seeing_NIR      C 0.543919 -0.543855          16 0.669347
+seeing_NIR    R50 0.123757  0.122008          16 0.156312
+ metric                                     comparison     gain      low     high  n_galaxies   scenario
+      C           seeing_minus_GLAO_native_dusty_error 0.223947 0.152562 0.298459          16        NaN
+    R50           seeing_minus_GLAO_native_dusty_error 0.064236 0.039832 0.089036          16        NaN
+  dC_Ks uncorrected_minus_corrected_native_clear_error 0.151643 0.083600 0.230480          16   GLAO_NIR
+  dC_Ks uncorrected_minus_corrected_native_clear_error 0.127022 0.074028 0.173619          16    optical
+  dC_Ks uncorrected_minus_corrected_native_clear_error 0.150918 0.086755 0.226712          16 seeing_NIR
+dR50_Ks uncorrected_minus_corrected_native_clear_error 0.146407 0.081683 0.222226          16   GLAO_NIR
+dR50_Ks uncorrected_minus_corrected_native_clear_error 0.111292 0.081924 0.135573          16    optical
+dR50_Ks uncorrected_minus_corrected_native_clear_error 0.177313 0.106243 0.259146          16 seeing_NIR
+  dC_Ks seeing_minus_GLAO_corrected_native_clear_error 0.224676 0.143002 0.312359          16        NaN
+dR50_Ks seeing_minus_GLAO_corrected_native_clear_error 0.034897 0.009114 0.063271          16        NaN

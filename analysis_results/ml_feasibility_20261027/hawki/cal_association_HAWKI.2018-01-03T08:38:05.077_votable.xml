@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VOTABLE version="1.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.ivoa.net/xml/VOTable/v1.3">
+  <RESOURCE type="results">
+    <TABLE>
+      <INFO name="DOCUMENTATION" value="http://archive.eso.org/cms/application_support/calselectorInfo.html" />
+      <INFO name="QUERY" value=""><![CDATA[https://archive.eso.org/calselector/v1/associations?dp_id=HAWKI.2018-01-03T08%3A38%3A05.077&mode=Raw2Master&responseformat=votable]]></INFO>
+      <FIELD name="ID" datatype="char" ucd="meta.id;meta.main" arraysize="*" />
+      <FIELD name="access_url" datatype="char" ucd="meta.ref.url" arraysize="*" />
+      <FIELD name="service_def" datatype="char" ucd="meta.ref" arraysize="*" />
+      <FIELD name="error_message" datatype="char" ucd="meta.code.error" arraysize="*" />
+      <FIELD name="semantics" datatype="char" ucd="meta.code" arraysize="*" />
+      <FIELD name="description" datatype="char" ucd="meta.note" arraysize="*" />
+      <FIELD name="content_type" datatype="char" ucd="meta.code.mime" arraysize="*" />
+      <FIELD name="content_length" datatype="long" ucd="phys.size;meta.file" unit="byte" />
+      <FIELD name="eso_category" datatype="char" ucd="meta.code.class;meta.dataset" arraysize="*" />
+      <FIELD name="eso_datalink" datatype="char" ucd="meta.ref.url" arraysize="*" />
+      <DATA>
+        <TABLEDATA>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/HAWKI.2018-01-03T08:38:05.077]]></TD>
+            <TD />
+            <TD />
+            <TD>#this</TD>
+            <TD>category="SCIENCE_IMG" certified="true" complete="true" mode="Raw2Master" type="main" messages=""</TD>
+            <TD>application/fits</TD>
+            <TD>44560983</TD>
+            <TD>OBJECT</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/HAWKI.2018-01-03T08:39:36.396]]></TD>
+            <TD />
+            <TD />
+            <TD>http://archive.eso.org/rdf/datalink/eso#sibling_raw</TD>
+            <TD>Any raw science file that needs to/can be calibrated together with the science raw file provided in input</TD>
+            <TD>application/fits</TD>
+            <TD>44627879</TD>
+            <TD>OBJECT</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?HAWKI.2018-01-03T08:39:36.396</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/HAWKI.2018-01-03T08:42:34.810]]></TD>
+            <TD />
+            <TD />
+            <TD>http://archive.eso.org/rdf/datalink/eso#sibling_raw</TD>
+            <TD>Any raw science file that needs to/can be calibrated together with the science raw file provided in input</TD>
+            <TD>application/fits</TD>
+            <TD>44443765</TD>
+            <TD>OBJECT</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?HAWKI.2018-01-03T08:42:34.810</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/HAWKI.2018-01-03T08:44:05.107]]></TD>
+            <TD />
+            <TD />
+            <TD>http://archive.eso.org/rdf/datalink/eso#sibling_raw</TD>
+            <TD>Any raw science file that needs to/can be calibrated together with the science raw file provided in input</TD>
+            <TD>application/fits</TD>
+            <TD>44446363</TD>
+            <TD>OBJECT</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?HAWKI.2018-01-03T08:44:05.107</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/HAWKI.2018-01-03T08:45:18.811]]></TD>
+            <TD />
+            <TD />
+            <TD>http://archive.eso.org/rdf/datalink/eso#sibling_raw</TD>
+            <TD>Any raw science file that needs to/can be calibrated together with the science raw file provided in input</TD>
+            <TD>application/fits</TD>
+            <TD>44732501</TD>
+            <TD>OBJECT</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?HAWKI.2018-01-03T08:45:18.811</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/HAWKI.2018-01-03T08:46:49.130]]></TD>
+            <TD />
+            <TD />
+            <TD>http://archive.eso.org/rdf/datalink/eso#sibling_raw</TD>
+            <TD>Any raw science file that needs to/can be calibrated together with the science raw file provided in input</TD>
+            <TD>application/fits</TD>
+            <TD>44615249</TD>
+            <TD>OBJECT</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?HAWKI.2018-01-03T08:46:49.130</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/M.HAWKI.2018-01-08T09:31:09.080]]></TD>
+            <TD />
+            <TD />
+            <TD>#calibration</TD>
+            <TD>Calibration file associated to the input raw observation(s): #this (see above) and related siblings (if any)</TD>
+            <TD>application/fits</TD>
+            <TD>67305600</TD>
+            <TD>BASIC_CALIBRATED_STD</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?M.HAWKI.2018-01-08T09:31:09.080</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/M.HAWKI.2018-01-08T09:31:14.246]]></TD>
+            <TD />
+            <TD />
+            <TD>#calibration</TD>
+            <TD>Calibration file associated to the input raw observation(s): #this (see above) and related siblings (if any)</TD>
+            <TD>application/fits</TD>
+            <TD>67305600</TD>
+            <TD>BASIC_CALIBRATED_STD</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?M.HAWKI.2018-01-08T09:31:14.246</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/M.HAWKI.2018-01-08T09:31:19.306]]></TD>
+            <TD />
+            <TD />
+            <TD>#calibration</TD>
+            <TD>Calibration file associated to the input raw observation(s): #this (see above) and related siblings (if any)</TD>
+            <TD>application/fits</TD>
+            <TD>67305600</TD>
+            <TD>BASIC_CALIBRATED_STD</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?M.HAWKI.2018-01-08T09:31:19.306</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/M.HAWKI.2018-01-08T09:31:51.163]]></TD>
+            <TD />
+            <TD />
+            <TD>#calibration</TD>
+            <TD>Calibration file associated to the input raw observation(s): #this (see above) and related siblings (if any)</TD>
+            <TD>application/fits</TD>
+            <TD>443520</TD>
+            <TD>BASIC_CAT_STD</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?M.HAWKI.2018-01-08T09:31:51.163</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/M.HAWKI.2018-01-08T09:31:54.176]]></TD>
+            <TD />
+            <TD />
+            <TD>#calibration</TD>
+            <TD>Calibration file associated to the input raw observation(s): #this (see above) and related siblings (if any)</TD>
+            <TD>application/fits</TD>
+            <TD>423360</TD>
+            <TD>BASIC_CAT_STD</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?M.HAWKI.2018-01-08T09:31:54.176</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/M.HAWKI.2018-01-08T09:31:57.346]]></TD>
+            <TD />
+            <TD />
+            <TD>#calibration</TD>
+            <TD>Calibration file associated to the input raw observation(s): #this (see above) and related siblings (if any)</TD>
+            <TD>application/fits</TD>
+            <TD>403200</TD>
+            <TD>BASIC_CAT_STD</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?M.HAWKI.2018-01-08T09:31:57.346</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/M.HAWKI.2018-01-08T09:32:18.896]]></TD>
+            <TD />
+            <TD />
+            <TD>#calibration</TD>
+            <TD>Calibration file associated to the input raw observation(s): #this (see above) and related siblings (if any)</TD>
+            <TD>application/fits</TD>
+            <TD>67282560</TD>
+            <TD>BASIC_VAR_MAP</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?M.HAWKI.2018-01-08T09:32:18.896</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/M.HAWKI.2018-01-08T09:32:24.653]]></TD>
+            <TD />
+            <TD />
+            <TD>#calibration</TD>
+            <TD>Calibration file associated to the input raw observation(s): #this (see above) and related siblings (if any)</TD>
+            <TD>application/fits</TD>
+            <TD>67282560</TD>
+            <TD>BASIC_VAR_MAP</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?M.HAWKI.2018-01-08T09:32:24.653</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/M.HAWKI.2018-01-08T09:32:30.703]]></TD>
+            <TD />
+            <TD />
+            <TD>#calibration</TD>
+            <TD>Calibration file associated to the input raw observation(s): #this (see above) and related siblings (if any)</TD>
+            <TD>application/fits</TD>
+            <TD>67282560</TD>
+            <TD>BASIC_VAR_MAP</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?M.HAWKI.2018-01-08T09:32:30.703</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/M.HAWKI.2017-01-13T09:32:37.270]]></TD>
+            <TD />
+            <TD />
+            <TD>#calibration</TD>
+            <TD>Calibration file associated to the input raw observation(s): #this (see above) and related siblings (if any)</TD>
+            <TD>application/fits</TD>
+            <TD>17280</TD>
+            <TD>MASTER_2MASS_CATALOGUE_ASTROM</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?M.HAWKI.2017-01-13T09:32:37.270</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/M.HAWKI.2017-01-13T09:32:04.353]]></TD>
+            <TD />
+            <TD />
+            <TD>#calibration</TD>
+            <TD>Calibration file associated to the input raw observation(s): #this (see above) and related siblings (if any)</TD>
+            <TD>application/fits</TD>
+            <TD>17280</TD>
+            <TD>MASTER_2MASS_CATALOGUE_PHOTOM</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?M.HAWKI.2017-01-13T09:32:04.353</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/M.HAWKI.2017-12-29T09:07:52.936]]></TD>
+            <TD />
+            <TD />
+            <TD>#calibration</TD>
+            <TD>Calibration file associated to the input raw observation(s): #this (see above) and related siblings (if any)</TD>
+            <TD>application/fits</TD>
+            <TD>67282560</TD>
+            <TD>MASTER_CONF</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?M.HAWKI.2017-12-29T09:07:52.936</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/M.HAWKI.2018-01-08T15:04:28.293]]></TD>
+            <TD />
+            <TD />
+            <TD>#calibration</TD>
+            <TD>Calibration file associated to the input raw observation(s): #this (see above) and related siblings (if any)</TD>
+            <TD>application/fits</TD>
+            <TD>67259520</TD>
+            <TD>MASTER_DARK</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?M.HAWKI.2018-01-08T15:04:28.293</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/M.HAWKI.2022-05-17T08:31:38.900]]></TD>
+            <TD />
+            <TD />
+            <TD>#calibration</TD>
+            <TD>Calibration file associated to the input raw observation(s): #this (see above) and related siblings (if any)</TD>
+            <TD>application/fits</TD>
+            <TD>80640</TD>
+            <TD>MASTER_READGAIN</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?M.HAWKI.2022-05-17T08:31:38.900</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/M.HAWKI.2017-12-29T09:07:37.606]]></TD>
+            <TD />
+            <TD />
+            <TD>#calibration</TD>
+            <TD>Calibration file associated to the input raw observation(s): #this (see above) and related siblings (if any)</TD>
+            <TD>application/fits</TD>
+            <TD>67294080</TD>
+            <TD>MASTER_TWILIGHT_FLAT</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?M.HAWKI.2017-12-29T09:07:37.606</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/M.HAWKI.2018-01-08T09:31:24.326]]></TD>
+            <TD />
+            <TD />
+            <TD>#calibration</TD>
+            <TD>Calibration file associated to the input raw observation(s): #this (see above) and related siblings (if any)</TD>
+            <TD>application/fits</TD>
+            <TD>319680</TD>
+            <TD>MATCHSTD_PHOTOM</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?M.HAWKI.2018-01-08T09:31:24.326</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/M.HAWKI.2018-01-08T09:31:27.253]]></TD>
+            <TD />
+            <TD />
+            <TD>#calibration</TD>
+            <TD>Calibration file associated to the input raw observation(s): #this (see above) and related siblings (if any)</TD>
+            <TD>application/fits</TD>
+            <TD>322560</TD>
+            <TD>MATCHSTD_PHOTOM</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?M.HAWKI.2018-01-08T09:31:27.253</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/M.HAWKI.2018-01-08T09:31:30.140]]></TD>
+            <TD />
+            <TD />
+            <TD>#calibration</TD>
+            <TD>Calibration file associated to the input raw observation(s): #this (see above) and related siblings (if any)</TD>
+            <TD>application/fits</TD>
+            <TD>319680</TD>
+            <TD>MATCHSTD_PHOTOM</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?M.HAWKI.2018-01-08T09:31:30.140</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/M.HAWKI.2018-01-08T09:31:33.083]]></TD>
+            <TD />
+            <TD />
+            <TD>#calibration</TD>
+            <TD>Calibration file associated to the input raw observation(s): #this (see above) and related siblings (if any)</TD>
+            <TD>application/fits</TD>
+            <TD>67282560</TD>
+            <TD>MEAN_SKY</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?M.HAWKI.2018-01-08T09:31:33.083</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/M.HAWKI.2018-01-08T09:31:37.640]]></TD>
+            <TD />
+            <TD />
+            <TD>#calibration</TD>
+            <TD>Calibration file associated to the input raw observation(s): #this (see above) and related siblings (if any)</TD>
+            <TD>application/fits</TD>
+            <TD>67282560</TD>
+            <TD>MEAN_SKY</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?M.HAWKI.2018-01-08T09:31:37.640</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/M.HAWKI.2018-01-08T09:31:44.990]]></TD>
+            <TD />
+            <TD />
+            <TD>#calibration</TD>
+            <TD>Calibration file associated to the input raw observation(s): #this (see above) and related siblings (if any)</TD>
+            <TD>application/fits</TD>
+            <TD>67282560</TD>
+            <TD>MEAN_SKY</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?M.HAWKI.2018-01-08T09:31:44.990</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/M.HAWKI.2018-01-08T09:32:00.313]]></TD>
+            <TD />
+            <TD />
+            <TD>#calibration</TD>
+            <TD>Calibration file associated to the input raw observation(s): #this (see above) and related siblings (if any)</TD>
+            <TD>application/fits</TD>
+            <TD>67282560</TD>
+            <TD>MEAN_SKY_VAR</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?M.HAWKI.2018-01-08T09:32:00.313</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/M.HAWKI.2018-01-08T09:32:04.810]]></TD>
+            <TD />
+            <TD />
+            <TD>#calibration</TD>
+            <TD>Calibration file associated to the input raw observation(s): #this (see above) and related siblings (if any)</TD>
+            <TD>application/fits</TD>
+            <TD>67282560</TD>
+            <TD>MEAN_SKY_VAR</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?M.HAWKI.2018-01-08T09:32:04.810</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/M.HAWKI.2018-01-08T09:32:11.610]]></TD>
+            <TD />
+            <TD />
+            <TD>#calibration</TD>
+            <TD>Calibration file associated to the input raw observation(s): #this (see above) and related siblings (if any)</TD>
+            <TD>application/fits</TD>
+            <TD>67282560</TD>
+            <TD>MEAN_SKY_VAR</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?M.HAWKI.2018-01-08T09:32:11.610</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/M.HAWKI.2017-01-13T09:32:55.220]]></TD>
+            <TD />
+            <TD />
+            <TD>#calibration</TD>
+            <TD>Calibration file associated to the input raw observation(s): #this (see above) and related siblings (if any)</TD>
+            <TD>application/fits</TD>
+            <TD>20160</TD>
+            <TD>PHOTCAL_TAB</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?M.HAWKI.2017-01-13T09:32:55.220</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/M.HAWKI.2017-01-13T09:33:14.736]]></TD>
+            <TD />
+            <TD />
+            <TD>#calibration</TD>
+            <TD>Calibration file associated to the input raw observation(s): #this (see above) and related siblings (if any)</TD>
+            <TD>application/fits</TD>
+            <TD>67115520</TD>
+            <TD>SCHLEGEL_MAP_NORTH</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?M.HAWKI.2017-01-13T09:33:14.736</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://dataportal.eso.org/dataPortal/file/M.HAWKI.2017-01-13T09:33:41.393]]></TD>
+            <TD />
+            <TD />
+            <TD>#calibration</TD>
+            <TD>Calibration file associated to the input raw observation(s): #this (see above) and related siblings (if any)</TD>
+            <TD>application/fits</TD>
+            <TD>67115520</TD>
+            <TD>SCHLEGEL_MAP_SOUTH</TD>
+            <TD>https://archive.eso.org/datalink/links?ID=ivo://eso.org/ID?M.HAWKI.2017-01-13T09:33:41.393</TD>
+          </TR>
+          <TR>
+            <TD>ivo://eso.org/ID?HAWKI.2018-01-03T08:38:05.077</TD>
+            <TD><![CDATA[https://archive.eso.org/calselector/v1/associations?dp_id=HAWKI.2018-01-03T08:38:05.077&mode=Raw2Master]]></TD>
+            <TD />
+            <TD />
+            <TD>http://archive.eso.org/rdf/datalink/eso#calSelector_raw2master</TD>
+            <TD>Calibration cascade showing relations among all science and the master calibration files</TD>
+            <TD>application/xml</TD>
+            <TD>1000000</TD>
+            <TD>ASSOCIATION_TREE</TD>
+            <TD />
+          </TR>
+        </TABLEDATA>
+      </DATA>
+    </TABLE>
+  </RESOURCE>
+</VOTABLE>

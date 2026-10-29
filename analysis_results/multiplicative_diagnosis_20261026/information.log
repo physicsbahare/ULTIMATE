@@ -1,0 +1,15 @@
+         scene likelihood  n_data  n_stellar_parameters  stellar_jacobian_rank  dust_jacobian_relative_outside_stellar_span  dust_jacobian_norm  E_mean_MAP  E_range_MAP  E_mean_local_SD
+   DR1_uniform   absolute     105                   251                    105                                 9.861321e-16          575.528630    0.142820     0.210740         0.130604
+   DR1_uniform  contrasts      98                   251                     98                                 1.782247e-15          220.373841    0.276548     0.183302         0.320467
+problem_anchor   absolute     105                   251                    105                                 1.060732e-15          576.574584    0.139254     0.266394         0.122972
+problem_anchor  contrasts      98                   251                     98                                 1.684384e-15          217.160687    0.278305     0.179514         0.319205
+uniform E invariance 8.881784197001252e-16 0.19148306764108405
+            x_kpc       y_kpc  clear_colour_best_screen_E  best_fractional_rms  E0_fractional_rms
+count  144.000000  144.000000                  144.000000           144.000000         144.000000
+mean     7.500000    0.000000                    0.009097             0.003073           0.003733
+std      2.591001    4.625862                    0.014861             0.003296           0.004370
+min      3.500000   -7.500000                    0.000000             0.000028           0.000028
+25%      5.500000   -3.750000                    0.000000             0.000536           0.000536
+50%      7.500000    0.000000                    0.000000             0.001247           0.001287
+75%      9.500000    3.750000                    0.020000             0.005939           0.006804
+max     11.500000    7.500000                    0.050000             0.018564           0.018564

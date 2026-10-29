@@ -1,0 +1,11 @@
+                          quantity  n_PC  residual_relative_norm  max_absolute_fractional_residual
+                    log_multiplier     2            3.140286e-16                      6.245005e-17
+                    log_multiplier     3            3.260077e-16                      6.938894e-17
+                    log_multiplier     6            3.244321e-16                      6.938894e-17
+             fractional_multiplier     2            4.327053e-03                      9.361584e-04
+             fractional_multiplier     3            2.296592e-03                      5.895903e-04
+             fractional_multiplier     6            3.367674e-16                      8.326673e-17
+stellar_colour_weighted_multiplier     2            2.559084e-02                      3.038374e-02
+stellar_colour_weighted_multiplier     3            1.293747e-02                      1.813366e-02
+stellar_colour_weighted_multiplier     6            3.377176e-16                      2.220446e-16
+[{'mode': 'seeing', 'spatial_rank': np.int64(14), 'n_contrasts': 14, 'relative_anchor_reconstruction_residual': np.float64(4.468234121899762e-16)}, {'mode': 'glao', 'spatial_rank': np.int64(14), 'n_contrasts': 14, 'relative_anchor_reconstruction_residual': np.float64(4.468234121899762e-16)}]

@@ -1,0 +1,4 @@
+WARNING: FITSFixedWarning: RADECSYS= 'ICRS ' / Coordinate reference frame 
+the RADECSYS keyword is deprecated, use RADESYSa. [astropy.wcs.wcs]
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set DATE-END to '2019-08-21T00:18:04.296' from MJD-END'. [astropy.wcs.wcs]
+Models, summary tables and figures complete

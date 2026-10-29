@@ -1,0 +1,9 @@
+target,development_min,development_max,final_min,final_max,final_views_outside_training_range,final_galaxies_with_outside_view,use
+A_g,0.1054263764060014,1.5732696250382407,0.0961120320930766,2.220945159713697,3,2,Post-evaluation truth-range diagnostic; not an observable OOD flag or exclusion
+A_Ks,-0.02093913720337,0.478358950375991,-0.0050355235267068,0.3112360363619125,0,0,Post-evaluation truth-range diagnostic; not an observable OOD flag or exclusion
+A_g_p50_1kpc,-0.0454137055014916,0.976680067878917,-0.0732500881480994,1.329006892833425,2,2,Post-evaluation truth-range diagnostic; not an observable OOD flag or exclusion
+A_g_IQR_1kpc,0.002953049006998,0.8148562506401773,0.0065152778344121,1.5441592895007328,2,1,Post-evaluation truth-range diagnostic; not an observable OOD flag or exclusion
+dR50_Ks,-0.1068519474247127,2.038451778717272,-0.0095635039776036,1.0487544240653888,0,0,Post-evaluation truth-range diagnostic; not an observable OOD flag or exclusion
+dC_Ks,-1.222212155351199,0.2855233603114149,-1.104203740502916,0.1069030476456456,0,0,Post-evaluation truth-range diagnostic; not an observable OOD flag or exclusion
+dR50_g,-1.296493961635404,3.993922987607911,-0.3191858807040386,4.043079110168475,1,1,Post-evaluation truth-range diagnostic; not an observable OOD flag or exclusion
+dC_g,-2.8296064811357096,1.3881604685972069,-2.571259223459489,0.7942417829266568,0,0,Post-evaluation truth-range diagnostic; not an observable OOD flag or exclusion

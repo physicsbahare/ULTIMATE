@@ -1,0 +1,38 @@
+resume 294866
+resume 167418
+resume 626287
+resume 535051
+resume 638950
+....
+----------------------------------------------------------------------
+Ran 4 tests in 0.035s
+
+OK
+{'analytic_tests_passed': 4, 'pilot_cache_bitwise_equal': True, 'published_morphology_max_error': np.float64(1.7763568394002505e-15), 'gaussian_padded_flux_loss': np.float64(1.4432899320127035e-14), 'overlap_flux_relative_error': np.float64(1.887379141862766e-15), 'aggregate_Poisson_split_read_moments_passed': True}
+DEVELOPMENT GATE PASSED
+resume 294866
+resume 167418
+resume 626287
+resume 535051
+resume 638950
+resume 616014
+resume 486919
+resume 63883
+resume 594731
+resume 613006
+resume 117272
+resume 13
+resume 424289
+resume 630975
+resume 604516
+resume 558410
+resume 613192
+resume 546870
+resume 553837
+resume 596866
+resume 507292
+resume 184937
+resume 324124
+resume 394621
+resume 502995
+resume 355724

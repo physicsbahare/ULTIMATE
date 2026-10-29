@@ -1,0 +1,9 @@
+# DR1 expansion acquisition status
+
+Observed 2026-10-27T04:07:58.903776+00:00. The galaxy split is frozen at86 development,14 validation and20 untouched final-test galaxies. The exact IDs and official metadata are in `galaxy_partitions.csv`; reproducibility, selection probabilities, limits and monitoring commands are in `README.md`.
+
+All94 new archives passed authenticated gzip/range/size preflight: **60,164,124,583 bytes (56.032GiB)**. The batch PID is **27948**, live-process probe **True**, batch status **running**. **12/94 new archives** have completed full gzip CRC/tar-byte/SHA256 verification; with26 existing archives, **38/120 total** are verified at this observation. Compressed bytes currently present: **7,273,245,405**; free disk space: **339.63GiB**. The exact current transfer/verification phase is retained in `acquisition_status.json` and the live download state.
+
+The94 downloads are in progress as a detached resumable batch. The launch is not completion of the120-galaxy dataset. No new scientific image analysis has been performed, including on final-test galaxies; verification only checks archive integrity. Network access succeeded outside the restricted sandbox after its DNS failure. No API credential or signed URL is present in the outputs. No current blocker is recorded when the PID probe above is true.
+
+Validation passed:120 distinct IDs, exact86/14/20 disjoint roles, all old26 confined to development, frozen CSV hashes, complete94-object size/range preflight, and six inherited downloader safety/integrity/resume tests under the expansion configuration. See `verification.log`. The sample is deliberately balanced in mass/activity. Gas fraction and gas surface-density proxies do not establish dust content, morphology or disk classification. Previously inspected feasibility galaxies cannot serve as the untouched final test.

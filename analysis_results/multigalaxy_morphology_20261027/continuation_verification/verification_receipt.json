@@ -1,0 +1,30 @@
+{
+  "executed_UTC": "2026-10-27T01:17:55.461339+00:00",
+  "executable": "/home/bahareh/miniforge3/envs/phd/bin/python",
+  "primary_results": "Existing frozen protocol retained",
+  "new_sensitivity": "Exclude zero-projected-dust objects, descriptively only; not a physical-null correction",
+  "study_files_hash_checked": 795,
+  "previous_result_files_unchanged": 289,
+  "fresh_archive_hashes": 26,
+  "independent_galaxy_gain_max_difference": 9.974659986866641e-17,
+  "observing_replay_galaxies": 5,
+  "independent_native_R50_checks": 20,
+  "raw_FITS_spotchecks": 2,
+  "original_executed_notebook_cells": 12,
+  "original_embedded_figures": 11,
+  "status": "Numerical reproduction PASS; source-product physical-null calibration UNRESOLVED",
+  "unit_tests_passed": 10,
+  "fresh_noise_moment_checks_passed": 3,
+  "supplementary_executed_code_cells": 4,
+  "supplementary_embedded_figures": 3,
+  "supplementary_HTML_exported": true,
+  "fresh_visual_inspection": [
+    "02_wavelength_dependence.png",
+    "03_per_galaxy_bias.png",
+    "05_GLAO_morphology_accuracy.png",
+    "09_representative_images.png",
+    "11_source_and_estimator_controls.png"
+  ],
+  "HTML_browser_rendering": "Not separately inspected; matching embedded PNGs visually inspected",
+  "all_preexisting_study_and_prior_result_hashes_still_match": true
+}

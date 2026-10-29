@@ -1,0 +1,18 @@
+# Redshift and bandpass limitations
+
+## Validated physical inputs
+All scenes use the actual DR1 LSST g,r,i,z and 2MASS J,H,Ks images, with MJy/sr units and 100pc physical pixels, retaining their structured morphology. No photometric interpolation synthesizes a new observer filter. Local inventory lists 22 filters including Euclid products; the original publication describes 18. LSST y is not used as dedicated NIR Y. Euclid Y is not asserted to be ULTIMATE Y. 2MASS J/H/Ks are not exact ULTIMATE passbands.
+
+The primary physical controls are multiplicative image-level transformations of these actual broadband images. E(B-V) has a defined monochromatic B=0.44µm, V=0.55µm normalization:
+`k(lambda,n)=(lambda/0.55)^(-n)/[(0.44/0.55)^(-n)-1]`, so k(B)-k(V)=1. The primary n=1 implies Rv=4; n=.7/1.3 are declared sensitivities, not measured extinction laws. A=E*k, I_screen=I_clear*10^(-.4*A). These are band-effective pivot approximations; they do not implement wavelength-resolved radiative transfer or recover age-dependent birth-cloud attenuation. The patch and smooth screens are constructed without SKIRT projected dust maps.
+
+`within_band_SED_sensitivity.csv` integrates the power-law attenuation over declared top-hat proxy widths with independent EAZY/FSPS SEDs at E=.05,.15,.35. It quantifies finite-width/SED effects relative to the pivot coefficient, not exact DR1 filter convolution. Largest g coefficient deviation in that library is about -3.33%; NIR changes are smaller. Real filters, lines, populations and extinction curves can lie outside this bracket. Alternating ±5% coefficients are an additional deliberately conservative sensitivity, not a measured error distribution. A uniform-E, SED-dependent-coefficient null is tested separately.
+
+## Conditional observational degradation
+The z=.1 and .3 labels specify illustrative cosmological distances. Intrinsic size, luminosity, stellar scene and dust screen stay fixed; there is no size or population evolution. FlatLambdaCDM H0=70 km/s/Mpc, Om=.3, Tcmb=2.725 sets the angular scale. The native source pixel spans 100pc/D_A radians. The image is convolved and integrated by exact pixel-area overlaps onto 0.1arcsec pixels. Finite padded-field PSF losses are recorded, especially Moffat wings.
+
+The stored units are *frequency-specific*, so I_nu,obs=I_nu,em/(1+z)^3 at corresponding frequencies. This yields F_nu,obs=(1+z)L_nu,em/(4*pi*D_L²), using D_L=(1+z)² D_A. The bolometric (1+z)^-4 law is NOT applied to these MJy/sr arrays. No additional distance factor is multiplied into an already dimmed angular image.
+
+This is **matched-rest-band image degradation**, not exact observer-frame ULTIMATE photometry. A rest-frame band at lambda would be observed near (1+z)*lambda. For example, rest Ks=2.159µm would move to 2.375µm at z=.1 and 2.807µm at z=.3. The latter is beyond ordinary ground-based Ks coverage. The code deliberately retains nominal DR1-labelled electron-rate/sky proxy coefficients as a conditional sensitivity experiment; it does NOT claim the calculator provides the throughput/thermal sky at these shifted passbands. Consequently the full seven-band z=.3 result is not an achievable fixed-filter ground-based forecast. This limitation is material, even when the mathematical image degradation is accurate.
+
+No wide-band interpolation, K correction, exact observer-band dust detection, physical galaxy evolution, z=.6/1 forecast, or spectral reconstruction is inferred. These missing mappings prevent a definitive realistic ULTIMATE performance claim. This does not prevent measuring conditional information loss or demonstrating the population false-positive problem in existing DR1 bands.

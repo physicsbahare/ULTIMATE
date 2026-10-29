@@ -1,0 +1,142 @@
+{
+  "control_IDs": [
+    13,
+    167418,
+    184937,
+    613192
+  ],
+  "new_validation_or_final_values_used": false,
+  "aperture_selection": "Dusty commonseeingKs only, R80 within35kpc",
+  "envelope_use": "Descriptive only; no correction or calibrated physical threshold",
+  "target_definitions": "expanded_features.labels_for",
+  "rows": [
+    {
+      "aperture": "adaptive",
+      "target": "A_g",
+      "n_control_galaxies": 4,
+      "median": 0.1220703547926054,
+      "maximum_absolute": 0.1243331524929695,
+      "use": "Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction"
+    },
+    {
+      "aperture": "adaptive",
+      "target": "A_Ks",
+      "n_control_galaxies": 4,
+      "median": 0.02083825136054785,
+      "maximum_absolute": 0.0225906120747492,
+      "use": "Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction"
+    },
+    {
+      "aperture": "adaptive",
+      "target": "A_g_p50_1kpc",
+      "n_control_galaxies": 4,
+      "median": 0.1117958377146013,
+      "maximum_absolute": 0.1190678018176467,
+      "use": "Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction"
+    },
+    {
+      "aperture": "adaptive",
+      "target": "A_g_IQR_1kpc",
+      "n_control_galaxies": 4,
+      "median": 0.00645030935249035,
+      "maximum_absolute": 0.0121083969878577,
+      "use": "Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction"
+    },
+    {
+      "aperture": "adaptive",
+      "target": "dR50_Ks",
+      "n_control_galaxies": 4,
+      "median": 0.0104543235615448,
+      "maximum_absolute": 0.037486543810013,
+      "use": "Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction"
+    },
+    {
+      "aperture": "adaptive",
+      "target": "dC_Ks",
+      "n_control_galaxies": 4,
+      "median": 0.014188315718868201,
+      "maximum_absolute": 0.2398168403280154,
+      "use": "Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction"
+    },
+    {
+      "aperture": "adaptive",
+      "target": "dR50_g",
+      "n_control_galaxies": 4,
+      "median": 0.0116543981235495,
+      "maximum_absolute": 0.0261218760791523,
+      "use": "Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction"
+    },
+    {
+      "aperture": "adaptive",
+      "target": "dC_g",
+      "n_control_galaxies": 4,
+      "median": 0.0102670855366078,
+      "maximum_absolute": 0.1227427603631072,
+      "use": "Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction"
+    },
+    {
+      "aperture": "fixed12",
+      "target": "A_g",
+      "n_control_galaxies": 4,
+      "median": 0.121382588813929,
+      "maximum_absolute": 0.1239173691792003,
+      "use": "Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction"
+    },
+    {
+      "aperture": "fixed12",
+      "target": "A_Ks",
+      "n_control_galaxies": 4,
+      "median": 0.0204811387954227,
+      "maximum_absolute": 0.0215910509054506,
+      "use": "Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction"
+    },
+    {
+      "aperture": "fixed12",
+      "target": "A_g_p50_1kpc",
+      "n_control_galaxies": 4,
+      "median": 0.11115178335603984,
+      "maximum_absolute": 0.1188668521051604,
+      "use": "Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction"
+    },
+    {
+      "aperture": "fixed12",
+      "target": "A_g_IQR_1kpc",
+      "n_control_galaxies": 4,
+      "median": 0.0068770315642016,
+      "maximum_absolute": 0.0144558884446091,
+      "use": "Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction"
+    },
+    {
+      "aperture": "fixed12",
+      "target": "dR50_Ks",
+      "n_control_galaxies": 4,
+      "median": 0.0110643216639837,
+      "maximum_absolute": 0.0391845961439847,
+      "use": "Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction"
+    },
+    {
+      "aperture": "fixed12",
+      "target": "dC_Ks",
+      "n_control_galaxies": 4,
+      "median": 0.01435275683849465,
+      "maximum_absolute": 0.0459639515118999,
+      "use": "Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction"
+    },
+    {
+      "aperture": "fixed12",
+      "target": "dR50_g",
+      "n_control_galaxies": 4,
+      "median": 0.0078318944255706,
+      "maximum_absolute": 0.0310886739267073,
+      "use": "Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction"
+    },
+    {
+      "aperture": "fixed12",
+      "target": "dC_g",
+      "n_control_galaxies": 4,
+      "median": 0.0110013869889562,
+      "maximum_absolute": 0.0692862448266371,
+      "use": "Descriptive warning only; not sigma/detection/exclusion threshold; no offset subtraction"
+    }
+  ]
+}

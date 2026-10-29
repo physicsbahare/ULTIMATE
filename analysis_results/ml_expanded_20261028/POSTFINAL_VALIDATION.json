@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "utc": "2026-10-28T02:58:21.047200+00:00",
+  "checks": {
+    "original_frozen_partitions_unchanged": true,
+    "nonfinal_100_complete_finite_labels": true,
+    "five_whole_galaxy_folds_disjoint": true,
+    "all_model_predictors_explicit_observable_allowlist": true,
+    "g_observables_exact_same_between_modes": true,
+    "maximum_padded_flux_loss": 1.1757261830780408e-13,
+    "calibration_13_galaxies_rank12_per_target": true,
+    "nonfinal_predictions_finite_and_controls_separate": true,
+    "frozen_artifact_hash": "587aab56d39e6b29ad47f381c4b1440c8dd28eb52811ebc4ae3842b6fc220ce4",
+    "final20_disjoint_and_finite": true,
+    "final_primary_galaxies": 16,
+    "final_source_control_galaxies": 4
+  }
+}

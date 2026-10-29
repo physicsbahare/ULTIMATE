@@ -1,0 +1,10 @@
+tile_catalogue.fits ok
+tile_variance_region0.fits ok
+tile_confidence_region0.fits ok
+tile_variance_region1.fits ok
+tile_confidence_region1.fits ok
+tile_variance_region2.fits ok
+tile_confidence_region2.fits ok
+tile_variance_region3.fits ok
+tile_confidence_region3.fits ok
+gaia_dr3.csv ok

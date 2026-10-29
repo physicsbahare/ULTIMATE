@@ -1,0 +1,4475 @@
+{
+  "sha": "f651e94d91042a84906090a66d2a3fec75504e21",
+  "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/trees/f651e94d91042a84906090a66d2a3fec75504e21",
+  "tree": [
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "892e64bfc21fcf02805773d181bdd203594e43e2",
+      "size": 107,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/892e64bfc21fcf02805773d181bdd203594e43e2"
+    },
+    {
+      "path": ".idea",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "582013069d105641a1b4420a358c0fb5a26f5f8d",
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/trees/582013069d105641a1b4420a358c0fb5a26f5f8d"
+    },
+    {
+      "path": ".idea/vcs.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "94a25f7f4cb416c083d265558da75d457237d671",
+      "size": 180,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/94a25f7f4cb416c083d265558da75d457237d671"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d6b6505b5ce825e1169913d46ce3973705ab85f3",
+      "size": 5032,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/d6b6505b5ce825e1169913d46ce3973705ab85f3"
+    },
+    {
+      "path": "Updates.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fb6625108a3b5edbcc2c1b788592f2dc4a9d2770",
+      "size": 595,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/fb6625108a3b5edbcc2c1b788592f2dc4a9d2770"
+    },
+    {
+      "path": "doc",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f4e3ff581a5c087a1ab463c0d4be56473804dd6e",
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/trees/f4e3ff581a5c087a1ab463c0d4be56473804dd6e"
+    },
+    {
+      "path": "doc/.gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c8ed273d72028faf8c38ee22050efce213d0766d",
+      "size": 29,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/c8ed273d72028faf8c38ee22050efce213d0766d"
+    },
+    {
+      "path": "doc/PythonDemo",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4bb497deb1365c0f8d5f01a4339db7e1caf5d7d2",
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/trees/4bb497deb1365c0f8d5f01a4339db7e1caf5d7d2"
+    },
+    {
+      "path": "doc/PythonDemo/eazy.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9dcf6e027272f3f5af1e39cd87a5029adbf8f9d7",
+      "size": 2491,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/9dcf6e027272f3f5af1e39cd87a5029adbf8f9d7"
+    },
+    {
+      "path": "doc/PythonDemo/eazy_fit.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d4fa25a8024a90d935e42cc1e9c4c26092b8263f",
+      "size": 52766,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/d4fa25a8024a90d935e42cc1e9c4c26092b8263f"
+    },
+    {
+      "path": "doc/PythonDemo/eazy_fit_2.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "261043fefc5cc570a25c73d4812250cf3c8e7b52",
+      "size": 59346,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/261043fefc5cc570a25c73d4812250cf3c8e7b52"
+    },
+    {
+      "path": "doc/PythonDemo/fit_residuals.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2831eae27679878ec2b41556dc050045ea63328f",
+      "size": 178678,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/2831eae27679878ec2b41556dc050045ea63328f"
+    },
+    {
+      "path": "doc/PythonDemo/zphot_zspec.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e209e1ddab9c33d81397b65842039f27bbaf8f1a",
+      "size": 27964,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/e209e1ddab9c33d81397b65842039f27bbaf8f1a"
+    },
+    {
+      "path": "doc/PythonDemo/zphot_zspec_2.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e29ed372cf10a098e139b91bddee9355d47dc435",
+      "size": 28061,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/e29ed372cf10a098e139b91bddee9355d47dc435"
+    },
+    {
+      "path": "doc/aas_macros.sty",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "977f1b99b885e5e4560b9ddb1ad7b9dcb58b5ff1",
+      "size": 4828,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/977f1b99b885e5e4560b9ddb1ad7b9dcb58b5ff1"
+    },
+    {
+      "path": "doc/eazy_manual.tex",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4328f6a088f142cfd55a0b13c4f3868ab36ce796",
+      "size": 40856,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/4328f6a088f142cfd55a0b13c4f3868ab36ce796"
+    },
+    {
+      "path": "doc/interp.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "06c8e9261eb3a086e95b6ec09db7bd6bfcf5ce8d",
+      "size": 48508,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/06c8e9261eb3a086e95b6ec09db7bd6bfcf5ce8d"
+    },
+    {
+      "path": "doc/makefile",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e4a4fbe68860bf400ac34e6f43081d8b84f37ba8",
+      "size": 160,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/e4a4fbe68860bf400ac34e6f43081d8b84f37ba8"
+    },
+    {
+      "path": "filters",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a3bfb62b97f1c444ba260b5c29f3a4c2b3a9baac",
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/trees/a3bfb62b97f1c444ba260b5c29f3a4c2b3a9baac"
+    },
+    {
+      "path": "filters/FILTER.RES.latest",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7a6cea31e9cc6c17cf5a3a087a1feec78606e3fa",
+      "size": 4778022,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/7a6cea31e9cc6c17cf5a3a087a1feec78606e3fa"
+    },
+    {
+      "path": "filters/FILTER.RES.latest.info",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "61cfd0f6110769f8b200e58940da34417dc9ee82",
+      "size": 35536,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/61cfd0f6110769f8b200e58940da34417dc9ee82"
+    },
+    {
+      "path": "filters/README",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51e3f35759564e296e4e9703108c76e85ae45252",
+      "size": 994,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/51e3f35759564e296e4e9703108c76e85ae45252"
+    },
+    {
+      "path": "filters/make_jwst_filters.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4b1562a8541efa17f8dd7e68afc93e9a1df887d9",
+      "size": 5013,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/4b1562a8541efa17f8dd7e68afc93e9a1df887d9"
+    },
+    {
+      "path": "filters/paranal_transmission_AM1.1.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b3716b63463fe6750f8d37f8c10e2cc59c452aa3",
+      "size": 356935,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/b3716b63463fe6750f8d37f8c10e2cc59c452aa3"
+    },
+    {
+      "path": "inputs",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6c39d63016b159d8c088b633c5ffd71b328f113b",
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/trees/6c39d63016b159d8c088b633c5ffd71b328f113b"
+    },
+    {
+      "path": "inputs/FILTER.RES.latest",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "6c672c97d10f6b0f09a9b2d5baa125706d4deef9",
+      "size": 28,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/6c672c97d10f6b0f09a9b2d5baa125706d4deef9"
+    },
+    {
+      "path": "inputs/FILTER.RES.latest.info",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "8ca8f48cef664133914eae82884c78d72fb75d1d",
+      "size": 33,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/8ca8f48cef664133914eae82884c78d72fb75d1d"
+    },
+    {
+      "path": "inputs/hdfn_fs99_eazy.cat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9d67ecd9dd90605e20dd4aefef51ee33d307802c",
+      "size": 273344,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/9d67ecd9dd90605e20dd4aefef51ee33d307802c"
+    },
+    {
+      "path": "inputs/hdfn_fs99_eazy.cat.zspec.only",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e593c6a6e8d705d64e244823ee9e077c46dfe81",
+      "size": 29376,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/8e593c6a6e8d705d64e244823ee9e077c46dfe81"
+    },
+    {
+      "path": "inputs/read_eazy_binaries.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "993459e16217e9f5aa9014dcd7523888104a31bc",
+      "size": 7352,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/993459e16217e9f5aa9014dcd7523888104a31bc"
+    },
+    {
+      "path": "inputs/templates",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "564a409d419605fdbf070db35b5eecb7d8089bb3",
+      "size": 12,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/564a409d419605fdbf070db35b5eecb7d8089bb3"
+    },
+    {
+      "path": "inputs/zphot.translate",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf3c498e5ebaa10dd7001adcb24768618ced9e47",
+      "size": 168,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/cf3c498e5ebaa10dd7001adcb24768618ced9e47"
+    },
+    {
+      "path": "src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "36c20e5dbe78038ae24037d369cea50bfa12a7ce",
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/trees/36c20e5dbe78038ae24037d369cea50bfa12a7ce"
+    },
+    {
+      "path": "src/.gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a138f140006a2a64aeac6870cae7a9a02935ea51",
+      "size": 9,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/a138f140006a2a64aeac6870cae7a9a02935ea51"
+    },
+    {
+      "path": "src/defs.h",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "460a80298b534749f098cacc9ea5b8bc0ef6789e",
+      "size": 5458,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/460a80298b534749f098cacc9ea5b8bc0ef6789e"
+    },
+    {
+      "path": "src/getpar.c",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e01142b08ed94b3e0e0b9d254eb0f17c6f59a74",
+      "size": 35299,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/6e01142b08ed94b3e0e0b9d254eb0f17c6f59a74"
+    },
+    {
+      "path": "src/getphotz.c",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "50f005ca156f6c1ecb38a05997573718b91f2e07",
+      "size": 16318,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/50f005ca156f6c1ecb38a05997573718b91f2e07"
+    },
+    {
+      "path": "src/inoue_igm.c",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f02596a7cc4f230a3f859cf1a8b51792dcc2f3d",
+      "size": 5336,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/2f02596a7cc4f230a3f859cf1a8b51792dcc2f3d"
+    },
+    {
+      "path": "src/interpol.c",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "9d83ddafe3aa190b215e308b337a1d3087083233",
+      "size": 1272,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/9d83ddafe3aa190b215e308b337a1d3087083233"
+    },
+    {
+      "path": "src/kmag_prior.c",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ffb089436a763cfe388a30d9185e46685425faed",
+      "size": 9762,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/ffb089436a763cfe388a30d9185e46685425faed"
+    },
+    {
+      "path": "src/main.c",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "afe37f977e7a37b74d057d761c4de5cdd2745457",
+      "size": 36764,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/afe37f977e7a37b74d057d761c4de5cdd2745457"
+    },
+    {
+      "path": "src/makefile",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e8d1aeef0a33bb8f26510d3b9315be3fc5b0cceb",
+      "size": 577,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/e8d1aeef0a33bb8f26510d3b9315be3fc5b0cceb"
+    },
+    {
+      "path": "src/makegrid.c",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4c3fe1745a8438fd8c10d4e8d54a84ceeaec7e27",
+      "size": 89793,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/4c3fe1745a8438fd8c10d4e8d54a84ceeaec7e27"
+    },
+    {
+      "path": "src/output_files.c",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a4bfdec088b843cc75e2086f933aac1109e2e45",
+      "size": 10961,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/7a4bfdec088b843cc75e2086f933aac1109e2e45"
+    },
+    {
+      "path": "src/rest_frame_colors.c",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8eb2c6510896e63ef323b275f3bd60a3cdbd837f",
+      "size": 23492,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/8eb2c6510896e63ef323b275f3bd60a3cdbd837f"
+    },
+    {
+      "path": "src/sourcecode.header",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "00c5b3494f7ae5fe5cb0fb1a24452e721dfc3a43",
+      "size": 1728,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/00c5b3494f7ae5fe5cb0fb1a24452e721dfc3a43"
+    },
+    {
+      "path": "src/zeropoints.c",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e5369d2e8f03d582c7a49a23379ec3c7216b95e0",
+      "size": 7825,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/e5369d2e8f03d582c7a49a23379ec3c7216b95e0"
+    },
+    {
+      "path": "templates",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "263a45ea7206e9edf9e717a073cf10ebf9ef457d",
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/trees/263a45ea7206e9edf9e717a073cf10ebf9ef457d"
+    },
+    {
+      "path": "templates/BR07",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "836910466ba5d4425fc5b673f541b50d3d68a302",
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/trees/836910466ba5d4425fc5b673f541b50d3d68a302"
+    },
+    {
+      "path": "templates/BR07/default_sed1.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a01f8a3f40870233cc21121daa0b99729db6dcd",
+      "size": 123196,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/1a01f8a3f40870233cc21121daa0b99729db6dcd"
+    },
+    {
+      "path": "templates/BR07/default_sed1_ext.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "85e1e22f026c378c01b51c4a73e44461d5e0d33d",
+      "size": 270061,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/85e1e22f026c378c01b51c4a73e44461d5e0d33d"
+    },
+    {
+      "path": "templates/BR07/default_sed2.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dec7446ec667998c8bb0e3bd636f401ff86705c9",
+      "size": 123196,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/dec7446ec667998c8bb0e3bd636f401ff86705c9"
+    },
+    {
+      "path": "templates/BR07/default_sed2_ext.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4c82d2dd799201f127efdca711662af812c0a0aa",
+      "size": 270061,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/4c82d2dd799201f127efdca711662af812c0a0aa"
+    },
+    {
+      "path": "templates/BR07/default_sed3.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "68c7f17883d1fcc678725a0eb28346c1488f237c",
+      "size": 123196,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/68c7f17883d1fcc678725a0eb28346c1488f237c"
+    },
+    {
+      "path": "templates/BR07/default_sed3_ext.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c7a95864d782e16e8a524b01c83e7de178aa09e0",
+      "size": 270061,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/c7a95864d782e16e8a524b01c83e7de178aa09e0"
+    },
+    {
+      "path": "templates/BR07/default_sed4.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c59a87ba0b0887011b7a8752be615ae8c27f8617",
+      "size": 123196,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/c59a87ba0b0887011b7a8752be615ae8c27f8617"
+    },
+    {
+      "path": "templates/BR07/default_sed4_ext.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bcfe19856761ecec4a7b7c044f5201d24ac291ff",
+      "size": 270061,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/bcfe19856761ecec4a7b7c044f5201d24ac291ff"
+    },
+    {
+      "path": "templates/BR07/default_sed5.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7ecae21dc062fc367d08fd542a0305ab046f2505",
+      "size": 123196,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/7ecae21dc062fc367d08fd542a0305ab046f2505"
+    },
+    {
+      "path": "templates/BR07/default_sed5_ext.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e4edff8dd957dedcd45b27708c67ffc5a35428f",
+      "size": 270061,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/7e4edff8dd957dedcd45b27708c67ffc5a35428f"
+    },
+    {
+      "path": "templates/BR07/goods_sed1.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "31fb163b20a82e98f08faf86534c582cac18623d",
+      "size": 123196,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/31fb163b20a82e98f08faf86534c582cac18623d"
+    },
+    {
+      "path": "templates/BR07/goods_sed1_ext.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e7b572562d84badb67ecb75fd16a31debd6fdabc",
+      "size": 270061,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/e7b572562d84badb67ecb75fd16a31debd6fdabc"
+    },
+    {
+      "path": "templates/BR07/goods_sed2.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "154b27863f340072f4f90a00e8564c7f805cf38d",
+      "size": 123196,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/154b27863f340072f4f90a00e8564c7f805cf38d"
+    },
+    {
+      "path": "templates/BR07/goods_sed2_ext.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "393192b2af1d78428ab6100500cdce6ee014c852",
+      "size": 270061,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/393192b2af1d78428ab6100500cdce6ee014c852"
+    },
+    {
+      "path": "templates/BR07/goods_sed3.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3efddb159ea514ac98225476531612251418ab7d",
+      "size": 123196,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/3efddb159ea514ac98225476531612251418ab7d"
+    },
+    {
+      "path": "templates/BR07/goods_sed3_ext.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "124a5d655bb70de86610dc0a3b2fc8da4ee47b77",
+      "size": 270061,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/124a5d655bb70de86610dc0a3b2fc8da4ee47b77"
+    },
+    {
+      "path": "templates/BR07/goods_sed4.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d6d769359e875738699ce8f78f7495117d30a324",
+      "size": 123196,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/d6d769359e875738699ce8f78f7495117d30a324"
+    },
+    {
+      "path": "templates/BR07/goods_sed4_ext.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9ec5cbc4d893e26f86a15082b7d2ccc1e6354803",
+      "size": 270061,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/9ec5cbc4d893e26f86a15082b7d2ccc1e6354803"
+    },
+    {
+      "path": "templates/BR07/goods_sed5.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b7d39c793d9c4f46467de4baf291928c671f6a00",
+      "size": 123196,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/b7d39c793d9c4f46467de4baf291928c671f6a00"
+    },
+    {
+      "path": "templates/BR07/goods_sed5_ext.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "727f4155621082590ad70e4c02047e6dd8694d8c",
+      "size": 270061,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/727f4155621082590ad70e4c02047e6dd8694d8c"
+    },
+    {
+      "path": "templates/BR07/lrg1_sed1.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e1cd800046d6d5ba4be696531b4ea357ab54429c",
+      "size": 123196,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/e1cd800046d6d5ba4be696531b4ea357ab54429c"
+    },
+    {
+      "path": "templates/BR07/lrg1_sed1_ext.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d20e15ee75d71200ae2359dbdf1e25dfdd7336a1",
+      "size": 270061,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/d20e15ee75d71200ae2359dbdf1e25dfdd7336a1"
+    },
+    {
+      "path": "templates/CWW+KIN",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f3697b81f2a3f8f5298af4d4e9fb8354f54cabb6",
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/trees/f3697b81f2a3f8f5298af4d4e9fb8354f54cabb6"
+    },
+    {
+      "path": "templates/CWW+KIN/CWW_E_ext.sed",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "176b20764dc62ba6003add041f74c13e4b9f86fe",
+      "size": 20898,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/176b20764dc62ba6003add041f74c13e4b9f86fe"
+    },
+    {
+      "path": "templates/CWW+KIN/CWW_Im_ext.sed",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d4aa28ea689f3ba15ac6438301c95497b1c11cc9",
+      "size": 21006,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/d4aa28ea689f3ba15ac6438301c95497b1c11cc9"
+    },
+    {
+      "path": "templates/CWW+KIN/CWW_Sbc_ext.sed",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4642d7a96e0287ffd12b04241ed79f9b54adeff5",
+      "size": 20925,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/4642d7a96e0287ffd12b04241ed79f9b54adeff5"
+    },
+    {
+      "path": "templates/CWW+KIN/CWW_Scd_ext.sed",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "53933b7c621702af4e148d2198762dd8e04d198a",
+      "size": 20925,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/53933b7c621702af4e148d2198762dd8e04d198a"
+    },
+    {
+      "path": "templates/CWW+KIN/KIN_SB1_ext.sed",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1726d4cf2212204a3e9e10a78499871bfab5c39b",
+      "size": 67797,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/1726d4cf2212204a3e9e10a78499871bfab5c39b"
+    },
+    {
+      "path": "templates/CWW+KIN/KIN_SB2_ext.sed",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "06871cc8b699512c5fa51a4404780f7c7bba40d6",
+      "size": 67797,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/06871cc8b699512c5fa51a4404780f7c7bba40d6"
+    },
+    {
+      "path": "templates/DLAcoeff.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba9ff06830c2cca1415898b6fa7be724325b7c12",
+      "size": 1560,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/ba9ff06830c2cca1415898b6fa7be724325b7c12"
+    },
+    {
+      "path": "templates/Dusty",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7d5348f5a9c934af9ea5e27a73268f96886af1a2",
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/trees/7d5348f5a9c934af9ea5e27a73268f96886af1a2"
+    },
+    {
+      "path": "templates/Dusty/c09_del_8.6_z_0.019_chab_age09.40_av2.0.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be7c8c7a618a21b12dc771a104caa75211bef5d0",
+      "size": 31765,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/be7c8c7a618a21b12dc771a104caa75211bef5d0"
+    },
+    {
+      "path": "templates/EAZY_v1.0",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "377572e7f4fe8c1b856a2fb901faeb9e901362e0",
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/trees/377572e7f4fe8c1b856a2fb901faeb9e901362e0"
+    },
+    {
+      "path": "templates/EAZY_v1.0/eazy_v1.0_sed1.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "67cc06c8b85bcff6b2ba8dcbb77737ffa93f6bff",
+      "size": 40293,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/67cc06c8b85bcff6b2ba8dcbb77737ffa93f6bff"
+    },
+    {
+      "path": "templates/EAZY_v1.0/eazy_v1.0_sed2.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ede7d3802e691aa885fc2480818a9c61edc9abc3",
+      "size": 40293,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/ede7d3802e691aa885fc2480818a9c61edc9abc3"
+    },
+    {
+      "path": "templates/EAZY_v1.0/eazy_v1.0_sed3.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e9ac47855221ca6e4f1f3badb2c9903b36e92482",
+      "size": 40293,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/e9ac47855221ca6e4f1f3badb2c9903b36e92482"
+    },
+    {
+      "path": "templates/EAZY_v1.0/eazy_v1.0_sed4.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aba1e0f9707624df2234c0c697dc94d276736821",
+      "size": 40293,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/aba1e0f9707624df2234c0c697dc94d276736821"
+    },
+    {
+      "path": "templates/EAZY_v1.0/eazy_v1.0_sed5.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "26dc4257b5fca396fc877ea78f2ba37c62cfae09",
+      "size": 40293,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/26dc4257b5fca396fc877ea78f2ba37c62cfae09"
+    },
+    {
+      "path": "templates/EAZY_v1.0/eazy_v1.0_sed6.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e6bcef28fda23b79d2aece01293ac40846d7cd00",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/e6bcef28fda23b79d2aece01293ac40846d7cd00"
+    },
+    {
+      "path": "templates/EAZY_v1.1_lines",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ddf3fe921cb62828c90adb907317808dc56d069b",
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/trees/ddf3fe921cb62828c90adb907317808dc56d069b"
+    },
+    {
+      "path": "templates/EAZY_v1.1_lines/README",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0164cd81a6855affa09ec474bd1525b97fc97b09",
+      "size": 991,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/0164cd81a6855affa09ec474bd1525b97fc97b09"
+    },
+    {
+      "path": "templates/EAZY_v1.1_lines/eazy_v1.1_sed1.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b0ad4b3eeda6be43c22864ca6e6404c52184d8f3",
+      "size": 76086,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/b0ad4b3eeda6be43c22864ca6e6404c52184d8f3"
+    },
+    {
+      "path": "templates/EAZY_v1.1_lines/eazy_v1.1_sed2.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1cefedd9464aa84377d9a9b511605e09f11014e6",
+      "size": 76086,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/1cefedd9464aa84377d9a9b511605e09f11014e6"
+    },
+    {
+      "path": "templates/EAZY_v1.1_lines/eazy_v1.1_sed3.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab7e6fcd0f33c8794971955a467f79e576c30894",
+      "size": 76086,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/ab7e6fcd0f33c8794971955a467f79e576c30894"
+    },
+    {
+      "path": "templates/EAZY_v1.1_lines/eazy_v1.1_sed4.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c9d4c1b3fe0b13d4074daf9014d870591530cf83",
+      "size": 76086,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/c9d4c1b3fe0b13d4074daf9014d870591530cf83"
+    },
+    {
+      "path": "templates/EAZY_v1.1_lines/eazy_v1.1_sed5.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "72a7cdf011a03a9b8804b39fe863ba6f092b596c",
+      "size": 76086,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/72a7cdf011a03a9b8804b39fe863ba6f092b596c"
+    },
+    {
+      "path": "templates/EAZY_v1.1_lines/eazy_v1.1_sed6.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cb115b2188bc3e04532b86c8e405b63b737094e6",
+      "size": 76086,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/cb115b2188bc3e04532b86c8e405b63b737094e6"
+    },
+    {
+      "path": "templates/EAZY_v1.1_lines/eazy_v1.1_sed7.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f40386245ccc7f65ec18e2a7546e18c00d506e6c",
+      "size": 12636,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/f40386245ccc7f65ec18e2a7546e18c00d506e6c"
+    },
+    {
+      "path": "templates/EAZY_v1.1_lines/lambda_v1.1.def",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "849718c02c3db2f671722bcc2fb080f3f6a30b71",
+      "size": 39452,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/849718c02c3db2f671722bcc2fb080f3f6a30b71"
+    },
+    {
+      "path": "templates/LAFcoeff.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3023deeedf1e57fc0cfdbc50a70af38b233412ba",
+      "size": 2028,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/3023deeedf1e57fc0cfdbc50a70af38b233412ba"
+    },
+    {
+      "path": "templates/PEGASE2.0",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c531536a8165f24b5ce4c42934361c54d07f0d61",
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/trees/c531536a8165f24b5ce4c42934361c54d07f0d61"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz.pro",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c583e957bdbc059b6e72cd13265242b6ad4e7f37",
+      "size": 2735,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/c583e957bdbc059b6e72cd13265242b6ad4e7f37"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz01_00010.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b9802b6d9aeb6643b51969c9389f1fe9298d52d7",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/b9802b6d9aeb6643b51969c9389f1fe9298d52d7"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz01_00050.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6aa964f20c77d938021c094c540c8d61f9aedf65",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/6aa964f20c77d938021c094c540c8d61f9aedf65"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz01_00100.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dcfab0fb90ca5a9b2d2c4d55ee5e94103bd0c8e2",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/dcfab0fb90ca5a9b2d2c4d55ee5e94103bd0c8e2"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz01_00200.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "36aa92379392035787d0d73e65faf64757e69e2e",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/36aa92379392035787d0d73e65faf64757e69e2e"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz01_00400.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fcb95f2ad5aaeaa7032cade4da12a3dfd9192584",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/fcb95f2ad5aaeaa7032cade4da12a3dfd9192584"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz01_00700.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a2616022045f9c2c71ae93d9f71fa1e9749b6797",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/a2616022045f9c2c71ae93d9f71fa1e9749b6797"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz01_01000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fd8e3b4162fc1027d73fb8adf7da01e68cc4842c",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/fd8e3b4162fc1027d73fb8adf7da01e68cc4842c"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz01_01600.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c2c29cd8851196284959ce2d84e28746c7f58aba",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/c2c29cd8851196284959ce2d84e28746c7f58aba"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz01_02000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "efdf94d76bc8bd848ff9c0daedce530a4d5b0827",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/efdf94d76bc8bd848ff9c0daedce530a4d5b0827"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz01_03000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "62f1dfbfc4f05791ee222a0b5386d56cff32e5e5",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/62f1dfbfc4f05791ee222a0b5386d56cff32e5e5"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz01_05000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "63f07939964e5807886cbd835b40a9abf58b2ad7",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/63f07939964e5807886cbd835b40a9abf58b2ad7"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz01_11000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f4b24a4dfdc00a4081f8c6858d7889a02ca6ea34",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/f4b24a4dfdc00a4081f8c6858d7889a02ca6ea34"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz02_00010.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f5701a4ead9040b127bc9a022812618e05d9dd67",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/f5701a4ead9040b127bc9a022812618e05d9dd67"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz02_00050.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a48dd5e3883e236a34eeea80564c556d729945ec",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/a48dd5e3883e236a34eeea80564c556d729945ec"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz02_00100.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "379d8065ae172ca55fa2fc6d779e933a6e27bd96",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/379d8065ae172ca55fa2fc6d779e933a6e27bd96"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz02_00200.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d0c257783223afaeaa25c46ee19bed662c75dae8",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/d0c257783223afaeaa25c46ee19bed662c75dae8"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz02_00400.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e86b9c41c66aa6c60ab7b8fcc1043aa10c27a4ef",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/e86b9c41c66aa6c60ab7b8fcc1043aa10c27a4ef"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz02_00700.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "259975a5c544c5d8a3762f0d43fbb1ba2275d4d9",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/259975a5c544c5d8a3762f0d43fbb1ba2275d4d9"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz02_01000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2605794cf0e4a61c4f8ebecc47d56c423b0eab06",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/2605794cf0e4a61c4f8ebecc47d56c423b0eab06"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz02_01600.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4805c1c1522050f0aeba5d8e8fb5ba1bcc655de0",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/4805c1c1522050f0aeba5d8e8fb5ba1bcc655de0"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz02_02000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "96c6319cd37c1a31a6ca6064522a97c4f66b187f",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/96c6319cd37c1a31a6ca6064522a97c4f66b187f"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz02_03000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eee5a037bbe7910da947fd4c6bbc8e69c30e4cf1",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/eee5a037bbe7910da947fd4c6bbc8e69c30e4cf1"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz02_05000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f82d8d9cdc9b0c20bb477a305669b84e514170a8",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/f82d8d9cdc9b0c20bb477a305669b84e514170a8"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz02_11000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fb41ae9331342540bb4da4aa8ccb611f709ee6d2",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/fb41ae9331342540bb4da4aa8ccb611f709ee6d2"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz03_00010.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5247e17284e7738c2f9a2d13253288fe61f42282",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/5247e17284e7738c2f9a2d13253288fe61f42282"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz03_00050.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b4f70fba82dfb60b07da7f2a79b4d5716aa1f7f7",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/b4f70fba82dfb60b07da7f2a79b4d5716aa1f7f7"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz03_00100.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d884f1f405ae30674e4f19e18e110596d1c62fda",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/d884f1f405ae30674e4f19e18e110596d1c62fda"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz03_00200.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9c88bd70c76467365c3ffdee297363fad8bd22e8",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/9c88bd70c76467365c3ffdee297363fad8bd22e8"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz03_00400.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ca8dcf378e4b58c5d66e18bc4637af6110fea20b",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/ca8dcf378e4b58c5d66e18bc4637af6110fea20b"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz03_00700.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b4e7c4a977048eb24049f8cd2b0ca9da5fa4a9c2",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/b4e7c4a977048eb24049f8cd2b0ca9da5fa4a9c2"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz03_01000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1436b3725df47cff291af58d675603241a943940",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/1436b3725df47cff291af58d675603241a943940"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz03_01600.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0e6505300e4c4b75f093b1a491580bdc63e3eb08",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/0e6505300e4c4b75f093b1a491580bdc63e3eb08"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz03_02000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d7929591e7c9f85760c706158b5e5849d5ac8c6a",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/d7929591e7c9f85760c706158b5e5849d5ac8c6a"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz03_03000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5d7ff0968a02e2a388a6b0ac2015e30289e3d424",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/5d7ff0968a02e2a388a6b0ac2015e30289e3d424"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz03_05000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "981835b4d40ae3ea818a037233e9bf153aa7cba8",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/981835b4d40ae3ea818a037233e9bf153aa7cba8"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz03_11000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "92bae49a48ffa71a08278100d5af9a612e5c2ac7",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/92bae49a48ffa71a08278100d5af9a612e5c2ac7"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz04_00010.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "35bc206403871c8a35c99849945e510a795a76e7",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/35bc206403871c8a35c99849945e510a795a76e7"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz04_00050.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "33f9d0db308b2521287fd0818f5b72a884187060",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/33f9d0db308b2521287fd0818f5b72a884187060"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz04_00100.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a08b1910b90a3fd259c885e34ca91c0e78e9085c",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/a08b1910b90a3fd259c885e34ca91c0e78e9085c"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz04_00200.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e32f8083400d70d02448c28348a88e8857808eb",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/6e32f8083400d70d02448c28348a88e8857808eb"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz04_00400.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "347c56d00f1f4ef557c6f95a08cb4794537f445a",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/347c56d00f1f4ef557c6f95a08cb4794537f445a"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz04_00700.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09fc7d15609670a6e25b9679e1415bcf97403fa4",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/09fc7d15609670a6e25b9679e1415bcf97403fa4"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz04_01000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4af32a340a5db739486bea00d844baf5164820bb",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/4af32a340a5db739486bea00d844baf5164820bb"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz04_01600.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51371512936185714e407000accae33957d6c1b7",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/51371512936185714e407000accae33957d6c1b7"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz04_02000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6aee15a0772f5adc658e2965dd110ac133c4c3b4",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/6aee15a0772f5adc658e2965dd110ac133c4c3b4"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz04_03000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "25594a4b3af72ad1890faa672db1e60f92ca04be",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/25594a4b3af72ad1890faa672db1e60f92ca04be"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz04_05000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dfae3d46dfa50684cd24494349cd07e119aa43ae",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/dfae3d46dfa50684cd24494349cd07e119aa43ae"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz04_11000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e493e79ee1582e940ee4f14a6468a99a2b95b027",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/e493e79ee1582e940ee4f14a6468a99a2b95b027"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz05_00010.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5baed9deea2799b8a5da7c757208fbe3f4c051c1",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/5baed9deea2799b8a5da7c757208fbe3f4c051c1"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz05_00050.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "88fb13fe10b624ed2dd3117455707f89d2c4aeb3",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/88fb13fe10b624ed2dd3117455707f89d2c4aeb3"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz05_00100.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52bd79ea50ecfdc44a3c800d6afb00ef96b57a80",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/52bd79ea50ecfdc44a3c800d6afb00ef96b57a80"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz05_00200.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fe277c8d3ee2f975b75e752b91cc81c63a4e2f6d",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/fe277c8d3ee2f975b75e752b91cc81c63a4e2f6d"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz05_00400.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4845d2c3c75892adb33a35e1dbc175c74b75012f",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/4845d2c3c75892adb33a35e1dbc175c74b75012f"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz05_00700.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "566259aeff42fdeb1e549495543a490ce77ed4da",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/566259aeff42fdeb1e549495543a490ce77ed4da"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz05_01000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "64fd4749f673d9a7b5ff933bb9083b58dc96077c",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/64fd4749f673d9a7b5ff933bb9083b58dc96077c"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz05_01600.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "178afc800253d772c434eb57e4f492678db63895",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/178afc800253d772c434eb57e4f492678db63895"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz05_02000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c4109491eb848ab18440a9e7379d7f274ccccc5",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/7c4109491eb848ab18440a9e7379d7f274ccccc5"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz05_03000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d24f3f37526203d6fc5314f7665405885d62f23",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/3d24f3f37526203d6fc5314f7665405885d62f23"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz05_05000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "60e8dbdc2a57e2266e0b9d35dfbdf39296b105ef",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/60e8dbdc2a57e2266e0b9d35dfbdf39296b105ef"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz05_11000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d51b21124128f202856d467ecfcc5465795d0a5a",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/d51b21124128f202856d467ecfcc5465795d0a5a"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz06_00010.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e03e27446ae6e81c27a008ee61bd59f7fe09e477",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/e03e27446ae6e81c27a008ee61bd59f7fe09e477"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz06_00050.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f5d4003926bebd7ac5b69d20d95e631ebd3da3a1",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/f5d4003926bebd7ac5b69d20d95e631ebd3da3a1"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz06_00100.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "24cc0f8575e413dc007d1a5ee77afb704695c198",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/24cc0f8575e413dc007d1a5ee77afb704695c198"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz06_00200.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5c3bcf93ba56065c9136d0cec5c5f473e183f186",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/5c3bcf93ba56065c9136d0cec5c5f473e183f186"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz06_00400.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d2caa150de225505c098526a7070ddeb4c12a8e0",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/d2caa150de225505c098526a7070ddeb4c12a8e0"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz06_00700.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0286cd9b220d59c2c21cbf3c7a79059208be49fd",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/0286cd9b220d59c2c21cbf3c7a79059208be49fd"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz06_01000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc1a7036bf155b55a6ef16f5eed2d2f7b7c8fd2d",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/fc1a7036bf155b55a6ef16f5eed2d2f7b7c8fd2d"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz06_01600.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "64b634971e926020b4a2e70e8643791f3dbdf718",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/64b634971e926020b4a2e70e8643791f3dbdf718"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz06_02000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a6cf95a41c94495c4decf6b8f8b2f1e9fc0f6aa",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/9a6cf95a41c94495c4decf6b8f8b2f1e9fc0f6aa"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz06_03000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d5e999b50b7047c444b13e9ea4e52742047d153d",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/d5e999b50b7047c444b13e9ea4e52742047d153d"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz06_05000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "206a9957a3621cd58e65daae8ba8e485793e83e7",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/206a9957a3621cd58e65daae8ba8e485793e83e7"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz06_11000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "321d477570b71f8bbe0bd5efb3b8329ef1aa8015",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/321d477570b71f8bbe0bd5efb3b8329ef1aa8015"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz07_00010.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b5edbe67187857286ad1ccfa1b4f706e9454a46",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/7b5edbe67187857286ad1ccfa1b4f706e9454a46"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz07_00050.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "60e34c211d20f30af83cc8a583f5e4c56e44a435",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/60e34c211d20f30af83cc8a583f5e4c56e44a435"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz07_00100.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6d5979ea82afb990e8e12f84df79f378a26bb4ed",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/6d5979ea82afb990e8e12f84df79f378a26bb4ed"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz07_00200.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "96908f67712fd3de6d7f073f647f8a90229c4394",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/96908f67712fd3de6d7f073f647f8a90229c4394"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz07_00400.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8429c6dd46d0925737a268485590b3f1c3262c2c",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/8429c6dd46d0925737a268485590b3f1c3262c2c"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz07_00700.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f4d5617176eb01a83b83ceb516935af5677b940f",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/f4d5617176eb01a83b83ceb516935af5677b940f"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz07_01000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ccbd714eacca101016cd992d2dba5bb7e21a5dc9",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/ccbd714eacca101016cd992d2dba5bb7e21a5dc9"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz07_01600.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fa5ce7d03e6e642c648f691ccf9adaadc5def004",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/fa5ce7d03e6e642c648f691ccf9adaadc5def004"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz07_02000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "610b71a820d9e0ea77fed27e4ef12b3dd9ecee6c",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/610b71a820d9e0ea77fed27e4ef12b3dd9ecee6c"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz07_03000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9b0c756b9ea27a98f919933e9d7ddc241ae0983a",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/9b0c756b9ea27a98f919933e9d7ddc241ae0983a"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz07_05000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4b5f6afddbae0c7a4a4e20e501a39c09e48d3c48",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/4b5f6afddbae0c7a4a4e20e501a39c09e48d3c48"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz07_11000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "58766c478c869374a878d1f80af9eb32fc4a880b",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/58766c478c869374a878d1f80af9eb32fc4a880b"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz08_00010.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "26ad68d611ffe5e1df77e73200dde4afb2d7e06f",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/26ad68d611ffe5e1df77e73200dde4afb2d7e06f"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz08_00050.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3a8febb131adf1e200d349bb7ec12e29d47dc218",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/3a8febb131adf1e200d349bb7ec12e29d47dc218"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz08_00100.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "86fdd18126a30064ea8779de623c192cf95bfd86",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/86fdd18126a30064ea8779de623c192cf95bfd86"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz08_00200.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3af01296704abe26f111caaa7cdc2eede2690707",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/3af01296704abe26f111caaa7cdc2eede2690707"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz08_00400.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8ee85e5d24e9ac3c47af2b767f4bc64271f5285a",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/8ee85e5d24e9ac3c47af2b767f4bc64271f5285a"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz08_00700.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "03f18503bf3cfa5a9932b80f74f62155568a3650",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/03f18503bf3cfa5a9932b80f74f62155568a3650"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz08_01000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7f01f37c4bb54da20ecefa3145d91bae4c3870f",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/a7f01f37c4bb54da20ecefa3145d91bae4c3870f"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz08_01600.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "19b4d91600d1c32b9ae5d660762ae8c77131f52f",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/19b4d91600d1c32b9ae5d660762ae8c77131f52f"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz08_02000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "137d4897c083f4563b3d1ec9c0f52df3b8956120",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/137d4897c083f4563b3d1ec9c0f52df3b8956120"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz08_03000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ead30885479196a7497bf948a01713989232f8c5",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/ead30885479196a7497bf948a01713989232f8c5"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz08_05000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9019a9a0f0f8750446fb265713b63e5f516d39a0",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/9019a9a0f0f8750446fb265713b63e5f516d39a0"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz08_11000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7968292c221567eb967aa76612ade1509566fd7c",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/7968292c221567eb967aa76612ade1509566fd7c"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz09_00100.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b54dbeb1477ad1af1d568da703cc95c2564f02ae",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/b54dbeb1477ad1af1d568da703cc95c2564f02ae"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz09_00200.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "844ada8478a38ac39cb5a06a0cf03fc880e974f8",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/844ada8478a38ac39cb5a06a0cf03fc880e974f8"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz09_00400.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3369ab6734e8ba56c0b56f3f85102ca717ecd38",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/d3369ab6734e8ba56c0b56f3f85102ca717ecd38"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz09_00700.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb8a7a313ad3db6a5a759ecdc8cfbfe791ebe401",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/eb8a7a313ad3db6a5a759ecdc8cfbfe791ebe401"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz09_01000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c4280377b9342443cf5b0e787cff78a909890ea",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/7c4280377b9342443cf5b0e787cff78a909890ea"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz09_01600.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd538c564b24b4d3cd865870ac09a131d31ac111",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/cd538c564b24b4d3cd865870ac09a131d31ac111"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz09_02000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fd4f6efaa6a3593773b572fda082139618073383",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/fd4f6efaa6a3593773b572fda082139618073383"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz09_03000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "279cc16009f2b9c2f498bd7da064c8e2e2a1f84e",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/279cc16009f2b9c2f498bd7da064c8e2e2a1f84e"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz09_05000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7af763369e9206c21744e220c67749acfcf9165f",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/7af763369e9206c21744e220c67749acfcf9165f"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz09_11000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6cd65e350772349535ff7b2a31c64e9163874087",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/6cd65e350772349535ff7b2a31c64e9163874087"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz10_00400.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "716ba387d044713c7c4625e1581bce161dea6763",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/716ba387d044713c7c4625e1581bce161dea6763"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz10_00700.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c45a57092307a4d2a326bea89e6fddfca2e26324",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/c45a57092307a4d2a326bea89e6fddfca2e26324"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz10_01000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1820e79059314adbce487b4a0ab0278c37a894ed",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/1820e79059314adbce487b4a0ab0278c37a894ed"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz10_01600.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b2c9a6a1c4204eeb008076a37c6082068c6c50fb",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/b2c9a6a1c4204eeb008076a37c6082068c6c50fb"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz10_02000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bb4b210f73b2d8a00464e049ac4e9e9f6a6a2c14",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/bb4b210f73b2d8a00464e049ac4e9e9f6a6a2c14"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz10_03000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "49ebef4bf48e801d70911208cecf030fdd41dfe9",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/49ebef4bf48e801d70911208cecf030fdd41dfe9"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz10_05000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7af8f31c3eb26176ede25cdcb094c59dffc41233",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/7af8f31c3eb26176ede25cdcb094c59dffc41233"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz10_11000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e3ba591368c6324738d38c0b4b50bdfb846a5b6e",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/e3ba591368c6324738d38c0b4b50bdfb846a5b6e"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz11_00700.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c5fecf30dc6d94174f08ce23177c5371ac50be5",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/2c5fecf30dc6d94174f08ce23177c5371ac50be5"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz11_01000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "21fb2f9ef9d89bc09d68bd2b7feb5f46c2eead6c",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/21fb2f9ef9d89bc09d68bd2b7feb5f46c2eead6c"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz11_01600.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "604efa52e45d0c58011b031bbebf72b7683034ef",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/604efa52e45d0c58011b031bbebf72b7683034ef"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz11_02000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1db5cc4fb8af4982660473e08a04140991532304",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/1db5cc4fb8af4982660473e08a04140991532304"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz11_03000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "acacc95e25550afee530803a0bf4f99586301746",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/acacc95e25550afee530803a0bf4f99586301746"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz11_05000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d278d7ba9691ac31ba00e5757804822d41696934",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/d278d7ba9691ac31ba00e5757804822d41696934"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz11_11000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bdeb4bb8ca0bbb152b3bb1970e5ed74a31e2bb31",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/bdeb4bb8ca0bbb152b3bb1970e5ed74a31e2bb31"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz12_01000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "df7c6e8c4900966bb8567d4d1e0dd5706839e4ec",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/df7c6e8c4900966bb8567d4d1e0dd5706839e4ec"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz12_01600.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ab95dc18bf6bd89427e92609431d61987fe0d26",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/3ab95dc18bf6bd89427e92609431d61987fe0d26"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz12_02000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b954f9e637547cf2e19e4e18d95e6bd044d0b9fc",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/b954f9e637547cf2e19e4e18d95e6bd044d0b9fc"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz12_03000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc77ce1faca1d3e33d23de6dfedc9cd14b064a8b",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/fc77ce1faca1d3e33d23de6dfedc9cd14b064a8b"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz12_05000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bb7f4cb81b0dfded2c2c023178740bf6a3af6fed",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/bb7f4cb81b0dfded2c2c023178740bf6a3af6fed"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz12_11000.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "800922bb13696914eea92acd19cc934fce0865c4",
+      "size": 32967,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/800922bb13696914eea92acd19cc934fce0865c4"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00010.av2.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e789ac3c80aa66d5c13119343551c2e5060cfd4",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/8e789ac3c80aa66d5c13119343551c2e5060cfd4"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00010.av2.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea6f118f38c99a3126b406359a2af101399359d4",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/ea6f118f38c99a3126b406359a2af101399359d4"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00010.av2.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd37c28d9ce602b907bbd0ddb3f1ddb78187062f",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/bd37c28d9ce602b907bbd0ddb3f1ddb78187062f"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00010.av2.75.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "628d10d8eb4d38f51878e0b0f9379caca7475c89",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/628d10d8eb4d38f51878e0b0f9379caca7475c89"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00010.av3.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6368dc50c8630ad2f9ef21ac707fa0557c607009",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/6368dc50c8630ad2f9ef21ac707fa0557c607009"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00010.av3.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d93c33e7dbbbe264bcb5b4af37123f8e5d86a750",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/d93c33e7dbbbe264bcb5b4af37123f8e5d86a750"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00010.av3.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d2b8e6fb07f93adceae0e1411e93ca0436dc40a3",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/d2b8e6fb07f93adceae0e1411e93ca0436dc40a3"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00010.av3.75.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ddda35f7d0a2a742e7df66042baf956ead47128a",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/ddda35f7d0a2a742e7df66042baf956ead47128a"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00010.av4.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c74614621bb10de359dbabd0f0e6ea15f02bc82c",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/c74614621bb10de359dbabd0f0e6ea15f02bc82c"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00010.av4.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac08c4dea83f365b66498364fa00b75da4c9fed3",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/ac08c4dea83f365b66498364fa00b75da4c9fed3"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00010.av4.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f87f29f604c4ce7a08724cf391fd57f39d12840c",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/f87f29f604c4ce7a08724cf391fd57f39d12840c"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00050.av2.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3fbc3ab51a39b843fc13f84b251b508aecc4b25a",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/3fbc3ab51a39b843fc13f84b251b508aecc4b25a"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00050.av2.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cfd9adbd8e4f837cd5fb0cff7a7493ad93a66c7c",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/cfd9adbd8e4f837cd5fb0cff7a7493ad93a66c7c"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00050.av2.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1898896f3ac3e06e2c9c690deb31f139d3d3aa24",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/1898896f3ac3e06e2c9c690deb31f139d3d3aa24"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00050.av2.75.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e6bcef28fda23b79d2aece01293ac40846d7cd00",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/e6bcef28fda23b79d2aece01293ac40846d7cd00"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00050.av3.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "59fa63b29a816ae5c0f9e791dc01b4ae1fd738f8",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/59fa63b29a816ae5c0f9e791dc01b4ae1fd738f8"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00050.av3.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e9020bfc07bc480d0bc0494280650daebf22e20e",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/e9020bfc07bc480d0bc0494280650daebf22e20e"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00050.av3.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73d2974931c9b41c3ebf96dc05bccfc9ff9c3fbb",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/73d2974931c9b41c3ebf96dc05bccfc9ff9c3fbb"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00050.av3.75.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e30a92a236a43ebb7900560f88d168579776593f",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/e30a92a236a43ebb7900560f88d168579776593f"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00050.av4.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d2e5c0b01dc2332364355b88c6a9fc0dcee3243",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/1d2e5c0b01dc2332364355b88c6a9fc0dcee3243"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00050.av4.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c2e6b4c389f66e928abd2736120900a67e91f9e9",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/c2e6b4c389f66e928abd2736120900a67e91f9e9"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00050.av4.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0741bec3178c323c8680e74d65c69e2551ced66a",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/0741bec3178c323c8680e74d65c69e2551ced66a"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00100.av2.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "289a2b280387313f28c3c78ed26ab97eadaea23b",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/289a2b280387313f28c3c78ed26ab97eadaea23b"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00100.av2.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2fcaf855aeee237299937d63f764d072ead0a89a",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/2fcaf855aeee237299937d63f764d072ead0a89a"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00100.av2.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "42a6eef3f7b09e67301545d242035f05f242b5b5",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/42a6eef3f7b09e67301545d242035f05f242b5b5"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00100.av2.75.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1db8ae82af84d0cd4519860818a01415409ef5ab",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/1db8ae82af84d0cd4519860818a01415409ef5ab"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00100.av3.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "652b6ad2e50b73b2c52c23815f28131f43e9a377",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/652b6ad2e50b73b2c52c23815f28131f43e9a377"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00100.av3.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "40b4592b7c246ea444e49808b2a9fa488e56a704",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/40b4592b7c246ea444e49808b2a9fa488e56a704"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00100.av3.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3751598f6318c57d3621fd9bf0ca216588f535db",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/3751598f6318c57d3621fd9bf0ca216588f535db"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00100.av3.75.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "39ee4fd2e47e266a40220f3424996f2b62f69c63",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/39ee4fd2e47e266a40220f3424996f2b62f69c63"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00100.av4.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "14bb717516defbe513229f7031c8acbb7e050f72",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/14bb717516defbe513229f7031c8acbb7e050f72"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00100.av4.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "926a2e90e5c0c11d0f0fa2b647d664eb953b8d67",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/926a2e90e5c0c11d0f0fa2b647d664eb953b8d67"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00100.av4.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "62274dc07bcef7bedd582f88cd6eef4ad8c3cac2",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/62274dc07bcef7bedd582f88cd6eef4ad8c3cac2"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00200.av2.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ec9e895328c2a625188baf0eb130e72fc3ec3283",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/ec9e895328c2a625188baf0eb130e72fc3ec3283"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00200.av2.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "61c2a3f347254500308128fd6f7bce1a6c87a9c6",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/61c2a3f347254500308128fd6f7bce1a6c87a9c6"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00200.av2.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "676455e0b8cd27ef8771abcf234c0c67660ec994",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/676455e0b8cd27ef8771abcf234c0c67660ec994"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00200.av2.75.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b4ad79161c719ae8081a8b98f4d24ec47182d781",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/b4ad79161c719ae8081a8b98f4d24ec47182d781"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00200.av3.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e306a13cbefbe02a702cf6d0ce71717b40063231",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/e306a13cbefbe02a702cf6d0ce71717b40063231"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00200.av3.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "10b5e0109fd05349856086f70a868eb7bf4744e3",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/10b5e0109fd05349856086f70a868eb7bf4744e3"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00200.av3.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7679bf7e2be04193a85eff377fcd57a7515ad09a",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/7679bf7e2be04193a85eff377fcd57a7515ad09a"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00200.av3.75.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c4b0690e573de31cd56d372a4eb1bfceaa920ef5",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/c4b0690e573de31cd56d372a4eb1bfceaa920ef5"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00200.av4.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "375b7d387b31a9e418b1e213693bb4a8506b1acb",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/375b7d387b31a9e418b1e213693bb4a8506b1acb"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00200.av4.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ca22f979465e17b9a0e3f3d27c959b3751fa17df",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/ca22f979465e17b9a0e3f3d27c959b3751fa17df"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00200.av4.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "11e6f8911da82470c038eb889341612f540a9a0d",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/11e6f8911da82470c038eb889341612f540a9a0d"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00400.av2.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c339d48996e80ac6b3b1dd4ee779b041e39e9867",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/c339d48996e80ac6b3b1dd4ee779b041e39e9867"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00400.av2.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd6137bf6644724735f8a60660af9d79f0131807",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/bd6137bf6644724735f8a60660af9d79f0131807"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00400.av2.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bdd6844026bb1420070f057aa0fdf08779e0471f",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/bdd6844026bb1420070f057aa0fdf08779e0471f"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00400.av2.75.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "846b93dabd9d14d221f474e54de9cd925c9ded74",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/846b93dabd9d14d221f474e54de9cd925c9ded74"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00400.av3.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c5161397e03f105633888ce41cea923ae143d4db",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/c5161397e03f105633888ce41cea923ae143d4db"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00400.av3.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3bc03ca35cec4436f0b15e7ccbb02db236f55c4f",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/3bc03ca35cec4436f0b15e7ccbb02db236f55c4f"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00400.av3.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3e3178bea3ac861d6902abd9ccf4a055bfbb7ca",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/d3e3178bea3ac861d6902abd9ccf4a055bfbb7ca"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00400.av3.75.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cade778210edd61434377f57293aa20471cd6f29",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/cade778210edd61434377f57293aa20471cd6f29"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00400.av4.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b732a845a1726c09ada8f9e33b63861721eb32b1",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/b732a845a1726c09ada8f9e33b63861721eb32b1"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00400.av4.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "62716664d748177769dfde5ab9bd3666d51394c4",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/62716664d748177769dfde5ab9bd3666d51394c4"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00400.av4.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0272326aacbbb7c4945dc465f15ff5a3935c02b2",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/0272326aacbbb7c4945dc465f15ff5a3935c02b2"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00700.av2.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bef60ee9b9d1e4a888398982b24e47333d11e8c6",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/bef60ee9b9d1e4a888398982b24e47333d11e8c6"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00700.av2.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dd53be6ffbabf5ededd63137a1f06380891f389a",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/dd53be6ffbabf5ededd63137a1f06380891f389a"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00700.av2.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d13bd47ef18143947562b6f544e464875b13aca",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/4d13bd47ef18143947562b6f544e464875b13aca"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00700.av2.75.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c37d553dda81cc2f4d4b71c096e26ce8ddc7e55",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/7c37d553dda81cc2f4d4b71c096e26ce8ddc7e55"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00700.av3.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f50ae5f273d67574f0e55a8217fe5b455e89e474",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/f50ae5f273d67574f0e55a8217fe5b455e89e474"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00700.av3.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a929577eab59b33818ece924401aea1202b93400",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/a929577eab59b33818ece924401aea1202b93400"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00700.av3.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d32d697158b31bdc774fd40a00a778714a0686c4",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/d32d697158b31bdc774fd40a00a778714a0686c4"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00700.av3.75.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b0320a5b26fe9f88e3d7d4655632d22411c1c8d1",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/b0320a5b26fe9f88e3d7d4655632d22411c1c8d1"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00700.av4.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c6b4dd1217f47226f94aad905a1a6298b01002e8",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/c6b4dd1217f47226f94aad905a1a6298b01002e8"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00700.av4.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "523e293605725552d0b43e4483cc36e730f710ac",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/523e293605725552d0b43e4483cc36e730f710ac"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_00700.av4.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "966089cc3b0da8ad1270d692bdb866d2a98f1204",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/966089cc3b0da8ad1270d692bdb866d2a98f1204"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_01000.av2.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ddb8ffdfc8cdf8af3c04a97563add435549f0319",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/ddb8ffdfc8cdf8af3c04a97563add435549f0319"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_01000.av2.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0fb2121b46731f866ecc18fc8756515e078cedda",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/0fb2121b46731f866ecc18fc8756515e078cedda"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_01000.av2.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "da1e46175ef9539980eeb978c923d8830e92bc2e",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/da1e46175ef9539980eeb978c923d8830e92bc2e"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_01000.av2.75.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c7e8d1211b6973ef65e458211b894b357dd4059",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/2c7e8d1211b6973ef65e458211b894b357dd4059"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_01000.av3.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ec1e2bcbd23e1ac4238de301f8a3bf7383bf619",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/6ec1e2bcbd23e1ac4238de301f8a3bf7383bf619"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_01000.av3.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5b97479182f10a4b665766d28b34355de6de754a",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/5b97479182f10a4b665766d28b34355de6de754a"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_01000.av3.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54afe8f317f8de3c759f379accb83981dcfd8618",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/54afe8f317f8de3c759f379accb83981dcfd8618"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_01000.av3.75.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b65825f4a62d61224c625ffe598da0155c38731",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/7b65825f4a62d61224c625ffe598da0155c38731"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_01000.av4.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7bbdd940d2c8da44456656aeba19915568063011",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/7bbdd940d2c8da44456656aeba19915568063011"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_01000.av4.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c6a7bb1fb9ae993eafe03603367f1cb0a7c1159d",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/c6a7bb1fb9ae993eafe03603367f1cb0a7c1159d"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_01000.av4.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "90b61feebddb9c3f7bc9c6a098ef68c402c54335",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/90b61feebddb9c3f7bc9c6a098ef68c402c54335"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_01600.av2.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a6cf8c8dd6ae880113b09ae12cebe7cd7074ffca",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/a6cf8c8dd6ae880113b09ae12cebe7cd7074ffca"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_01600.av2.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1acd866108d1005b557ef60024b15246ab728749",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/1acd866108d1005b557ef60024b15246ab728749"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_01600.av2.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "661d17a6e4df50c16311e4e6f43e0fa92253c41d",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/661d17a6e4df50c16311e4e6f43e0fa92253c41d"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_01600.av2.75.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b8d7b19b8758a1c4252d7e072093239ec2aeba3b",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/b8d7b19b8758a1c4252d7e072093239ec2aeba3b"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_01600.av3.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5742df59cbdec5210a877fa7cf5b974fa04e2440",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/5742df59cbdec5210a877fa7cf5b974fa04e2440"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_01600.av3.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5861746057639e1b25636459db7f63b39ecdb929",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/5861746057639e1b25636459db7f63b39ecdb929"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_01600.av3.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a17eccb2e90bb758b207d576cb6b636d01fa2c67",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/a17eccb2e90bb758b207d576cb6b636d01fa2c67"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_01600.av3.75.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a707c18d4b22125f716b71b2e4c6166cfc5f9e75",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/a707c18d4b22125f716b71b2e4c6166cfc5f9e75"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_01600.av4.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "59a56339d8254b2d6016b26086e8181eb1835c66",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/59a56339d8254b2d6016b26086e8181eb1835c66"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_01600.av4.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8828b9815706e220a64e6dad14b0b4ff7b30f1d1",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/8828b9815706e220a64e6dad14b0b4ff7b30f1d1"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_01600.av4.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "308be4a20b064dfcfaaddb4b6f09ca3628596f74",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/308be4a20b064dfcfaaddb4b6f09ca3628596f74"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_02000.av2.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae88059cecd244f9f662b7dd89eac25660cd10bd",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/ae88059cecd244f9f662b7dd89eac25660cd10bd"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_02000.av2.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "47cf90c508251a98d5bfa74324ae2708b8bab429",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/47cf90c508251a98d5bfa74324ae2708b8bab429"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_02000.av2.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8dc58a934a986d8266001da69629eada3f7ce458",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/8dc58a934a986d8266001da69629eada3f7ce458"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_02000.av2.75.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "25417ee521df5a712777abad1b24223765d13908",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/25417ee521df5a712777abad1b24223765d13908"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_02000.av3.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "593b1223f0c9b4a666e3374e561d61aaec2c505a",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/593b1223f0c9b4a666e3374e561d61aaec2c505a"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_02000.av3.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c61e8e941dfa9e2a15cd95061a3854703c1b9f5d",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/c61e8e941dfa9e2a15cd95061a3854703c1b9f5d"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_02000.av3.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c919aebfb82a7f78d4077177b94b6aa089b7d96",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/7c919aebfb82a7f78d4077177b94b6aa089b7d96"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_02000.av3.75.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "464007863c115a65d0528211d755e87e761eb6ce",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/464007863c115a65d0528211d755e87e761eb6ce"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_02000.av4.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "37855b3b6f44e525477fcfb40121288b26037bb1",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/37855b3b6f44e525477fcfb40121288b26037bb1"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_02000.av4.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "65e4d65f0e0772591d0158c19d748691407bc4f2",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/65e4d65f0e0772591d0158c19d748691407bc4f2"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_02000.av4.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ce4159ce42a6b0f5874155a7a7397b50969db730",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/ce4159ce42a6b0f5874155a7a7397b50969db730"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_03000.av2.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "68ad4a1ec5ac00c916eb32bd3567d4391ce24a07",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/68ad4a1ec5ac00c916eb32bd3567d4391ce24a07"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_03000.av2.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3b3b5df82b2dbc16e534bd17e0af8695421fca59",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/3b3b5df82b2dbc16e534bd17e0af8695421fca59"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_03000.av2.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "554f13479c2ef73822664f72e21e21205d12fdac",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/554f13479c2ef73822664f72e21e21205d12fdac"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_03000.av2.75.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a1eb905a479c92cd4aba56f2f57d00256f0e061",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/9a1eb905a479c92cd4aba56f2f57d00256f0e061"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_03000.av3.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f163bfcbe03690d5995b43faa5376ec5cf676583",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/f163bfcbe03690d5995b43faa5376ec5cf676583"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_03000.av3.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e94d6e83c7f0716b6fb15d2e2172839a8c5b3198",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/e94d6e83c7f0716b6fb15d2e2172839a8c5b3198"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_03000.av3.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c5c0f6fd7cd30e296275538cf379d651edb067b",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/2c5c0f6fd7cd30e296275538cf379d651edb067b"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_03000.av3.75.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "140ddb044a260a4e872aa5b1703d55c5ea4b80f1",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/140ddb044a260a4e872aa5b1703d55c5ea4b80f1"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_03000.av4.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e0d0e974e952abb0f518fa75af0eb245edb8d5ab",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/e0d0e974e952abb0f518fa75af0eb245edb8d5ab"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_03000.av4.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6cb378b0f6668f34e78d54e127e274a956b2e510",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/6cb378b0f6668f34e78d54e127e274a956b2e510"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_03000.av4.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc8bdae7d04f2cbdf548a71e694a682bc3d25032",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/fc8bdae7d04f2cbdf548a71e694a682bc3d25032"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_05000.av2.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d6d6c59d936a6ea681cc0ee641abba6ed066bde",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/0d6d6c59d936a6ea681cc0ee641abba6ed066bde"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_05000.av2.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ca373696a846e1b9fbc66a5466a965b8320fe909",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/ca373696a846e1b9fbc66a5466a965b8320fe909"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_05000.av2.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ed28f1ba01e8457184d8b2524c64c66b4b42508b",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/ed28f1ba01e8457184d8b2524c64c66b4b42508b"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_05000.av2.75.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "90f4a56bf251324fbafc92a16abe81ce798a185e",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/90f4a56bf251324fbafc92a16abe81ce798a185e"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_05000.av3.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "77ea0fe4dddbfd83c63210126882234c6510f4b1",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/77ea0fe4dddbfd83c63210126882234c6510f4b1"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_05000.av3.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c06144159ca34371c31b133b6a25a5a6043aaf9c",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/c06144159ca34371c31b133b6a25a5a6043aaf9c"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_05000.av3.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5172be4644a00dad37941c6c2b58e689f32b07ec",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/5172be4644a00dad37941c6c2b58e689f32b07ec"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_05000.av3.75.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "07da03a6786d36cd081a832fefdcda689b977eb3",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/07da03a6786d36cd081a832fefdcda689b977eb3"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_05000.av4.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18113030b23d48ec6f3bfd0038d37a4c9278391e",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/18113030b23d48ec6f3bfd0038d37a4c9278391e"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_05000.av4.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c431c97954e46b514b50df25ff4425e643650046",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/c431c97954e46b514b50df25ff4425e643650046"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_05000.av4.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "217adb0f1fa818387433987c1d2cf5ab89f28174",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/217adb0f1fa818387433987c1d2cf5ab89f28174"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_11000.av2.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a0fe777cc49a4cb193fd587c7a7633fc3c731611",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/a0fe777cc49a4cb193fd587c7a7633fc3c731611"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_11000.av2.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "83dc10d7475eda4dc8fc0a407ac359a59da4ee9d",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/83dc10d7475eda4dc8fc0a407ac359a59da4ee9d"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_11000.av2.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "23e8c2ac18bd7daeeff1d6e07d3d34fc470f5782",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/23e8c2ac18bd7daeeff1d6e07d3d34fc470f5782"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_11000.av2.75.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0c05f212fa0c780bc67094b56b1ca068864312d0",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/0c05f212fa0c780bc67094b56b1ca068864312d0"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_11000.av3.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "afa1dde438c905d45aedb3a80624e1ecf9e2a513",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/afa1dde438c905d45aedb3a80624e1ecf9e2a513"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_11000.av3.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3738b2cb31eb349d207abf3d6cf345a648b77a4d",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/3738b2cb31eb349d207abf3d6cf345a648b77a4d"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_11000.av3.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f821cbde7c7c1ad3d459731cba0fe019df7bf6f6",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/f821cbde7c7c1ad3d459731cba0fe019df7bf6f6"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_11000.av3.75.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "44e65c3ceb86af65d705891f9ab7d63d77e62cd4",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/44e65c3ceb86af65d705891f9ab7d63d77e62cd4"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_11000.av4.00.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e09ce1e9849ecdb696e9a97b179d728d4c2538fb",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/e09ce1e9849ecdb696e9a97b179d728d4c2538fb"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_11000.av4.25.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "85d4e40f464b39a862a3c003974ce4c0ffb360c1",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/85d4e40f464b39a862a3c003974ce4c0ffb360c1"
+    },
+    {
+      "path": "templates/PEGASE2.0/graz13_11000.av4.50.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b8b98590637a8d5db6227d116db403c7fa679932",
+      "size": 36630,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/b8b98590637a8d5db6227d116db403c7fa679932"
+    },
+    {
+      "path": "templates/PEGASE2.0/pegase.spectra.param",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "662d5a1505ddc8c85549598a7804a1f6f98e56ba",
+      "size": 35374,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/662d5a1505ddc8c85549598a7804a1f6f98e56ba"
+    },
+    {
+      "path": "templates/PEGASE2.0/pegase13.spectra.param",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c530ecd32c2f0f0fe2df152d932e2de8a0b76cc1",
+      "size": 148184,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/c530ecd32c2f0f0fe2df152d932e2de8a0b76cc1"
+    },
+    {
+      "path": "templates/PEGASE2.0/readpeg.pro",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "449fa8078218d87fbd5f6fe9bc6ba0996f2c2253",
+      "size": 9055,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/449fa8078218d87fbd5f6fe9bc6ba0996f2c2253"
+    },
+    {
+      "path": "templates/README",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3e7b60f2e1eb81cea738cac3ecb5d07c932daef9",
+      "size": 1801,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/3e7b60f2e1eb81cea738cac3ecb5d07c932daef9"
+    },
+    {
+      "path": "templates/TEMPLATE_ERROR.eazy_v1.0",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "55674fe558228de4a0986378ea62e4eedbc6eb7d",
+      "size": 2726,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/55674fe558228de4a0986378ea62e4eedbc6eb7d"
+    },
+    {
+      "path": "templates/TEMPLATE_ERROR.v2.0.zfourge",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cc406a206ade6001ec4ff503427b6ca34163c04f",
+      "size": 2020,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/cc406a206ade6001ec4ff503427b6ca34163c04f"
+    },
+    {
+      "path": "templates/br07_default.spectra.param",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c93954b059a3952ae96cda22a7b5b496988a73e",
+      "size": 851,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/2c93954b059a3952ae96cda22a7b5b496988a73e"
+    },
+    {
+      "path": "templates/br07_goods.spectra.param",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5bb033d2f108261f017210b6907ef74180cd1b54",
+      "size": 841,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/5bb033d2f108261f017210b6907ef74180cd1b54"
+    },
+    {
+      "path": "templates/cww+kin.spectra.param",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c320c5d193d8b807803517d727f323c5a968d194",
+      "size": 880,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/c320c5d193d8b807803517d727f323c5a968d194"
+    },
+    {
+      "path": "templates/eazy_v1.0.spectra.param",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6b45118d212ed4719d13421662bb7c9d073b5c25",
+      "size": 917,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/6b45118d212ed4719d13421662bb7c9d073b5c25"
+    },
+    {
+      "path": "templates/eazy_v1.1_lines.spectra.param",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "786638de340b16d52194e586db3299ceb04101d4",
+      "size": 1033,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/786638de340b16d52194e586db3299ceb04101d4"
+    },
+    {
+      "path": "templates/eazy_v1.2_dusty.spectra.param",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2ddeb011d7effe401e0035f783d2a5e48445bb33",
+      "size": 1129,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/2ddeb011d7effe401e0035f783d2a5e48445bb33"
+    },
+    {
+      "path": "templates/eazy_v1.3.spectra.param",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4f82e8d0462ee1be647ba6192f8e7b943c1c40e7",
+      "size": 1178,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/4f82e8d0462ee1be647ba6192f8e7b943c1c40e7"
+    },
+    {
+      "path": "templates/erb2010_highEW.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab763c757a8aa2c86020e401eeb276866e22370a",
+      "size": 47450,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/ab763c757a8aa2c86020e401eeb276866e22370a"
+    },
+    {
+      "path": "templates/extend_prior.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "559504286f5adfb14bdf427d1c78e6b9925df1c9",
+      "size": 2940,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/559504286f5adfb14bdf427d1c78e6b9925df1c9"
+    },
+    {
+      "path": "templates/fsps_full",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "57e7864d6d378ec3c712ffa294fabe022c90ad0b",
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/trees/57e7864d6d378ec3c712ffa294fabe022c90ad0b"
+    },
+    {
+      "path": "templates/fsps_full/fsps_QSF_12_v3.param",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "759a12a1c095066e4792e826aaa02ee47b51f2e6",
+      "size": 591,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/759a12a1c095066e4792e826aaa02ee47b51f2e6"
+    },
+    {
+      "path": "templates/fsps_full/fsps_QSF_12_v3.param.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c15b153506e55cbb8f2da097cda1e5441fc27dc0",
+      "size": 11520,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/c15b153506e55cbb8f2da097cda1e5441fc27dc0"
+    },
+    {
+      "path": "templates/fsps_full/fsps_QSF_12_v3.sfh.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c86ff4ba7586c16642ef2bc2a259ebd60e19caa7",
+      "size": 1514880,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/c86ff4ba7586c16642ef2bc2a259ebd60e19caa7"
+    },
+    {
+      "path": "templates/fsps_full/fsps_QSF_12_v3.sfh.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f59c0e1b914f22a3b00f9d71a682dcbebd4e8430",
+      "size": 240566,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/f59c0e1b914f22a3b00f9d71a682dcbebd4e8430"
+    },
+    {
+      "path": "templates/fsps_full/fsps_QSF_12_v3_001.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09e726ea4d5d0df6ff027ebb8a6d12663e26d36b",
+      "size": 156520,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/09e726ea4d5d0df6ff027ebb8a6d12663e26d36b"
+    },
+    {
+      "path": "templates/fsps_full/fsps_QSF_12_v3_002.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "77b81b5aa4a92d90db07ecfacb298b3863ec5d46",
+      "size": 156521,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/77b81b5aa4a92d90db07ecfacb298b3863ec5d46"
+    },
+    {
+      "path": "templates/fsps_full/fsps_QSF_12_v3_003.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "70bd704ef148a6149d65d7e43da3c8ee65bbb04d",
+      "size": 156524,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/70bd704ef148a6149d65d7e43da3c8ee65bbb04d"
+    },
+    {
+      "path": "templates/fsps_full/fsps_QSF_12_v3_004.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "01ddbbbf41c9969b0ee57ef0e519357de845d5a8",
+      "size": 156527,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/01ddbbbf41c9969b0ee57ef0e519357de845d5a8"
+    },
+    {
+      "path": "templates/fsps_full/fsps_QSF_12_v3_005.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5409dc7f9186e6ce16a6d13389e1a812701af19b",
+      "size": 156524,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/5409dc7f9186e6ce16a6d13389e1a812701af19b"
+    },
+    {
+      "path": "templates/fsps_full/fsps_QSF_12_v3_006.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1b8259156d2bd73e3399befc0a3d5f1fa8ec691a",
+      "size": 156523,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/1b8259156d2bd73e3399befc0a3d5f1fa8ec691a"
+    },
+    {
+      "path": "templates/fsps_full/fsps_QSF_12_v3_007.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e73718736cec544ea6954d9971d56b944b85d3c6",
+      "size": 156509,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/e73718736cec544ea6954d9971d56b944b85d3c6"
+    },
+    {
+      "path": "templates/fsps_full/fsps_QSF_12_v3_008.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e45476fb592ecb6325158254f51e5fd50b21669",
+      "size": 156510,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/6e45476fb592ecb6325158254f51e5fd50b21669"
+    },
+    {
+      "path": "templates/fsps_full/fsps_QSF_12_v3_009.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "873fa4d7094000a1478b0a4cc602c5c629e368ae",
+      "size": 156511,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/873fa4d7094000a1478b0a4cc602c5c629e368ae"
+    },
+    {
+      "path": "templates/fsps_full/fsps_QSF_12_v3_010.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d560b9bfdf8648facb38197df32157760b900e96",
+      "size": 156512,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/d560b9bfdf8648facb38197df32157760b900e96"
+    },
+    {
+      "path": "templates/fsps_full/fsps_QSF_12_v3_011.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "46c8231f1d132debbd5798100b8060b301905bb1",
+      "size": 156518,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/46c8231f1d132debbd5798100b8060b301905bb1"
+    },
+    {
+      "path": "templates/fsps_full/fsps_QSF_12_v3_012.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3e890f452ccfaf96b08811a8b7e8016f5d97b323",
+      "size": 156518,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/3e890f452ccfaf96b08811a8b7e8016f5d97b323"
+    },
+    {
+      "path": "templates/fsps_full/fsps_QSF_12_v3_noIRdust_001.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "631fe007eca3a42f4f96413f6c3292b027c7a869",
+      "size": 155895,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/631fe007eca3a42f4f96413f6c3292b027c7a869"
+    },
+    {
+      "path": "templates/fsps_full/fsps_QSF_12_v3_noIRdust_002.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b1d2c6cc4192700306aeefaf1238584dad83c834",
+      "size": 155895,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/b1d2c6cc4192700306aeefaf1238584dad83c834"
+    },
+    {
+      "path": "templates/fsps_full/fsps_QSF_12_v3_noIRdust_003.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e015dff0d60213a7da2fccfee0c31ab4ab3422c1",
+      "size": 155895,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/e015dff0d60213a7da2fccfee0c31ab4ab3422c1"
+    },
+    {
+      "path": "templates/fsps_full/fsps_QSF_12_v3_noIRdust_004.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d702a71a64a7621a4694a17528b0ae225d7a5305",
+      "size": 155895,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/d702a71a64a7621a4694a17528b0ae225d7a5305"
+    },
+    {
+      "path": "templates/fsps_full/fsps_QSF_12_v3_noIRdust_005.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cdd53e30049a5c9f26524d867466681f3185c507",
+      "size": 155895,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/cdd53e30049a5c9f26524d867466681f3185c507"
+    },
+    {
+      "path": "templates/fsps_full/fsps_QSF_12_v3_noIRdust_006.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3f272670305a4711dd401442284a6214a66d7e2a",
+      "size": 155895,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/3f272670305a4711dd401442284a6214a66d7e2a"
+    },
+    {
+      "path": "templates/fsps_full/fsps_QSF_12_v3_noIRdust_007.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d8b9b233a59b2be484d5f63272300385ee7d0f4f",
+      "size": 155895,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/d8b9b233a59b2be484d5f63272300385ee7d0f4f"
+    },
+    {
+      "path": "templates/fsps_full/fsps_QSF_12_v3_noIRdust_008.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "67226e8e1a0512f8e9a2c45c33a398ed02c3ceaf",
+      "size": 155895,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/67226e8e1a0512f8e9a2c45c33a398ed02c3ceaf"
+    },
+    {
+      "path": "templates/fsps_full/fsps_QSF_12_v3_noIRdust_009.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "617cd5ef4a3c3430df7190af8466f2c12728f8a4",
+      "size": 155895,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/617cd5ef4a3c3430df7190af8466f2c12728f8a4"
+    },
+    {
+      "path": "templates/fsps_full/fsps_QSF_12_v3_noIRdust_010.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1bbc27c250e75716e15bf3506495f7e659124711",
+      "size": 155895,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/1bbc27c250e75716e15bf3506495f7e659124711"
+    },
+    {
+      "path": "templates/fsps_full/fsps_QSF_12_v3_noIRdust_011.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aea7476869c0cf5120b5bec8c805ebc8f2b6129b",
+      "size": 155895,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/aea7476869c0cf5120b5bec8c805ebc8f2b6129b"
+    },
+    {
+      "path": "templates/fsps_full/fsps_QSF_12_v3_noIRdust_012.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "713ac9627e60e7725b3c7d33b985f329988e472b",
+      "size": 155895,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/713ac9627e60e7725b3c7d33b985f329988e472b"
+    },
+    {
+      "path": "templates/fsps_full/tweak_fsps_QSF_11_v3_noRed.param",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fa66aa329f79e6f6856a642d58c754de3f1ffbea",
+      "size": 715,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/fa66aa329f79e6f6856a642d58c754de3f1ffbea"
+    },
+    {
+      "path": "templates/fsps_full/tweak_fsps_QSF_12_v3.param",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "40c0ab554de7c3b1d73900b286158a97b25a93e6",
+      "size": 780,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/40c0ab554de7c3b1d73900b286158a97b25a93e6"
+    },
+    {
+      "path": "templates/fsps_full/tweak_fsps_QSF_12_v3.param.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c15b153506e55cbb8f2da097cda1e5441fc27dc0",
+      "size": 11520,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/c15b153506e55cbb8f2da097cda1e5441fc27dc0"
+    },
+    {
+      "path": "templates/fsps_full/tweak_fsps_QSF_12_v3_001.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a53c3db09ed9a0b4ff84284e9510b5f713512f52",
+      "size": 155844,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/a53c3db09ed9a0b4ff84284e9510b5f713512f52"
+    },
+    {
+      "path": "templates/fsps_full/tweak_fsps_QSF_12_v3_002.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fb25c38281a4f98d050cefa02bf3b08d6ea8c7ed",
+      "size": 155844,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/fb25c38281a4f98d050cefa02bf3b08d6ea8c7ed"
+    },
+    {
+      "path": "templates/fsps_full/tweak_fsps_QSF_12_v3_003.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b9abf895659c80ff683cb907ba253526eb5a6fd1",
+      "size": 155844,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/b9abf895659c80ff683cb907ba253526eb5a6fd1"
+    },
+    {
+      "path": "templates/fsps_full/tweak_fsps_QSF_12_v3_004.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6bd0a95520706b38358a8e781db9936fb9a1b5b9",
+      "size": 155844,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/6bd0a95520706b38358a8e781db9936fb9a1b5b9"
+    },
+    {
+      "path": "templates/fsps_full/tweak_fsps_QSF_12_v3_005.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ae245ca3bd9c8c3195586ce8ecedaa6c3a402c1",
+      "size": 155844,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/3ae245ca3bd9c8c3195586ce8ecedaa6c3a402c1"
+    },
+    {
+      "path": "templates/fsps_full/tweak_fsps_QSF_12_v3_006.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "06136ba1b380a3ff91a1a0894ad2e6167341733f",
+      "size": 155844,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/06136ba1b380a3ff91a1a0894ad2e6167341733f"
+    },
+    {
+      "path": "templates/fsps_full/tweak_fsps_QSF_12_v3_007.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a66903867d60806156e0e4bd27c972213ac8eeb2",
+      "size": 155844,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/a66903867d60806156e0e4bd27c972213ac8eeb2"
+    },
+    {
+      "path": "templates/fsps_full/tweak_fsps_QSF_12_v3_008.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f0ac6bd1bb9b39e4374113c28d3493c1f4a8be92",
+      "size": 155844,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/f0ac6bd1bb9b39e4374113c28d3493c1f4a8be92"
+    },
+    {
+      "path": "templates/fsps_full/tweak_fsps_QSF_12_v3_009.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ed8147bfe5bc3b3e5704818e30b5c7d4d254972d",
+      "size": 155844,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/ed8147bfe5bc3b3e5704818e30b5c7d4d254972d"
+    },
+    {
+      "path": "templates/fsps_full/tweak_fsps_QSF_12_v3_010.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e8712fb0587bca7e85736278f7c52444b6c72238",
+      "size": 155844,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/e8712fb0587bca7e85736278f7c52444b6c72238"
+    },
+    {
+      "path": "templates/fsps_full/tweak_fsps_QSF_12_v3_011.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9032f4058719e160df5a4725fe41c579c8deb57",
+      "size": 155844,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/d9032f4058719e160df5a4725fe41c579c8deb57"
+    },
+    {
+      "path": "templates/fsps_full/tweak_fsps_QSF_12_v3_012.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54299f20fbf4b45062bbd3e4feb72baff08fd804",
+      "size": 155844,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/54299f20fbf4b45062bbd3e4feb72baff08fd804"
+    },
+    {
+      "path": "templates/lambda.def",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6cbfdaa5ad8fab6af6a342c6ee78c5f3078892a8",
+      "size": 12827,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/6cbfdaa5ad8fab6af6a342c6ee78c5f3078892a8"
+    },
+    {
+      "path": "templates/magdis",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c1861cbe2b6cb7c25b2c0329e0189c86fb380a6c",
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/trees/c1861cbe2b6cb7c25b2c0329e0189c86fb380a6c"
+    },
+    {
+      "path": "templates/magdis/README.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c0b9adbf3a319bb49cd33615caf4f05abb3b297",
+      "size": 560,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/2c0b9adbf3a319bb49cd33615caf4f05abb3b297"
+    },
+    {
+      "path": "templates/magdis/magdis_01.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "579dd53650819ac405140901fed96972f3de2c2f",
+      "size": 143920,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/579dd53650819ac405140901fed96972f3de2c2f"
+    },
+    {
+      "path": "templates/magdis/magdis_02.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "32691685878adac55bade2b0bcda37f1cd965a40",
+      "size": 143920,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/32691685878adac55bade2b0bcda37f1cd965a40"
+    },
+    {
+      "path": "templates/magdis/magdis_03.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6d507c99b20e4505ced0d8765c3e6e6c6e8c3de4",
+      "size": 143920,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/6d507c99b20e4505ced0d8765c3e6e6c6e8c3de4"
+    },
+    {
+      "path": "templates/magdis/magdis_04.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c246b86c8918ada780f1862ac72f9423d3ac02dc",
+      "size": 143920,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/c246b86c8918ada780f1862ac72f9423d3ac02dc"
+    },
+    {
+      "path": "templates/magdis/magdis_05.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3bac18799d8fb6e3d8c85bc1b96cd364319f1057",
+      "size": 143920,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/3bac18799d8fb6e3d8c85bc1b96cd364319f1057"
+    },
+    {
+      "path": "templates/magdis/magdis_06.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f0563f50d59c5aceced5e369d61c0429ef44a3e3",
+      "size": 143920,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/f0563f50d59c5aceced5e369d61c0429ef44a3e3"
+    },
+    {
+      "path": "templates/magdis/magdis_07.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18ab6544469bdfa6b24a0a4f342dfc93c1ba29d4",
+      "size": 143920,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/18ab6544469bdfa6b24a0a4f342dfc93c1ba29d4"
+    },
+    {
+      "path": "templates/magdis/magdis_08.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "79bfefe7ce2a2ad9ebedf59ad81af67e2c907b82",
+      "size": 143920,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/79bfefe7ce2a2ad9ebedf59ad81af67e2c907b82"
+    },
+    {
+      "path": "templates/magdis/magdis_09.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea8c232f9387a0e5429dbcfc83afd0a8c4cd7153",
+      "size": 143920,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/ea8c232f9387a0e5429dbcfc83afd0a8c4cd7153"
+    },
+    {
+      "path": "templates/magdis/magdis_10.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e6921c3fd65464500b37bf35944d4e7976ce181f",
+      "size": 143920,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/e6921c3fd65464500b37bf35944d4e7976ce181f"
+    },
+    {
+      "path": "templates/magdis/magdis_fit.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f4e768006bc471deec48818c39320b4be1b022d",
+      "size": 233820,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/2f4e768006bc471deec48818c39320b4be1b022d"
+    },
+    {
+      "path": "templates/magdis/templ.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2bc170d84cd73a40e489719712b19f5d60fb6d3e",
+      "size": 3863,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/2bc170d84cd73a40e489719712b19f5d60fb6d3e"
+    },
+    {
+      "path": "templates/misc",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9977aabe8cdb67ac59e919ac448e33c52634c584",
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/trees/9977aabe8cdb67ac59e919ac448e33c52634c584"
+    },
+    {
+      "path": "templates/misc/helios_sn_template_v2.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "974e3fa3a8d694fb9bb06e24a750f2c40adf9f12",
+      "size": 91963,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/974e3fa3a8d694fb9bb06e24a750f2c40adf9f12"
+    },
+    {
+      "path": "templates/pegase.spectra.param",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5563e53acd14c94b2ef2ce181bb3f4bdd7dfb9e0",
+      "size": 35909,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/5563e53acd14c94b2ef2ce181bb3f4bdd7dfb9e0"
+    },
+    {
+      "path": "templates/pegase13.spectra.param",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c530ecd32c2f0f0fe2df152d932e2de8a0b76cc1",
+      "size": 148184,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/c530ecd32c2f0f0fe2df152d932e2de8a0b76cc1"
+    },
+    {
+      "path": "templates/prior_F160W_TAO.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be9b23a7ea67b6f1a8405cc7b70527b12070b600",
+      "size": 386730,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/be9b23a7ea67b6f1a8405cc7b70527b12070b600"
+    },
+    {
+      "path": "templates/prior_K_TAO.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "37174581db60088b635a7696dfab56c6bb51bc1b",
+      "size": 385729,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/37174581db60088b635a7696dfab56c6bb51bc1b"
+    },
+    {
+      "path": "templates/prior_K_extend.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0932443f8276c1314be89686a8c6e1d7d40b9959",
+      "size": 386410,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/0932443f8276c1314be89686a8c6e1d7d40b9959"
+    },
+    {
+      "path": "templates/prior_K_zmax7.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9e43bc808702d1dd097c43806778f3d8077ffc3b",
+      "size": 132955,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/9e43bc808702d1dd097c43806778f3d8077ffc3b"
+    },
+    {
+      "path": "templates/prior_K_zmax7_coeff.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba01486e6cea13001f9a3af77a4af9852f17b203",
+      "size": 454,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/ba01486e6cea13001f9a3af77a4af9852f17b203"
+    },
+    {
+      "path": "templates/prior_R_extend.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "56df1e94a73437fa1201483245942564dc7b9ffe",
+      "size": 387667,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/56df1e94a73437fa1201483245942564dc7b9ffe"
+    },
+    {
+      "path": "templates/prior_R_zmax7.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "46f0e91e08c574f778d8c3e1cd0274d990330269",
+      "size": 118735,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/46f0e91e08c574f778d8c3e1cd0274d990330269"
+    },
+    {
+      "path": "templates/prior_R_zmax7_coeff.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1bcc4cd7a3343ef7736f92b9696d01bdc97f2c73",
+      "size": 409,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/1bcc4cd7a3343ef7736f92b9696d01bdc97f2c73"
+    },
+    {
+      "path": "templates/sfhz",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "46aedb676384c2254c36acdcda1affebc91d5b75",
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/trees/46aedb676384c2254c36acdcda1affebc91d5b75"
+    },
+    {
+      "path": "templates/sfhz/4590.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "12c6e5af0213d28e8ba3d59858853f15185ef869",
+      "size": 20160,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/12c6e5af0213d28e8ba3d59858853f15185ef869"
+    },
+    {
+      "path": "templates/sfhz/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "91e2c3110153cb4a0543a3b9918d802de718a7cf",
+      "size": 1338,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/91e2c3110153cb4a0543a3b9918d802de718a7cf"
+    },
+    {
+      "path": "templates/sfhz/agn_blue_sfhz_13.param",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "00f4c73444e6c7c3b571e39e3f784ac9e39112bf",
+      "size": 746,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/00f4c73444e6c7c3b571e39e3f784ac9e39112bf"
+    },
+    {
+      "path": "templates/sfhz/agn_blue_sfhz_13.param.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "17806f4d79ee9812066081888ed90a08bd5fcc05",
+      "size": 48960,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/17806f4d79ee9812066081888ed90a08bd5fcc05"
+    },
+    {
+      "path": "templates/sfhz/blue_sfhz_13.param",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8cc292724a925b3dfb4ac44c5297030349fefebd",
+      "size": 704,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/8cc292724a925b3dfb4ac44c5297030349fefebd"
+    },
+    {
+      "path": "templates/sfhz/blue_sfhz_13.param.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "17806f4d79ee9812066081888ed90a08bd5fcc05",
+      "size": 48960,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/17806f4d79ee9812066081888ed90a08bd5fcc05"
+    },
+    {
+      "path": "templates/sfhz/carnall_sfhz_13.param",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "00cca427a90ac395da680f7f82df03ab3b7b3e20",
+      "size": 699,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/00cca427a90ac395da680f7f82df03ab3b7b3e20"
+    },
+    {
+      "path": "templates/sfhz/carnall_sfhz_13.param.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "95d2db22bc211ea67c5486a2b777d5b2a17c80c3",
+      "size": 46080,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/95d2db22bc211ea67c5486a2b777d5b2a17c80c3"
+    },
+    {
+      "path": "templates/sfhz/corr_sfhz_13.param",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8ac03408cb24ae290886d77f1882621c3444e252",
+      "size": 667,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/8ac03408cb24ae290886d77f1882621c3444e252"
+    },
+    {
+      "path": "templates/sfhz/corr_sfhz_13.param.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "95d2db22bc211ea67c5486a2b777d5b2a17c80c3",
+      "size": 46080,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/95d2db22bc211ea67c5486a2b777d5b2a17c80c3"
+    },
+    {
+      "path": "templates/sfhz/corr_sfhz_13_bin0_av0.01.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18b207dd8c5e9f5be7c325258d840ab933f4c7a2",
+      "size": 1183680,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/18b207dd8c5e9f5be7c325258d840ab933f4c7a2"
+    },
+    {
+      "path": "templates/sfhz/corr_sfhz_13_bin0_av0.25.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f48dfc41c19f2ea7c0e3e688f6025bd34b9438f0",
+      "size": 1183680,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/f48dfc41c19f2ea7c0e3e688f6025bd34b9438f0"
+    },
+    {
+      "path": "templates/sfhz/corr_sfhz_13_bin0_av0.50.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d144f0412dc77393b8b0ebe0663e6361788f558",
+      "size": 1183680,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/3d144f0412dc77393b8b0ebe0663e6361788f558"
+    },
+    {
+      "path": "templates/sfhz/corr_sfhz_13_bin0_av1.00.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e13e5e3ce129f1fde6f7d13c9a54efa0e0e3a107",
+      "size": 1183680,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/e13e5e3ce129f1fde6f7d13c9a54efa0e0e3a107"
+    },
+    {
+      "path": "templates/sfhz/corr_sfhz_13_bin1_av0.01.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2424f3baab7d7681665b3ccfd2f9019649cb0c77",
+      "size": 1183680,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/2424f3baab7d7681665b3ccfd2f9019649cb0c77"
+    },
+    {
+      "path": "templates/sfhz/corr_sfhz_13_bin1_av0.25.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "911b6ea3a6f90dbc5dc0007a4a3bf324166b805d",
+      "size": 1183680,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/911b6ea3a6f90dbc5dc0007a4a3bf324166b805d"
+    },
+    {
+      "path": "templates/sfhz/corr_sfhz_13_bin1_av0.50.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "362d1a142bbf9cf24ad6d5332446442f339f1437",
+      "size": 1183680,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/362d1a142bbf9cf24ad6d5332446442f339f1437"
+    },
+    {
+      "path": "templates/sfhz/corr_sfhz_13_bin1_av1.00.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4b8df6b7bebfb226132377fa324b2e665505b08a",
+      "size": 1183680,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/4b8df6b7bebfb226132377fa324b2e665505b08a"
+    },
+    {
+      "path": "templates/sfhz/corr_sfhz_13_bin2_av0.01.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "44a60ec23822bab8b8f0b2b1e5ef120cc991dc7d",
+      "size": 1183680,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/44a60ec23822bab8b8f0b2b1e5ef120cc991dc7d"
+    },
+    {
+      "path": "templates/sfhz/corr_sfhz_13_bin2_av0.50.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4cd081cd01c1744c83a48ae32561b1e1e29d9f95",
+      "size": 1183680,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/4cd081cd01c1744c83a48ae32561b1e1e29d9f95"
+    },
+    {
+      "path": "templates/sfhz/corr_sfhz_13_bin2_av1.00.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b1ca0dfbdd96c022f5f4a832f86787f2c360a7d8",
+      "size": 1183680,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/b1ca0dfbdd96c022f5f4a832f86787f2c360a7d8"
+    },
+    {
+      "path": "templates/sfhz/corr_sfhz_13_bin3_av0.01.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a6016348ba29282a0b9a17ae1e0acea23b546689",
+      "size": 1183680,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/a6016348ba29282a0b9a17ae1e0acea23b546689"
+    },
+    {
+      "path": "templates/sfhz/corr_sfhz_13_bin3_av0.50.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "01b79bed281624ab65214219acc87772f5bdf15e",
+      "size": 1183680,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/01b79bed281624ab65214219acc87772f5bdf15e"
+    },
+    {
+      "path": "templates/sfhz/corr_sfhz_parameters.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d171e92938f3819cd50b4c513ac45a0ba7e310f",
+      "size": 161832,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/2d171e92938f3819cd50b4c513ac45a0ba7e310f"
+    },
+    {
+      "path": "templates/sfhz/corr_sfhz_zdependence.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "24a980f3e55cb92626193aba37a8234ce66b5807",
+      "size": 311304,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/24a980f3e55cb92626193aba37a8234ce66b5807"
+    },
+    {
+      "path": "templates/sfhz/fsps_4590.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b4065c08db5bab485928c552534a99ce6e47f8bb",
+      "size": 288000,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/b4065c08db5bab485928c552534a99ce6e47f8bb"
+    },
+    {
+      "path": "templates/sfhz/j0647agn+torus.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fdde44fcbbff229ed1e16f5acb02d93edc132af1",
+      "size": 28800,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/fdde44fcbbff229ed1e16f5acb02d93edc132af1"
+    },
+    {
+      "path": "templates/sfhz/macsj0647-v1_prism-clear_1433_1045.fnu.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7513eebf5d1d20bfa06149549cadb02331146640",
+      "size": 58022,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/7513eebf5d1d20bfa06149549cadb02331146640"
+    },
+    {
+      "path": "templates/sfhz/show.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "02cf5cc37acd6e7d3723ce6f297df76f6da7a4bb",
+      "size": 2319,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/02cf5cc37acd6e7d3723ce6f297df76f6da7a4bb"
+    },
+    {
+      "path": "templates/sfhz/sorted_agn_blue_sfhz_13.param",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "885a66cc3617c3062f676facc92fca2604828fef",
+      "size": 746,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/885a66cc3617c3062f676facc92fca2604828fef"
+    },
+    {
+      "path": "templates/sfhz/sorted_agn_blue_sfhz_13.param.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "066b9e53ff92a9eace6620a98ad4a93438cfba3a",
+      "size": 48960,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/066b9e53ff92a9eace6620a98ad4a93438cfba3a"
+    },
+    {
+      "path": "templates/spline_templates_v2",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c06f8d41109361a3eecde9113bada27026b4806c",
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/trees/c06f8d41109361a3eecde9113bada27026b4806c"
+    },
+    {
+      "path": "templates/spline_templates_v2/spline.param",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2a3b85f9b98be15efda3297d2de5f6b5bece6d91",
+      "size": 1251,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/2a3b85f9b98be15efda3297d2de5f6b5bece6d91"
+    },
+    {
+      "path": "templates/spline_templates_v2/spline.param.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c8a9f2c264d3f8e5f8aad89f012ad38721c8e9f",
+      "size": 14400,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/2c8a9f2c264d3f8e5f8aad89f012ad38721c8e9f"
+    },
+    {
+      "path": "templates/spline_templates_v2/spline.param.sfh.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3681dac6b84eec11ab707282b4648954f3d4b3d",
+      "size": 2378880,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/d3681dac6b84eec11ab707282b4648954f3d4b3d"
+    },
+    {
+      "path": "templates/spline_templates_v2/spline_age0.01_av0.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18e598f5af5a3e98631441cc7903927a55d8e715",
+      "size": 2773440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/18e598f5af5a3e98631441cc7903927a55d8e715"
+    },
+    {
+      "path": "templates/spline_templates_v2/spline_age0.01_av0.5.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "35c6f0c3900d57d06e0eb3580e43c8c60356329c",
+      "size": 2773440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/35c6f0c3900d57d06e0eb3580e43c8c60356329c"
+    },
+    {
+      "path": "templates/spline_templates_v2/spline_age0.03_av0.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "83312c982aa1549a39546a57cb6875413a6c895f",
+      "size": 2773440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/83312c982aa1549a39546a57cb6875413a6c895f"
+    },
+    {
+      "path": "templates/spline_templates_v2/spline_age0.03_av0.5.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "376c18738c01c4e56b4816991047e81481944c46",
+      "size": 2773440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/376c18738c01c4e56b4816991047e81481944c46"
+    },
+    {
+      "path": "templates/spline_templates_v2/spline_age0.03_av1.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c47ea4d2410bee204706c62fa6503a5583e846c5",
+      "size": 2773440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/c47ea4d2410bee204706c62fa6503a5583e846c5"
+    },
+    {
+      "path": "templates/spline_templates_v2/spline_age0.03_av2.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bb8b0548d90dbc833b1dc83ad04716ec9b03dd60",
+      "size": 2773440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/bb8b0548d90dbc833b1dc83ad04716ec9b03dd60"
+    },
+    {
+      "path": "templates/spline_templates_v2/spline_age0.03_av3.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d60a3f562c1862127262369fbd48b535870a85d9",
+      "size": 2773440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/d60a3f562c1862127262369fbd48b535870a85d9"
+    },
+    {
+      "path": "templates/spline_templates_v2/spline_age0.03_av5.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab87faab45cc7e086a9b4505d2ed785510a9d1d9",
+      "size": 2773440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/ab87faab45cc7e086a9b4505d2ed785510a9d1d9"
+    },
+    {
+      "path": "templates/spline_templates_v2/spline_age0.16_av0.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "88040847563243b9dda47cab83f97346a025318a",
+      "size": 247680,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/88040847563243b9dda47cab83f97346a025318a"
+    },
+    {
+      "path": "templates/spline_templates_v2/spline_age0.16_av1.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7fb62751491afa38a282df602b3be4a6ef25a0b",
+      "size": 247680,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/a7fb62751491afa38a282df602b3be4a6ef25a0b"
+    },
+    {
+      "path": "templates/spline_templates_v2/spline_age0.16_av2.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9bf5a57e4ade8c17647e4cc3dd25acca7bebdd94",
+      "size": 247680,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/9bf5a57e4ade8c17647e4cc3dd25acca7bebdd94"
+    },
+    {
+      "path": "templates/spline_templates_v2/spline_age0.67_av0.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "41f67bcab637eaf4603bc2fec2c52ce554430f4c",
+      "size": 247680,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/41f67bcab637eaf4603bc2fec2c52ce554430f4c"
+    },
+    {
+      "path": "templates/spline_templates_v2/spline_age0.67_av1.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3c9c93d4361aef2ae5a39175635ef4366776db11",
+      "size": 247680,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/3c9c93d4361aef2ae5a39175635ef4366776db11"
+    },
+    {
+      "path": "templates/spline_templates_v2/spline_age0.67_av2.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f369a3e17e2468cb6b0b48c906aecc26120e5bdc",
+      "size": 247680,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/f369a3e17e2468cb6b0b48c906aecc26120e5bdc"
+    },
+    {
+      "path": "templates/spline_templates_v2/spline_age1.03_av0.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7dbac6146d826c693f7a5b9626cfd652da5535f3",
+      "size": 247680,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/7dbac6146d826c693f7a5b9626cfd652da5535f3"
+    },
+    {
+      "path": "templates/spline_templates_v2/spline_age1.75_av0.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "22dae563c0fbe0575cac81280436d393356fab47",
+      "size": 247680,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/22dae563c0fbe0575cac81280436d393356fab47"
+    },
+    {
+      "path": "templates/spline_templates_v2/spline_age1.75_av1.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3bb4afa5cda82a91af8c319f62b411dbf09941e4",
+      "size": 247680,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/3bb4afa5cda82a91af8c319f62b411dbf09941e4"
+    },
+    {
+      "path": "templates/spline_templates_v2/spline_age3.68_av0.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "07e3d02150fd967abfc46d1e6c69ccd1161a0e8c",
+      "size": 247680,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/07e3d02150fd967abfc46d1e6c69ccd1161a0e8c"
+    },
+    {
+      "path": "templates/spline_templates_v2/spline_age3.68_av1.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d43a6011eb8d5ab533a647fcbac4633a2d663a42",
+      "size": 247680,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/d43a6011eb8d5ab533a647fcbac4633a2d663a42"
+    },
+    {
+      "path": "templates/spline_templates_v2/spline_age6.07_av0.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dcde43eaf6e38841697f7095c8a5493818f976c3",
+      "size": 247680,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/dcde43eaf6e38841697f7095c8a5493818f976c3"
+    },
+    {
+      "path": "templates/spline_templates_v2/tweak_spline.param",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "90518210df7d27b79b3852459b1dac6d3cf2493c",
+      "size": 1371,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/90518210df7d27b79b3852459b1dac6d3cf2493c"
+    },
+    {
+      "path": "templates/spline_templates_v2/tweak_spline.param.fits",
+      "mode": "120000",
+      "type": "blob",
+      "sha": "226e75b69f1efead9d999eaae090e1d56aa498a9",
+      "size": 17,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/226e75b69f1efead9d999eaae090e1d56aa498a9"
+    },
+    {
+      "path": "templates/spline_templates_v2/tweak_spline_age0.01_av0.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b6912c5cfff05618b3381a344a92456e3032b48b",
+      "size": 2773440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/b6912c5cfff05618b3381a344a92456e3032b48b"
+    },
+    {
+      "path": "templates/spline_templates_v2/tweak_spline_age0.01_av0.5.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1ef92f2caa3c0f488eaa3dec62d6231c8aac0a18",
+      "size": 2773440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/1ef92f2caa3c0f488eaa3dec62d6231c8aac0a18"
+    },
+    {
+      "path": "templates/spline_templates_v2/tweak_spline_age0.03_av0.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f4e1c0cde2ea56ae175a066c34e24a7bcf7c4aa",
+      "size": 2773440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/0f4e1c0cde2ea56ae175a066c34e24a7bcf7c4aa"
+    },
+    {
+      "path": "templates/spline_templates_v2/tweak_spline_age0.03_av0.5.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b9e403d9528828a8f485c48bd054b92db27b2c37",
+      "size": 2773440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/b9e403d9528828a8f485c48bd054b92db27b2c37"
+    },
+    {
+      "path": "templates/spline_templates_v2/tweak_spline_age0.03_av1.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "914e8add0534e5b6b35d30e3c7b2dd3692e33c4f",
+      "size": 2773440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/914e8add0534e5b6b35d30e3c7b2dd3692e33c4f"
+    },
+    {
+      "path": "templates/spline_templates_v2/tweak_spline_age0.03_av2.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cb4b3bd8e1d6e1123c44f2e282d78039da704154",
+      "size": 2773440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/cb4b3bd8e1d6e1123c44f2e282d78039da704154"
+    },
+    {
+      "path": "templates/spline_templates_v2/tweak_spline_age0.03_av3.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7fb42bc28923106ed40f4065ec2ac3101fc129a0",
+      "size": 2773440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/7fb42bc28923106ed40f4065ec2ac3101fc129a0"
+    },
+    {
+      "path": "templates/spline_templates_v2/tweak_spline_age0.03_av5.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "26635a2ae2b6c99f06af5e163da4215654b779fc",
+      "size": 2773440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/26635a2ae2b6c99f06af5e163da4215654b779fc"
+    },
+    {
+      "path": "templates/spline_templates_v2/tweak_spline_age0.16_av0.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "38108ef0170a01c26528d3b596ff4d209a5b4d43",
+      "size": 253440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/38108ef0170a01c26528d3b596ff4d209a5b4d43"
+    },
+    {
+      "path": "templates/spline_templates_v2/tweak_spline_age0.16_av1.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a491221cf91bbcb487786fffb975924111fd55b",
+      "size": 253440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/7a491221cf91bbcb487786fffb975924111fd55b"
+    },
+    {
+      "path": "templates/spline_templates_v2/tweak_spline_age0.16_av2.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5de335f5a61ba2b8820340adf445254c1dc1b432",
+      "size": 253440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/5de335f5a61ba2b8820340adf445254c1dc1b432"
+    },
+    {
+      "path": "templates/spline_templates_v2/tweak_spline_age0.67_av0.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5e3cb016445c9328104196b49a1cc445b4f74488",
+      "size": 253440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/5e3cb016445c9328104196b49a1cc445b4f74488"
+    },
+    {
+      "path": "templates/spline_templates_v2/tweak_spline_age0.67_av1.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a389aa9cdd44b413275a0e56566f60489b6dc6f",
+      "size": 253440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/7a389aa9cdd44b413275a0e56566f60489b6dc6f"
+    },
+    {
+      "path": "templates/spline_templates_v2/tweak_spline_age0.67_av2.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8efb3d5755b1ea927ed95b893ac3968d3688989a",
+      "size": 253440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/8efb3d5755b1ea927ed95b893ac3968d3688989a"
+    },
+    {
+      "path": "templates/spline_templates_v2/tweak_spline_age1.03_av0.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7adbd0a4375a7695d2ed5673196194d0db65b36a",
+      "size": 253440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/7adbd0a4375a7695d2ed5673196194d0db65b36a"
+    },
+    {
+      "path": "templates/spline_templates_v2/tweak_spline_age1.75_av0.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b86dbd866db8f0c6bfb2eba6c4e371bbc3fff2e3",
+      "size": 253440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/b86dbd866db8f0c6bfb2eba6c4e371bbc3fff2e3"
+    },
+    {
+      "path": "templates/spline_templates_v2/tweak_spline_age1.75_av1.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "46d037ccf5bce61181847b677dd838c16fe817ac",
+      "size": 253440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/46d037ccf5bce61181847b677dd838c16fe817ac"
+    },
+    {
+      "path": "templates/spline_templates_v2/tweak_spline_age3.68_av0.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "01f63b68262193cdcc21cae403bc3d0f091c5de2",
+      "size": 253440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/01f63b68262193cdcc21cae403bc3d0f091c5de2"
+    },
+    {
+      "path": "templates/spline_templates_v2/tweak_spline_age3.68_av1.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8242c7e45eb3b31827d59ce264bbdc7c2a2521a3",
+      "size": 253440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/8242c7e45eb3b31827d59ce264bbdc7c2a2521a3"
+    },
+    {
+      "path": "templates/spline_templates_v2/tweak_spline_age6.07_av0.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "41a327f105ac0587c275973d0ee73e3abdf06001",
+      "size": 253440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/41a327f105ac0587c275973d0ee73e3abdf06001"
+    },
+    {
+      "path": "templates/spline_templates_v3",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c2a560ae4cfa9f302a824ca064d9e95040640bfc",
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/trees/c2a560ae4cfa9f302a824ca064d9e95040640bfc"
+    },
+    {
+      "path": "templates/spline_templates_v3/c2020_spline.param",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "919b3cf4d6ce20de1eb6c38ad06e4754d202b9be",
+      "size": 1069,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/919b3cf4d6ce20de1eb6c38ad06e4754d202b9be"
+    },
+    {
+      "path": "templates/spline_templates_v3/c2020_spline.param.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "68a08a2d7fc5736a07fc61eff837cf1cf509c87e",
+      "size": 63360,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/68a08a2d7fc5736a07fc61eff837cf1cf509c87e"
+    },
+    {
+      "path": "templates/spline_templates_v3/fsps_alpha_bin0_Av0.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e10850325939719886c1f202eb0a38be8c0efc2",
+      "size": 973440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/8e10850325939719886c1f202eb0a38be8c0efc2"
+    },
+    {
+      "path": "templates/spline_templates_v3/fsps_alpha_bin0_Av0.5.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "50b67f17684afd94e9014d7bbad4909021bda9bc",
+      "size": 973440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/50b67f17684afd94e9014d7bbad4909021bda9bc"
+    },
+    {
+      "path": "templates/spline_templates_v3/fsps_alpha_bin1_Av0.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fe7b1c4842da6b4a8025a6a990d8174f79e9e480",
+      "size": 973440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/fe7b1c4842da6b4a8025a6a990d8174f79e9e480"
+    },
+    {
+      "path": "templates/spline_templates_v3/fsps_alpha_bin1_Av0.5.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a1477825778d4e46bf89d19ef3c8a428b18b4d2",
+      "size": 973440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/7a1477825778d4e46bf89d19ef3c8a428b18b4d2"
+    },
+    {
+      "path": "templates/spline_templates_v3/fsps_alpha_bin1_Av1.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c39f9dbad029c8f843e4486cf2f390afe23e369c",
+      "size": 973440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/c39f9dbad029c8f843e4486cf2f390afe23e369c"
+    },
+    {
+      "path": "templates/spline_templates_v3/fsps_alpha_bin1_Av2.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d61dfdcd839d1f8e617914975bc680dc33812d71",
+      "size": 973440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/d61dfdcd839d1f8e617914975bc680dc33812d71"
+    },
+    {
+      "path": "templates/spline_templates_v3/fsps_alpha_bin1_Av3.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c26590a4cf26a85c1858767f18e73899f0e90995",
+      "size": 973440,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/c26590a4cf26a85c1858767f18e73899f0e90995"
+    },
+    {
+      "path": "templates/spline_templates_v3/spline_age0.31_av0.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a57856611bea73bb3318064f0de90767fff1b065",
+      "size": 1684800,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/a57856611bea73bb3318064f0de90767fff1b065"
+    },
+    {
+      "path": "templates/spline_templates_v3/spline_age0.31_av1.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d31be5c04ce97ab26afec494852b73621c91aa76",
+      "size": 1684800,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/d31be5c04ce97ab26afec494852b73621c91aa76"
+    },
+    {
+      "path": "templates/spline_templates_v3/spline_age0.31_av2.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9c28c0f797864916166d86e685b48ec252ed4f08",
+      "size": 1684800,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/9c28c0f797864916166d86e685b48ec252ed4f08"
+    },
+    {
+      "path": "templates/spline_templates_v3/spline_age0.62_av0.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "71d0126f485c4519d0aa9b4aeddcd3cc65af9897",
+      "size": 1684800,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/71d0126f485c4519d0aa9b4aeddcd3cc65af9897"
+    },
+    {
+      "path": "templates/spline_templates_v3/spline_age0.62_av1.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8d72913bb29f80d33ceb9053a68a095cde02575b",
+      "size": 1684800,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/8d72913bb29f80d33ceb9053a68a095cde02575b"
+    },
+    {
+      "path": "templates/spline_templates_v3/spline_age0.62_av2.5.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "153066c41e86906653047af70a6b5146f45526be",
+      "size": 1684800,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/153066c41e86906653047af70a6b5146f45526be"
+    },
+    {
+      "path": "templates/spline_templates_v3/spline_age0.91_av0.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b1b7b41e993b7330c7deaa951080f3ddefbb3412",
+      "size": 1535040,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/b1b7b41e993b7330c7deaa951080f3ddefbb3412"
+    },
+    {
+      "path": "templates/spline_templates_v3/spline_age1.76_av0.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9b5d1c619236ab4c3fe255fed7b4123900f446d",
+      "size": 1385280,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/d9b5d1c619236ab4c3fe255fed7b4123900f446d"
+    },
+    {
+      "path": "templates/spline_templates_v3/spline_age1.76_av1.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b953ce2a5f8fb96b5b982832c0cee618520d57bc",
+      "size": 1385280,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/b953ce2a5f8fb96b5b982832c0cee618520d57bc"
+    },
+    {
+      "path": "templates/spline_templates_v3/spline_age7.18_av0.0.fits",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e61ccc7aa81d7931b4ec62d46ff55844f5c9ec76",
+      "size": 936000,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/e61ccc7aa81d7931b4ec62d46ff55844f5c9ec76"
+    },
+    {
+      "path": "templates/template_error_cosmos2020.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "98fe0c83ca836a563446919345c82c222210e23e",
+      "size": 155844,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/98fe0c83ca836a563446919345c82c222210e23e"
+    },
+    {
+      "path": "templates/uvista_nmf",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "99747382d1d5c86e160ba1d7b37a386313c6bed2",
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/trees/99747382d1d5c86e160ba1d7b37a386313c6bed2"
+    },
+    {
+      "path": "templates/uvista_nmf/lambda.def",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a009be9c0a362ba528a312e94089b6d30ba1591e",
+      "size": 77922,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/a009be9c0a362ba528a312e94089b6d30ba1591e"
+    },
+    {
+      "path": "templates/uvista_nmf/spectra_kc13_12_tweak.param",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c82bd7d18c49b57a884b0f3bbd4f01cc621c10b3",
+      "size": 1300,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/c82bd7d18c49b57a884b0f3bbd4f01cc621c10b3"
+    },
+    {
+      "path": "templates/uvista_nmf/template_error_10.def",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db4c6db818c5e3b0bf035ce0b81cbb29703c1c72",
+      "size": 155844,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/db4c6db818c5e3b0bf035ce0b81cbb29703c1c72"
+    },
+    {
+      "path": "templates/uvista_nmf/tweak_fsps_temp_kc13_12_001.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba75b558fd96e5bad85af57e2fd62a26acf163bc",
+      "size": 155844,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/ba75b558fd96e5bad85af57e2fd62a26acf163bc"
+    },
+    {
+      "path": "templates/uvista_nmf/tweak_fsps_temp_kc13_12_002.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9efdefa9300931c17994b1e2024099bda5fa74d8",
+      "size": 155844,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/9efdefa9300931c17994b1e2024099bda5fa74d8"
+    },
+    {
+      "path": "templates/uvista_nmf/tweak_fsps_temp_kc13_12_003.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8a0155d60c43eaa2227122cd5f6444dbd190a4d7",
+      "size": 155844,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/8a0155d60c43eaa2227122cd5f6444dbd190a4d7"
+    },
+    {
+      "path": "templates/uvista_nmf/tweak_fsps_temp_kc13_12_004.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e6aa177a5c92e3c5052d809023bc3c2bcb8a264",
+      "size": 155844,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/7e6aa177a5c92e3c5052d809023bc3c2bcb8a264"
+    },
+    {
+      "path": "templates/uvista_nmf/tweak_fsps_temp_kc13_12_005.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "22ca0b68ab05e789494a5531b62751d8aee89871",
+      "size": 155844,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/22ca0b68ab05e789494a5531b62751d8aee89871"
+    },
+    {
+      "path": "templates/uvista_nmf/tweak_fsps_temp_kc13_12_006.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bf7728754364979fa42fddc3de5c716084f8112e",
+      "size": 155844,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/bf7728754364979fa42fddc3de5c716084f8112e"
+    },
+    {
+      "path": "templates/uvista_nmf/tweak_fsps_temp_kc13_12_007.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "299be94a20e5a80b9e249035d94b94aa01e9071a",
+      "size": 155844,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/299be94a20e5a80b9e249035d94b94aa01e9071a"
+    },
+    {
+      "path": "templates/uvista_nmf/tweak_fsps_temp_kc13_12_008.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d4c6f16573efddf8a4db4b9a61d58fdda59121ef",
+      "size": 155844,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/d4c6f16573efddf8a4db4b9a61d58fdda59121ef"
+    },
+    {
+      "path": "templates/uvista_nmf/tweak_fsps_temp_kc13_12_009.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7eed9a5d381c6bf436e269eb1073a04e39e537b8",
+      "size": 155844,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/7eed9a5d381c6bf436e269eb1073a04e39e537b8"
+    },
+    {
+      "path": "templates/uvista_nmf/tweak_fsps_temp_kc13_12_010.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c02d6677baf9610ecaf6093386c91ec3921340fb",
+      "size": 155844,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/c02d6677baf9610ecaf6093386c91ec3921340fb"
+    },
+    {
+      "path": "templates/uvista_nmf/tweak_fsps_temp_kc13_12_011.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e056495fb00d9c140bf1d02782b9b02c0091dc40",
+      "size": 155844,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/e056495fb00d9c140bf1d02782b9b02c0091dc40"
+    },
+    {
+      "path": "templates/uvista_nmf/tweak_fsps_temp_kc13_12_012.dat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "89d61779437336ab141c39cd9f17c5407e7f113a",
+      "size": 155844,
+      "url": "https://api.github.com/repos/gbrammer/eazy-photoz/git/blobs/89d61779437336ab141c39cd9f17c5407e7f113a"
+    }
+  ],
+  "truncated": false
+}

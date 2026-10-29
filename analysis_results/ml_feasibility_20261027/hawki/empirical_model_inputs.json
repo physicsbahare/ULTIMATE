@@ -1,0 +1,192 @@
+{
+  "scope": "HAWKI/GRAAL Ks Jan6 2018 reduced tile ADP.2018-02-14T09:20:46.500 target-centered SODA cutout only; NOT ULTIMATE calibration",
+  "candidate_count": 103,
+  "candidate_identity": "isolated unsaturated compact sources, not externally catalog-confirmed stars",
+  "fit": "elliptical Moffat integrated with3x3subpixels; accepted fitting/residual cuts; finite-cutout analytic extrapolated EE",
+  "scatter_semantics": "candidate IQR and std describe sample/field scatter, not uncertainty of a universal PSF or confidence interval",
+  "pixel_scale_arcsec": 0.10659569078229733,
+  "psf": {
+    "fwhm_circularized_arcsec": {
+      "median": 0.3165969242623734,
+      "p25": 0.29200560229887185,
+      "p75": 0.33294626553444595,
+      "std": 0.029927242958163083,
+      "min": 0.2698781983732027,
+      "max": 0.4539571028343055
+    },
+    "D50_circularized_arcsec": {
+      "median": 0.3533355916555974,
+      "p25": 0.3428458943110181,
+      "p75": 0.3683550486235341,
+      "std": 0.12544475482263534,
+      "min": 0.3230220965503164,
+      "max": 1.5874418651337063
+    },
+    "R80_circularized_arcsec": {
+      "median": 0.2872679639261271,
+      "p25": 0.28017646730661794,
+      "p75": 0.2964289326058833,
+      "std": 0.44920760672051524,
+      "min": 0.2581083179707746,
+      "max": 4.837513386113297
+    },
+    "beta": {
+      "median": 4.752960293795975,
+      "p25": 3.8586540073263436,
+      "p75": 6.109290287971547,
+      "std": 2.0257411815217052,
+      "min": 1.2584030897836418,
+      "max": 11.708171845853972
+    },
+    "q": {
+      "median": 0.8198829912262741,
+      "p25": 0.774965492984232,
+      "p75": 0.8589333502311187,
+      "std": 0.06828360126891511,
+      "min": 0.5695700535417167,
+      "max": 0.9793521656290842
+    }
+  },
+  "background": {
+    "scope": "masked locally64px-detrended reduced background; includes resampling and residual instrumental/sky structure, decomposition not measured",
+    "units": "science ADU, variance interpreted as ADU\u00b2 from product category despite inherited BUNIT=ADU",
+    "pixel_robust_sigma_ADU": 1.8396763801574707,
+    "rho_adjacent_x": 0.2752555,
+    "rho_adjacent_y": 0.29317406,
+    "correlation_lags": [
+      {
+        "dx": 1,
+        "dy": 0,
+        "covariance_ADU2": 1.0286719799041748,
+        "correlation": 0.2752555,
+        "n_pairs": 3348824
+      },
+      {
+        "dx": 0,
+        "dy": 1,
+        "covariance_ADU2": 1.0956363677978516,
+        "correlation": 0.29317406,
+        "n_pairs": 3348447
+      },
+      {
+        "dx": 2,
+        "dy": 0,
+        "covariance_ADU2": 0.1010669022798538,
+        "correlation": 0.027043821,
+        "n_pairs": 3327492
+      },
+      {
+        "dx": 0,
+        "dy": 2,
+        "covariance_ADU2": 0.1074242293834686,
+        "correlation": 0.028744938,
+        "n_pairs": 3326871
+      },
+      {
+        "dx": 4,
+        "dy": 0,
+        "covariance_ADU2": 0.0791705921292305,
+        "correlation": 0.021184733,
+        "n_pairs": 3286143
+      },
+      {
+        "dx": 0,
+        "dy": 4,
+        "covariance_ADU2": 0.0654849112033844,
+        "correlation": 0.017522672,
+        "n_pairs": 3285189
+      },
+      {
+        "dx": 8,
+        "dy": 0,
+        "covariance_ADU2": 0.0655776560306549,
+        "correlation": 0.01754749,
+        "n_pairs": 3208372
+      },
+      {
+        "dx": 0,
+        "dy": 8,
+        "covariance_ADU2": 0.050888255238533,
+        "correlation": 0.013616851,
+        "n_pairs": 3207462
+      },
+      {
+        "dx": 16,
+        "dy": 0,
+        "covariance_ADU2": 0.0504030734300613,
+        "correlation": 0.013487024,
+        "n_pairs": 3076656
+      },
+      {
+        "dx": 0,
+        "dy": 16,
+        "covariance_ADU2": 0.0451157130300998,
+        "correlation": 0.012072215,
+        "n_pairs": 3076327
+      }
+    ],
+    "aperture_noise": [
+      {
+        "radius_pix": 2,
+        "radius_arcsec": 0.2131913815645946,
+        "n_pixels": 13,
+        "n_apertures": 500,
+        "sum_robust_sigma_ADU": 10.41711,
+        "sum_std_ADU": 10.398222,
+        "independent_pixel_prediction": 6.633047518917743,
+        "median_propagated_sigma_ADU": 11.450104,
+        "noise_ratio_to_pixel": 1.5704863282533674,
+        "noise_ratio_to_variance": 0.90978307
+      },
+      {
+        "radius_pix": 4,
+        "radius_arcsec": 0.4263827631291893,
+        "n_pixels": 49,
+        "n_apertures": 500,
+        "sum_robust_sigma_ADU": 21.971148,
+        "sum_std_ADU": 22.727041,
+        "independent_pixel_prediction": 12.877734661102297,
+        "median_propagated_sigma_ADU": 22.07869,
+        "noise_ratio_to_pixel": 1.7061345116541469,
+        "noise_ratio_to_variance": 0.99512917
+      },
+      {
+        "radius_pix": 8,
+        "radius_arcsec": 0.8527655262583786,
+        "n_pixels": 197,
+        "n_apertures": 500,
+        "sum_robust_sigma_ADU": 56.375084,
+        "sum_std_ADU": 63.054966,
+        "independent_pixel_prediction": 25.821088458675227,
+        "median_propagated_sigma_ADU": 44.383286,
+        "noise_ratio_to_pixel": 2.183296184959982,
+        "noise_ratio_to_variance": 1.2701873
+      },
+      {
+        "radius_pix": 16,
+        "radius_arcsec": 1.7055310525167573,
+        "n_pixels": 797,
+        "n_apertures": 500,
+        "sum_robust_sigma_ADU": 144.7619,
+        "sum_std_ADU": 172.22758,
+        "independent_pixel_prediction": 51.93625053290147,
+        "median_propagated_sigma_ADU": 88.30203,
+        "noise_ratio_to_pixel": 2.787299821802933,
+        "noise_ratio_to_variance": 1.6393949
+      },
+      {
+        "radius_pix": 32,
+        "radius_arcsec": 3.4110621050335146,
+        "n_pixels": 3209,
+        "n_apertures": 500,
+        "sum_robust_sigma_ADU": 356.54575,
+        "sum_std_ADU": 445.8767,
+        "independent_pixel_prediction": 104.21405409311706,
+        "median_propagated_sigma_ADU": 177.20474,
+        "noise_ratio_to_pixel": 3.4212827526221137,
+        "noise_ratio_to_variance": 2.0120554
+      }
+    ],
+    "aperture_caution": "radii2-32pixels;500 random fully masked blank apertures per radius, may overlap; ratios relative robust pixel sigma sqrt(N) and propagated diagonal variance, not a stationary covariance kernel"
+  }
+}

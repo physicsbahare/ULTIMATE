@@ -1,0 +1,272 @@
+[
+  {
+    "field": "pawprint1",
+    "component_sigma_xy_pixels": [
+      [
+        0,
+        0
+      ],
+      [
+        0.35,
+        0.7
+      ],
+      [
+        0.7,
+        0.35
+      ],
+      [
+        0.7,
+        0.7
+      ],
+      [
+        1.5,
+        1.5
+      ],
+      [
+        3.0,
+        3.0
+      ],
+      [
+        6.0,
+        6.0
+      ],
+      [
+        12.0,
+        12.0
+      ]
+    ],
+    "variance_fractions": [
+      0.41994839382820764,
+      0.0,
+      0.05343237092000234,
+      0.4849300425119685,
+      0.0,
+      0.016172456203449054,
+      0.0,
+      0.025516736536372497
+    ],
+    "observed_pixel_scale_arcsec": 0.10656,
+    "scope": "phenomenological total reduced-background stress, includes unresolved stars/sky; not unique instrumental covariance; no ADU amplitude transfer",
+    "fit_largest_radius_pixels": 16,
+    "normalization": "sum independent unit-L2 Gaussian-filtered white fields with sqrt(variance_fraction) amplitudes",
+    "max_fractional_response_error": 0.2609650929128907,
+    "calibration_status": "Approximate total-background stress only; response residuals retained, not an instrument-noise calibration",
+    "R32_constraint": "Not fitted; too few independent empty apertures in crowded-field patches"
+  },
+  {
+    "field": "pawprint2",
+    "component_sigma_xy_pixels": [
+      [
+        0,
+        0
+      ],
+      [
+        0.35,
+        0.7
+      ],
+      [
+        0.7,
+        0.35
+      ],
+      [
+        0.7,
+        0.7
+      ],
+      [
+        1.5,
+        1.5
+      ],
+      [
+        3.0,
+        3.0
+      ],
+      [
+        6.0,
+        6.0
+      ],
+      [
+        12.0,
+        12.0
+      ]
+    ],
+    "variance_fractions": [
+      0.02491918566695058,
+      0.4393032662745114,
+      0.4580766582028481,
+      0.0,
+      0.0,
+      0.0,
+      0.051503262200476366,
+      0.02619762765521355
+    ],
+    "observed_pixel_scale_arcsec": 0.10656,
+    "scope": "phenomenological total reduced-background stress, includes unresolved stars/sky; not unique instrumental covariance; no ADU amplitude transfer",
+    "fit_largest_radius_pixels": 16,
+    "normalization": "sum independent unit-L2 Gaussian-filtered white fields with sqrt(variance_fraction) amplitudes",
+    "max_fractional_response_error": 0.26844654168367993,
+    "calibration_status": "Approximate total-background stress only; response residuals retained, not an instrument-noise calibration",
+    "R32_constraint": "Not fitted; too few independent empty apertures in crowded-field patches"
+  },
+  {
+    "field": "pawprint3",
+    "component_sigma_xy_pixels": [
+      [
+        0,
+        0
+      ],
+      [
+        0.35,
+        0.7
+      ],
+      [
+        0.7,
+        0.35
+      ],
+      [
+        0.7,
+        0.7
+      ],
+      [
+        1.5,
+        1.5
+      ],
+      [
+        3.0,
+        3.0
+      ],
+      [
+        6.0,
+        6.0
+      ],
+      [
+        12.0,
+        12.0
+      ]
+    ],
+    "variance_fractions": [
+      0.48176774384762455,
+      0.0,
+      0.09730842981432064,
+      0.3640532494864601,
+      0.0,
+      0.0,
+      0.023969777261946507,
+      0.03290079958964825
+    ],
+    "observed_pixel_scale_arcsec": 0.10656,
+    "scope": "phenomenological total reduced-background stress, includes unresolved stars/sky; not unique instrumental covariance; no ADU amplitude transfer",
+    "fit_largest_radius_pixels": 16,
+    "normalization": "sum independent unit-L2 Gaussian-filtered white fields with sqrt(variance_fraction) amplitudes",
+    "max_fractional_response_error": 0.36987993654683693,
+    "calibration_status": "Approximate total-background stress only; response residuals retained, not an instrument-noise calibration",
+    "R32_constraint": "Not fitted; too few independent empty apertures in crowded-field patches"
+  },
+  {
+    "field": "pawprint4",
+    "component_sigma_xy_pixels": [
+      [
+        0,
+        0
+      ],
+      [
+        0.35,
+        0.7
+      ],
+      [
+        0.7,
+        0.35
+      ],
+      [
+        0.7,
+        0.7
+      ],
+      [
+        1.5,
+        1.5
+      ],
+      [
+        3.0,
+        3.0
+      ],
+      [
+        6.0,
+        6.0
+      ],
+      [
+        12.0,
+        12.0
+      ]
+    ],
+    "variance_fractions": [
+      0.3251041581720746,
+      0.09911554558554998,
+      0.03263577147991556,
+      0.4946304196583727,
+      0.0,
+      0.0,
+      0.0016286279235497702,
+      0.04688547718053733
+    ],
+    "observed_pixel_scale_arcsec": 0.10656,
+    "scope": "phenomenological total reduced-background stress, includes unresolved stars/sky; not unique instrumental covariance; no ADU amplitude transfer",
+    "fit_largest_radius_pixels": 16,
+    "normalization": "sum independent unit-L2 Gaussian-filtered white fields with sqrt(variance_fraction) amplitudes",
+    "max_fractional_response_error": 0.3080260994715601,
+    "calibration_status": "Approximate total-background stress only; response residuals retained, not an instrument-noise calibration",
+    "R32_constraint": "Not fitted; too few independent empty apertures in crowded-field patches"
+  },
+  {
+    "field": "tile0",
+    "component_sigma_xy_pixels": [
+      [
+        0,
+        0
+      ],
+      [
+        0.35,
+        0.7
+      ],
+      [
+        0.7,
+        0.35
+      ],
+      [
+        0.7,
+        0.7
+      ],
+      [
+        1.5,
+        1.5
+      ],
+      [
+        3.0,
+        3.0
+      ],
+      [
+        6.0,
+        6.0
+      ],
+      [
+        12.0,
+        12.0
+      ]
+    ],
+    "variance_fractions": [
+      0.09650692470126694,
+      0.37861455470518596,
+      0.40884093618396167,
+      0.0,
+      0.0,
+      0.0,
+      0.07757864791419108,
+      0.03845893649539421
+    ],
+    "observed_pixel_scale_arcsec": 0.10656,
+    "scope": "phenomenological total reduced-background stress, includes unresolved stars/sky; not unique instrumental covariance; no ADU amplitude transfer",
+    "fit_largest_radius_pixels": 16,
+    "normalization": "sum independent unit-L2 Gaussian-filtered white fields with sqrt(variance_fraction) amplitudes",
+    "max_fractional_response_error": 0.13126348657596495,
+    "calibration_status": "Approximate total-background stress only; response residuals retained, not an instrument-noise calibration",
+    "R32_constraint": "Not fitted; too few independent empty apertures in crowded-field patches"
+  }
+]

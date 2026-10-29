@@ -1,0 +1,9 @@
+target,family,config,value,MAE
+A_Ks,summary_ridge,summary_ridge_10,10,0.01226523342650328
+A_g_p50_1kpc,spatial_forest,spatial_forest_8,8,0.028710020460432077
+dR50_Ks,summary_ridge,summary_ridge_1,1,0.059569598152001385
+A_g,summary_ridge,summary_ridge_1,1,0.06443687303456153
+A_g_IQR_1kpc,spatial_boost,spatial_boost_3,3,0.06822620473904872
+dC_Ks,spatial_ridge,spatial_ridge_1,1,0.07304148599442985
+dR50_g,spatial_ridge,spatial_ridge_1,1,0.2506129753981169
+dC_g,spatial_boost,spatial_boost_2,2,0.25319106839412575

@@ -1,0 +1,4 @@
+*.tar.gz*
+*.tmp
+.download.lock
+__pycache__/

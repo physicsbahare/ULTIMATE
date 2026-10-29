@@ -1,0 +1,962 @@
+[
+  {
+    "name": "TNG294866_O1_2MASS_H.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_2MASS_H_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_2MASS_J.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_2MASS_J_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_2MASS_Ks.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_2MASS_Ks_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_Euclid_H.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_Euclid_H_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_Euclid_J.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_Euclid_J_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_Euclid_VIS.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_Euclid_VIS_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_Euclid_Y.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_Euclid_Y_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_GALEX_FUV.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_GALEX_FUV_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_GALEX_NUV.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_GALEX_NUV_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_Johnson_B.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_Johnson_B_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_Johnson_I.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_Johnson_I_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_Johnson_R.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_Johnson_R_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_Johnson_U.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_Johnson_U_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_Johnson_V.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_Johnson_V_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_LSST_g.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_LSST_g_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_LSST_i.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_LSST_i_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_LSST_r.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_LSST_r_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_LSST_u.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_LSST_u_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_LSST_y.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_LSST_y_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_LSST_z.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_LSST_z_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_WISE_W1.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_WISE_W1_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_WISE_W2.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_WISE_W2_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_dustmass.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_stellarage.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_stellarmass.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O1_stellarmetallicity.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_2MASS_H.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_2MASS_H_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_2MASS_J.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_2MASS_J_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_2MASS_Ks.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_2MASS_Ks_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_Euclid_H.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_Euclid_H_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_Euclid_J.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_Euclid_J_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_Euclid_VIS.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_Euclid_VIS_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_Euclid_Y.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_Euclid_Y_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_GALEX_FUV.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_GALEX_FUV_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_GALEX_NUV.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_GALEX_NUV_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_Johnson_B.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_Johnson_B_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_Johnson_I.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_Johnson_I_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_Johnson_R.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_Johnson_R_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_Johnson_U.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_Johnson_U_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_Johnson_V.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_Johnson_V_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_LSST_g.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_LSST_g_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_LSST_i.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_LSST_i_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_LSST_r.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_LSST_r_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_LSST_u.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_LSST_u_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_LSST_y.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_LSST_y_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_LSST_z.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_LSST_z_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_WISE_W1.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_WISE_W1_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_WISE_W2.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_WISE_W2_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_dustmass.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_stellarage.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_stellarmass.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O2_stellarmetallicity.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_2MASS_H.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_2MASS_H_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_2MASS_J.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_2MASS_J_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_2MASS_Ks.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_2MASS_Ks_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_Euclid_H.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_Euclid_H_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_Euclid_J.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_Euclid_J_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_Euclid_VIS.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_Euclid_VIS_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_Euclid_Y.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_Euclid_Y_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_GALEX_FUV.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_GALEX_FUV_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_GALEX_NUV.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_GALEX_NUV_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_Johnson_B.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_Johnson_B_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_Johnson_I.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_Johnson_I_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_Johnson_R.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_Johnson_R_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_Johnson_U.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_Johnson_U_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_Johnson_V.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_Johnson_V_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_LSST_g.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_LSST_g_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_LSST_i.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_LSST_i_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_LSST_r.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_LSST_r_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_LSST_u.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_LSST_u_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_LSST_y.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_LSST_y_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_LSST_z.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_LSST_z_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_WISE_W1.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_WISE_W1_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_WISE_W2.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_WISE_W2_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_dustmass.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_stellarage.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_stellarmass.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O3_stellarmetallicity.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_2MASS_H.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_2MASS_H_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_2MASS_J.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_2MASS_J_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_2MASS_Ks.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_2MASS_Ks_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_Euclid_H.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_Euclid_H_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_Euclid_J.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_Euclid_J_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_Euclid_VIS.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_Euclid_VIS_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_Euclid_Y.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_Euclid_Y_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_GALEX_FUV.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_GALEX_FUV_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_GALEX_NUV.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_GALEX_NUV_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_Johnson_B.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_Johnson_B_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_Johnson_I.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_Johnson_I_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_Johnson_R.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_Johnson_R_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_Johnson_U.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_Johnson_U_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_Johnson_V.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_Johnson_V_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_LSST_g.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_LSST_g_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_LSST_i.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_LSST_i_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_LSST_r.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_LSST_r_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_LSST_u.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_LSST_u_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_LSST_y.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_LSST_y_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_LSST_z.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_LSST_z_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_WISE_W1.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_WISE_W1_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_WISE_W2.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_WISE_W2_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_dustmass.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_stellarage.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_stellarmass.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O4_stellarmetallicity.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_2MASS_H.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_2MASS_H_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_2MASS_J.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_2MASS_J_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_2MASS_Ks.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_2MASS_Ks_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_Euclid_H.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_Euclid_H_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_Euclid_J.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_Euclid_J_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_Euclid_VIS.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_Euclid_VIS_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_Euclid_Y.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_Euclid_Y_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_GALEX_FUV.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_GALEX_FUV_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_GALEX_NUV.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_GALEX_NUV_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_Johnson_B.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_Johnson_B_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_Johnson_I.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_Johnson_I_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_Johnson_R.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_Johnson_R_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_Johnson_U.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_Johnson_U_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_Johnson_V.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_Johnson_V_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_LSST_g.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_LSST_g_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_LSST_i.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_LSST_i_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_LSST_r.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_LSST_r_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_LSST_u.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_LSST_u_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_LSST_y.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_LSST_y_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_LSST_z.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_LSST_z_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_WISE_W1.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_WISE_W1_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_WISE_W2.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_WISE_W2_nodust.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_dustmass.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_stellarage.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_stellarmass.fits",
+    "bytes": 10244160
+  },
+  {
+    "name": "TNG294866_O5_stellarmetallicity.fits",
+    "bytes": 10244160
+  }
+]

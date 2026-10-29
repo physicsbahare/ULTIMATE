@@ -1,0 +1,10 @@
+Noise complete pawprint1
+Noise complete pawprint2
+Noise complete pawprint3
+/home/bahareh/miniforge3/envs/phd/lib/python3.12/site-packages/numpy/_core/fromnumeric.py:3862: RuntimeWarning: Mean of empty slice
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/home/bahareh/miniforge3/envs/phd/lib/python3.12/site-packages/numpy/_core/_methods.py:142: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+Noise complete pawprint4
+Noise complete tile0
+Noise characterization complete

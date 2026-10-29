@@ -1,0 +1,169 @@
+resume 294866
+resume 167418
+resume 626287
+resume 535051
+resume 638950
+....
+----------------------------------------------------------------------
+Ran 4 tests in 0.035s
+
+OK
+{'analytic_tests_passed': 4, 'pilot_cache_bitwise_equal': True, 'published_morphology_max_error': np.float64(1.7763568394002505e-15), 'gaussian_padded_flux_loss': np.float64(1.4432899320127035e-14), 'overlap_flux_relative_error': np.float64(1.887379141862766e-15), 'aggregate_Poisson_split_read_moments_passed': True}
+DEVELOPMENT GATE PASSED
+resume 294866
+resume 167418
+resume 626287
+resume 535051
+resume 638950
+stream 616014
+complete 616014 300 morphology rows
+stream 486919
+complete 486919 300 morphology rows
+stream 63883
+complete 63883 300 morphology rows
+stream 594731
+complete 594731 300 morphology rows
+stream 613006
+complete 613006 300 morphology rows
+stream 117272
+complete 117272 300 morphology rows
+stream 13
+complete 13 300 morphology rows
+stream 424289
+complete 424289 300 morphology rows
+stream 630975
+complete 630975 300 morphology rows
+stream 604516
+complete 604516 300 morphology rows
+stream 558410
+complete 558410 300 morphology rows
+stream 613192
+complete 613192 300 morphology rows
+stream 546870
+complete 546870 300 morphology rows
+stream 553837
+complete 553837 300 morphology rows
+stream 596866
+complete 596866 300 morphology rows
+stream 507292
+complete 507292 300 morphology rows
+stream 184937
+complete 184937 300 morphology rows
+stream 324124
+complete 324124 300 morphology rows
+stream 394621
+complete 394621 300 morphology rows
+stream 502995
+complete 502995 300 morphology rows
+stream 355724
+complete 355724 300 morphology rows
+observed 616014 O1
+observed 616014 O2
+observed 616014 O3
+observed 616014 O4
+observed 616014 O5
+observed 486919 O1
+observed 486919 O2
+observed 486919 O3
+observed 486919 O4
+observed 486919 O5
+observed 63883 O1
+observed 63883 O2
+observed 63883 O3
+observed 63883 O4
+observed 63883 O5
+observed 594731 O1
+observed 594731 O2
+observed 594731 O3
+observed 594731 O4
+observed 594731 O5
+observed 613006 O1
+observed 613006 O2
+observed 613006 O3
+observed 613006 O4
+observed 613006 O5
+observed 117272 O1
+observed 117272 O2
+observed 117272 O3
+observed 117272 O4
+observed 117272 O5
+observed 13 O1
+observed 13 O2
+observed 13 O3
+observed 13 O4
+observed 13 O5
+observed 424289 O1
+observed 424289 O2
+observed 424289 O3
+observed 424289 O4
+observed 424289 O5
+observed 630975 O1
+observed 630975 O2
+observed 630975 O3
+observed 630975 O4
+observed 630975 O5
+observed 604516 O1
+observed 604516 O2
+observed 604516 O3
+observed 604516 O4
+observed 604516 O5
+observed 558410 O1
+observed 558410 O2
+observed 558410 O3
+observed 558410 O4
+observed 558410 O5
+observed 613192 O1
+observed 613192 O2
+observed 613192 O3
+observed 613192 O4
+observed 613192 O5
+observed 546870 O1
+observed 546870 O2
+observed 546870 O3
+observed 546870 O4
+observed 546870 O5
+observed 553837 O1
+observed 553837 O2
+observed 553837 O3
+observed 553837 O4
+observed 553837 O5
+observed 596866 O1
+observed 596866 O2
+observed 596866 O3
+observed 596866 O4
+observed 596866 O5
+observed 507292 O1
+observed 507292 O2
+observed 507292 O3
+observed 507292 O4
+observed 507292 O5
+observed 184937 O1
+observed 184937 O2
+observed 184937 O3
+observed 184937 O4
+observed 184937 O5
+observed 324124 O1
+observed 324124 O2
+observed 324124 O3
+observed 324124 O4
+observed 324124 O5
+observed 394621 O1
+observed 394621 O2
+observed 394621 O3
+observed 394621 O4
+observed 394621 O5
+observed 502995 O1
+observed 502995 O2
+observed 502995 O3
+observed 502995 O4
+observed 502995 O5
+observed 355724 O1
+observed 355724 O2
+observed 355724 O3
+observed 355724 O4
+observed 355724 O5
+sensitivity 294866
+sensitivity 167418
+sensitivity 626287
+sensitivity 535051
+sensitivity 638950

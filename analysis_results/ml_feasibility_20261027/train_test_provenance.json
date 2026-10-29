@@ -1,0 +1,167 @@
+{
+  "protocol_sha256": "f90112afc31a64b5c36616a26f70c6640b02bda43da6b3c8efaa28d5d53522c0",
+  "original_explored_galaxies": 26,
+  "excluded_source_null_training_galaxies": [
+    13,
+    167418,
+    184937,
+    613192
+  ],
+  "grouped_CV_eligible": 22,
+  "outer_folds": 5,
+  "calibration_galaxies_per_fold": 5,
+  "fit_galaxies_per_fold": {
+    "0": 12,
+    "1": 12,
+    "2": 13,
+    "3": 13,
+    "4": 13
+  },
+  "model_hyperparameters_fixed": true,
+  "alpha": 0.2,
+  "interval_score": "maximum residual over views/draws per calibration galaxy",
+  "model_names": [
+    "median",
+    "photometric_ridge",
+    "morphology_ridge",
+    "ridge",
+    "forest"
+  ],
+  "targets": [
+    "A_g",
+    "A_Ks",
+    "A_g_p50_1kpc",
+    "dR50_g",
+    "dR50_Ks",
+    "dC_g",
+    "dC_Ks"
+  ],
+  "preliminary_only": true,
+  "final_120_sample_used": false,
+  "observable_features": {
+    "g_only/median": [
+      "g_logJy",
+      "g_R50",
+      "g_C",
+      "g_A",
+      "g_q",
+      "g_inner_fraction"
+    ],
+    "g_only/photometric_ridge": [
+      "g_logJy"
+    ],
+    "g_only/morphology_ridge": [
+      "g_R50",
+      "g_C",
+      "g_A",
+      "g_q",
+      "g_inner_fraction"
+    ],
+    "g_only/ridge": [
+      "g_logJy",
+      "g_R50",
+      "g_C",
+      "g_A",
+      "g_q",
+      "g_inner_fraction"
+    ],
+    "g_only/forest": [
+      "g_logJy",
+      "g_R50",
+      "g_C",
+      "g_A",
+      "g_q",
+      "g_inner_fraction"
+    ],
+    "g_J_Ks/median": [
+      "g_logJy",
+      "color_g_J",
+      "color_J_Ks",
+      "g_R50",
+      "g_C",
+      "g_A",
+      "g_q",
+      "g_inner_fraction",
+      "J_R50",
+      "J_C",
+      "J_A",
+      "J_q",
+      "J_inner_fraction",
+      "Ks_R50",
+      "Ks_C",
+      "Ks_A",
+      "Ks_q",
+      "Ks_inner_fraction",
+      "gradient_g_J",
+      "gradient_J_Ks"
+    ],
+    "g_J_Ks/photometric_ridge": [
+      "g_logJy",
+      "color_g_J",
+      "color_J_Ks"
+    ],
+    "g_J_Ks/morphology_ridge": [
+      "g_R50",
+      "g_C",
+      "g_A",
+      "g_q",
+      "g_inner_fraction",
+      "J_R50",
+      "J_C",
+      "J_A",
+      "J_q",
+      "J_inner_fraction",
+      "Ks_R50",
+      "Ks_C",
+      "Ks_A",
+      "Ks_q",
+      "Ks_inner_fraction"
+    ],
+    "g_J_Ks/ridge": [
+      "g_logJy",
+      "color_g_J",
+      "color_J_Ks",
+      "g_R50",
+      "g_C",
+      "g_A",
+      "g_q",
+      "g_inner_fraction",
+      "J_R50",
+      "J_C",
+      "J_A",
+      "J_q",
+      "J_inner_fraction",
+      "Ks_R50",
+      "Ks_C",
+      "Ks_A",
+      "Ks_q",
+      "Ks_inner_fraction",
+      "gradient_g_J",
+      "gradient_J_Ks"
+    ],
+    "g_J_Ks/forest": [
+      "g_logJy",
+      "color_g_J",
+      "color_J_Ks",
+      "g_R50",
+      "g_C",
+      "g_A",
+      "g_q",
+      "g_inner_fraction",
+      "J_R50",
+      "J_C",
+      "J_A",
+      "J_q",
+      "J_inner_fraction",
+      "Ks_R50",
+      "Ks_C",
+      "Ks_A",
+      "Ks_q",
+      "Ks_inner_fraction",
+      "gradient_g_J",
+      "gradient_J_Ks"
+    ]
+  },
+  "systematic_label_uncertainty": "Unresolved source-product residuals and aperture sensitivity; no offset subtraction",
+  "interval_limit": "Conditional diagnostic; exchangeability and physical-label accuracy not established"
+}

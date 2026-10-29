@@ -1,0 +1,56 @@
+[
+  {
+    "path": "analysis_results/spatial_structure_pilot_20261026/figures/03_feature_recoverability.pdf",
+    "sha256": "e2cef865800c40bb4e4cd7ba46f92401cc000cdc7496060dd06b269f30905dc2",
+    "restored_original_bytes": true,
+    "original_creation_date": "/CreationDate (D:20261026212016+08'00')"
+  },
+  {
+    "path": "analysis_results/spatial_structure_pilot_20261026/figures/06_spatial_transfer.pdf",
+    "sha256": "9739ebfd3e866b6d65bcce01a34de2e75b2cbafb43e8bde6692951f9e4625c16",
+    "restored_original_bytes": true,
+    "original_creation_date": "/CreationDate (D:20261026212019+08'00')"
+  },
+  {
+    "path": "analysis_results/spatial_structure_pilot_20261026/figures/02_seeing_GLAO_images.pdf",
+    "sha256": "4479cfd53683b532c1d07c9ab2ea170e6935d98d6976b8dc21fa08d9c9ca88ea",
+    "restored_original_bytes": true,
+    "original_creation_date": "/CreationDate (D:20261026212012+08'00')"
+  },
+  {
+    "path": "analysis_results/spatial_structure_pilot_20261026/figures/09_success_failure_examples.pdf",
+    "sha256": "65a35d5a8ad8f390d1bb5a183d4037185ea5c95842a1e2bb4753c24a2af6d838",
+    "restored_original_bytes": true,
+    "original_creation_date": "/CreationDate (D:20261026212014+08'00')"
+  },
+  {
+    "path": "analysis_results/spatial_structure_pilot_20261026/figures/01_reference_maps.pdf",
+    "sha256": "6a05e1e396cc7e305ddbb78ec89c6bd154259e90620bb109932c28987bed5b43",
+    "restored_original_bytes": true,
+    "original_creation_date": "/CreationDate (D:20261026212010+08'00')"
+  },
+  {
+    "path": "analysis_results/spatial_structure_pilot_20261026/figures/07_depth_sensitivity.pdf",
+    "sha256": "2da84805ec65510a4bc8e04ed5a6c082ae9c5f94872fe1b08dd1685c39305fe8",
+    "restored_original_bytes": true,
+    "original_creation_date": "/CreationDate (D:20261026212020+08'00')"
+  },
+  {
+    "path": "analysis_results/spatial_structure_pilot_20261026/figures/04_control_contamination.pdf",
+    "sha256": "96d79a987fd66cf4392d94c328fa3294d163378e464fa6c471b2c423b80dc853",
+    "restored_original_bytes": true,
+    "original_creation_date": "/CreationDate (D:20261026212016+08'00')"
+  },
+  {
+    "path": "analysis_results/spatial_structure_pilot_20261026/figures/08_SB_and_PSF_sensitivity.pdf",
+    "sha256": "7fb9dcd762ee41e6203d903d4eaaf0629c0770c251ef1c6b6041844dd90b7f3f",
+    "restored_original_bytes": true,
+    "original_creation_date": "/CreationDate (D:20261026212020+08'00')"
+  },
+  {
+    "path": "analysis_results/spatial_structure_pilot_20261026/figures/05_morphology_bias.pdf",
+    "sha256": "7891e24f4fd65a7e15dbee9579f96fa9a7462cfec39d0cee356fafb19dbf2d63",
+    "restored_original_bytes": true,
+    "original_creation_date": "/CreationDate (D:20261026212018+08'00')"
+  }
+]

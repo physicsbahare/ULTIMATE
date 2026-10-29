@@ -1,0 +1,17 @@
+{
+  "manifest_reconciliation": [
+    {
+      "source": "TNG50_SKIRT_DR1_extra",
+      "selected_count": 25,
+      "selected_ids_exactly_match_frozen": true,
+      "catalogue_fields_match_frozen": true
+    },
+    {
+      "source": "TNG50_SKIRT_DR1_ml_expansion",
+      "selected_count": 94,
+      "selected_ids_exactly_match_frozen": true,
+      "catalogue_fields_match_frozen": true
+    }
+  ],
+  "legacy_manifest_local_inventory_note": "Extra selection manifest local_archive_inventory retains subhalo_id50 for the original archive path ending294866. This stale inventory label is not used: frozen manifest, original archive filenames and all240 internal FITS membernames identify294866. Its prior independent archive SHA256 is the integrity reference."
+}

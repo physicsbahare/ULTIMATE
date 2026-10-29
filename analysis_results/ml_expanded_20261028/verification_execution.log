@@ -1,0 +1,11 @@
+{
+  "original_frozen_partitions_unchanged": true,
+  "nonfinal_100_complete_finite_labels": true,
+  "five_whole_galaxy_folds_disjoint": true,
+  "all_model_predictors_explicit_observable_allowlist": true,
+  "g_observables_exact_same_between_modes": true,
+  "maximum_padded_flux_loss": 1.1757261830780408e-13,
+  "calibration_13_galaxies_rank12_per_target": true,
+  "nonfinal_predictions_finite_and_controls_separate": true,
+  "final_science_still_sealed": true
+}

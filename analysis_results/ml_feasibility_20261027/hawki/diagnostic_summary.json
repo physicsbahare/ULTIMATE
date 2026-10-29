@@ -1,0 +1,15 @@
+{
+  "python": "/home/bahareh/miniforge3/envs/phd/bin/python",
+  "accepted": 36,
+  "fitted": 48,
+  "median_fwhm_arcsec": 0.2723926071293687,
+  "fwhm_IQR_arcsec": [
+    0.24999255910497303,
+    0.32633563607567007
+  ],
+  "median_q": 0.8632190590656813,
+  "median_beta": 2.6821843261947427,
+  "median_ee50_arcsec": 0.16475990172302218,
+  "median_ee80_arcsec": 0.28421766347265354,
+  "esorex": null
+}

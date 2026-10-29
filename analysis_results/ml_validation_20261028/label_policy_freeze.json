@@ -1,0 +1,111 @@
+{
+  "old_control_ids": [
+    13,
+    167418,
+    184937,
+    613192
+  ],
+  "envelopes": [
+    {
+      "aperture": "adaptive",
+      "target": "A_g",
+      "galaxies": 4,
+      "median": 0.1220703547926054,
+      "max_abs": 0.1243331524929695,
+      "interpretation": "old4 descriptive envelope; not calibrated sigma or physical detection threshold"
+    },
+    {
+      "aperture": "adaptive",
+      "target": "dR50_Ks",
+      "galaxies": 4,
+      "median": 0.0104543235615448,
+      "max_abs": 0.037486543810013,
+      "interpretation": "old4 descriptive envelope; not calibrated sigma or physical detection threshold"
+    },
+    {
+      "aperture": "adaptive",
+      "target": "dC_Ks",
+      "galaxies": 4,
+      "median": 0.014188315718868201,
+      "max_abs": 0.2398168403280154,
+      "interpretation": "old4 descriptive envelope; not calibrated sigma or physical detection threshold"
+    },
+    {
+      "aperture": "adaptive",
+      "target": "A_g_p50_1kpc",
+      "galaxies": 4,
+      "median": 0.1117958377146013,
+      "max_abs": 0.1190678018176467,
+      "interpretation": "old4 descriptive envelope; not calibrated sigma or physical detection threshold"
+    },
+    {
+      "aperture": "adaptive",
+      "target": "A_g_IQR_1kpc",
+      "galaxies": 4,
+      "median": 0.00645030935249035,
+      "max_abs": 0.0121083969878577,
+      "interpretation": "old4 descriptive envelope; not calibrated sigma or physical detection threshold"
+    },
+    {
+      "aperture": "fixed12",
+      "target": "A_g",
+      "galaxies": 4,
+      "median": 0.121382588813929,
+      "max_abs": 0.1239173691792003,
+      "interpretation": "old4 descriptive envelope; not calibrated sigma or physical detection threshold"
+    },
+    {
+      "aperture": "fixed12",
+      "target": "dR50_Ks",
+      "galaxies": 4,
+      "median": 0.0110643216639837,
+      "max_abs": 0.0391845961439847,
+      "interpretation": "old4 descriptive envelope; not calibrated sigma or physical detection threshold"
+    },
+    {
+      "aperture": "fixed12",
+      "target": "dC_Ks",
+      "galaxies": 4,
+      "median": 0.01435275683849465,
+      "max_abs": 0.0459639515118999,
+      "interpretation": "old4 descriptive envelope; not calibrated sigma or physical detection threshold"
+    },
+    {
+      "aperture": "fixed12",
+      "target": "A_g_p50_1kpc",
+      "galaxies": 4,
+      "median": 0.11115178335603984,
+      "max_abs": 0.1188668521051604,
+      "interpretation": "old4 descriptive envelope; not calibrated sigma or physical detection threshold"
+    },
+    {
+      "aperture": "fixed12",
+      "target": "A_g_IQR_1kpc",
+      "galaxies": 4,
+      "median": 0.0068770315642016,
+      "max_abs": 0.0144558884446091,
+      "interpretation": "old4 descriptive envelope; not calibrated sigma or physical detection threshold"
+    },
+    {
+      "aperture": "adaptive",
+      "target": "A_Ks",
+      "galaxies": 4,
+      "median": 0.02083825136054785,
+      "max_abs": 0.0225906120747492,
+      "interpretation": "old4 descriptive envelope; not physical calibration"
+    },
+    {
+      "aperture": "fixed12",
+      "target": "A_Ks",
+      "galaxies": 4,
+      "median": 0.0204811387954227,
+      "max_abs": 0.0215910509054506,
+      "interpretation": "old4 descriptive envelope; not physical calibration"
+    }
+  ],
+  "no_offset_subtraction": true,
+  "adaptive_reference": "deep dusty Ks seeing; clip(1.5 R80_R35,8,30) kpc",
+  "validation_used_for_thresholds": false,
+  "final_science_opened": false,
+  "integrated_Ks_addition": "Same model family; pilot-successful target, old-controls only; added before final freeze. No validation-based parameter selection."
+}

@@ -1,0 +1,6 @@
+{
+  "canonical_final": "../ml_expanded_20261028/FINAL_EVALUATION_COMPLETED.json",
+  "supplementary_final_inference_count": 0,
+  "own_freeze_aborted_before_final_science_access": true,
+  "future_policy": "Do not evaluate these supplementary models on the spent final20. Any future confirmatory extension needs a new independent holdout."
+}

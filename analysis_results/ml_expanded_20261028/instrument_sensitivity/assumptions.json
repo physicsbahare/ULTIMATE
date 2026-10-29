@@ -1,0 +1,59 @@
+{
+  "scope": "O1-only conditional instrument sensitivity; no model fit, retuning, label access or final-test science",
+  "development_selection": "first six in frozen CSV, including controls; no qualitative tuning",
+  "cases": {
+    "A": "Gaussian baseline; provisional rates and diagonal variance",
+    "B": "Ks circular Moffat beta from nine quality-matched stars; equal D50",
+    "C": "B plus Ks unit-variance separable local innovation filter",
+    "D": "software 2x2 sum of A images and native diagonal variances"
+  },
+  "beta": 3.741483701714853,
+  "beta_stellar_n": 9,
+  "beta_stellar_IQR": [
+    3.4335146888552432,
+    3.950069722282099
+  ],
+  "beta_full_unconfirmed_candidates": 4.752960293795975,
+  "beta_full_n": 103,
+  "beta_caution": "Nine-star subset is small and selected; full 103 isolated compact candidates are not all confirmed stars. Medians differ; neither is a universal PSF calibration.",
+  "retained_D50_arcsec": {
+    "seeing": [
+      0.7,
+      0.6578322440476188,
+      0.5881371651785714
+    ],
+    "glao": [
+      0.7,
+      0.5076568273809525,
+      0.38955078125000003
+    ]
+  },
+  "psf_caution": "Measured HAWK-I FWHM is not equated to ULTIMATE; retain provisional Gaussian-equivalent D50 values.",
+  "field_assumption": "Circular spatially invariant PSFs across each entire image; no anisotropy, field dependence or PSF estimation errors.",
+  "rho_target_x": 0.2752555,
+  "rho_target_y": 0.29317406,
+  "local_filter_Kx": [
+    0.1404246486784811,
+    0.9800825659540374,
+    0.1404246486784811
+  ],
+  "local_filter_Ky": [
+    0.15000094272370743,
+    0.9772407248800054,
+    0.15000094272370743
+  ],
+  "innovation_variance": 1.000620312843517,
+  "simulated_rho_x": 0.2760808507613561,
+  "simulated_rho_y": 0.2930467989001581,
+  "correlation_limit": "Local separable MA(2) covariance only (zero beyond two pixels along an axis); wrap boundaries outside aperture. Not a full sky model; does not reproduce real large-aperture excess sky variance or long-range residuals. Filter applies to total Ks innovation; no measured source/sky covariance decomposition.",
+  "binning": "Software sum only, 0.1 to 0.2 arcsec. Same footprint and center. Sum all four source/background/dark/read variance contributions; never call detector variance formula at coarse sampling. Assumes known independent native pixels for case D; no new detector or on-chip read-noise benefit.",
+  "noise": "1h each band; inherited source/background/dark/read Gaussian variance. Same native standard normal innovations for all cases and both modes; D sums exactly case A noisy pixels.",
+  "aperture": "Frozen common seeing dusty-Ks adaptive function; same radius all cases/modes; no clear input",
+  "features": "Exactly expanded_features.FeaturePlan; all cases adaptive/nominal; 4 paired draws",
+  "source_hashes": {
+    "/home/bahareh/ULTIMATE/analysis_results/ml_expanded_20261028/expanded_features.py": "2451ca3abff4bf9fc3e74633ae84fd61884dd2e5bff474360d8c5ae6e03ff341",
+    "/home/bahareh/ULTIMATE/analysis_results/ml_feasibility_20261027/expansion/galaxy_partitions.csv": "32779aeadf1e7ff2ed8c9ce93268fd112a5a2d2d3e25e4b3cbf3e9f4c12b20c1",
+    "/home/bahareh/ULTIMATE/analysis_results/ml_feasibility_20261027/hawki/empirical_model_inputs.json": "62a2e950dd08b90a4cf52e05ea94f91e53e4cfc2a419cd371341ce3af20cd6ee",
+    "/home/bahareh/ULTIMATE/analysis_results/ml_feasibility_20261027/hawki/catalogue_validation_summary.json": "0285c445c19ea07272dfd1a065e1643053bbab79f57944ab666908a40b034b2d"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "passed": true,
+  "n_rows": 640,
+  "n_galaxies": 20,
+  "feature_count": 180,
+  "feature_nonfinite_cells": 0,
+  "final_test_rows": 0,
+  "baseline_identity_checks": [
+    {
+      "subhalo_id": 13,
+      "max_absolute_difference": 0.0
+    },
+    {
+      "subhalo_id": 63883,
+      "max_absolute_difference": 0.0
+    },
+    {
+      "subhalo_id": 117272,
+      "max_absolute_difference": 0.0
+    },
+    {
+      "subhalo_id": 167418,
+      "max_absolute_difference": 0.0
+    },
+    {
+      "subhalo_id": 184937,
+      "max_absolute_difference": 0.0
+    },
+    {
+      "subhalo_id": 294866,
+      "max_absolute_difference": 0.0
+    }
+  ],
+  "max_padded_flux_loss": 5.069762831766411e-09,
+  "max_bin_flux_sum_relative_error": 4.440892098500626e-16,
+  "max_bin_variance_sum_relative_error": 4.440892098500626e-16,
+  "manifest_files_verified": 6
+}

@@ -1,0 +1,1 @@
+24 raw broadband crops exactly equal old cache;12 headers match units and WCS;4 raw O1 dust maps zero;440 old band/view ratios;all22 bands have stable sign over20 old views;910 descriptive target flags. No new final/validation labels opened.

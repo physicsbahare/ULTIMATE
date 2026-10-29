@@ -1,0 +1,21 @@
+z,mode,method,band,nominal_Gaussian_FWHM_arcsec,measured_second_moment_equivalent_FWHM,point_source
+0.05,seeing,g_Ks_matched,g,0.8,0.8125748419390736,two-by-two central source pixels; finite100pc source sampling included
+0.05,seeing,g_Ks_matched,Ks,0.8,0.8121519249197566,two-by-two central source pixels; finite100pc source sampling included
+0.05,seeing,J_Ks_NIR,J,0.6578322440476188,0.6728785233248639,two-by-two central source pixels; finite100pc source sampling included
+0.05,seeing,J_Ks_NIR,Ks,0.6578322440476188,0.6725581190204434,two-by-two central source pixels; finite100pc source sampling included
+0.05,seeing,Ks_native,Ks,0.5881371651785714,0.6045630572408792,two-by-two central source pixels; finite100pc source sampling included
+0.05,glao,g_Ks_matched,g,0.8,0.8125748419390736,two-by-two central source pixels; finite100pc source sampling included
+0.05,glao,g_Ks_matched,Ks,0.8,0.811360510377271,two-by-two central source pixels; finite100pc source sampling included
+0.05,glao,J_Ks_NIR,J,0.5076568273809525,0.5261125863064412,two-by-two central source pixels; finite100pc source sampling included
+0.05,glao,J_Ks_NIR,Ks,0.5076568273809525,0.5253792749354802,two-by-two central source pixels; finite100pc source sampling included
+0.05,glao,Ks_native,Ks,0.38955078125000003,0.4123807064068877,two-by-two central source pixels; finite100pc source sampling included
+0.1,seeing,g_Ks_matched,g,0.8,0.8063657836232712,two-by-two central source pixels; finite100pc source sampling included
+0.1,seeing,g_Ks_matched,Ks,0.8,0.8064871381823653,two-by-two central source pixels; finite100pc source sampling included
+0.1,seeing,J_Ks_NIR,J,0.6578322440476188,0.6656052424788687,two-by-two central source pixels; finite100pc source sampling included
+0.1,seeing,J_Ks_NIR,Ks,0.6578322440476188,0.6657065257026724,two-by-two central source pixels; finite100pc source sampling included
+0.1,seeing,Ks_native,Ks,0.5881371651785714,0.596931524618262,two-by-two central source pixels; finite100pc source sampling included
+0.1,glao,g_Ks_matched,g,0.8,0.8063657836232712,two-by-two central source pixels; finite100pc source sampling included
+0.1,glao,g_Ks_matched,Ks,0.8,0.8066903201275063,two-by-two central source pixels; finite100pc source sampling included
+0.1,glao,J_Ks_NIR,J,0.5076568273809525,0.5179898169085191,two-by-two central source pixels; finite100pc source sampling included
+0.1,glao,J_Ks_NIR,Ks,0.5076568273809525,0.5181377976171491,two-by-two central source pixels; finite100pc source sampling included
+0.1,glao,Ks_native,Ks,0.38955078125000003,0.4031144276806933,two-by-two central source pixels; finite100pc source sampling included

@@ -1,0 +1,31 @@
+{
+  "source_FITS_hashes_and_checksums": "pass",
+  "ancillary_hashes": "pass",
+  "stellar_tables_and_pair_identity": "pass",
+  "finite_aperture_EE_reference": "pass",
+  "positive_finite_PSF_and_covariance_kernels": "pass",
+  "PSD_noise_variance_mixtures": "pass",
+  "aperture_packing_and_WCS": "pass",
+  "independent_synthetic_fit": {
+    "truth_FWHM": 0.26294081354873333,
+    "recovered_FWHM": 0.26435106818118287,
+    "dx": 0.23000200033160567,
+    "dy": -0.2700250336822343,
+    "tolerance_FWHM_fraction": 0.01
+  },
+  "previous_ML_freeze_receipt_sha256": "587aab56d39e6b29ad47f381c4b1440c8dd28eb52811ebc4ae3842b6fc220ce4",
+  "scope": "No ML training, tuning, injection, or final-science access in this task",
+  "environment": {
+    "python": "3.12.15 (main, Oct 13 2026, 16:52:04) [GCC 15.3.0]",
+    "executable": "/home/bahareh/miniforge3/envs/phd/bin/python",
+    "platform": "Linux-4.15.0-213-generic-x86_64-with-glibc2.28",
+    "numpy": "2.5.4",
+    "pandas": "3.0.6",
+    "scipy": "1.18.1",
+    "astropy": "8.0.2",
+    "sep": "1.4.1",
+    "matplotlib": "3.11.2",
+    "nbformat": "5.11.1",
+    "nbclient": "0.11.0"
+  }
+}

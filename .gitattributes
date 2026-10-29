@@ -1,0 +1,8 @@
+# Preserve original scientific bytes and freeze hashes; no newline conversion.
+* -text
+*.png binary
+*.pdf binary
+*.npz binary
+*.joblib binary
+*.fits binary
+*.gz binary

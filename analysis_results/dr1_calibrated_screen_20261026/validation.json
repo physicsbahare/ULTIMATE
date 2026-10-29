@@ -1,0 +1,30 @@
+{
+  "previous_files_checked": 141,
+  "previous_files_changed": [],
+  "executed_notebook_code_cells": 11,
+  "embedded_notebook_images": 9,
+  "html_preview_exists": true,
+  "numerical_tests_exit_code": 0,
+  "final_summary_rows": 192,
+  "final_evaluation_per_scene": 500,
+  "final_evidence_evaluations": 96000,
+  "final_calibration_scores": 60000,
+  "anchor_summary_rows": 120,
+  "max_gaussian_padded_flux_loss": 2.220446049250313e-14,
+  "max_moffat_padded_flux_loss": 0.0003859914420195,
+  "normalization_noise_validation_pass": true,
+  "exact_poisson_projection_validation_pass": true,
+  "PNG_figures": 9,
+  "PDF_figures": 9,
+  "calibration_plus_evaluation_bootstrap": true,
+  "notebook_embedded_figures_match_saved_PNGs": true,
+  "visual_inspection": "All nine PNG figures inspected; representative GLAO PDF rendered and inspected; HTML structurally checked, not separately browser-rendered.",
+  "scientific_validation": "Numerical and preservation checks pass; population-anchor failures and predictive inadequacy are retained scientific negative results, not passed physical-model tests.",
+  "not_established": [
+    "general false-positive control across stellar populations",
+    "physical SPS/SFH recovery",
+    "unique 3D dust geometry",
+    "exact observer-filter ULTIMATE performance",
+    "galaxy-to-galaxy generalization"
+  ]
+}

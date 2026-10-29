@@ -1,0 +1,6 @@
+{
+  "nonfinal_galaxies": 100,
+  "final_science_opened": false,
+  "models": 210,
+  "sklearn": "1.9.1"
+}

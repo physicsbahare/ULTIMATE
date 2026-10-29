@@ -1,0 +1,26 @@
+{
+  "checks": [
+    {
+      "test": "uniform_screen_structure_invariance",
+      "method": "g_Ks_matched",
+      "max_error": 1.2156942119645464e-14
+    },
+    {
+      "test": "uniform_screen_structure_invariance",
+      "method": "J_Ks_NIR",
+      "max_error": 1.777744618181032e-14
+    },
+    {
+      "test": "uniform_screen_structure_invariance",
+      "method": "Ks_native",
+      "max_error": 1.2434497875801753e-14
+    }
+  ],
+  "noise_covariance_calibration_passed": true,
+  "split_read_variance_passed": true,
+  "area_overlap_flux_conservation_passed": true,
+  "morphology_uniform_scaling_passed": true,
+  "PSF_padded_flux_loss": 1.3988810110276972e-14,
+  "calibration_seed": 761902,
+  "evaluation_seed": 982310
+}

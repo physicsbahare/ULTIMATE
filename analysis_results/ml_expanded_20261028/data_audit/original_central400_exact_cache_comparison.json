@@ -1,0 +1,177 @@
+[
+  {
+    "view": "O1",
+    "key": "dusty_2MASS_J",
+    "exact_match": true
+  },
+  {
+    "view": "O1",
+    "key": "clear_2MASS_J",
+    "exact_match": true
+  },
+  {
+    "view": "O1",
+    "key": "dusty_2MASS_Ks",
+    "exact_match": true
+  },
+  {
+    "view": "O1",
+    "key": "clear_2MASS_Ks",
+    "exact_match": true
+  },
+  {
+    "view": "O1",
+    "key": "dusty_LSST_g",
+    "exact_match": true
+  },
+  {
+    "view": "O1",
+    "key": "clear_LSST_g",
+    "exact_match": true
+  },
+  {
+    "view": "O1",
+    "key": "dust",
+    "exact_match": true
+  },
+  {
+    "view": "O2",
+    "key": "dusty_2MASS_J",
+    "exact_match": true
+  },
+  {
+    "view": "O2",
+    "key": "clear_2MASS_J",
+    "exact_match": true
+  },
+  {
+    "view": "O2",
+    "key": "dusty_2MASS_Ks",
+    "exact_match": true
+  },
+  {
+    "view": "O2",
+    "key": "clear_2MASS_Ks",
+    "exact_match": true
+  },
+  {
+    "view": "O2",
+    "key": "dusty_LSST_g",
+    "exact_match": true
+  },
+  {
+    "view": "O2",
+    "key": "clear_LSST_g",
+    "exact_match": true
+  },
+  {
+    "view": "O2",
+    "key": "dust",
+    "exact_match": true
+  },
+  {
+    "view": "O3",
+    "key": "dusty_2MASS_J",
+    "exact_match": true
+  },
+  {
+    "view": "O3",
+    "key": "clear_2MASS_J",
+    "exact_match": true
+  },
+  {
+    "view": "O3",
+    "key": "dusty_2MASS_Ks",
+    "exact_match": true
+  },
+  {
+    "view": "O3",
+    "key": "clear_2MASS_Ks",
+    "exact_match": true
+  },
+  {
+    "view": "O3",
+    "key": "dusty_LSST_g",
+    "exact_match": true
+  },
+  {
+    "view": "O3",
+    "key": "clear_LSST_g",
+    "exact_match": true
+  },
+  {
+    "view": "O3",
+    "key": "dust",
+    "exact_match": true
+  },
+  {
+    "view": "O4",
+    "key": "dusty_2MASS_J",
+    "exact_match": true
+  },
+  {
+    "view": "O4",
+    "key": "clear_2MASS_J",
+    "exact_match": true
+  },
+  {
+    "view": "O4",
+    "key": "dusty_2MASS_Ks",
+    "exact_match": true
+  },
+  {
+    "view": "O4",
+    "key": "clear_2MASS_Ks",
+    "exact_match": true
+  },
+  {
+    "view": "O4",
+    "key": "dusty_LSST_g",
+    "exact_match": true
+  },
+  {
+    "view": "O4",
+    "key": "clear_LSST_g",
+    "exact_match": true
+  },
+  {
+    "view": "O4",
+    "key": "dust",
+    "exact_match": true
+  },
+  {
+    "view": "O5",
+    "key": "dusty_2MASS_J",
+    "exact_match": true
+  },
+  {
+    "view": "O5",
+    "key": "clear_2MASS_J",
+    "exact_match": true
+  },
+  {
+    "view": "O5",
+    "key": "dusty_2MASS_Ks",
+    "exact_match": true
+  },
+  {
+    "view": "O5",
+    "key": "clear_2MASS_Ks",
+    "exact_match": true
+  },
+  {
+    "view": "O5",
+    "key": "dusty_LSST_g",
+    "exact_match": true
+  },
+  {
+    "view": "O5",
+    "key": "clear_LSST_g",
+    "exact_match": true
+  },
+  {
+    "view": "O5",
+    "key": "dust",
+    "exact_match": true
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "feature_rows": 24000,
+  "target_rows": 1000,
+  "nonfinal_galaxies": 100,
+  "equal_galaxy_metric_test": true,
+  "identical_optical_control_features": true,
+  "final_science_opened": false
+}

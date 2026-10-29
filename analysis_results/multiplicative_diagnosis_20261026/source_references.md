@@ -1,0 +1,12 @@
+The general methodological references from the preceding experiment remain applicable. This new empirical mixture model does not implement full physical SFH inference. No new literature/data downloads were needed.
+
+# Method references and how they are used
+- [Conroy (2013), Modeling the Panchromatic SEDs of Galaxies](https://arxiv.org/abs/1301.7095): age/metallicity/SFH/dust degeneracies motivate explicit population nuisance structure. No claimed physical SPS reconstruction from seven bands.
+- [Charlot & Fall (2000)](https://arxiv.org/abs/astro-ph/0003128): differential attenuation of younger/older populations motivates retaining population-colour covariance and avoiding interpretation of a single extra screen as total attenuation. The phenomenological power-law screen here is NOT a fitted Charlot–Fall two-component model.
+- [Leja et al. (2019)](https://arxiv.org/abs/1811.03637): SFH priors affect inferred histories; motivates a declared hierarchy and prior sensitivity, NOT a claim that empirical PCs implement their nonparametric SFH prior.
+- [Abdurro’uf et al. (2021), piXedfit](https://arxiv.org/abs/2101.09717): resolved multiband inference, PSF handling and Bayesian nuisance treatment. piXedfit itself is not installed/run.
+- [Salim & Narayanan (2020)](https://arxiv.org/abs/2001.03181): attenuation depends on stellar populations and radiative transfer; rejection of a uniform screen cannot identify a unique 3D arrangement.
+- [Aniano et al. (2011)](https://arxiv.org/abs/1106.5065): normalized common-PSF convolution. Gaussian matching uses sigma² differences; native strategy applies each band's response in the latent-field covariance.
+- [Baes et al. (2024), A&A 683 A181](https://doi.org/10.1051/0004-6361/202348418): DR1 MJy/sr images, 100pc pixels, original 18-band atlas and five random observer positions. Local archive additionally contains Euclid products; local inventory is authoritative for what was used. DR1 'nodust' counterparts remove SKIRT dust effects; stellar source prescriptions can already contain birth-cloud/MAPPINGS emission physics. They are counterfactual image products, not observable perfect SPS templates.
+
+Instrument and radiometry principles are reused from the locally pinned repositories in the previous experiment. See `instrument_provenance.md`. No new instrument documentation or dataset download is required. Literature was checked using public primary publication/arXiv pages; no new data were downloaded.

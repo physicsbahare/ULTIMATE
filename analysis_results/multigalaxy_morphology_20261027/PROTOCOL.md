@@ -1,0 +1,24 @@
+# Fixed protocol, 2026-10-27
+
+Authority: the user's multi-galaxy study specification. Earlier experiments are read-only.
+
+Development: original 294866 plus 167418, 626287, 535051, 638950, chosen in advance as the first four selected IDs (including a zero-SFR object). Evaluation: remaining 21 galaxies. Report both all-26 descriptive results and held-out-21 results; do not call the latter a representative population.
+
+Primary intrinsic comparison: every available paired broadband FITS, all five views, fixed simulation origin, native 100-pc sampling, circular R<12 kpc. No source detection or brightness-dependent segmentation. Signed pixels for noisy measurements. R20/50/80 are first cumulative-flux crossings using pixel-centre radius, C=5 log10(R80/R20), A=sum|I-I180|/sum I minus expected Gaussian absolute noise, q=sqrt(min/max second-moment eigenvalue). No asymmetry center minimization. Invalid total/moments remain NaN. Attenuation=-2.5log10(aperture dusty/clear flux). Same origin/aperture/grid/PSF for both members. Dust maps are diagnostics only. R50 here is explicitly aperture-conditioned, not a total-galaxy size.
+
+Robustness: g and 2MASS Ks at R=20/30 kpc and center offsets (+/-0.2 kpc in x), noiseless native images. Compare signs and effect magnitudes; flag substantial aperture truncation using F12/F30<0.8. Include all valid cases rather than dropping inconvenient signs. No Gini/M20.
+
+Instrument baseline: existing pilot render, actual LSST g and 2MASS J/Ks, z=0.1 fixed-rest-band distance experiment, Gaussian band-specific seeing/GLAO PSFs, 0.1 arcsec detector pixels, 1 hour per band, 60 s split reads. g seeing limited in both modes. No K correction or evolution. Neither exact observer-frame passbands nor a calibrated instrument forecast. Baseline references: identical detector-grid sampling with no observational PSF. Also retain native-pixel intrinsic results to expose sampling changes.
+
+Noise: 8 independent Gaussian draws with exact source+sky+thermal+dark+split-read moments; common standard-normal innovations across modes and separately labelled counterfactual pairing across dusty/clear. A second score pairs modes but uses independent clear versus dusty innovations, representing independent hypothetical observations. Gaussian approximation checked against aggregate Poisson+read distribution. Noise is not independent-galaxy evidence. No morphology clipping. Negative noise-corrected asymmetry remains possible.
+
+Predeclared performance per metric: A, absolute error of dusty morphology against its own PSF-free sampled reference; B, absolute error of dusty-minus-clear morphology against its PSF-free sampled counterpart difference. Gain=seeing absolute error minus GLAO absolute error (positive helps). Average draws, then views, giving each galaxy equal weight. Bootstrap galaxies (5000 draws, seed 20261027) for mean paired gains and median dust biases. Report galaxy signs, scatter, within-view SD, Monte Carlo SD separately. No omnibus declaration that GLAO helps all metrics.
+
+Spatial information: noiseless Ks fractional fine/broad structure at 0.5/1/2 kpc, separately for dusty morphology and truth-isolated dusty-minus-clear imprint; normalized RMS error and correlation versus PSF-free reference, no feature classifier or dust assignment. NIR colour optional, no matching native Ks to optical PSF. Physical dust mass from projected Msun/pc2*10000pc2 per pixel, report field/aperture extent rather than substituting SFR.
+
+Focused instrument sensitivity on development galaxies: equal-D50 Moffat beta=2.5, 0.25/4h noise moments, z=0.05. No thresholds tuned after held-out results.
+
+Gates before full C: recorded archive integrity + current SHA256, FITS identity/units/WCS/finite/nonnegative checks, complete pairing; original pilot reproduction; analytic Gaussian morphology and uniform-screen invariance; PSF flux and split-read moment checks; 4 additional end-to-end runs. Failures stop evaluation until resolved or explicitly excluded.
+
+## Development-only amendment before held-out evaluation
+The compact dust-free development galaxy 167418 produces some noisy nonpositive second-moment eigenvalues at Ks. Noiseless moments and other noisy metrics pass. Keep q failures as NaN; no positive-pixel clipping or adaptive aperture. For each error target, retain a noise draw only if BOTH seeing and GLAO yield finite target errors. A galaxy/metric/target contributes to primary noisy gain only if every view has at least 6/8 jointly valid draws; otherwise report its exclusion for that target and retain its noiseless results. Report actual per-metric galaxy denominators. The file/flux/noiseless morphology/noise-moment gate can pass with these explicitly recorded noisy-q failures; this is a measurement limitation, not an archive failure. No held-out measurements were inspected to set this rule.

@@ -1,0 +1,30 @@
+{
+  "numerical_tests_passed": 6,
+  "previous_result_files_unchanged": 89,
+  "previous_published_source_manifest_matches": true,
+  "executed_notebook_code_cells": 9,
+  "notebook_embedded_figures_match_files": true,
+  "PNG_figures": 6,
+  "PDF_figures": 6,
+  "pilot_calibration_noise_realizations": 19,
+  "pilot_calibration_fit_pairs": 38,
+  "heldout_pilot_fit_pairs": 68,
+  "heldout_contrast_draws_per_scene": 3,
+  "heldout_absolute_draws_per_scene": 1,
+  "nonconverged_null_fits": 42,
+  "nonconverged_alternative_fits": 33,
+  "physical_validation_gate": "FAILED; no large evaluation or GLAO performance claim",
+  "named_catastrophic_control_reproduced": true,
+  "scientific_decision": "NO-GO for current dust-geometry inference; not a universal proof against full broadband images",
+  "visual_validation": "All six PNGs and representative PDF rendered and inspected; notebook/HTML structurally validated",
+  "limitations": [
+    "inadequate absolute-colour physical fits",
+    "optimizer failures retained",
+    "local Laplace posterior only",
+    "small diagnostic FPR/power samples",
+    "known-family calibration not population robustness",
+    "sparse apertures lose spatial information",
+    "no exact ULTIMATE observer-band forecast",
+    "one galaxy only"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "analytic_tests_passed": 4,
+  "pilot_cache_bitwise_equal": true,
+  "published_morphology_max_error": 1.7763568394002505e-15,
+  "gaussian_padded_flux_loss": 1.4432899320127035e-14,
+  "overlap_flux_relative_error": 1.887379141862766e-15,
+  "aggregate_Poisson_split_read_moments_passed": true,
+  "passed": true,
+  "development_galaxies": [
+    {
+      "subhalo_id": 294866,
+      "intrinsic_rows": 300,
+      "noisy_q_failures": 0,
+      "passed": true
+    },
+    {
+      "subhalo_id": 167418,
+      "intrinsic_rows": 300,
+      "noisy_q_failures": 13,
+      "passed": true
+    },
+    {
+      "subhalo_id": 626287,
+      "intrinsic_rows": 300,
+      "noisy_q_failures": 0,
+      "passed": true
+    },
+    {
+      "subhalo_id": 535051,
+      "intrinsic_rows": 300,
+      "noisy_q_failures": 0,
+      "passed": true
+    },
+    {
+      "subhalo_id": 638950,
+      "intrinsic_rows": 300,
+      "noisy_q_failures": 0,
+      "passed": true
+    }
+  ],
+  "remaining_evaluation_galaxies": 21,
+  "protocol_sha256": "39eb8419ef32719dfa2fd412e3ae2ea02a41694829a48f7ee014977ae8ec2041"
+}

@@ -1,0 +1,3908 @@
+{
+  "sha": "78dce5ad96038fe7a702d3e2f2b434a2c7d7e8af",
+  "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/trees/78dce5ad96038fe7a702d3e2f2b434a2c7d7e8af",
+  "tree": [
+    {
+      "path": ".github",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "93fe004f17a7fb4aedd064cb11c64ed2f4451734",
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/trees/93fe004f17a7fb4aedd064cb11c64ed2f4451734"
+    },
+    {
+      "path": ".github/workflows",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "86cd522c009b7d6611db2f4046a4c9d27adb1dd3",
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/trees/86cd522c009b7d6611db2f4046a4c9d27adb1dd3"
+    },
+    {
+      "path": ".github/workflows/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5bf368fc680c3dc2153198d054eb3f1373315b20",
+      "size": 945,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/5bf368fc680c3dc2153198d054eb3f1373315b20"
+    },
+    {
+      "path": ".github/workflows/passive-spiral-p1.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "03e0500d50006325972145b5d1fc3584aead279c",
+      "size": 1761,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/03e0500d50006325972145b5d1fc3584aead279c"
+    },
+    {
+      "path": ".github/workflows/passive-spiral-p2-real-context.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1c5feb7dacd00c0f12d64d0c25f5c43eb1829ba1",
+      "size": 3086,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/1c5feb7dacd00c0f12d64d0c25f5c43eb1829ba1"
+    },
+    {
+      "path": ".github/workflows/passive-spiral-p3-phase-null.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9ce7e909df3008413d246a57610d1e3bf3b779dc",
+      "size": 2531,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/9ce7e909df3008413d246a57610d1e3bf3b779dc"
+    },
+    {
+      "path": ".github/workflows/passive-spiral-p4-mask-control.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4f6201140bff6badccbf9ae406d2d311f65a2916",
+      "size": 2703,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/4f6201140bff6badccbf9ae406d2d311f65a2916"
+    },
+    {
+      "path": ".github/workflows/passive-spiral-p5-robust-loss.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f7c0373e4bd939b931295ef840f97cea48252acc",
+      "size": 2687,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/f7c0373e4bd939b931295ef840f97cea48252acc"
+    },
+    {
+      "path": ".github/workflows/verification.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "967329525c6da08349977c7a1492509bc1dc6ac8",
+      "size": 1692,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/967329525c6da08349977c7a1492509bc1dc6ac8"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52830bff46d71fbf5e290774eef2e4cc68c6b917",
+      "size": 476,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/52830bff46d71fbf5e290774eef2e4cc68c6b917"
+    },
+    {
+      "path": "JWST_artificial_redshifting_general.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5deefeddc1fe978573f0ac66ad4906c16e18d42d",
+      "size": 81202,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/5deefeddc1fe978573f0ac66ad4906c16e18d42d"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "96731153af1296ef9c4f64060558517d66bc60b5",
+      "size": 14134,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/96731153af1296ef9c4f64060558517d66bc60b5"
+    },
+    {
+      "path": "README_JWST_artificial_redshifting.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7275799676cec06097c3e373342353a83c98090f",
+      "size": 3311,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/7275799676cec06097c3e373342353a83c98090f"
+    },
+    {
+      "path": "benchmarks",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f85a0e1a4a0e48b182727b3b360c7a479e009378",
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/trees/f85a0e1a4a0e48b182727b3b360c7a479e009378"
+    },
+    {
+      "path": "benchmarks/agn_nuclear_fraction",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6100dfb103e159196d2e076987b8877cdde5835e",
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/trees/6100dfb103e159196d2e076987b8877cdde5835e"
+    },
+    {
+      "path": "benchmarks/agn_nuclear_fraction/REVIEW.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e5f09051447e72feeff2254c36d7afee68654b1f",
+      "size": 36083,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/e5f09051447e72feeff2254c36d7afee68654b1f"
+    },
+    {
+      "path": "benchmarks/agn_nuclear_fraction/ensemble_33691443555.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "722d4cd2b0d4ea30afc7ea76c528a3584cbbc12e",
+      "size": 17582,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/722d4cd2b0d4ea30afc7ea76c528a3584cbbc12e"
+    },
+    {
+      "path": "benchmarks/chromatic_psf",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ebc70e85d37bd4fdaca32c9b993f914141f0f01a",
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/trees/ebc70e85d37bd4fdaca32c9b993f914141f0f01a"
+    },
+    {
+      "path": "benchmarks/chromatic_psf/C7_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "edbdcc67c9e1260ad3b641eaafceeb0a5cbe6e7a",
+      "size": 3007,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/edbdcc67c9e1260ad3b641eaafceeb0a5cbe6e7a"
+    },
+    {
+      "path": "benchmarks/chromatic_psf/C7_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18b4e0718fb661334ab323e7f8f5ea41d04c7486",
+      "size": 2791,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/18b4e0718fb661334ab323e7f8f5ea41d04c7486"
+    },
+    {
+      "path": "benchmarks/dewsnap_2025",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f5b4979d51097f05c64de5732a4b83e6b9f324fd",
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/trees/f5b4979d51097f05c64de5732a4b83e6b9f324fd"
+    },
+    {
+      "path": "benchmarks/dewsnap_2025/C6A_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d7a0b42a09d0d050656047eeb05d58b26e73f7f",
+      "size": 2895,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/3d7a0b42a09d0d050656047eeb05d58b26e73f7f"
+    },
+    {
+      "path": "benchmarks/dewsnap_2025/C6A_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "955c4de197efe07ae98bb1a9b73578c84a243300",
+      "size": 2547,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/955c4de197efe07ae98bb1a9b73578c84a243300"
+    },
+    {
+      "path": "benchmarks/dewsnap_2025/C6B_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6363b5b22048880f9f2176257f292ca6014603a3",
+      "size": 5659,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/6363b5b22048880f9f2176257f292ca6014603a3"
+    },
+    {
+      "path": "benchmarks/dewsnap_2025/C6B_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ff51321a315f8de2c2d235fd008c86d82cb19cdf",
+      "size": 1583,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/ff51321a315f8de2c2d235fd008c86d82cb19cdf"
+    },
+    {
+      "path": "benchmarks/dewsnap_2025/C6C_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a26648ab421ede4f76005a3e433508af2dd7cae5",
+      "size": 2688,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/a26648ab421ede4f76005a3e433508af2dd7cae5"
+    },
+    {
+      "path": "benchmarks/dewsnap_2025/C6C_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "19906c15aacac92cd643648343066a5b9f9cf0d1",
+      "size": 2926,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/19906c15aacac92cd643648343066a5b9f9cf0d1"
+    },
+    {
+      "path": "benchmarks/ferengi_2008",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "895328a474b28816cb41f6a6997983fd2ba1c8ad",
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/trees/895328a474b28816cb41f6a6997983fd2ba1c8ad"
+    },
+    {
+      "path": "benchmarks/ferengi_2008/REVIEW.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a6e8ca58193e4b2f925a7b82f4ee2223175f3c31",
+      "size": 7946,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/a6e8ca58193e4b2f925a7b82f4ee2223175f3c31"
+    },
+    {
+      "path": "benchmarks/gate_d",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "dfe512a0cafa09c5ceaee88e0a5d34e6ee133367",
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/trees/dfe512a0cafa09c5ceaee88e0a5d34e6ee133367"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D0_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f803fd0d320d784ea9bd7a638695ea09ca228a9",
+      "size": 3067,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/5f803fd0d320d784ea9bd7a638695ea09ca228a9"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D0_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ccdc84bd820dab3e799a8374ea4753f7467da061",
+      "size": 715,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/ccdc84bd820dab3e799a8374ea4753f7467da061"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_BACKGROUND_RESIDUAL_AUDIT_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "791f7d7ae978b6055690f720b54720793814b55e",
+      "size": 2976,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/791f7d7ae978b6055690f720b54720793814b55e"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_BACKGROUND_RESIDUAL_AUDIT_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "20f774a5e2dfe01ac37c107ad27bf5a1142d537d",
+      "size": 2863,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/20f774a5e2dfe01ac37c107ad27bf5a1142d537d"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_CONTEXT_AUDIT_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "054ed5cd9c484c539d8e59cac6800c21ce8dd848",
+      "size": 2193,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/054ed5cd9c484c539d8e59cac6800c21ce8dd848"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_CONTEXT_AUDIT_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "67435a3d96d0c9eb7fa8824791a1eab40227daa9",
+      "size": 997,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/67435a3d96d0c9eb7fa8824791a1eab40227daa9"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_DEBLENDED_NEIGHBOUR_TEMPLATES_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d2c5a45f5a0c968011cd205c149cf7f0c8fba44f",
+      "size": 3934,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/d2c5a45f5a0c968011cd205c149cf7f0c8fba44f"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_DEBLENDED_NEIGHBOUR_TEMPLATES_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "89f775b57d8140edb1bf592ca3f62dbaa347e330",
+      "size": 4298,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/89f775b57d8140edb1bf592ca3f62dbaa347e330"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_EMPIRICAL_PSF_SUPPORT_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e933319cf8569ff266688d07ebfe748460849f13",
+      "size": 4251,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/e933319cf8569ff266688d07ebfe748460849f13"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_EMPIRICAL_PSF_SUPPORT_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f94d67d4015cab212ddc937c3d8b4c85b5d1427e",
+      "size": 3037,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/f94d67d4015cab212ddc937c3d8b4c85b5d1427e"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_FORCED_RECOVERY_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf623c364e57ddb6fab12fe1aad190263cdd876b",
+      "size": 2037,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/cf623c364e57ddb6fab12fe1aad190263cdd876b"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_FROZEN_PREFIT_NEIGHBOUR_SCENE_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3183841b643a8d7f7207f9b6e0b3d89f676772fd",
+      "size": 6348,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/3183841b643a8d7f7207f9b6e0b3d89f676772fd"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_FROZEN_PREFIT_NEIGHBOUR_SCENE_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4ab0d7c42565495a18def834883dbd614c3fb612",
+      "size": 4339,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/4ab0d7c42565495a18def834883dbd614c3fb612"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_GAIA_PSF_VETTING_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "150a3c68abe57ff19214f1245f2d949d7a6e0b38",
+      "size": 3914,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/150a3c68abe57ff19214f1245f2d949d7a6e0b38"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_GAIA_PSF_VETTING_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "56ada122e99911b024d7c363583729fa5641c8d4",
+      "size": 2934,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/56ada122e99911b024d7c363583729fa5641c8d4"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_INJECTION_MATRIX.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73cf9b7d3222152841c47064f94fbd6a8949a9fc",
+      "size": 1562,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/73cf9b7d3222152841c47064f94fbd6a8949a9fc"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_LOCAL_INGEST_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "80f926e87e39ec67472ec05ac39bb3a51d2058de",
+      "size": 2556,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/80f926e87e39ec67472ec05ac39bb3a51d2058de"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_MOMENT_NEIGHBOUR_TEMPLATES_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "155cd525fb5fc8f21e6ab809f2d65af29208f4ef",
+      "size": 2824,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/155cd525fb5fc8f21e6ab809f2d65af29208f4ef"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_MULTISTART_IDENTIFIABILITY_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "40922634890f9006b5ff70ea1197c3470954f8ea",
+      "size": 4986,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/40922634890f9006b5ff70ea1197c3470954f8ea"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_MULTISTART_IDENTIFIABILITY_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a8be9db9e6a324fe1437434c2bbcabcfa41d351d",
+      "size": 3291,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/a8be9db9e6a324fe1437434c2bbcabcfa41d351d"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_NEIGHBOUR_MASK_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "67eda946c7d7949d8c47bf41926697d8dcb76982",
+      "size": 3290,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/67eda946c7d7949d8c47bf41926697d8dcb76982"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_NEIGHBOUR_SUPPORT_GROWTH_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9ac006237edd58d68e84fa6dea603db27a12c6d",
+      "size": 2825,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/d9ac006237edd58d68e84fa6dea603db27a12c6d"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_PAIRED_DIFFERENCE_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fe2f9ee91a8702dba06e7ed042c0ef14548aa2e4",
+      "size": 2321,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/fe2f9ee91a8702dba06e7ed042c0ef14548aa2e4"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_PARAMETRIC_NEIGHBOUR_SERSIC_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9f32813a612969502e465bf7ba86c671109bfbe7",
+      "size": 5835,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/9f32813a612969502e465bf7ba86c671109bfbe7"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_PARAMETRIC_NEIGHBOUR_SERSIC_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dbcf0a41bd7f139abd090ccad3394cf7df09ed33",
+      "size": 6223,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/dbcf0a41bd7f139abd090ccad3394cf7df09ed33"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_PSF_FIELD_BRACKET_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "58b8632c48ff99014d5d701025be6943ac35dd8d",
+      "size": 3718,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/58b8632c48ff99014d5d701025be6943ac35dd8d"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_PSF_FIELD_BRACKET_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "128ca42143c25f9e3fb6db69844218fb3a313652",
+      "size": 2462,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/128ca42143c25f9e3fb6db69844218fb3a313652"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_PUBLISHED_EMPIRICAL_PSF_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dd50c540ef3e3af5419fc3953330939da6ee8492",
+      "size": 5037,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/dd50c540ef3e3af5419fc3953330939da6ee8492"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_PUBLISHED_EMPIRICAL_PSF_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b582aa32ff0a807479893f5ffb36656356e336b4",
+      "size": 3559,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/b582aa32ff0a807479893f5ffb36656356e336b4"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_PUBLISHED_PSF_PAIRED_ORACLE_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "999393c07f51888c00192a26a31808ecf17d7be5",
+      "size": 5030,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/999393c07f51888c00192a26a31808ecf17d7be5"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_PUBLISHED_PSF_PAIRED_ORACLE_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d0b51695ac992d9d78e88a6a6cdf3de62bf5f04f",
+      "size": 3828,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/d0b51695ac992d9d78e88a6a6cdf3de62bf5f04f"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_REAL_CUTOUT_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e39372b74e3b1e777a9dc57c30b754cb3779747a",
+      "size": 4654,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/e39372b74e3b1e777a9dc57c30b754cb3779747a"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_REAL_INJECTION_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "905052c55512cbc70a52e0ed2401e60e400ac1b7",
+      "size": 3297,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/905052c55512cbc70a52e0ed2401e60e400ac1b7"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_RESIDUAL_DOSE_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "21b8d017fd55ffc4b2f3de0267e895f0a3be2acc",
+      "size": 4901,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/21b8d017fd55ffc4b2f3de0267e895f0a3be2acc"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_RESIDUAL_DOSE_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "82149b12d26346cc6ce4470b878d30b1425962be",
+      "size": 4452,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/82149b12d26346cc6ce4470b878d30b1425962be"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_RESIDUAL_TANGENT_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9ba9f1be5fa0d1efbcc01f4dae82bf35e9bf41b3",
+      "size": 4422,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/9ba9f1be5fa0d1efbcc01f4dae82bf35e9bf41b3"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_RESIDUAL_TANGENT_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b6ba59d9a2581a9c365845bfa92c6ee901d5b71",
+      "size": 9296,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/7b6ba59d9a2581a9c365845bfa92c6ee901d5b71"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_RESIDUAL_TANGENT_SPLIT_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cb62e07ad9d609efb0badbf4f0fcb7caa1ac457e",
+      "size": 3955,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/cb62e07ad9d609efb0badbf4f0fcb7caa1ac457e"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_RESIDUAL_TANGENT_SPLIT_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73b3f82d745b69a841ad5ee70b1865ac67d5d632",
+      "size": 7819,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/73b3f82d745b69a841ad5ee70b1865ac67d5d632"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_SIMULTANEOUS_NEIGHBOUR_TEMPLATES_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "668da7053f40eb8493d66f9e1c462e308dfddcca",
+      "size": 3356,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/668da7053f40eb8493d66f9e1c462e308dfddcca"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_SOURCE_SHOT_COVARIANCE_PREFLIGHT_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5fe04035fdc05b5bf636195219eec1608b560032",
+      "size": 4913,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/5fe04035fdc05b5bf636195219eec1608b560032"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D1_SOURCE_SHOT_COVARIANCE_PREFLIGHT_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d91703a6aa5cbdc3c94e94b231cc9050078af7ac",
+      "size": 3625,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/d91703a6aa5cbdc3c94e94b231cc9050078af7ac"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D2B_RELEASE_PROVENANCE_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "013b872d6ed87649c1a29093cc02d7ecd7fcbab6",
+      "size": 2899,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/013b872d6ed87649c1a29093cc02d7ecd7fcbab6"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D2B_RELEASE_PROVENANCE_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ec4e6a754b903bafcdef56d83dbda8fde7183d4f",
+      "size": 4865,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/ec4e6a754b903bafcdef56d83dbda8fde7183d4f"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D2C_LOCAL_MOSAIC_PIXEL_PROVENANCE_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f919a1cb6f17414dcac86f5b0549b9f1a1764adc",
+      "size": 3513,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/f919a1cb6f17414dcac86f5b0549b9f1a1764adc"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D2C_LOCAL_MOSAIC_PIXEL_PROVENANCE_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "12010f83114b6c7a76179fcd73ad3c86aad7c15d",
+      "size": 5394,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/12010f83114b6c7a76179fcd73ad3c86aad7c15d"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D2D_RESAMPLE_METADATA_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d821264ff79145a38eff281f78f1561bf664708f",
+      "size": 3809,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/d821264ff79145a38eff281f78f1561bf664708f"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D2D_RESAMPLE_METADATA_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9eaa2b2ee7ebb9dfced4b8afdc3785561a970781",
+      "size": 5853,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/9eaa2b2ee7ebb9dfced4b8afdc3785561a970781"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D2E_EMBEDDED_ASDF_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9ee6cb6b4e8b30afabeee572c613302e8780acad",
+      "size": 3954,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/9ee6cb6b4e8b30afabeee572c613302e8780acad"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D2E_EMBEDDED_ASDF_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "da77e109207ae2160a696b1e7bc08b8e4c7febdb",
+      "size": 4836,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/da77e109207ae2160a696b1e7bc08b8e4c7febdb"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D2F_PUBLIC_INPUT_AVAILABILITY_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e125b46bbd81d86f685545b09afbb9ca65161a6a",
+      "size": 4741,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/e125b46bbd81d86f685545b09afbb9ca65161a6a"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D2F_SURVEY_PROCESSED_INPUT_PROVENANCE_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d8a32603718c67feba5acca75ecd97062b6d6b2",
+      "size": 7833,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/2d8a32603718c67feba5acca75ecd97062b6d6b2"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D2G_ACCESS_REQUEST_PACKET.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "84be3bf74aa21c7c624c11f47d768211a058ed20",
+      "size": 5560,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/84be3bf74aa21c7c624c11f47d768211a058ed20"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D2_EXPOSURE_PROVENANCE_PREFLIGHT_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "32b7e7749de2a3b6e52abbfe2515805ad8dff91e",
+      "size": 6267,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/32b7e7749de2a3b6e52abbfe2515805ad8dff91e"
+    },
+    {
+      "path": "benchmarks/gate_d/COSMOSWEB_D2_EXPOSURE_PROVENANCE_PREFLIGHT_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ef1b64ca14608cd799fa60ee4668e3dc145f2c4c",
+      "size": 3753,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/ef1b64ca14608cd799fa60ee4668e3dc145f2c4c"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "336850bb15936d5a33109bfef6ade680b8523e1c",
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/trees/336850bb15936d5a33109bfef6ade680b8523e1c"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift/P1_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fe69b01ef3e6849f3bec657b2a9a7ddd35f42bc3",
+      "size": 6051,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/fe69b01ef3e6849f3bec657b2a9a7ddd35f42bc3"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift/P1_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "217977dfee5ace18d8f259b0eea44e9159eb9ddb",
+      "size": 4938,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/217977dfee5ace18d8f259b0eea44e9159eb9ddb"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift/P2_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f01ace1c3c465e9d1c905fc844b737025bf4f81e",
+      "size": 9427,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/f01ace1c3c465e9d1c905fc844b737025bf4f81e"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift/P2_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a49a70400b7ace099a009ab4aa35257ce8ad3805",
+      "size": 6850,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/a49a70400b7ace099a009ab4aa35257ce8ad3805"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift/P3_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c8ca3993b8b588152a9fa91cc8e929a58060891",
+      "size": 4610,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/7c8ca3993b8b588152a9fa91cc8e929a58060891"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift/P3_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4cb2f0049edbb6931ad83e33f0f5f75ad4159a49",
+      "size": 4953,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/4cb2f0049edbb6931ad83e33f0f5f75ad4159a49"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift/P4_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2e85b3530c8d32037c565002a3a2a6a7865f0e8a",
+      "size": 4550,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/2e85b3530c8d32037c565002a3a2a6a7865f0e8a"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift/P4_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "61c043d74e762da0930944d3296d383fcd3228bc",
+      "size": 4111,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/61c043d74e762da0930944d3296d383fcd3228bc"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift/P5_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bee58dbdc3928cc479a01fb73a45d541e3eefe88",
+      "size": 6374,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/bee58dbdc3928cc479a01fb73a45d541e3eefe88"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift/P5_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "45e6d52c0eec2640702d91d167016daef6b302a4",
+      "size": 5314,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/45e6d52c0eec2640702d91d167016daef6b302a4"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift/P6_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1576eaa34001b2f1006ec358c78f5efe1cc3bc7f",
+      "size": 9519,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/1576eaa34001b2f1006ec358c78f5efe1cc3bc7f"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift/R1_METRICS.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c23ef2c63a5fe258adcbbb8a957b1f4823a76025",
+      "size": 723,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/c23ef2c63a5fe258adcbbb8a957b1f4823a76025"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift/R1_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5de871d4babbee6d547f48cb4d8e8945b674e49c",
+      "size": 9825,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/5de871d4babbee6d547f48cb4d8e8945b674e49c"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift/R1_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b67158f1a54aa446255fd0021cc427729d7a0039",
+      "size": 2455,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/b67158f1a54aa446255fd0021cc427729d7a0039"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift/R2_PRELIMINARY_METRICS.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e20b6d9277564ac180981482ab7ef72d37e213f6",
+      "size": 1557,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/e20b6d9277564ac180981482ab7ef72d37e213f6"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift/R2_PRELIMINARY_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4130b41ae3d982cafcaba081b0c7da36c3685897",
+      "size": 1448,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/4130b41ae3d982cafcaba081b0c7da36c3685897"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift/R2_PRELIMINARY_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af1e4de476f1e74ceb3fefa2de48962a5f8bbe38",
+      "size": 2183,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/af1e4de476f1e74ceb3fefa2de48962a5f8bbe38"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift/R3_CONTEXT_REDSHIFT_SUMMARY.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d64ec6790a2b0e01aa8acb93ed26955a0a776487",
+      "size": 2718,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/d64ec6790a2b0e01aa8acb93ed26955a0a776487"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift/R3_INPUT_MANIFEST.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f39ae8f4d56bc313af399fd40dbb86fddaa7ab14",
+      "size": 3827,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/f39ae8f4d56bc313af399fd40dbb86fddaa7ab14"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift/R3_MULTIOBJECT_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9d82f086cfb8d817ba9d78792986fdb872c9da69",
+      "size": 8603,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/9d82f086cfb8d817ba9d78792986fdb872c9da69"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift/R3_OBJECT_CONTEXT_SUMMARY.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab1a5a39951df80fcbc2609d4d0f28735a422e74",
+      "size": 4461,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/ab1a5a39951df80fcbc2609d4d0f28735a422e74"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift/R3_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6f13b49614e9e05826c5918de764ab4145cff477",
+      "size": 4751,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/6f13b49614e9e05826c5918de764ab4145cff477"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift/R3_SED_METHOD_AMENDMENT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1dd111a5cc80cf7ac8393c46899992ef61cc72da",
+      "size": 3617,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/1dd111a5cc80cf7ac8393c46899992ef61cc72da"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift/R3_SED_WEIGHTS.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d691203a36267f763778480bed167f4414865ae",
+      "size": 6171,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/0d691203a36267f763778480bed167f4414865ae"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift/REAL_PILOT_PREFLIGHT_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4c89d7b093ac9b1f78de0b52db22625220fad3d4",
+      "size": 8190,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/4c89d7b093ac9b1f78de0b52db22625220fad3d4"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift/SCOPE_DECISION.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2754ec3a402d4bbff08fb1b40552c30adae44ea3",
+      "size": 4996,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/2754ec3a402d4bbff08fb1b40552c30adae44ea3"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift/T1_GLOBAL_SED_FLUX.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ed56e77c251d368b821b2c56a10ee53d0e8718b7",
+      "size": 151,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/ed56e77c251d368b821b2c56a10ee53d0e8718b7"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift/T1_THROUGHPUT_METRICS.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3b81d9c4ea40c7de2b454589946d509529a96197",
+      "size": 879,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/3b81d9c4ea40c7de2b454589946d509529a96197"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift/T1_THROUGHPUT_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "42b3fdf5b9c56830196a7d4189a34ea6c901ba3b",
+      "size": 2971,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/42b3fdf5b9c56830196a7d4189a34ea6c901ba3b"
+    },
+    {
+      "path": "benchmarks/passive_spiral_redshift/T1_THROUGHPUT_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "47339dba1005c4a497cc4fa6b1611f1967d60584",
+      "size": 2902,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/47339dba1005c4a497cc4fa6b1611f1967d60584"
+    },
+    {
+      "path": "benchmarks/paulino_afonso_2017",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "abdb26d438795eb22a7135802c12aa79e2e1f209",
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/trees/abdb26d438795eb22a7135802c12aa79e2e1f209"
+    },
+    {
+      "path": "benchmarks/paulino_afonso_2017/REVIEW.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1b3c152bf018dfd56a26814434c05800e2999ea8",
+      "size": 9815,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/1b3c152bf018dfd56a26814434c05800e2999ea8"
+    },
+    {
+      "path": "benchmarks/pyautogalaxy_2026",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d10f218bb451f6c482bfb63369b9f683b2511a19",
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/trees/d10f218bb451f6c482bfb63369b9f683b2511a19"
+    },
+    {
+      "path": "benchmarks/pyautogalaxy_2026/B9A_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a1bb8ca3ed2397881ffaa638b7b0ea8b4c9b9602",
+      "size": 3686,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/a1bb8ca3ed2397881ffaa638b7b0ea8b4c9b9602"
+    },
+    {
+      "path": "benchmarks/pyautogalaxy_2026/B9A_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "43925e385e0b5e94a1a85a86a6beac61e5611441",
+      "size": 2685,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/43925e385e0b5e94a1a85a86a6beac61e5611441"
+    },
+    {
+      "path": "benchmarks/pyautogalaxy_2026/B9B_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "35616ea5da909c4cb9fdced564bf943dd07733df",
+      "size": 3932,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/35616ea5da909c4cb9fdced564bf943dd07733df"
+    },
+    {
+      "path": "benchmarks/pyautogalaxy_2026/B9B_RESULT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f6dbdc12cf805cd695fec7cc6a4d0f9ff3485a65",
+      "size": 1915,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/f6dbdc12cf805cd695fec7cc6a4d0f9ff3485a65"
+    },
+    {
+      "path": "benchmarks/yu_2023",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2da2287336688a95ead46b8d5aa78db3ecc000e0",
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/trees/2da2287336688a95ead46b8d5aa78db3ecc000e0"
+    },
+    {
+      "path": "benchmarks/yu_2023/REVIEW.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "74152e5bb55464f74b62d1473cc930272d009cc0",
+      "size": 8160,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/74152e5bb55464f74b62d1473cc930272d009cc0"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8ff045d65c919e0c8311bb74c6f25c56b31c6a8e",
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/trees/8ff045d65c919e0c8311bb74c6f25c56b31c6a8e"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/C5F_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bcc963778f91113d74e71170eb685a5c06e2a4b6",
+      "size": 3756,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/bcc963778f91113d74e71170eb685a5c06e2a4b6"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/C5G_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba8734238899e877e7a8adf3938ccdb967f1cc49",
+      "size": 5737,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/ba8734238899e877e7a8adf3938ccdb967f1cc49"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/C5H_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9ebab325dbbf4d2db804a326869bd358441ff4c6",
+      "size": 8427,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/9ebab325dbbf4d2db804a326869bd358441ff4c6"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/C5I_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4e746367630c9420760372590f5baf00ce098d11",
+      "size": 7466,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/4e746367630c9420760372590f5baf00ce098d11"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/C5J_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab2bb618c6168839ab661973f5c1a463baf43ae4",
+      "size": 8771,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/ab2bb618c6168839ab661973f5c1a463baf43ae4"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/C5J_WORKFLOW_NOT_DISPATCHED.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f1060d38f0332fab348ff8d3a7102fce1381e8f7",
+      "size": 1997,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/f1060d38f0332fab348ff8d3a7102fce1381e8f7"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/C5K_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f9f3c5df004807637e344521e250ab4da15747e",
+      "size": 8310,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/8f9f3c5df004807637e344521e250ab4da15747e"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/C5L_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e5a34cc4cbb38a764d7397e6a2af296986fcdea",
+      "size": 5543,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/8e5a34cc4cbb38a764d7397e6a2af296986fcdea"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/C5M_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "626f22fa47cee9c9abd7fbdbabc78f67af12390b",
+      "size": 4682,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/626f22fa47cee9c9abd7fbdbabc78f67af12390b"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/C5M_WORKFLOW_NOT_DISPATCHED.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8dc82541f21aa67d771dd7a2657ad582e5122b80",
+      "size": 3023,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/8dc82541f21aa67d771dd7a2657ad582e5122b80"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/C5N_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e1424bfffa1d57c2c057677d4c99a10c524b1fc1",
+      "size": 3103,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/e1424bfffa1d57c2c057677d4c99a10c524b1fc1"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/C5O_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "619a71bdd11f8892d4345ab4aac794a6c9b3f98c",
+      "size": 4815,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/619a71bdd11f8892d4345ab4aac794a6c9b3f98c"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/C5P_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b23902c1a03b9aa1a4ab1a39cd7c61846f5a8a24",
+      "size": 2810,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/b23902c1a03b9aa1a4ab1a39cd7c61846f5a8a24"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/C5Q_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dac405a0604ad80435f4c346308612820c92e0fa",
+      "size": 2901,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/dac405a0604ad80435f4c346308612820c92e0fa"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/C5R_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bae3ea500bc4713fa434ac2d94873d971bd00dbd",
+      "size": 2857,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/bae3ea500bc4713fa434ac2d94873d971bd00dbd"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/REVIEW.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7f8714758606ca24e7dcb59d9402e9d4236a5f6c",
+      "size": 83382,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/7f8714758606ca24e7dcb59d9402e9d4236a5f6c"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/analyze_public_tables.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d17b4235fd1445a1c3b60b5dda0234222357aa70",
+      "size": 15449,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/d17b4235fd1445a1c3b60b5dda0234222357aa70"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/c5i_local_serialization_20260903.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "43ea4d3293f5b96836c4e441ff2544b643718391",
+      "size": 1781,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/43ea4d3293f5b96836c4e441ff2544b643718391"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/c5j_local_20260903.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c700da51e5f2d49412c4d8475eb04d81aaecbe64",
+      "size": 389408,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/c700da51e5f2d49412c4d8475eb04d81aaecbe64"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/c5k_local_20260903.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5558ae708749a8ddb0f6944f032fae47ce5074e5",
+      "size": 434018,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/5558ae708749a8ddb0f6944f032fae47ce5074e5"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/c5l_local_20260903.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "03f1ac380f9968f85777036cad19f0ce1ed363f6",
+      "size": 227231,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/03f1ac380f9968f85777036cad19f0ce1ed363f6"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/c5m_local_20260903.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "905c1767f74b7e8d027e5e71377410f0fc2cc352",
+      "size": 132162,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/905c1767f74b7e8d027e5e71377410f0fc2cc352"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/c5n_local_20260903.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d0cd55d5ed13e05d10f5339eba9eb88ed1746338",
+      "size": 104663,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/d0cd55d5ed13e05d10f5339eba9eb88ed1746338"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/c5o_33819349854.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc5c8695cd7f456675c3b75eb47812f305469e10",
+      "size": 1273,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/bc5c8695cd7f456675c3b75eb47812f305469e10"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/c5p_33823405733.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ace21648161a0286d1b45496437e7e2a0e2b7f97",
+      "size": 1570,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/ace21648161a0286d1b45496437e7e2a0e2b7f97"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/c5q_33830661656.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db68d940f8b536ca2d34edf536c769472fe49718",
+      "size": 1126,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/db68d940f8b536ca2d34edf536c769472fe49718"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/c5r_33842347328.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "65a220bdf25f89081dedb3305cfc6d40c30b3a55",
+      "size": 1629,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/65a220bdf25f89081dedb3305cfc6d40c30b3a55"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/cell_response_33798675379.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5202cd311175224c9c6b9dd3de81daa5bab5c65e",
+      "size": 233381,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/5202cd311175224c9c6b9dd3de81daa5bab5c65e"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/centroid_33734876563.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "facb6b83b86f3428d785910741aae4daf790c8e3",
+      "size": 33664,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/facb6b83b86f3428d785910741aae4daf790c8e3"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/ci_routing_20260903.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba5644d87d1369969c286abc4f930aa9efc59bef",
+      "size": 14278,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/ba5644d87d1369969c286abc4f930aa9efc59bef"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/ci_validation_33727184271.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e74b4c592f0bc984532168831513e9843447df7f",
+      "size": 2761,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/e74b4c592f0bc984532168831513e9843447df7f"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/compact_renderer_33766246396.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0b6aeaf91282705fe013b3c22a3d5ce9685076fc",
+      "size": 264598,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/0b6aeaf91282705fe013b3c22a3d5ce9685076fc"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/de_33709361250.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e2d46b3d8231d688601e9a38e48bbb38ee83d0b9",
+      "size": 16383,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/e2d46b3d8231d688601e9a38e48bbb38ee83d0b9"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/empirical_transfer_33717899427.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "82ed4abc3831dfb929dbeb2e4dccb21f79cda2b5",
+      "size": 72123,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/82ed4abc3831dfb929dbeb2e4dccb21f79cda2b5"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/fourier_grid_33788705952.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "97dec66b348f7e0ad848ced2a53673782e7f538d",
+      "size": 432550,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/97dec66b348f7e0ad848ced2a53673782e7f538d"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/imfit_bounded_33806193712.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "526b0b1646237d2cfc1ecee943a1bf5828279c04",
+      "size": 124520,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/526b0b1646237d2cfc1ecee943a1bf5828279c04"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/imfit_renderer_33759931812.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5d031dd3e1fea13c44ec69e3dda71b28dec06d18",
+      "size": 323357,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/5d031dd3e1fea13c44ec69e3dda71b28dec06d18"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/nuclear_centroid_33740141863.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cb8bf5da1a6329f89afb337493fbc65e26a7fe56",
+      "size": 76668,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/cb8bf5da1a6329f89afb337493fbc65e26a7fe56"
+    },
+    {
+      "path": "benchmarks/zhuang_shen_2024/phase_33727185586.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "20d8431e87de3ecb425e97c62d68f3f1d406cec5",
+      "size": 19443,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/20d8431e87de3ecb425e97c62d68f3f1d406cec5"
+    },
+    {
+      "path": "config",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "77ee4ef6fea3fa0823924038b872927235f0550e",
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/trees/77ee4ef6fea3fa0823924038b872927235f0550e"
+    },
+    {
+      "path": "config/GOLD403_production_frozen_2026-09-19.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dee390d93ecc1f9d36db212f6f26f8504bd7621e",
+      "size": 962,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/dee390d93ecc1f9d36db212f6f26f8504bd7621e"
+    },
+    {
+      "path": "crosscode",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0a6455246313159298529128391e29e0085ebee5",
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/trees/0a6455246313159298529128391e29e0085ebee5"
+    },
+    {
+      "path": "crosscode/test_gate_b_core.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d85fce53c30429eb14c2788f35cbe4456529987",
+      "size": 8218,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/2d85fce53c30429eb14c2788f35cbe4456529987"
+    },
+    {
+      "path": "crosscode/test_gate_b_jwst_pipeline.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c95e5f704446fd6fc2454fab33a1d585d674893c",
+      "size": 5433,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/c95e5f704446fd6fc2454fab33a1d585d674893c"
+    },
+    {
+      "path": "crosscode/test_gate_b_jwst_resample.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd704912d545a969cd69453da3c5acba18128904",
+      "size": 7249,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/cd704912d545a969cd69453da3c5acba18128904"
+    },
+    {
+      "path": "crosscode/test_gate_b_jwst_stpsf.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "185d0675867792870b099f94daf1fdcd42b4b40a",
+      "size": 5361,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/185d0675867792870b099f94daf1fdcd42b4b40a"
+    },
+    {
+      "path": "data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "24e62f6e3c0fcc93464cee541d63c74b4eb4d13f",
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/trees/24e62f6e3c0fcc93464cee541d63c74b4eb4d13f"
+    },
+    {
+      "path": "data/nircam_throughputs_v7",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "48dd55409bcb7292d9b4bfbedcb6fee02befe34b",
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/trees/48dd55409bcb7292d9b4bfbedcb6fee02befe34b"
+    },
+    {
+      "path": "data/nircam_throughputs_v7/PROVENANCE.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4978ac95d7fe0fbfae07e3ad43bb9ad6f12e9b6b",
+      "size": 1164,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/4978ac95d7fe0fbfae07e3ad43bb9ad6f12e9b6b"
+    },
+    {
+      "path": "data/validation",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fa110a1004d88a5f9896e0179d33442bc3936aa2",
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/trees/fa110a1004d88a5f9896e0179d33442bc3936aa2"
+    },
+    {
+      "path": "data/validation/GOLD403_clean_sweep_31_2026-09-19.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "33168e3149e33f518e87017ac5c0cc4d2db3523e",
+      "size": 8224,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/33168e3149e33f518e87017ac5c0cc4d2db3523e"
+    },
+    {
+      "path": "data/validation/GOLD403_controlled_z3_recovery_2026-09-19.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6fd6f03ea499c6e46fc657a2b91d25918344f654",
+      "size": 1152,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/6fd6f03ea499c6e46fc657a2b91d25918344f654"
+    },
+    {
+      "path": "data/validation/GOLD403_lenstronomy_closed_loop_receipt.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b013662ac83db6fc783213f7eb7d651e075a4bf7",
+      "size": 718,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/b013662ac83db6fc783213f7eb7d651e075a4bf7"
+    },
+    {
+      "path": "data/validation/GOLD403_production_nonphysical_bt_receipt_2026-09-20.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4c2a233eed5016936978669c526cfb9b2f3df307",
+      "size": 612,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/4c2a233eed5016936978669c526cfb9b2f3df307"
+    },
+    {
+      "path": "data/validation/GOLD403_real_background_pilot_2026-09-19.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4fdaa76d58bf3e408d683708d2ef5fd10588a6ee",
+      "size": 2184,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/4fdaa76d58bf3e408d683708d2ef5fd10588a6ee"
+    },
+    {
+      "path": "data/validation/GOLD403_three_object_native_z3_receipt.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "373420ad25a5ed856ab38aaf02ddd3d3da2f7afe",
+      "size": 804,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/373420ad25a5ed856ab38aaf02ddd3d3da2f7afe"
+    },
+    {
+      "path": "data/validation/GOLD403_two_branch_group_summary_2026-10-01.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "46ec44806e26a5086d8cce426e1414bc59dffded",
+      "size": 328,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/46ec44806e26a5086d8cce426e1414bc59dffded"
+    },
+    {
+      "path": "data/validation/GOLD403_two_branch_pilot_receipt_2026-10-01.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6b8d1f639ef00bfc322985194b1cd4fde6fd8731",
+      "size": 405,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/6b8d1f639ef00bfc322985194b1cd4fde6fd8731"
+    },
+    {
+      "path": "data/validation/GOLD403_two_branch_pilot_results_2026-10-01.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5bab6fca8972cea5a36254b6270158d4f5e49f42",
+      "size": 15029,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/5bab6fca8972cea5a36254b6270158d4f5e49f42"
+    },
+    {
+      "path": "data/validation/bagpipes_sfh_robustness_2026-09-26",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ffb87ca3555641e436efc7979dc10202c0517546",
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/trees/ffb87ca3555641e436efc7979dc10202c0517546"
+    },
+    {
+      "path": "data/validation/bagpipes_sfh_robustness_2026-09-26/SFH_model_fit_quality.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0cf6f463554cb761ffe686fc1e846ce933c59ca4",
+      "size": 1044,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/0cf6f463554cb761ffe686fc1e846ce933c59ca4"
+    },
+    {
+      "path": "data/validation/bagpipes_sfh_robustness_2026-09-26/SFH_model_gbag_draws.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e6df6937783f63ac7015a0b1b641a464d262171d",
+      "size": 102001,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/e6df6937783f63ac7015a0b1b641a464d262171d"
+    },
+    {
+      "path": "data/validation/bagpipes_sfh_robustness_2026-09-26/SFH_model_gbag_summary.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a1493efd14b82730f7ef88bc5435882f891242f1",
+      "size": 1590,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/a1493efd14b82730f7ef88bc5435882f891242f1"
+    },
+    {
+      "path": "data/validation/bagpipes_sfh_robustness_2026-09-26/SFH_model_robustness_summary.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c9a98f0b4a650dc3c7ea971049052a7ab5a42353",
+      "size": 456,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/c9a98f0b4a650dc3c7ea971049052a7ab5a42353"
+    },
+    {
+      "path": "data/validation/jwst_artificial_redshifting_gold403_regression_receipt.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "13b4f88d27c7f90b849a9f32467e598e0667ce64",
+      "size": 1137,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/13b4f88d27c7f90b849a9f32467e598e0667ce64"
+    },
+    {
+      "path": "data/validation/jwst_artificial_redshifting_notebook_demo_receipt.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4084cbca60f5c7462c936d9042bfd12d851d7017",
+      "size": 1324,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/4084cbca60f5c7462c936d9042bfd12d851d7017"
+    },
+    {
+      "path": "data/validation/jwst_artificial_redshifting_notebook_negative_tests.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a3e8c57a840c32a030710310a18dd12bf075fc9a",
+      "size": 1399,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/a3e8c57a840c32a030710310a18dd12bf075fc9a"
+    },
+    {
+      "path": "docs",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5d2816163b306349d6d0aee0bb594ec61842d2b7",
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/trees/5d2816163b306349d6d0aee0bb594ec61842d2b7"
+    },
+    {
+      "path": "docs/BAGPIPES_SFH_ROBUSTNESS_2026-09-26.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be282761c0284e62264ece9c32a8e60dc0867378",
+      "size": 11812,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/be282761c0284e62264ece9c32a8e60dc0867378"
+    },
+    {
+      "path": "docs/BENCHMARK_DATASETS.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be58d849556c978ce238ed6a919e674d0cd76283",
+      "size": 5053,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/be58d849556c978ce238ed6a919e674d0cd76283"
+    },
+    {
+      "path": "docs/CLEAN_SWEEP_2026-09-19.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7f8dbaaad33ef2872faed24dd42c1f7a11dfc085",
+      "size": 2505,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/7f8dbaaad33ef2872faed24dd42c1f7a11dfc085"
+    },
+    {
+      "path": "docs/COLLABORATOR_HANDOFF.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "282de3289a64be0add32dea44a87cff23ca33d3e",
+      "size": 2290,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/282de3289a64be0add32dea44a87cff23ca33d3e"
+    },
+    {
+      "path": "docs/CONTROLLED_RECOVERY_2026-09-19.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "03a702c15c16cd6b1575b0f9df53982ad460e7dd",
+      "size": 1812,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/03a702c15c16cd6b1575b0f9df53982ad460e7dd"
+    },
+    {
+      "path": "docs/CORRECTED_TWO_BRANCH_PILOT_2026-10-01.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7dae8ec5ef0843e6e1206dd6e60efa71779a5f6",
+      "size": 5361,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/a7dae8ec5ef0843e6e1206dd6e60efa71779a5f6"
+    },
+    {
+      "path": "docs/CROSS_CODE_VERIFICATION_PLAN.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba4e7dc442adb4a318ddf5b76620887437321dce",
+      "size": 7659,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/ba4e7dc442adb4a318ddf5b76620887437321dce"
+    },
+    {
+      "path": "docs/GOLD403_FINAL_REDSHIFT_DISTRIBUTION_2026-09-21.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2dbbdbee93c9f9f7a71f62498b2b063d27f55392",
+      "size": 2911,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/2dbbdbee93c9f9f7a71f62498b2b063d27f55392"
+    },
+    {
+      "path": "docs/GOLD403_Z3_MODEL_ONLY.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be3339e21ee9ec88d4abb6fcba1ffe1f13495274",
+      "size": 1641,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/be3339e21ee9ec88d4abb6fcba1ffe1f13495274"
+    },
+    {
+      "path": "docs/INDEX.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d64625981d2bd9d33ce7d700eb1acd52c03882c4",
+      "size": 4541,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/d64625981d2bd9d33ce7d700eb1acd52c03882c4"
+    },
+    {
+      "path": "docs/JADES_CONFIG_TEMPLATE.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ffba9879283aea32a5f75d7e8806c11dea97d69",
+      "size": 1285,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/6ffba9879283aea32a5f75d7e8806c11dea97d69"
+    },
+    {
+      "path": "docs/JWST_ARTIFICIAL_REDSHIFTING_METHOD_AND_LIMITATIONS.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "85de7912350abb8b7cc8a976e0f259a27d6dc986",
+      "size": 2899,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/85de7912350abb8b7cc8a976e0f259a27d6dc986"
+    },
+    {
+      "path": "docs/JWST_FIELD_ADAPTATION_CHECKLIST.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4390196ab62ba9f5724d6828f5c8da91c016fe3d",
+      "size": 2531,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/4390196ab62ba9f5724d6828f5c8da91c016fe3d"
+    },
+    {
+      "path": "docs/JWST_VALIDATION_PROTOCOL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bcafd581e9def32e6655a1f566c0a022692c996f",
+      "size": 6536,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/bcafd581e9def32e6655a1f566c0a022692c996f"
+    },
+    {
+      "path": "docs/KAGGLE_GOLD91_RUN.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "41193650e5deb2a16d44b9778cd9c8b87050e652",
+      "size": 1705,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/41193650e5deb2a16d44b9778cd9c8b87050e652"
+    },
+    {
+      "path": "docs/LITERATURE_BENCHMARK_PROTOCOLS.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6696d125707669ae35a5b5ff150db883dd993994",
+      "size": 14307,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/6696d125707669ae35a5b5ff150db883dd993994"
+    },
+    {
+      "path": "docs/MATHEMATICAL_VERIFICATION.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a2e893479490c150e3dd0ab20a79d442afcca979",
+      "size": 18785,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/a2e893479490c150e3dd0ab20a79d442afcca979"
+    },
+    {
+      "path": "docs/NEXT_GATES.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d1ce65ced2b6c4e1875e1307d055422c8175dcc5",
+      "size": 5583,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/d1ce65ced2b6c4e1875e1307d055422c8175dcc5"
+    },
+    {
+      "path": "docs/PASSIVE_DISK_END_TO_END_ROADMAP_2026-10-19.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e6b0c880beeac9e52b23b04b99f84b4f3c567e90",
+      "size": 46870,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/e6b0c880beeac9e52b23b04b99f84b4f3c567e90"
+    },
+    {
+      "path": "docs/PASSIVE_DISK_LITERATURE_BACKLOG_2026-10-23.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "89c2c9fa4a0e2184937d0df1887883038124abe0",
+      "size": 19125,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/89c2c9fa4a0e2184937d0df1887883038124abe0"
+    },
+    {
+      "path": "docs/PASSIVE_DISK_Z3_METHOD.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6b23c2ab29077e6e7c2dfb56fc938d03448dc607",
+      "size": 17770,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/6b23c2ab29077e6e7c2dfb56fc938d03448dc607"
+    },
+    {
+      "path": "docs/PRODUCTION_RECEIPT_RECOVERY_2026-09-20.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "57af61dcca32d7ff2e03120a8de73e7b72ebbd5c",
+      "size": 2138,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/57af61dcca32d7ff2e03120a8de73e7b72ebbd5c"
+    },
+    {
+      "path": "docs/REAL_BACKGROUND_PILOT_2026-09-19.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f26d2560ecc6d0c6809c291a66dc9505c6ea506b",
+      "size": 1960,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/f26d2560ecc6d0c6809c291a66dc9505c6ea506b"
+    },
+    {
+      "path": "docs/RECENT_DEVELOPMENTS_2026_08.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e9d1e7567ca3350e37c5106bd54c903dec7e67c7",
+      "size": 3971,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/e9d1e7567ca3350e37c5106bd54c903dec7e67c7"
+    },
+    {
+      "path": "docs/REFERENCES.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "048ef33f7f36921f97ee2afe9b8149e1bdb5040d",
+      "size": 5330,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/048ef33f7f36921f97ee2afe9b8149e1bdb5040d"
+    },
+    {
+      "path": "docs/REPOSITORY_CLEANUP_2026-09-19.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "33a4a352139bc75d3b4b47988e6d148879af5be4",
+      "size": 1411,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/33a4a352139bc75d3b4b47988e6d148879af5be4"
+    },
+    {
+      "path": "docs/RESULTS.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "75f07edf945fff43a906194702352686212c5244",
+      "size": 3476,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/75f07edf945fff43a906194702352686212c5244"
+    },
+    {
+      "path": "docs/RUNBOOK.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f0e530fe92bdcb2402b3323098e617ea671e587",
+      "size": 6805,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/2f0e530fe92bdcb2402b3323098e617ea671e587"
+    },
+    {
+      "path": "docs/STATUS.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "60bcd4f3a1b1dad2b320cd2bf8af54f1f0fe993d",
+      "size": 2819,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/60bcd4f3a1b1dad2b320cd2bf8af54f1f0fe993d"
+    },
+    {
+      "path": "docs/VALIDATION_RESULTS_2026-09-19.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2e7611e6198b03c99d69e51f375c7f6768deb531",
+      "size": 6037,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/2e7611e6198b03c99d69e51f375c7f6768deb531"
+    },
+    {
+      "path": "docs/VERIFICATION_CI_ROUTING.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "59c772018992593c4d6118dcf972e82ba84f370c",
+      "size": 6251,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/59c772018992593c4d6118dcf972e82ba84f370c"
+    },
+    {
+      "path": "docs/superpowers",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b6cde81428fc61a978da1f853f722d2ce11980c4",
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/trees/b6cde81428fc61a978da1f853f722d2ce11980c4"
+    },
+    {
+      "path": "docs/superpowers/plans",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ca9afa7782254912aa50e1347c173256e5ddb3d5",
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/trees/ca9afa7782254912aa50e1347c173256e5ddb3d5"
+    },
+    {
+      "path": "docs/superpowers/plans/2026-09-19-gold403-restartable-sweep.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eaefb1fb6a5e0da584956457a7ad3c5db731ec90",
+      "size": 2800,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/eaefb1fb6a5e0da584956457a7ad3c5db731ec90"
+    },
+    {
+      "path": "docs/superpowers/plans/2026-09-21-self-contained-jwst-artificial-redshifting-notebook.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cddd5f992af72bff918765b907ed1694e82942e6",
+      "size": 16382,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/cddd5f992af72bff918765b907ed1694e82942e6"
+    },
+    {
+      "path": "docs/superpowers/specs",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "57bb34b4332e6ecf95e55519be4f49d5f2c0b3e8",
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/trees/57bb34b4332e6ecf95e55519be4f49d5f2c0b3e8"
+    },
+    {
+      "path": "docs/superpowers/specs/2026-09-19-gold403-restartable-sweep-design.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c4e8b3736ec611efa6a5209a7f25f65974a60304",
+      "size": 1551,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/c4e8b3736ec611efa6a5209a7f25f65974a60304"
+    },
+    {
+      "path": "docs/superpowers/specs/2026-09-21-jwst-artificial-redshifting-notebook-design.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c29aa6d27708c24e5c6d555446ecb49ab9fb5514",
+      "size": 10371,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/c29aa6d27708c24e5c6d555446ecb49ab9fb5514"
+    },
+    {
+      "path": "pyproject.toml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "951f6472d2976de7762e02c4ed6d8a1b0b076306",
+      "size": 807,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/951f6472d2976de7762e02c4ed6d8a1b0b076306"
+    },
+    {
+      "path": "requirements-crosscode-core.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1cc6fd8e87dc8f64fcbd1e528f1d9e55fd0c5ab3",
+      "size": 216,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/1cc6fd8e87dc8f64fcbd1e528f1d9e55fd0c5ab3"
+    },
+    {
+      "path": "requirements-jwst-artificial-redshifting.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "05059a2dae434b4877d324a25264a726a5d07e5b",
+      "size": 242,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/05059a2dae434b4877d324a25264a726a5d07e5b"
+    },
+    {
+      "path": "requirements-passive-disk.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1594c6716ab4d3c7fd65176c882673de0ff5dd33",
+      "size": 315,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/1594c6716ab4d3c7fd65176c882673de0ff5dd33"
+    },
+    {
+      "path": "requirements-verification.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "da9718331481ca87fdffeefe31b8e2cdf3cdda68",
+      "size": 196,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/da9718331481ca87fdffeefe31b8e2cdf3cdda68"
+    },
+    {
+      "path": "run_verification.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c315b4ff0713958ef737bc0303db7f88722e946a",
+      "size": 5610,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/c315b4ff0713958ef737bc0303db7f88722e946a"
+    },
+    {
+      "path": "scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e08e911d83d41c48af3bcbe6961c7a7a6b8ce228",
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/trees/e08e911d83d41c48af3bcbe6961c7a7a6b8ce228"
+    },
+    {
+      "path": "scripts/analyze_final_gold403_redshift_distribution.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c862d3103cfb26012cda856d8d30d0ed3e5b8752",
+      "size": 16313,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/c862d3103cfb26012cda856d8d30d0ed3e5b8752"
+    },
+    {
+      "path": "scripts/analyze_gold403_clean_sweep.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0516de65ad114a61b275ed5c440ea2a02dc4a78c",
+      "size": 19208,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/0516de65ad114a61b275ed5c440ea2a02dc4a78c"
+    },
+    {
+      "path": "scripts/analyze_gold403_controlled_recovery.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5944516c998e37990a8124fcc7f0c4c7ae211037",
+      "size": 8119,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/5944516c998e37990a8124fcc7f0c4c7ae211037"
+    },
+    {
+      "path": "scripts/analyze_gold403_real_background_pilot.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "741eb9346d23d5b2b39ebc7b16d8a5bf2cf1949b",
+      "size": 11381,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/741eb9346d23d5b2b39ebc7b16d8a5bf2cf1949b"
+    },
+    {
+      "path": "scripts/audit_agn_cell_response.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6f7ce57a69bede7e23c5b250e35f27b6ae129796",
+      "size": 5976,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/6f7ce57a69bede7e23c5b250e35f27b6ae129796"
+    },
+    {
+      "path": "scripts/audit_agn_compact_renderer.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0a0bf5fd6d4004e60c461b51961c656bfc986475",
+      "size": 11527,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/0a0bf5fd6d4004e60c461b51961c656bfc986475"
+    },
+    {
+      "path": "scripts/audit_agn_empirical_agn_centroid.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d52cc4661fde61529a33cbd93df2578327ea11e",
+      "size": 9712,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/1d52cc4661fde61529a33cbd93df2578327ea11e"
+    },
+    {
+      "path": "scripts/audit_agn_fourier_grid.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fb0bd85ff5441399d6ea90ede7db18e863cfa1e9",
+      "size": 10418,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/fb0bd85ff5441399d6ea90ede7db18e863cfa1e9"
+    },
+    {
+      "path": "scripts/audit_agn_fourier_local.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7702ca752ccaa85e66198892d9beb769b2c83d7c",
+      "size": 7325,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/7702ca752ccaa85e66198892d9beb769b2c83d7c"
+    },
+    {
+      "path": "scripts/audit_agn_imfit_bounded.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9e28396d2e37674f9f49384acd3c2ab1f4ae8302",
+      "size": 257,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/9e28396d2e37674f9f49384acd3c2ab1f4ae8302"
+    },
+    {
+      "path": "scripts/audit_agn_imfit_free_shape.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "47314c7dbb33afdca4cedff2156dcd4108ab9abe",
+      "size": 3556,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/47314c7dbb33afdca4cedff2156dcd4108ab9abe"
+    },
+    {
+      "path": "scripts/audit_agn_imfit_global_search.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac351c42ea583ce4bd8fd2c727396459350adf82",
+      "size": 2661,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/ac351c42ea583ce4bd8fd2c727396459350adf82"
+    },
+    {
+      "path": "scripts/audit_agn_imfit_optimizer_path.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "719f08f64c73682064a86ad43794a15b4fe69016",
+      "size": 2555,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/719f08f64c73682064a86ad43794a15b4fe69016"
+    },
+    {
+      "path": "scripts/audit_agn_imfit_refinement.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9beed6ad39b71d609dbc270e6d4e3c42d4a6d6b9",
+      "size": 5256,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/9beed6ad39b71d609dbc270e6d4e3c42d4a6d6b9"
+    },
+    {
+      "path": "scripts/audit_agn_imfit_renderer.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a1ffddfecb42c19a1da6e1afc909b20452930ab3",
+      "size": 10929,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/a1ffddfecb42c19a1da6e1afc909b20452930ab3"
+    },
+    {
+      "path": "scripts/audit_agn_imfit_wrong_psf_free_shape.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5a9d21054c5c1240372c8ad4ec263a750f34d61e",
+      "size": 3968,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/5a9d21054c5c1240372c8ad4ec263a750f34d61e"
+    },
+    {
+      "path": "scripts/audit_chromatic_source_sed_mismatch.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e56b99561b3a8dde47e45df72cc015f5343d5045",
+      "size": 1730,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/e56b99561b3a8dde47e45df72cc015f5343d5045"
+    },
+    {
+      "path": "scripts/audit_dewsnap_astrophot_common_scene.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "17ef244048aceefaa4c5f26e1812c158d72a1bb1",
+      "size": 4610,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/17ef244048aceefaa4c5f26e1812c158d72a1bb1"
+    },
+    {
+      "path": "scripts/audit_dewsnap_astrophot_psf_mismatch.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b35fdf353e496f5affdbde6bdaf1ab45b6d37120",
+      "size": 2046,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/b35fdf353e496f5affdbde6bdaf1ab45b6d37120"
+    },
+    {
+      "path": "scripts/audit_dewsnap_astrophot_psf_preflight.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4662d067bae4185a97c360015476b5e3222744a9",
+      "size": 2197,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/4662d067bae4185a97c360015476b5e3222744a9"
+    },
+    {
+      "path": "scripts/audit_gate_d_cosmosweb_embedded_asdf.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6522468f0227b8e76b9f3092af82ca6752f07e61",
+      "size": 8271,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/6522468f0227b8e76b9f3092af82ca6752f07e61"
+    },
+    {
+      "path": "scripts/audit_gate_d_cosmosweb_exposure_provenance_preflight.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d7df40130a23ebd05353afbafc4350c7b42543bc",
+      "size": 10412,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/d7df40130a23ebd05353afbafc4350c7b42543bc"
+    },
+    {
+      "path": "scripts/audit_gate_d_cosmosweb_local_mosaic_pixel_provenance.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "97cd2bd0c8f78883e62c13eb40069765ebe4a1c7",
+      "size": 7409,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/97cd2bd0c8f78883e62c13eb40069765ebe4a1c7"
+    },
+    {
+      "path": "scripts/audit_gate_d_cosmosweb_real_context.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5aa774ea5bf0c687fd215bdcc496d3bf4ea3f343",
+      "size": 4407,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/5aa774ea5bf0c687fd215bdcc496d3bf4ea3f343"
+    },
+    {
+      "path": "scripts/audit_gate_d_cosmosweb_resample_metadata.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8cafe46fc3bb44bcb87a5e0f5e7abea2f172f40a",
+      "size": 9011,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/8cafe46fc3bb44bcb87a5e0f5e7abea2f172f40a"
+    },
+    {
+      "path": "scripts/audit_gate_d_cosmosweb_source_shot_covariance_preflight.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "36eb459fa0187f665d5ebee02a5fea11cd7f0211",
+      "size": 7748,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/36eb459fa0187f665d5ebee02a5fea11cd7f0211"
+    },
+    {
+      "path": "scripts/audit_paulino_afonso_fitter_sampling.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "14cfacd33ae4c33c7d4c309a1ef1ed937a7df27a",
+      "size": 7761,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/14cfacd33ae4c33c7d4c309a1ef1ed937a7df27a"
+    },
+    {
+      "path": "scripts/audit_paulino_afonso_full_chain_information.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "70d7704b51f69e237c84aacb354135dac8ad5037",
+      "size": 4386,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/70d7704b51f69e237c84aacb354135dac8ad5037"
+    },
+    {
+      "path": "scripts/audit_paulino_afonso_transfer_centering.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "61efdf471f7bb8cfe91f3888d131d4f1c0cb8624",
+      "size": 6235,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/61efdf471f7bb8cfe91f3888d131d4f1c0cb8624"
+    },
+    {
+      "path": "scripts/audit_pyautogalaxy_morphology_preflight.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "6a6415d0643f48c54c3655ddaa539ba3ef06d3ac",
+      "size": 1442,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/6a6415d0643f48c54c3655ddaa539ba3ef06d3ac"
+    },
+    {
+      "path": "scripts/audit_pyautogalaxy_morphology_recovery.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b832c6fa351da880a7290e8cfafb7a737649f165",
+      "size": 1897,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/b832c6fa351da880a7290e8cfafb7a737649f165"
+    },
+    {
+      "path": "scripts/diagnose_paulino_afonso_bulge_disk_stability.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "703944095a50566717c453c33f11d25828d6905b",
+      "size": 9297,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/703944095a50566717c453c33f11d25828d6905b"
+    },
+    {
+      "path": "scripts/diagnose_paulino_afonso_centered_pixel_integration.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f5fd6d399044167abd0251ddff5965f5db4f3017",
+      "size": 8793,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/f5fd6d399044167abd0251ddff5965f5db4f3017"
+    },
+    {
+      "path": "scripts/diagnose_paulino_afonso_fitter_render_floor.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b9adadd18ea111696348cb178047a83db60cdebc",
+      "size": 9303,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/b9adadd18ea111696348cb178047a83db60cdebc"
+    },
+    {
+      "path": "scripts/fetch_zhuang_shen_benchmark.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7061d4b4f6b7360161819778d21320f4ea8182d5",
+      "size": 4710,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/7061d4b4f6b7360161819778d21320f4ea8182d5"
+    },
+    {
+      "path": "scripts/gold403_restartable_sweep.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db9f725a980049e148c07b166f6459e2cbd2515f",
+      "size": 9745,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/db9f725a980049e148c07b166f6459e2cbd2515f"
+    },
+    {
+      "path": "scripts/gold403_validation_notebook_cells.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb12bde95790e51804ac3f488f2c81342a474da4",
+      "size": 60138,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/eb12bde95790e51804ac3f488f2c81342a474da4"
+    },
+    {
+      "path": "scripts/inspect_jwst_crds_nircam.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f7653927dd1e77d374f0ff43c82b5d027d398d65",
+      "size": 6829,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/f7653927dd1e77d374f0ff43c82b5d027d398d65"
+    },
+    {
+      "path": "scripts/inspect_jwst_drizzle_covariance.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "15d37b63a049a82e11681aebc680d99405df9d9e",
+      "size": 11799,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/15d37b63a049a82e11681aebc680d99405df9d9e"
+    },
+    {
+      "path": "scripts/review_agn_fourier_grid_ci.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e21a8f148682177f3a8aa000d160aa00229865a6",
+      "size": 3131,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/e21a8f148682177f3a8aa000d160aa00229865a6"
+    },
+    {
+      "path": "scripts/run_agn_cell_response.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "559f923474b0907a6dca158961268b8a2bccb86c",
+      "size": 9531,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/559f923474b0907a6dca158961268b8a2bccb86c"
+    },
+    {
+      "path": "scripts/run_agn_compact_renderer.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c1032bd7f9fd163025417f39bcfdeb4d50f9a049",
+      "size": 17527,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/c1032bd7f9fd163025417f39bcfdeb4d50f9a049"
+    },
+    {
+      "path": "scripts/run_agn_cross_sampling.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6b90d31dcd44b9ddb7565c0917b8b1b7dea24366",
+      "size": 3823,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/6b90d31dcd44b9ddb7565c0917b8b1b7dea24366"
+    },
+    {
+      "path": "scripts/run_agn_empirical_agn_centroid.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d816068b5a99e8e18011209b8a00d5eee88749a",
+      "size": 11739,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/0d816068b5a99e8e18011209b8a00d5eee88749a"
+    },
+    {
+      "path": "scripts/run_agn_empirical_psf_centroid.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "19167d0330e2f4375163731fe715651c09710129",
+      "size": 6714,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/19167d0330e2f4375163731fe715651c09710129"
+    },
+    {
+      "path": "scripts/run_agn_empirical_psf_phase.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ce42631d8f7416ae24f7e6038fb35a464dae8ec0",
+      "size": 14637,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/ce42631d8f7416ae24f7e6038fb35a464dae8ec0"
+    },
+    {
+      "path": "scripts/run_agn_empirical_psf_transfer.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "210799b10970cb0d4fc7e70b9a2775891aeb0d24",
+      "size": 15529,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/210799b10970cb0d4fc7e70b9a2775891aeb0d24"
+    },
+    {
+      "path": "scripts/run_agn_estimated_weights.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "89091156ebbfb96eb955b095ff84f4257a9a4ce3",
+      "size": 5010,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/89091156ebbfb96eb955b095ff84f4257a9a4ce3"
+    },
+    {
+      "path": "scripts/run_agn_fourier_controls.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3c0288c3023e389810959ee4f44ea98099945c76",
+      "size": 16636,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/3c0288c3023e389810959ee4f44ea98099945c76"
+    },
+    {
+      "path": "scripts/run_agn_fourier_grid.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5b110b727db3dabb883efc4db599875ed3654f45",
+      "size": 10136,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/5b110b727db3dabb883efc4db599875ed3654f45"
+    },
+    {
+      "path": "scripts/run_agn_galsim.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a6b8000758e314d684ff108f8d4fdd791aa5a7d4",
+      "size": 5257,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/a6b8000758e314d684ff108f8d4fdd791aa5a7d4"
+    },
+    {
+      "path": "scripts/run_agn_imfit_bounded.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b91e820a01962e8debe45dc0c2aeb40160495ba9",
+      "size": 1117,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/b91e820a01962e8debe45dc0c2aeb40160495ba9"
+    },
+    {
+      "path": "scripts/run_agn_imfit_free_shape.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0241c7c59b45bae1c235b9c9a317c48de38adb16",
+      "size": 11346,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/0241c7c59b45bae1c235b9c9a317c48de38adb16"
+    },
+    {
+      "path": "scripts/run_agn_imfit_global_search.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b44973a95b73b356d5551f5088ce7f03a191d6ff",
+      "size": 4277,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/b44973a95b73b356d5551f5088ce7f03a191d6ff"
+    },
+    {
+      "path": "scripts/run_agn_imfit_optimizer_path.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c6dcdfb13496b6166c41a75639d7b5ceaaa26a36",
+      "size": 7285,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/c6dcdfb13496b6166c41a75639d7b5ceaaa26a36"
+    },
+    {
+      "path": "scripts/run_agn_imfit_refinement.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4a447c7b405c23a41736be866830f0705f9dd900",
+      "size": 8748,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/4a447c7b405c23a41736be866830f0705f9dd900"
+    },
+    {
+      "path": "scripts/run_agn_imfit_renderer.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6a759c092c7ca8e7ccedc550694c7e542d392f91",
+      "size": 17479,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/6a759c092c7ca8e7ccedc550694c7e542d392f91"
+    },
+    {
+      "path": "scripts/run_agn_imfit_wrong_psf_free_shape.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b1294babda79589657e217717fd5edcf595d095",
+      "size": 6147,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/7b1294babda79589657e217717fd5edcf595d095"
+    },
+    {
+      "path": "scripts/run_agn_n_profile.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "529b023088ec2a72ec551405b0bdd0af6601c779",
+      "size": 5002,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/529b023088ec2a72ec551405b0bdd0af6601c779"
+    },
+    {
+      "path": "scripts/run_agn_noise_ensemble.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3e4b93237c3f51841a06e122de6c112367131cb9",
+      "size": 5519,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/3e4b93237c3f51841a06e122de6c112367131cb9"
+    },
+    {
+      "path": "scripts/run_agn_noise_pilot.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b25443eb4c8dc314030aada6f7eb1d5d1d7b88f4",
+      "size": 4822,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/b25443eb4c8dc314030aada6f7eb1d5d1d7b88f4"
+    },
+    {
+      "path": "scripts/run_agn_nuclear_fraction_anchor.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1e56b5f515d3a6072f4672d27e1a0d69f833f653",
+      "size": 534,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/1e56b5f515d3a6072f4672d27e1a0d69f833f653"
+    },
+    {
+      "path": "scripts/run_agn_nuclear_fraction_noiseless.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c866d164db5ecbddb71ee375284c479b69fea1e7",
+      "size": 9576,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/c866d164db5ecbddb71ee375284c479b69fea1e7"
+    },
+    {
+      "path": "scripts/run_agn_psf_de.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a2c58515c0f4c5cbfda982f6bd675bbbaaa65dd2",
+      "size": 9214,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/a2c58515c0f4c5cbfda982f6bd675bbbaaa65dd2"
+    },
+    {
+      "path": "scripts/run_agn_psf_plateau.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f8e004a0d6fb2cab4311b26280522e91dd577053",
+      "size": 6583,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/f8e004a0d6fb2cab4311b26280522e91dd577053"
+    },
+    {
+      "path": "scripts/run_agn_psf_width.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "15d1eb3d66944d50091965ff741afdefd4dc7907",
+      "size": 4304,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/15d1eb3d66944d50091965ff741afdefd4dc7907"
+    },
+    {
+      "path": "scripts/run_agn_sampling.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0b5ab3578c58827385127a6d666b873ac8645574",
+      "size": 3217,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/0b5ab3578c58827385127a6d666b873ac8645574"
+    },
+    {
+      "path": "scripts/run_agn_shot_noise.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5110aa9e4a16217e81885de8df953f2fbeb396d0",
+      "size": 6172,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/5110aa9e4a16217e81885de8df953f2fbeb396d0"
+    },
+    {
+      "path": "scripts/run_chromatic_source_sed_mismatch.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4820cbfdbba85edbe22f7d07c03e6033106c0534",
+      "size": 4763,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/4820cbfdbba85edbe22f7d07c03e6033106c0534"
+    },
+    {
+      "path": "scripts/run_dewsnap_astrophot_common_scene.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5541ce0fc2bc58c9e94f4b343a49510eda43f56e",
+      "size": 14341,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/5541ce0fc2bc58c9e94f4b343a49510eda43f56e"
+    },
+    {
+      "path": "scripts/run_dewsnap_astrophot_psf_mismatch.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0fab54cd92add169f28425bad450fbb534aef744",
+      "size": 6664,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/0fab54cd92add169f28425bad450fbb534aef744"
+    },
+    {
+      "path": "scripts/run_dewsnap_astrophot_psf_preflight.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "712cb7292795b39ceb793ffe4113dc173d45feae",
+      "size": 3481,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/712cb7292795b39ceb793ffe4113dc173d45feae"
+    },
+    {
+      "path": "scripts/run_ferengi_noise_benchmark.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e2ddf030398c9440ae96a3b1bd349ed5d9c7db56",
+      "size": 1055,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/e2ddf030398c9440ae96a3b1bd349ed5d9c7db56"
+    },
+    {
+      "path": "scripts/run_ferengi_synthetic_benchmark.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d06a175349ded646dc532f7f33a9a4ecda537e23",
+      "size": 1667,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/d06a175349ded646dc532f7f33a9a4ecda537e23"
+    },
+    {
+      "path": "scripts/run_gate_d_cosmosweb_access_preflight.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "1a06eca33dd2d09cdc83305944f7e5e232d12777",
+      "size": 3223,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/1a06eca33dd2d09cdc83305944f7e5e232d12777"
+    },
+    {
+      "path": "scripts/run_gate_d_cosmosweb_background_residual_audit.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8c66fda60b1cf6e6884d4d45dba1a004b8d89271",
+      "size": 8819,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/8c66fda60b1cf6e6884d4d45dba1a004b8d89271"
+    },
+    {
+      "path": "scripts/run_gate_d_cosmosweb_deblended_neighbour_templates.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a04c36f2430a98f3671f6a03e678caae59884327",
+      "size": 7398,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/a04c36f2430a98f3671f6a03e678caae59884327"
+    },
+    {
+      "path": "scripts/run_gate_d_cosmosweb_empirical_psf_support.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "aa49c6a7bc1a249844fcb6b17db04c836790f31b",
+      "size": 9982,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/aa49c6a7bc1a249844fcb6b17db04c836790f31b"
+    },
+    {
+      "path": "scripts/run_gate_d_cosmosweb_forced_recovery.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "84608cf937bb3471e7a5e8aa7a481e45bbbfb3a7",
+      "size": 5880,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/84608cf937bb3471e7a5e8aa7a481e45bbbfb3a7"
+    },
+    {
+      "path": "scripts/run_gate_d_cosmosweb_frozen_prefit_neighbour_scene.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dd0adeb7add9eb673390c7cbfab9da2d54006212",
+      "size": 14600,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/dd0adeb7add9eb673390c7cbfab9da2d54006212"
+    },
+    {
+      "path": "scripts/run_gate_d_cosmosweb_gaia_psf_vetting.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "954ed12c0db37ada31beb4d2da35c9fb015df66e",
+      "size": 9434,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/954ed12c0db37ada31beb4d2da35c9fb015df66e"
+    },
+    {
+      "path": "scripts/run_gate_d_cosmosweb_local_ingest.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e63f1ec1a17193a67f5da757c0db087c33f6aefd",
+      "size": 4707,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/e63f1ec1a17193a67f5da757c0db087c33f6aefd"
+    },
+    {
+      "path": "scripts/run_gate_d_cosmosweb_moment_neighbour_templates.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a32181b781fa41ffb8881a3e617093006c60efce",
+      "size": 11129,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/a32181b781fa41ffb8881a3e617093006c60efce"
+    },
+    {
+      "path": "scripts/run_gate_d_cosmosweb_multistart_identifiability.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "744c0de659fd38f4b00d4281289bc2d6eb5144f5",
+      "size": 9143,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/744c0de659fd38f4b00d4281289bc2d6eb5144f5"
+    },
+    {
+      "path": "scripts/run_gate_d_cosmosweb_neighbour_mask_control.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "150241561ce866a9b32051305c1d9aec22a9de39",
+      "size": 5071,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/150241561ce866a9b32051305c1d9aec22a9de39"
+    },
+    {
+      "path": "scripts/run_gate_d_cosmosweb_neighbour_support_growth.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f2a4fcb312278d6e24a5a1679895225f348ecb11",
+      "size": 10435,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/f2a4fcb312278d6e24a5a1679895225f348ecb11"
+    },
+    {
+      "path": "scripts/run_gate_d_cosmosweb_paired_difference_control.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "531b1b9fde6ebf0de0d9d771a1709f72f3a1ef8c",
+      "size": 3378,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/531b1b9fde6ebf0de0d9d771a1709f72f3a1ef8c"
+    },
+    {
+      "path": "scripts/run_gate_d_cosmosweb_parametric_neighbour_sersic.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fcac3f690a5135b5dd45bcd34d094c66f7f01db8",
+      "size": 17538,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/fcac3f690a5135b5dd45bcd34d094c66f7f01db8"
+    },
+    {
+      "path": "scripts/run_gate_d_cosmosweb_psf_field_bracket.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "dcf7d6418e717dfc4838514314dce6906bc15aa4",
+      "size": 5181,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/dcf7d6418e717dfc4838514314dce6906bc15aa4"
+    },
+    {
+      "path": "scripts/run_gate_d_cosmosweb_published_empirical_psf.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab8b95a3c62771299dfc2af1a122b48e6ee81b33",
+      "size": 6546,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/ab8b95a3c62771299dfc2af1a122b48e6ee81b33"
+    },
+    {
+      "path": "scripts/run_gate_d_cosmosweb_published_psf_paired_oracle.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0276e30184413d4e7a88d4ae0657eeae893a32e6",
+      "size": 10444,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/0276e30184413d4e7a88d4ae0657eeae893a32e6"
+    },
+    {
+      "path": "scripts/run_gate_d_cosmosweb_real_injection.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "1a9de555d8f00266a8d308b9a98d228a17392187",
+      "size": 8542,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/1a9de555d8f00266a8d308b9a98d228a17392187"
+    },
+    {
+      "path": "scripts/run_gate_d_cosmosweb_remote_cutout.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd9ac50585aef2462a0beda7851daeb4dacc4868",
+      "size": 13268,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/cd9ac50585aef2462a0beda7851daeb4dacc4868"
+    },
+    {
+      "path": "scripts/run_gate_d_cosmosweb_residual_dose.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "13c11095a73dd92ad162ae1fa75946e6314bd799",
+      "size": 7669,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/13c11095a73dd92ad162ae1fa75946e6314bd799"
+    },
+    {
+      "path": "scripts/run_gate_d_cosmosweb_residual_tangent.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "15b4ae5a2715fa3f2aeef3ac56bebc2d79f38973",
+      "size": 10327,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/15b4ae5a2715fa3f2aeef3ac56bebc2d79f38973"
+    },
+    {
+      "path": "scripts/run_gate_d_cosmosweb_residual_tangent_split.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7e1253201be1b2d6bd78d49b909d7b1ddaa3b7d1",
+      "size": 11401,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/7e1253201be1b2d6bd78d49b909d7b1ddaa3b7d1"
+    },
+    {
+      "path": "scripts/run_gate_d_cosmosweb_simultaneous_neighbour_templates.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f2f70e80f423e4b58324a06d4a7e8a73d3e40388",
+      "size": 9214,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/f2f70e80f423e4b58324a06d4a7e8a73d3e40388"
+    },
+    {
+      "path": "scripts/run_gold403_controlled_recovery_diagnostics.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b8057a2a741b0eebbcd414ede292da650a587648",
+      "size": 18759,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/b8057a2a741b0eebbcd414ede292da650a587648"
+    },
+    {
+      "path": "scripts/run_gold403_full_production.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6337ea4cdba63f86f3416640ad8a79afa6cd0de7",
+      "size": 2990,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/6337ea4cdba63f86f3416640ad8a79afa6cd0de7"
+    },
+    {
+      "path": "scripts/run_gold403_real_background_pilot.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "233d730cbff61e74f147b0f4f39668821396886c",
+      "size": 14430,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/233d730cbff61e74f147b0f4f39668821396886c"
+    },
+    {
+      "path": "scripts/run_gold403_restartable_clean_sweep.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b2f5188f85cfa99028671dc56a09aab2fdb30b9",
+      "size": 10559,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/7b2f5188f85cfa99028671dc56a09aab2fdb30b9"
+    },
+    {
+      "path": "scripts/run_gold403_z3_model.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16a69f011c62d28fb1cc1b0fe07e28587bc56788",
+      "size": 1664,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/16a69f011c62d28fb1cc1b0fe07e28587bc56788"
+    },
+    {
+      "path": "scripts/run_passive_spiral_mask_control_p4.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1288f0e95d50433ab8aef46203656ef80097bf2a",
+      "size": 4576,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/1288f0e95d50433ab8aef46203656ef80097bf2a"
+    },
+    {
+      "path": "scripts/run_passive_spiral_phase_null_p3.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf302f91074891f1c80efed5bbcc16fef05f34b6",
+      "size": 3837,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/cf302f91074891f1c80efed5bbcc16fef05f34b6"
+    },
+    {
+      "path": "scripts/run_passive_spiral_real_context_p2.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0887f056f1bc0691c79406d4994fa91506175478",
+      "size": 6725,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/0887f056f1bc0691c79406d4994fa91506175478"
+    },
+    {
+      "path": "scripts/run_passive_spiral_redshift_p1.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab1dbdf3c1463a1fd8ffb23fdcf1fe35a72f0053",
+      "size": 1656,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/ab1dbdf3c1463a1fd8ffb23fdcf1fe35a72f0053"
+    },
+    {
+      "path": "scripts/run_passive_spiral_robust_loss_p5.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d5f7c6f0864c0e6c280168e104804503d774e0e3",
+      "size": 5671,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/d5f7c6f0864c0e6c280168e104804503d774e0e3"
+    },
+    {
+      "path": "scripts/run_paulino_afonso_2017_anchor_benchmark.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6f1fa738cabebad44021e2eea979ffe9feca5715",
+      "size": 2227,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/6f1fa738cabebad44021e2eea979ffe9feca5715"
+    },
+    {
+      "path": "scripts/run_paulino_afonso_bulge_disk_model_mismatch.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "65fe1cf66aac7934d47aaf59caf530abc1a9ce88",
+      "size": 8729,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/65fe1cf66aac7934d47aaf59caf530abc1a9ce88"
+    },
+    {
+      "path": "scripts/run_paulino_afonso_bulge_disk_noisy_ensemble.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f300476c0b04f0697c0414a54df96fcb0ff97bcb",
+      "size": 14407,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/f300476c0b04f0697c0414a54df96fcb0ff97bcb"
+    },
+    {
+      "path": "scripts/run_paulino_afonso_full_chain_califa.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "56f0f3921d55c9376c0077f4fcaba3afa24ace3a",
+      "size": 11692,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/56f0f3921d55c9376c0077f4fcaba3afa24ace3a"
+    },
+    {
+      "path": "scripts/run_paulino_afonso_full_chain_morphology_recovery.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f3097fbc87f0bea77f55d26c071af4e437d8f049",
+      "size": 7025,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/f3097fbc87f0bea77f55d26c071af4e437d8f049"
+    },
+    {
+      "path": "scripts/run_paulino_afonso_full_chain_noisy_morphology.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b07565e317865933b4ca9ba14dcba591a1722c5",
+      "size": 7123,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/7b07565e317865933b4ca9ba14dcba591a1722c5"
+    },
+    {
+      "path": "scripts/run_paulino_afonso_high_n_pixel_integration_surface.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "baaeef470801ceba47b5982e7eb687d1249272f1",
+      "size": 11387,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/baaeef470801ceba47b5982e7eb687d1249272f1"
+    },
+    {
+      "path": "scripts/run_paulino_afonso_independent_optimizer.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9e1535dc2e4e59521c07bf772aa49f66276e90d",
+      "size": 6290,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/d9e1535dc2e4e59521c07bf772aa49f66276e90d"
+    },
+    {
+      "path": "scripts/run_paulino_afonso_jacobian_diagnosis.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a8c3c6677c82552356b3680dd0a4631867a80423",
+      "size": 8564,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/a8c3c6677c82552356b3680dd0a4631867a80423"
+    },
+    {
+      "path": "scripts/run_paulino_afonso_multistart_3point.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "de82505af33566c4bfc883ce23177b591029ed70",
+      "size": 7078,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/de82505af33566c4bfc883ce23177b591029ed70"
+    },
+    {
+      "path": "scripts/run_paulino_afonso_multistart_allcase_noiseless.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "642b95a6534c2391117987424684e132e05a9be9",
+      "size": 9108,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/642b95a6534c2391117987424684e132e05a9be9"
+    },
+    {
+      "path": "scripts/run_paulino_afonso_noiseless_identifiability.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2b69174e9cf6d0783c30c0f42d1efb21f9c8219b",
+      "size": 5835,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/2b69174e9cf6d0783c30c0f42d1efb21f9c8219b"
+    },
+    {
+      "path": "scripts/run_paulino_afonso_noisy_operational_multistart.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "08d3ad715f25ff3908159efad67f52fe17b381e2",
+      "size": 11127,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/08d3ad715f25ff3908159efad67f52fe17b381e2"
+    },
+    {
+      "path": "scripts/run_paulino_afonso_operational_multistart.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "270b191b8132e161c897385a2d7b27b7d1df1421",
+      "size": 8140,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/270b191b8132e161c897385a2d7b27b7d1df1421"
+    },
+    {
+      "path": "scripts/run_paulino_afonso_optimizer_diagnosis.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b89db9501a17433f57e448f166ee7d9e4bf4a607",
+      "size": 4354,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/b89db9501a17433f57e448f166ee7d9e4bf4a607"
+    },
+    {
+      "path": "scripts/run_paulino_afonso_parameterization_diagnosis.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "450d10800e46dc70c88a7674d0513009ec6cd3ba",
+      "size": 7074,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/450d10800e46dc70c88a7674d0513009ec6cd3ba"
+    },
+    {
+      "path": "scripts/run_paulino_afonso_pixel_integrated_full_single_sersic.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "787284fea2f1c2373e9d185624051c8d62b2469e",
+      "size": 8551,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/787284fea2f1c2373e9d185624051c8d62b2469e"
+    },
+    {
+      "path": "scripts/run_paulino_afonso_pixel_integrated_noisy_single_sersic.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6627ed65c6d918ea49c7c7cd124509f5091c2343",
+      "size": 10676,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/6627ed65c6d918ea49c7c7cd124509f5091c2343"
+    },
+    {
+      "path": "scripts/run_paulino_afonso_pixel_integrated_structural_fitter.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "96785c82186491c8b47491beb3cb2b22e8a631b4",
+      "size": 9084,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/96785c82186491c8b47491beb3cb2b22e8a631b4"
+    },
+    {
+      "path": "scripts/run_paulino_afonso_psf_feasibility_audit.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b25f7e58204d2212667b055dd1bb4897f896731b",
+      "size": 4568,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/b25f7e58204d2212667b055dd1bb4897f896731b"
+    },
+    {
+      "path": "scripts/run_paulino_afonso_psf_transfer_operator.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "599a77feefa881c5803f9dfec348f302a9e8e0fc",
+      "size": 7284,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/599a77feefa881c5803f9dfec348f302a9e8e0fc"
+    },
+    {
+      "path": "scripts/run_paulino_afonso_psf_transfer_sampling_diagnosis.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "71ab145004078e6db290cb3fe0b8ac423efb5142",
+      "size": 7757,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/71ab145004078e6db290cb3fe0b8ac423efb5142"
+    },
+    {
+      "path": "scripts/run_paulino_afonso_sersic_floor.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f8e50b5e980984d0b59390c658c982fc1c8f70f5",
+      "size": 2397,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/f8e50b5e980984d0b59390c658c982fc1c8f70f5"
+    },
+    {
+      "path": "scripts/run_paulino_afonso_solver_convergence.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7bd6a9de740a5cef583e56681c7031d53d574da7",
+      "size": 6471,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/7bd6a9de740a5cef583e56681c7031d53d574da7"
+    },
+    {
+      "path": "scripts/run_pyautogalaxy_morphology_preflight.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "6cd9126e3e04ea9ac92cabf37631121e7e35344c",
+      "size": 5605,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/6cd9126e3e04ea9ac92cabf37631121e7e35344c"
+    },
+    {
+      "path": "scripts/run_pyautogalaxy_morphology_recovery.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "04a41609027410a669a73155379501547b6cbc99",
+      "size": 8346,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/04a41609027410a669a73155379501547b6cbc99"
+    },
+    {
+      "path": "scripts/run_yu_2023_anchor_benchmark.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9fc7ce6ddb75d72b7581daac7576a65f409f5148",
+      "size": 1198,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/9fc7ce6ddb75d72b7581daac7576a65f409f5148"
+    },
+    {
+      "path": "scripts/run_yu_2023_noisy_resolvedness.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a8945ce6b2eb306d39b9c0036e06bbb69f4a8067",
+      "size": 22975,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/a8945ce6b2eb306d39b9c0036e06bbb69f4a8067"
+    },
+    {
+      "path": "scripts/run_yu_2023_noisy_resolvedness_support_corrected.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "85b3bf2a6371bf7742c4a73a38fb194510f0f2ff",
+      "size": 5337,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/85b3bf2a6371bf7742c4a73a38fb194510f0f2ff"
+    },
+    {
+      "path": "scripts/run_yu_2023_psf_only_resolvedness.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "da4de1670409f49f2abb854f039f10cfbde4fe2d",
+      "size": 12636,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/da4de1670409f49f2abb854f039f10cfbde4fe2d"
+    },
+    {
+      "path": "scripts/run_yu_2023_stpsf_psf_asymmetry.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "03e12cb5cc4c5b708ffd4f9220c196a7ca7cfa03",
+      "size": 11463,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/03e12cb5cc4c5b708ffd4f9220c196a7ca7cfa03"
+    },
+    {
+      "path": "scripts/run_yu_2023_stpsf_psf_asymmetry_support_corrected.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b4122961dc57ebe42ae177462c88f3e4481f6c35",
+      "size": 5295,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/b4122961dc57ebe42ae177462c88f3e4481f6c35"
+    },
+    {
+      "path": "scripts/split_gold91_for_cloud.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4c73ec56b1306066b5cff5de404f278adcc691f2",
+      "size": 2137,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/4c73ec56b1306066b5cff5de404f278adcc691f2"
+    },
+    {
+      "path": "scripts/summarize_agn_noise_ensemble.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "13777b24e565d532b325ea41aea9f90a1720930e",
+      "size": 2524,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/13777b24e565d532b325ea41aea9f90a1720930e"
+    },
+    {
+      "path": "scripts/summarize_paulino_afonso_noisy_identifiability.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "592392481a82ea9c90d267a2d93f6e6582c00bfd",
+      "size": 6432,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/592392481a82ea9c90d267a2d93f6e6582c00bfd"
+    },
+    {
+      "path": "tests",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a324399e2b71c6896def1874dd89bed9315c45be",
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/trees/a324399e2b71c6896def1874dd89bed9315c45be"
+    },
+    {
+      "path": "tests/test_agn_cell_response.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9feb1ab4cfe83c3d104f91320718ec1f7d1b90ed",
+      "size": 3295,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/9feb1ab4cfe83c3d104f91320718ec1f7d1b90ed"
+    },
+    {
+      "path": "tests/test_agn_compact_renderer.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "81a08d8de5e772231a97afded5d4fa7b48d7edc7",
+      "size": 7876,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/81a08d8de5e772231a97afded5d4fa7b48d7edc7"
+    },
+    {
+      "path": "tests/test_agn_cross_sampling.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f444b3a14217c50a68c580cc04b04c36d2c24cd5",
+      "size": 761,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/f444b3a14217c50a68c580cc04b04c36d2c24cd5"
+    },
+    {
+      "path": "tests/test_agn_empirical_agn_centroid.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5fefc97094c90c397f6dcd88cb691a6c4dad3236",
+      "size": 4336,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/5fefc97094c90c397f6dcd88cb691a6c4dad3236"
+    },
+    {
+      "path": "tests/test_agn_empirical_psf_centroid.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5eec8bda761ec361b45d87e61bb1cabe5024ffe7",
+      "size": 1638,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/5eec8bda761ec361b45d87e61bb1cabe5024ffe7"
+    },
+    {
+      "path": "tests/test_agn_empirical_psf_phase.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "96b634a21fc2cf688cc7e00f5128eeeebf542a40",
+      "size": 4154,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/96b634a21fc2cf688cc7e00f5128eeeebf542a40"
+    },
+    {
+      "path": "tests/test_agn_empirical_psf_transfer.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8b150a02bb319bb44d4af5454e8beb03c907ed23",
+      "size": 3610,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/8b150a02bb319bb44d4af5454e8beb03c907ed23"
+    },
+    {
+      "path": "tests/test_agn_estimated_weights.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "318426e69a9fd8157c77407ee4c0693d288572f8",
+      "size": 646,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/318426e69a9fd8157c77407ee4c0693d288572f8"
+    },
+    {
+      "path": "tests/test_agn_fourier_controls.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "472f383988e1dc1767f5744265f7634ede65f265",
+      "size": 6969,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/472f383988e1dc1767f5744265f7634ede65f265"
+    },
+    {
+      "path": "tests/test_agn_fourier_grid.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1c2ed84a0eacb61ff230c2058cb149684fce1b9c",
+      "size": 4339,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/1c2ed84a0eacb61ff230c2058cb149684fce1b9c"
+    },
+    {
+      "path": "tests/test_agn_galsim.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dde1e5a1214544e4039f6ff2a9524f3aab08e245",
+      "size": 1331,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/dde1e5a1214544e4039f6ff2a9524f3aab08e245"
+    },
+    {
+      "path": "tests/test_agn_imfit_bounded.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "610f28c0e138ce4d3b4b30a186281830bdd7c1a2",
+      "size": 1283,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/610f28c0e138ce4d3b4b30a186281830bdd7c1a2"
+    },
+    {
+      "path": "tests/test_agn_imfit_free_shape.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "48610de7f05dcf3150c79231dcdd05b682f5a07c",
+      "size": 2735,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/48610de7f05dcf3150c79231dcdd05b682f5a07c"
+    },
+    {
+      "path": "tests/test_agn_imfit_global_search.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf5fafc6c6dfc142174e3ccbc28104c65d6e814c",
+      "size": 1297,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/cf5fafc6c6dfc142174e3ccbc28104c65d6e814c"
+    },
+    {
+      "path": "tests/test_agn_imfit_optimizer_path.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dfec81065c4b2bebef39f0de6eec531d959cd3fe",
+      "size": 1350,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/dfec81065c4b2bebef39f0de6eec531d959cd3fe"
+    },
+    {
+      "path": "tests/test_agn_imfit_refinement.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e131ca03b33fdb4bbdd9cb71267c6cb3aacb7f76",
+      "size": 2746,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/e131ca03b33fdb4bbdd9cb71267c6cb3aacb7f76"
+    },
+    {
+      "path": "tests/test_agn_imfit_renderer.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a18a7f3938b76df5cfc540f5ac64be9608b8be69",
+      "size": 4623,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/a18a7f3938b76df5cfc540f5ac64be9608b8be69"
+    },
+    {
+      "path": "tests/test_agn_imfit_wrong_psf_free_shape.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "662dcf7860e35c32f9dd8c703cffe43e864a4d0c",
+      "size": 1907,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/662dcf7860e35c32f9dd8c703cffe43e864a4d0c"
+    },
+    {
+      "path": "tests/test_agn_n_profile.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c9b118a2c75bd56ff006dced2e0f6e9be7ecc107",
+      "size": 820,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/c9b118a2c75bd56ff006dced2e0f6e9be7ecc107"
+    },
+    {
+      "path": "tests/test_agn_noise_ensemble.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "292122ba188f217ce8aac02dbc8cfa7ba1550cff",
+      "size": 695,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/292122ba188f217ce8aac02dbc8cfa7ba1550cff"
+    },
+    {
+      "path": "tests/test_agn_noise_pilot.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1942dc9a7f0387cb38c59d42cae02bc2b006bf26",
+      "size": 919,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/1942dc9a7f0387cb38c59d42cae02bc2b006bf26"
+    },
+    {
+      "path": "tests/test_agn_nuclear_fraction.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a1cbb21fed792b55ad8cb61ee857bcd12a98d5a",
+      "size": 1651,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/1a1cbb21fed792b55ad8cb61ee857bcd12a98d5a"
+    },
+    {
+      "path": "tests/test_agn_nuclear_fraction_noiseless.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bb6a622c96aeb9c126e979551c34c6f54dba1b9a",
+      "size": 1638,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/bb6a622c96aeb9c126e979551c34c6f54dba1b9a"
+    },
+    {
+      "path": "tests/test_agn_psf_de.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0a4b0151e0262bc5d90b6f30759d49038fcbfede",
+      "size": 1834,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/0a4b0151e0262bc5d90b6f30759d49038fcbfede"
+    },
+    {
+      "path": "tests/test_agn_psf_plateau.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d93905bf6783c714b785d7dc6d2525dfca8e755e",
+      "size": 1453,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/d93905bf6783c714b785d7dc6d2525dfca8e755e"
+    },
+    {
+      "path": "tests/test_agn_psf_width.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0350d0111aa27a5662cedc305daffbfa8908a095",
+      "size": 855,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/0350d0111aa27a5662cedc305daffbfa8908a095"
+    },
+    {
+      "path": "tests/test_agn_sampling.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "23fa77064779abcac8bf37ad7cfb934a55c31967",
+      "size": 967,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/23fa77064779abcac8bf37ad7cfb934a55c31967"
+    },
+    {
+      "path": "tests/test_agn_shot_noise.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab4b2c0f16bb9a2a9b6443d5f583e3587e7f1541",
+      "size": 1389,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/ab4b2c0f16bb9a2a9b6443d5f583e3587e7f1541"
+    },
+    {
+      "path": "tests/test_chromatic_source_sed_mismatch.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e524ebd95b4f75241fb5da004ed41618262ebed2",
+      "size": 822,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/e524ebd95b4f75241fb5da004ed41618262ebed2"
+    },
+    {
+      "path": "tests/test_dewsnap_astrophot_common_scene.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eae0c991090be0dc237e1b80d2e8bfead061528e",
+      "size": 2117,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/eae0c991090be0dc237e1b80d2e8bfead061528e"
+    },
+    {
+      "path": "tests/test_dewsnap_astrophot_psf_mismatch.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2066aa746a3bf7e3c033b15ecc81a7e930526aea",
+      "size": 600,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/2066aa746a3bf7e3c033b15ecc81a7e930526aea"
+    },
+    {
+      "path": "tests/test_dewsnap_astrophot_psf_preflight.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc544e47d43c44616ab51bb8e6a4815e449dd9e5",
+      "size": 1018,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/fc544e47d43c44616ab51bb8e6a4815e449dd9e5"
+    },
+    {
+      "path": "tests/test_ferengi_noise_benchmark.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3a03f36fb81e0731216ea09965ae8ad5476f4a2a",
+      "size": 1195,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/3a03f36fb81e0731216ea09965ae8ad5476f4a2a"
+    },
+    {
+      "path": "tests/test_ferengi_synthetic.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "62fcd7e37c6a6f3f170308105136c3aead26e767",
+      "size": 1441,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/62fcd7e37c6a6f3f170308105136c3aead26e767"
+    },
+    {
+      "path": "tests/test_gate_d_cosmosweb_access_preflight.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d6427d45e7208485d38acc767f90a34121cb4e9c",
+      "size": 1362,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/d6427d45e7208485d38acc767f90a34121cb4e9c"
+    },
+    {
+      "path": "tests/test_gate_d_cosmosweb_background_residual_audit.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4e00a6fec0a6a0accb4a3177db1a38a44a366b62",
+      "size": 1189,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/4e00a6fec0a6a0accb4a3177db1a38a44a366b62"
+    },
+    {
+      "path": "tests/test_gate_d_cosmosweb_deblended_neighbour_templates.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b2a896aabc08966f80a1cd35a28b5bfbfce7a404",
+      "size": 1393,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/b2a896aabc08966f80a1cd35a28b5bfbfce7a404"
+    },
+    {
+      "path": "tests/test_gate_d_cosmosweb_empirical_psf_support.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fd1f9e0eebef11c686d8ff87cce3d322a99f9982",
+      "size": 1173,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/fd1f9e0eebef11c686d8ff87cce3d322a99f9982"
+    },
+    {
+      "path": "tests/test_gate_d_cosmosweb_exposure_provenance_preflight.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "40339dba1a3224e878327977c3cf171c9a1a5be3",
+      "size": 3285,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/40339dba1a3224e878327977c3cf171c9a1a5be3"
+    },
+    {
+      "path": "tests/test_gate_d_cosmosweb_forced_recovery.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "55ee041061e0840ce1626ae7bdfcad88ba7b84b7",
+      "size": 1149,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/55ee041061e0840ce1626ae7bdfcad88ba7b84b7"
+    },
+    {
+      "path": "tests/test_gate_d_cosmosweb_frozen_prefit_neighbour_scene.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8ac87c2c305f743a25d554d01a84d61a5eb813ec",
+      "size": 2411,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/8ac87c2c305f743a25d554d01a84d61a5eb813ec"
+    },
+    {
+      "path": "tests/test_gate_d_cosmosweb_gaia_psf_vetting.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db1e87b1c7e6061f6242ab5d4d3c124860d76fe6",
+      "size": 1105,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/db1e87b1c7e6061f6242ab5d4d3c124860d76fe6"
+    },
+    {
+      "path": "tests/test_gate_d_cosmosweb_local_ingest.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a63f2f7b8180f2f8af93c20106377469f7d63486",
+      "size": 2006,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/a63f2f7b8180f2f8af93c20106377469f7d63486"
+    },
+    {
+      "path": "tests/test_gate_d_cosmosweb_moment_neighbour_templates.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "14bb5ac3c4a36ec09c289c673c36ffbaabda6756",
+      "size": 1450,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/14bb5ac3c4a36ec09c289c673c36ffbaabda6756"
+    },
+    {
+      "path": "tests/test_gate_d_cosmosweb_multistart_identifiability.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d7bdab9fc2b4a592a36e0fe6488d57964c2a1b95",
+      "size": 1308,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/d7bdab9fc2b4a592a36e0fe6488d57964c2a1b95"
+    },
+    {
+      "path": "tests/test_gate_d_cosmosweb_neighbour_mask_control.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "84274fe3adff93afda065148388ef661cbdc9cc6",
+      "size": 1649,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/84274fe3adff93afda065148388ef661cbdc9cc6"
+    },
+    {
+      "path": "tests/test_gate_d_cosmosweb_neighbour_support_growth.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0a1a1443e6b2b806fc3b9459feb25eaff702fdf5",
+      "size": 1889,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/0a1a1443e6b2b806fc3b9459feb25eaff702fdf5"
+    },
+    {
+      "path": "tests/test_gate_d_cosmosweb_paired_difference_control.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bbe8b77b601b2ba65a89fede0dbe3f9a4754f99f",
+      "size": 1522,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/bbe8b77b601b2ba65a89fede0dbe3f9a4754f99f"
+    },
+    {
+      "path": "tests/test_gate_d_cosmosweb_parametric_neighbour_sersic.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d6c3c51d9b571c50bf54bcded1beeb77d720d527",
+      "size": 2573,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/d6c3c51d9b571c50bf54bcded1beeb77d720d527"
+    },
+    {
+      "path": "tests/test_gate_d_cosmosweb_psf_field_bracket.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f7eb3ff2dd3b5a4693cd5fdc98552ff69a46c922",
+      "size": 1439,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/f7eb3ff2dd3b5a4693cd5fdc98552ff69a46c922"
+    },
+    {
+      "path": "tests/test_gate_d_cosmosweb_published_empirical_psf.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "772758ea9d9e36e6a87e6829a0d992604503051f",
+      "size": 1040,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/772758ea9d9e36e6a87e6829a0d992604503051f"
+    },
+    {
+      "path": "tests/test_gate_d_cosmosweb_published_psf_paired_oracle.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "569393bf07cd35db666c4fc6d4bd13f11d8b0de4",
+      "size": 1472,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/569393bf07cd35db666c4fc6d4bd13f11d8b0de4"
+    },
+    {
+      "path": "tests/test_gate_d_cosmosweb_real_context.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a0b93fc64bafa26325cd1e8f8679bc5839646ef0",
+      "size": 1528,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/a0b93fc64bafa26325cd1e8f8679bc5839646ef0"
+    },
+    {
+      "path": "tests/test_gate_d_cosmosweb_real_injection.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c16ca296d5add3ca03d9e6ec2e318107b1b26496",
+      "size": 1870,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/c16ca296d5add3ca03d9e6ec2e318107b1b26496"
+    },
+    {
+      "path": "tests/test_gate_d_cosmosweb_remote_cutout.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "33b2a3c22c9b7eb71caeb31ccf6d6aa0543e39b7",
+      "size": 3135,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/33b2a3c22c9b7eb71caeb31ccf6d6aa0543e39b7"
+    },
+    {
+      "path": "tests/test_gate_d_cosmosweb_residual_dose.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a33a878f42b8afe561bbfab61cb72ecf3525d80d",
+      "size": 1475,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/a33a878f42b8afe561bbfab61cb72ecf3525d80d"
+    },
+    {
+      "path": "tests/test_gate_d_cosmosweb_residual_tangent.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "682fffeba430bc5f0d48a4eb77e9ffd5e04c2f60",
+      "size": 1730,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/682fffeba430bc5f0d48a4eb77e9ffd5e04c2f60"
+    },
+    {
+      "path": "tests/test_gate_d_cosmosweb_residual_tangent_split.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "77e89052dbeb9389d222ed80ea275a3c6a3f00c5",
+      "size": 2849,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/77e89052dbeb9389d222ed80ea275a3c6a3f00c5"
+    },
+    {
+      "path": "tests/test_gate_d_cosmosweb_simultaneous_neighbour_templates.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "58b1912c63a0674901d5c8e1834fb5c9777d2d31",
+      "size": 1446,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/58b1912c63a0674901d5c8e1834fb5c9777d2d31"
+    },
+    {
+      "path": "tests/test_gate_d_cosmosweb_source_shot_covariance_preflight.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d2f43940dd0d89f61fb250461d9657dfe6e2d09b",
+      "size": 3568,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/d2f43940dd0d89f61fb250461d9657dfe6e2d09b"
+    },
+    {
+      "path": "tests/test_gate_d_embedded_asdf_audit.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "60b968b53dee958bc746f5fcedc7d30d43e65964",
+      "size": 1330,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/60b968b53dee958bc746f5fcedc7d30d43e65964"
+    },
+    {
+      "path": "tests/test_gate_d_resample_metadata_audit.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5d4f1376b3c588d1a3e1a489fcd50c626bb59a05",
+      "size": 939,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/5d4f1376b3c588d1a3e1a489fcd50c626bb59a05"
+    },
+    {
+      "path": "tests/test_gold403_full_production.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1322544a6c37419585bde97c32ad033967abfabb",
+      "size": 324,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/1322544a6c37419585bde97c32ad033967abfabb"
+    },
+    {
+      "path": "tests/test_gold403_real_background_pilot.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0df7f17d5fb00e893513ad9f423aa081e1c1b5f3",
+      "size": 2005,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/0df7f17d5fb00e893513ad9f423aa081e1c1b5f3"
+    },
+    {
+      "path": "tests/test_gold403_restartable_sweep.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "74405a013f5c7135123de872024f40f6398e92be",
+      "size": 5803,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/74405a013f5c7135123de872024f40f6398e92be"
+    },
+    {
+      "path": "tests/test_gold403_validation_helpers.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ca18575a6f20bb3571dc7fa2870c54e5a8fd752a",
+      "size": 694,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/ca18575a6f20bb3571dc7fa2870c54e5a8fd752a"
+    },
+    {
+      "path": "tests/test_nircam_throughput_sensitivity.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "94297b8fd09dc747d354d4f287b0dbdbc900488c",
+      "size": 1974,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/94297b8fd09dc747d354d4f287b0dbdbc900488c"
+    },
+    {
+      "path": "tests/test_nircam_throughput_standard.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ebabf0794718f5d8e1df799010b90125443a0c01",
+      "size": 2279,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/ebabf0794718f5d8e1df799010b90125443a0c01"
+    },
+    {
+      "path": "tests/test_passive_disk_real_pilot.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b8340a0d153c6919ac04644443587e596c5031c9",
+      "size": 2046,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/b8340a0d153c6919ac04644443587e596c5031c9"
+    },
+    {
+      "path": "tests/test_passive_spiral_mask_control.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e1a4c098b03d684b422c1b64322241a705c99471",
+      "size": 1880,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/e1a4c098b03d684b422c1b64322241a705c99471"
+    },
+    {
+      "path": "tests/test_passive_spiral_phase_null.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "941a9261a5edf4de4a1a3e854838cce5db57a041",
+      "size": 1813,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/941a9261a5edf4de4a1a3e854838cce5db57a041"
+    },
+    {
+      "path": "tests/test_passive_spiral_real_context.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d3348cf0fe9147fce281f8b8d87651a38461042",
+      "size": 1905,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/3d3348cf0fe9147fce281f8b8d87651a38461042"
+    },
+    {
+      "path": "tests/test_passive_spiral_redshift.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6d5a7668df3acf4a2bc8ee014ef8d1dc51c721b7",
+      "size": 2665,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/6d5a7668df3acf4a2bc8ee014ef8d1dc51c721b7"
+    },
+    {
+      "path": "tests/test_passive_spiral_robust_loss.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c2a0ec45bd4ef3d8b6c6134e6035d11bf235c45",
+      "size": 2386,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/7c2a0ec45bd4ef3d8b6c6134e6035d11bf235c45"
+    },
+    {
+      "path": "tests/test_paulino_afonso_2017.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "453bafd9016de6e7e12ecb60c33edde269ca0297",
+      "size": 3491,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/453bafd9016de6e7e12ecb60c33edde269ca0297"
+    },
+    {
+      "path": "tests/test_paulino_afonso_sersic_floor.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aab82b1ec8b9cde7a9e86885b9ed11395c3d0209",
+      "size": 3821,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/aab82b1ec8b9cde7a9e86885b9ed11395c3d0209"
+    },
+    {
+      "path": "tests/test_pyautogalaxy_morphology_preflight.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "93003eb24579c4da2b976a3bbff17279b2af14ee",
+      "size": 1314,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/93003eb24579c4da2b976a3bbff17279b2af14ee"
+    },
+    {
+      "path": "tests/test_pyautogalaxy_morphology_recovery.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c07fa80ac561d2f79abf6dbb993d5edfb77d8b6f",
+      "size": 1578,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/c07fa80ac561d2f79abf6dbb993d5edfb77d8b6f"
+    },
+    {
+      "path": "tests/test_target_noise.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af7cf20e437ac69e4cc38fdb2bbb1d3bded8c9c6",
+      "size": 2689,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/af7cf20e437ac69e4cc38fdb2bbb1d3bded8c9c6"
+    },
+    {
+      "path": "tests/test_verification.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fb519a0da8b4878c76206177c3302db71544b9ee",
+      "size": 2674,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/fb519a0da8b4878c76206177c3302db71544b9ee"
+    },
+    {
+      "path": "tests/test_verification_ci_routing.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1f2193cd738806bda34dcb980d998db679326b99",
+      "size": 2107,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/1f2193cd738806bda34dcb980d998db679326b99"
+    },
+    {
+      "path": "tests/test_yu_2023.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4bbed58ff864d35d52a55e0a7513af137ee8d7f7",
+      "size": 3777,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/4bbed58ff864d35d52a55e0a7513af137ee8d7f7"
+    },
+    {
+      "path": "tests/test_yu_2023_noise.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "388b7959da01c2e079dc1bec5560525124d79607",
+      "size": 1395,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/388b7959da01c2e079dc1bec5560525124d79607"
+    },
+    {
+      "path": "tutorials",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d8070962843364c63037f7be41cc57ee730e9064",
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/trees/d8070962843364c63037f7be41cc57ee730e9064"
+    },
+    {
+      "path": "tutorials/GOLD91_BAGPIPES_SFH_model_robustness_2gal.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5e2c0d7aa7525f94afed2c463038c32818aaa465",
+      "size": 48645,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/5e2c0d7aa7525f94afed2c463038c32818aaa465"
+    },
+    {
+      "path": "tutorials/verification_walkthrough.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5424a5b16bbd70fdd961913fc17138a7db5bf589",
+      "size": 4382,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/5424a5b16bbd70fdd961913fc17138a7db5bf589"
+    },
+    {
+      "path": "verification",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8293d8e67e69e6c9425bfe9cc32af4d6cc57b5f1",
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/trees/8293d8e67e69e6c9425bfe9cc32af4d6cc57b5f1"
+    },
+    {
+      "path": "verification/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "12587c193cc3c14e2c4671cae1902ddcacf4ba8a",
+      "size": 138,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/12587c193cc3c14e2c4671cae1902ddcacf4ba8a"
+    },
+    {
+      "path": "verification/agn_nuclear_fraction.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "625dbcc56a7dc8790c668374d2fb52bdfc078d7a",
+      "size": 4125,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/625dbcc56a7dc8790c668374d2fb52bdfc078d7a"
+    },
+    {
+      "path": "verification/chromatic.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "077782c2b9f9a9ed11ca091cace036875b34e402",
+      "size": 3870,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/077782c2b9f9a9ed11ca091cace036875b34e402"
+    },
+    {
+      "path": "verification/ferengi_noise_benchmark.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e6338ecfc145c919b14dc5c333f07d757f730f83",
+      "size": 6054,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/e6338ecfc145c919b14dc5c333f07d757f730f83"
+    },
+    {
+      "path": "verification/ferengi_synthetic.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db579bf11889b117c23b717fcf9524f567a7e69a",
+      "size": 19308,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/db579bf11889b117c23b717fcf9524f567a7e69a"
+    },
+    {
+      "path": "verification/nircam_throughput_sensitivity.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f23f81677b13ff5e90065b44aa06c2e8eef80dd",
+      "size": 7576,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/2f23f81677b13ff5e90065b44aa06c2e8eef80dd"
+    },
+    {
+      "path": "verification/noise.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0b217c2bd85032c5d6ea33e0bde381647bfb14b1",
+      "size": 2151,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/0b217c2bd85032c5d6ea33e0bde381647bfb14b1"
+    },
+    {
+      "path": "verification/passive_disk_real_pilot.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab397838c01c79670e1632c680af91183ed507f1",
+      "size": 6208,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/ab397838c01c79670e1632c680af91183ed507f1"
+    },
+    {
+      "path": "verification/passive_spiral_mask_control.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f571bb74e9936a04502cf197676541aa641f0c6",
+      "size": 5024,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/2f571bb74e9936a04502cf197676541aa641f0c6"
+    },
+    {
+      "path": "verification/passive_spiral_phase_null.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d83f16d6fd7314f0e9d0b8934314a736b85f1032",
+      "size": 7732,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/d83f16d6fd7314f0e9d0b8934314a736b85f1032"
+    },
+    {
+      "path": "verification/passive_spiral_real_context.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "acc2d573aaaba6c64721816ec16021385405589a",
+      "size": 11578,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/acc2d573aaaba6c64721816ec16021385405589a"
+    },
+    {
+      "path": "verification/passive_spiral_redshift.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "358fd44374794971f7bcb217ef429ccf65a787ff",
+      "size": 11279,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/358fd44374794971f7bcb217ef429ccf65a787ff"
+    },
+    {
+      "path": "verification/passive_spiral_robust_loss.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "392ef1f1a5801d5c01036f1465926cde85d8df06",
+      "size": 8439,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/392ef1f1a5801d5c01036f1465926cde85d8df06"
+    },
+    {
+      "path": "verification/paulino_afonso_2017.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c0254b1f0de57e439d31934c7b1d1aca0824324a",
+      "size": 8237,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/c0254b1f0de57e439d31934c7b1d1aca0824324a"
+    },
+    {
+      "path": "verification/paulino_afonso_sersic_floor.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "045535f6e67af60fc7fe817ae9fa14210da69a29",
+      "size": 16449,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/045535f6e67af60fc7fe817ae9fa14210da69a29"
+    },
+    {
+      "path": "verification/psf.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "39249865f0db57f57f58ef23dae776ca9b77587f",
+      "size": 5213,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/39249865f0db57f57f58ef23dae776ca9b77587f"
+    },
+    {
+      "path": "verification/radiometry.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba255c1f59df9458a22ca5acd7ef624d22d80a31",
+      "size": 3388,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/ba255c1f59df9458a22ca5acd7ef624d22d80a31"
+    },
+    {
+      "path": "verification/reference.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c6795dc327ac17719c32393e2fd4522edd298ce1",
+      "size": 6149,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/c6795dc327ac17719c32393e2fd4522edd298ce1"
+    },
+    {
+      "path": "verification/resampling.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "551bc98e9f99ab8625167da9ef8829e160ba6a58",
+      "size": 6606,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/551bc98e9f99ab8625167da9ef8829e160ba6a58"
+    },
+    {
+      "path": "verification/spectral_support.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "655aa3d78937d9d2a3c85bc342f0a1fc4d684ae0",
+      "size": 3602,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/655aa3d78937d9d2a3c85bc342f0a1fc4d684ae0"
+    },
+    {
+      "path": "verification/target_noise.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "662c9e6ab8b97f3dffaf1da2fd7ef0ecdc7cdaa6",
+      "size": 3659,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/662c9e6ab8b97f3dffaf1da2fd7ef0ecdc7cdaa6"
+    },
+    {
+      "path": "verification/yu_2023.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f41b3389d6441ac4a645db531f36c3addcfd784e",
+      "size": 6914,
+      "url": "https://api.github.com/repos/physicsbahare/astro-forward-modeling/git/blobs/f41b3389d6441ac4a645db531f36c3addcfd784e"
+    }
+  ],
+  "truncated": false
+}

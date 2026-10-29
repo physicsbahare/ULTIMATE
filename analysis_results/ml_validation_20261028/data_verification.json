@@ -1,0 +1,11 @@
+{
+  "nonfinal_galaxies": 100,
+  "views": 500,
+  "FITS_headers": 24000,
+  "source_selected_full_arrays": 3500,
+  "cache_arrays_checked": 3500,
+  "old26_member_hash_matches": 6240,
+  "final_science_opened": false,
+  "source_failures": 0,
+  "zero_projected_dust_galaxies": 13
+}

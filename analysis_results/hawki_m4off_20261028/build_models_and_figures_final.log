@@ -1,0 +1,8 @@
+WARNING: FITSFixedWarning: RADECSYS= 'ICRS ' / Coordinate reference frame 
+the RADECSYS keyword is deprecated, use RADESYSa. [astropy.wcs.wcs]
+WARNING: FITSFixedWarning: 'datfix' made the change 'Set DATE-END to '2019-08-21T00:18:04.296' from MJD-END'. [astropy.wcs.wcs]
+/home/bahareh/ULTIMATE/analysis_results/hawki_m4off_20261028/build_models_and_figures.py:48: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  pairs['delta_e1']=pairs.e1_tile-pairs.e1_pawprint;pairs['delta_e2']=pairs.e2_tile-pairs.e2_pawprint
+/home/bahareh/ULTIMATE/analysis_results/hawki_m4off_20261028/build_models_and_figures.py:48: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  pairs['delta_e1']=pairs.e1_tile-pairs.e1_pawprint;pairs['delta_e2']=pairs.e2_tile-pairs.e2_pawprint
+Models, summary tables and figures complete

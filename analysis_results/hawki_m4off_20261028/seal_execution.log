@@ -1,0 +1,19 @@
+{
+  "status": "pass",
+  "executed_code_cells": 9,
+  "selected_measurements": 965,
+  "matched_rows": 276,
+  "matched_unique_stars": 244,
+  "public_ancillary_download_MiB": 54.89559364318848,
+  "source_scope": "No ML science or previous results altered",
+  "visual_review": "Final spatial/shape maps, observed/model residual panels, EE, same-operator noise and growth-model figures reviewed; saved notebook plots inspected. HTML exported, not browser-layout tested.",
+  "limitations": [
+    "global raw-linearity history unresolved",
+    "absolute photometry/astrometry not independently calibrated",
+    "finite EE and unresolved-source/sky contamination",
+    "undersampling/optimizer and integration floors",
+    "R32 aperture calibration rejected",
+    "core+halo and full-background mixtures are phenomenological"
+  ]
+}
+Hashed deliverable files: 239

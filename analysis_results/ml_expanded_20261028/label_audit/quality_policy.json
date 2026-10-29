@@ -1,0 +1,45 @@
+{
+  "version": "2026-10-28",
+  "scope": "Old fixed R12 native source-pair labels only. New apertures/PSFs require matched-control remeasurement.",
+  "targets": {
+    "A_g": {
+      "control_absolute_envelope": 0.1239173691792003,
+      "n_control_galaxies": 4
+    },
+    "A_Ks": {
+      "control_absolute_envelope": 0.0215910509054506,
+      "n_control_galaxies": 4
+    },
+    "A_g_p50_1kpc": {
+      "control_absolute_envelope": 0.1188666787175503,
+      "n_control_galaxies": 4
+    },
+    "dR50_g": {
+      "control_absolute_envelope": 0.0310886739267073,
+      "n_control_galaxies": 4
+    },
+    "dR50_Ks": {
+      "control_absolute_envelope": 0.0391845961439849,
+      "n_control_galaxies": 4
+    },
+    "dC_g": {
+      "control_absolute_envelope": 0.0692862448266371,
+      "n_control_galaxies": 4
+    },
+    "dC_Ks": {
+      "control_absolute_envelope": 0.0459639515118999,
+      "n_control_galaxies": 4
+    }
+  },
+  "rules": [
+    "Keep signed labels; never clip negative attenuation or morphology differences.",
+    "Do not subtract a universal null offset.",
+    "Flags within_old_control_envelope are descriptive resolution warnings, not calibrated confidence intervals or row rejection criteria.",
+    "Require matching pair band, WCS, shape, units, finite nonnegative intensity and positive aperture sums.",
+    "Same observed dusty-Ks-selected aperture for clear and dusty. Record aperture truncation/clipping; retain fixed12 sensitivity.",
+    "Separate source quality, source-null status, observational quality, aperture limitation, and label uncertainty flags.",
+    "Exclude invalid pairs; retain valid null controls for evaluation.",
+    "Do not transplant fixed12/native envelopes to adaptive apertures or seeing without matched-control remeasurement.",
+    "No new final or validation labels may be opened for thresholds or feature/model selection."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "galaxies": 20,
+  "models_retuned": false,
+  "final_evaluation_count": 1,
+  "primary_policy": "Exclude exact-zero projected-dust galaxies from primary metrics; retain every prediction as separate source controls",
+  "primary_galaxies": 16,
+  "source_control_galaxies": 4,
+  "rows": 153600,
+  "freeze_sha256": "587aab56d39e6b29ad47f381c4b1440c8dd28eb52811ebc4ae3842b6fc220ce4"
+}

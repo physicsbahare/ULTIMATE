@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "manifests": {
+    "ml_feasibility_20261027": {
+      "files": 242,
+      "failures": []
+    },
+    "multigalaxy_morphology_20261027": {
+      "files": 795,
+      "failures": []
+    },
+    "multigalaxy_morphology_20261027/continuation_verification": {
+      "files": 19,
+      "failures": []
+    }
+  }
+}

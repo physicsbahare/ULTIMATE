@@ -1,0 +1,21 @@
+{
+  "local_hawki_files": 22,
+  "archive_jan2018_ngc3256": 22,
+  "missing_local": [],
+  "extra_local": [],
+  "reduced_count": 12,
+  "reduced_forms": {
+    "catalogue": 6,
+    "tile": 3,
+    "pawprint": 3
+  },
+  "raw_calibration_near_dates_count": 620,
+  "matching_1p7s_darks": 70,
+  "ks_flats": 0,
+  "esorex_on_path": null,
+  "association_status": [
+    "category=\"SCIENCE_IMG\" certified=\"true\" complete=\"true\" mode=\"Raw2Master\" type=\"main\" messages=\"\"",
+    "category=\"SCIENCE_IMG\" certified=\"true\" complete=\"true\" mode=\"Raw2Master\" type=\"main\" messages=\"\"",
+    "category=\"SCIENCE_IMG\" certified=\"true\" complete=\"true\" mode=\"Raw2Master\" type=\"main\" messages=\"\""
+  ]
+}

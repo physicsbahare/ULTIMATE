@@ -1,0 +1,7 @@
+      method                        noise  n_independent_draws  mean_standardized_residual  empirical_to_propagated_variance
+g_Ks_matched             Gaussian_moments                   40                    0.002843                          1.008574
+g_Ks_matched exact_aggregate_Poisson_read                   40                   -0.012031                          1.039582
+    J_Ks_NIR             Gaussian_moments                   40                   -0.005973                          0.975721
+    J_Ks_NIR exact_aggregate_Poisson_read                   40                   -0.002015                          0.990712
+   Ks_native             Gaussian_moments                   40                   -0.003756                          0.996377
+   Ks_native exact_aggregate_Poisson_read                   40                    0.003804                          1.013802

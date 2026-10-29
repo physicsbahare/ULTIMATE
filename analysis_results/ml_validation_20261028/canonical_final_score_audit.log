@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "scope": "Verification of existing stored predictions, no model.predict and no new final evaluation",
+  "final_rows": 153600,
+  "primary_galaxies": 16,
+  "control_galaxies": 4,
+  "metric_rows_recomputed": 384,
+  "per_orientation_draw_keys_unique": true,
+  "finite_predictions": true,
+  "final_evaluation_count": 1
+}

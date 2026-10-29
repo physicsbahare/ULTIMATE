@@ -1,0 +1,1 @@
+SELECT designation,ra,dec,k_m,k_cmsig,j_m,h_m,ph_qual,cc_flg,rd_flg,prox FROM fp_psc WHERE CONTAINS(POINT('ICRS',ra,dec),CIRCLE('ICRS',156.96365,-43.90355,0.055))=1
