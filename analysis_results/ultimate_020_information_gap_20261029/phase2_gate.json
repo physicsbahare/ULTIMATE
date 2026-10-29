@@ -1,0 +1,20 @@
+{
+  "criteria": "Prespecified >1% texture change in median and at least half galaxies; not target information proof",
+  "families": [
+    {
+      "family": "gaussian",
+      "median_galaxy_fractional_change": 0.7533898459694959,
+      "n_exceed_1percent": 13,
+      "n_galaxies": 13,
+      "passed": true
+    },
+    {
+      "family": "moffat",
+      "median_galaxy_fractional_change": 0.8973634965473856,
+      "n_exceed_1percent": 13,
+      "n_galaxies": 13,
+      "passed": true
+    }
+  ],
+  "proceed_ml": true
+}

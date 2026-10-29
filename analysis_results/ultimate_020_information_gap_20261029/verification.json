@@ -1,0 +1,25 @@
+{
+  "status": "pass",
+  "date": "2026-10-29 Asia/Taipei",
+  "checks": {
+    "input_source_hashes": 95,
+    "development_only_galaxies": 14,
+    "independent_fit_galaxies": 13,
+    "feature_rows": 280,
+    "morphology_rows": 560,
+    "max_render_flux_loss": 1.5194011393493414e-07,
+    "max_point_L1_error": 0.0101154798850523,
+    "grid_refinement_morphology_max_R50_change": 0.0,
+    "primary_cv_prediction_rows": 6240,
+    "score_rows": 96,
+    "galaxy_paired_rows": 312,
+    "held_out_fold_assignments": "all primary predictions match unique galaxy test fold",
+    "score_recomputation": "all96 MAEs equal galaxy-aggregated saved predictions",
+    "canonical_freeze_sha256": "587aab56d39e6b29ad47f381c4b1440c8dd28eb52811ebc4ae3842b6fc220ce4",
+    "canonical_final_count": 1,
+    "new_final_inference_count": 0
+  },
+  "errors": [],
+  "uncertainty": "Exploratory conditional galaxy bootstrap; shared fitted fold models, no retraining/selection/source/instrument variance",
+  "omitted_outputs": "No .300 intermediate, fixed-exposure noise run, new calibration or confirmation data; none required for this noiseless pilot."
+}

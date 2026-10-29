@@ -1,6 +1,6 @@
 # Current project state
 
-Last verified update: **2026-10-29 (Asia/Taipei)**, by read-only inspection of existing artifacts and archive-integrity checks. The scientific archive commit is recorded in [GITHUB_SYNC_REPORT.md](GITHUB_SYNC_REPORT.md); that later receipt references its parent archive commit to avoid a self-referential hash. No scientific experiment was performed during this update.
+Archival baseline verified **2026-10-29 (Asia/Taipei)** by read-only inspection; a later owner-authorized targeted continuation is recorded at the end of this document. The scientific archive commit is recorded in [GITHUB_SYNC_REPORT.md](GITHUB_SYNC_REPORT.md); that later receipt references its parent archive commit to avoid a self-referential hash. No scientific experiment was performed during the archival update; the separate targeted continuation below did perform new authorized work.
 
 Research title: **Beyond the Foreground Screen: Machine-Learning Dust Geometry with ULTIMATE-Subaru**. Aim: a publishable, bounded ULTIMATE–Subaru feasibility study.
 
@@ -53,3 +53,11 @@ Matched-rest-band z=0.1 mocks are conditional distance-degradation experiments, 
 DR2 suitability/availability was already checked. Required matched data are **not available for the planned use**; generic catalogue authentication was completed and no verified applicable release-specific replacement exists locally. Do not reopen without genuinely new evidence.
 
 The evidence supports a workshop and a carefully bounded operational feasibility paper; a publication-ready physical dust precision or ULTIMATE performance claim is not supported. Current priorities are claim scoping, artifact/citation traceability, manuscript synthesis and documenting accepted limitations. Source-owner reproduction and independent external validation remain dependencies for stronger claims, not instructions to rerun analyses. [Publication plan](PUBLICATION_PLAN.md), [open questions](OPEN_QUESTIONS.md).
+
+## Authorized targeted 0.200-arcsec continuation (2026-10-29)
+
+After the archival task, the owner explicitly authorized the [targeted overlap audit](../analysis_results/ultimate_020_information_gap_20261029/overlap_and_novelty_audit.md) and conditional new work. An earlier0.200 Gaussian simulation was a single-galaxy privileged oracle, not a fixed-rest-band morphology/observable-ML test. The distinct Ks-only0.38955→0.200 experiment is now **COMPLETED** in a separate directory; earlier outputs/frozen receipts remain unchanged.
+
+Fourteen development galaxies (13 fit-eligible +source-control13), five correlated views, no added noise, Gaussian and Moffat beta3.020805, shared saved apertures/labels, refined pixel integration. Direct dusty-radius MAE improves0.02669→0.01176kpc Gaussian and0.06371→0.01627kpc Moffat. Concentration also improves under both shapes. Full spatial ridge at0.200 is worse than g/J/Ks photometric ridge for all four prespecified operational targets; summary-model width gains are shape-dependent/adverse. No robust additional dust-ML benefit is demonstrated; no universal impossibility result follows.
+
+**Decision: GO for the completed bounded information assessment; stop further computation and proceed to manuscript/workshop synthesis.** This exploratory13-galaxy grouped development exercise is not new confirmation and does not replace canonical final scores or select a preferred model. No validation/final inference, full120 retrain, new calibration, DR2 investigation or confirmation campaign occurred. [Scientific decision and full results](../analysis_results/ultimate_020_information_gap_20261029/scientific_decision.md), [workshop/paper implications](../analysis_results/ultimate_020_information_gap_20261029/workshop_paper_implications.md), [verification](../analysis_results/ultimate_020_information_gap_20261029/verification.json).

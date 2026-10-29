@@ -372,3 +372,17 @@ The linked source/report and exhaustive [artifact indexes](COMPLETED_ANALYSES.md
 
 **Remaining uncertainty:** Novelty, source-operator cause, external transfer, representativeness and long-term data retention.
 
+
+## D24: Does assumed0.200-arcsec Ks add information beyond the nominal0.390 scenario?
+
+**Decision status:** COMPLETED / NEGATIVE_RESULT for a shape-robust extra dust-ML benefit; positive direct morphology transfer.
+
+**New requirement and overlap:** The earlier screen oracle did simulate0.200, but no saved fixed-rest-band Ks-only0.390/0.200 morphology or observable-ML experiment answered this estimand. [Evidence matrix](../analysis_results/ultimate_020_information_gap_20261029/overlap_and_novelty_audit.md).
+
+**Experiments performed:** Owner-authorized bounded continuation,14 development galaxies/5 views, two FWHM-defined shapes, no added noise, preserved existing measurements/features/labels, matched refined pixel integration.13 fit galaxies, one retained source control; fixed-alpha ridge, five galaxy folds, separate resolution-specific and held-out fixed-model transfer tests. No final/validation inference or canonical retuning.
+
+**Numerical evidence:** Direct dusty-R50 MAE0.02669→0.01176kpc Gaussian (gain.01493[.00587,.02758]) and0.06371→0.01627 Moffat (gain.04744[.02425,.07547]); concentration improves too. Spatial ridge at0.200 loses to photometric ridge for all four targets under both shapes. Summary dR50 width gain−.00830kpc Gaussian versus+.00120 Moffat; concentration gain changes sign. Conditional small-sample intervals are exploratory.
+
+**Scientific conclusion:** GO for this genuinely new bounded assessment, now delivered. Improved morphology does not demonstrate improved operational dust inference. Stop further computations and write the bounded paper/workshop; no independent confirmation campaign is justified for a positive dust-ML claim on these results alone. [Full ten-question decision](../analysis_results/ultimate_020_information_gap_20261029/scientific_decision.md).
+
+**Remaining uncertainty:**13 independent fit objects, selected sample, correlated views, no added noise, two assumed shapes, bounded numerical phase/refinement checks, operational source-residual labels, fixed rest bands. No physical dust precision, unique geometry or observing guarantee.

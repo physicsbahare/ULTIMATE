@@ -32,6 +32,18 @@ def main():
  for name in ['README.md','AGENTS.md','.gitignore','.gitattributes','requirements-archive.txt']:
   if not (ROOT/name).exists():errors.append({'type':'missing_required_file','path':name})
  eligible={r['path'] for r in rows if r['include']=='True'}
+ # Explicit screened continuation files extend publication eligibility without
+ # rewriting the immutable 9367-file original inventory.
+ extension=ROOT/'docs/manifests/CONTINUATION_20261029.csv'
+ if extension.exists():
+  for r in csv.DictReader(extension.open()):
+   if r['include']!='True':continue
+   p=ROOT/r['path']
+   if not r['path'].startswith('analysis_results/ultimate_020_information_gap_20261029/'):
+    errors.append({'type':'extension_path_outside_authorized_directory','path':r['path']});continue
+   eligible.add(r['path'])
+   if p.is_file() and (p.stat().st_size!=int(r['bytes']) or sha(p)!=r['sha256']):
+    errors.append({'type':'continuation_hash_changed','path':r['path']})
  # Only roots explicitly authored for this archive are added to original screened selections.
  new={str(p.relative_to(ROOT)) for folder in ['docs','tools'] for p in (ROOT/folder).rglob('*') if p.is_file() and '__pycache__' not in p.parts}
  new.update(['README.md','AGENTS.md','.gitignore','.gitattributes','requirements-archive.txt'])
@@ -101,7 +113,7 @@ def main():
   for p in sorted(allowed-tracked):errors.append({'type':'allowlisted_untracked_file','path':p})
   changed=subprocess.check_output(['git','diff','HEAD','--name-only'],cwd=ROOT,text=True).splitlines();git['changed_tracked_files']=changed
  except subprocess.CalledProcessError:git['status']='No commit yet; precommit inspection only'
- report={'verified_date':'2026-10-29','scope':'Read-only archival checks; no scientific execution','original_files':len(rows),'original_metadata_checked':metadata_checked,'original_hashes_checked':hashed,'missing_excluded_expected_in_clone':len(missing_excluded),'eligible_originals':len(eligible),'allowlisted_files':len(allowed),'text_files_security_screened':scanned,'secret_pattern_findings':secret_findings,'links_checked':len(link_records),'historical_missing_links':[r for r in link_records if r['status']=='missing' and not r['document'].startswith('docs/') and r['document'] not in ['README.md','AGENTS.md']],'server_only_links':[r for r in link_records if r['status']=='server_only_manifested'],'canonical_final_count':receipt['final_evaluation_count'],'canonical_freeze_sha256':frozen,'saved_headline_table_checks':'pass' if not any('mismatch' in e['type'] for e in errors) else 'fail','git':git,'errors':errors,'status':'pass' if not errors else 'fail'}
+ report={'verified_date':'2026-10-29','scope':'Read-only archival checks; no scientific execution','original_files':len(rows),'original_metadata_checked':metadata_checked,'original_hashes_checked':hashed,'missing_excluded_expected_in_clone':len(missing_excluded),'eligible_originals':sum(r['include']=='True' for r in rows),'eligible_with_continuation':len(eligible),'allowlisted_files':len(allowed),'text_files_security_screened':scanned,'secret_pattern_findings':secret_findings,'links_checked':len(link_records),'historical_missing_links':[r for r in link_records if r['status']=='missing' and not r['document'].startswith('docs/') and r['document'] not in ['README.md','AGENTS.md']],'server_only_links':[r for r in link_records if r['status']=='server_only_manifested'],'canonical_final_count':receipt['final_evaluation_count'],'canonical_freeze_sha256':frozen,'saved_headline_table_checks':'pass' if not any('mismatch' in e['type'] for e in errors) else 'fail','git':git,'errors':errors,'status':'pass' if not errors else 'fail'}
  if args.output:args.output.write_text(json.dumps(report,indent=2)+'\n')
  print(json.dumps(report,indent=2));return 0 if not errors else 1
 if __name__=='__main__':sys.exit(main())

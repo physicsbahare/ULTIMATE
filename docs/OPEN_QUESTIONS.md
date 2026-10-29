@@ -27,3 +27,9 @@ Aperture, center, sampling, depth, resolution, source controls and empirical-noi
 A genuinely new independent calibrated simulation/source set and holdout; observational validation using a bounded MaNGA/imaging design (the existing [MaNGA note](../analysis_results/spatial_structure_pilot_20261026/MaNGA_validation_note.md) is a proposal, not executed validation); full-image population-constrained inference only after adequate controls; representative/design-weighted sampling; eventual observer-frame spectral cubes when genuinely available. Source-owner requests and collaborator manifests are prepared documents, not completed communication or transfer.
 
 **Before recommending anything, search the artifact indexes for overlap, name the new scientific requirement and explain why an existing result cannot answer it.**
+
+## Resolved targeted0.200 gap and remaining boundary (2026-10-29 continuation)
+
+The owner-authorized [overlap audit and assessment](../analysis_results/ultimate_020_information_gap_20261029/scientific_decision.md) established a missing fixed-rest-band Ks-only estimand and completed it on14 development galaxies. Direct morphology improves under Gaussian/Moffat assumptions; no robust additional dust-ML gain is demonstrated. Do not re-propose this as unperformed0.200 work or rerun general sampling/aperture/calibration studies.
+
+Whether a larger independent, observer-frame and source-calibrated set would improve operational dust prediction is still unknown. This limited pilot does not establish zero possible gain, but does not justify a new confirmation campaign merely to chase a favorable result. No campaign is authorized here. The immediate task is the [ten-minute workshop and short-paper synthesis](../analysis_results/ultimate_020_information_gap_20261029/workshop_paper_implications.md), with bibliography/rights and existing source/instrument limitations.

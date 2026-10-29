@@ -316,3 +316,19 @@ Older next_experiments.md, PLAN.md and pre-unseal reports are historical. Read c
 [Every source/notebook](inventories/SOURCE_AND_NOTEBOOK_INDEX.md) is indexed with static imports, definitions, notebook cells and kernel metadata. [FILE_INVENTORY.csv](manifests/FILE_INVENTORY.csv) covers every original path recursively, including additional data/download trees and the installed environment. [Existing checksum records](manifests/EXISTING_CHECKSUM_RECORDS.md) indexes model freezes, input/source manifests and output receipts. Per-study artifact indexes above provide **every** figure/table/log/model/configuration path, rather than relying on a short illustrative output list.
 
 Detailed artifact-backed interpretations: [science review](evidence/SCIENCE_ARCHIVE_REVIEW.md), [ML review](evidence/ML_ARCHIVE_REVIEW.md), [instrument/provenance review](evidence/INSTRUMENT_ARCHIVE_REVIEW.md). They document tested negative cases, legacy scope, evidence limitations and exact count definitions. No saved pass receipt is described as a new rerun during archiving.
+
+## Targeted0.200-arcsec information-gap assessment (new authorized continuation)
+
+**Directory:** `analysis_results/ultimate_020_information_gap_20261029`. **Status:** COMPLETED.
+
+**Genuine novelty:** Earlier0.200 images supported a privileged one-galaxy screen oracle. This extension measures fixed-rest-band Ks-only0.38955/0.200 morphology transfer and held-out incremental observable-feature prediction with explicit FWHM/D50/sampling controls. [Overlap audit](../analysis_results/ultimate_020_information_gap_20261029/overlap_and_novelty_audit.md).
+
+**Sample/method:**14 development galaxies×5views,13 positive-dust fit objects plus control13; two analytic PSF families, no added noise, shared saved adaptive definitions,2× refined integration.60 small fixed-alpha ridge fold fits, no validation/final inference or full120 retrain. Both resolution-specific and fixed-model-transfer predictions retained.
+
+**Findings:** Direct dusty-R50 MAE Gaussian0.02669→0.01176kpc, Moffat0.06371→0.01627; concentration improves. At0.200 full spatial ridge loses to photometric ridge for all four targets under both shapes. Summary width gains are shape-dependent/adverse. Conditional pilot evidence does not support robust extra dust prediction or an independent confirmation campaign to chase that claim.
+
+**Code/protocol:** [run_assessment.py](../analysis_results/ultimate_020_information_gap_20261029/run_assessment.py), [protocol](../analysis_results/ultimate_020_information_gap_20261029/experiment_protocol.md), [summary/figures source](../analysis_results/ultimate_020_information_gap_20261029/summarize_assessment.py), [read-only result verification](../analysis_results/ultimate_020_information_gap_20261029/verify_results.py).
+
+**Output evidence:** [decision](../analysis_results/ultimate_020_information_gap_20261029/scientific_decision.md), [operator checks](../analysis_results/ultimate_020_information_gap_20261029/psf_definition_and_operator_checks.csv), [morphology](../analysis_results/ultimate_020_information_gap_20261029/morphology_resolution_results.csv), [ML scores](../analysis_results/ultimate_020_information_gap_20261029/ml_information_gain_results.csv), [galaxy uncertainty records](../analysis_results/ultimate_020_information_gap_20261029/galaxy_level_uncertainties.csv), [verification](../analysis_results/ultimate_020_information_gap_20261029/verification.json), [workshop/manuscript plan](../analysis_results/ultimate_020_information_gap_20261029/workshop_paper_implications.md).
+
+**Why repetition is unnecessary:** The targeted gap is now answered within this pilot's scope. Preserve negative and shape-dependent results; next work is writing. All new paths/hashes and publication screening are in [continuation manifest](manifests/CONTINUATION_20261029.csv); original archive inventory is unchanged.
